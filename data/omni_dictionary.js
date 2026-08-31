@@ -7095,21 +7095,76 @@
     },
     {
       "term": "정 (Jeong)",
-      "definition": "Deep emotional bond of affection, warmth, loyalty, and collective human attachment woven into Korean relationships",
-      "category": "Cultural Philosophy",
-      "level": "B2 / C1"
+      "definition": "Deep, unconditional emotional attachment, bonding, empathy, and collective warmth cultivated through shared time, experiences, and mutual care (quintessential Korean cultural psychology).",
+      "category": "한국 문화와 심리 (Korean Psychology & Culture)",
+      "level": "TOPIK II / B2",
+      "pronunciation": "정 [tɕʌŋ]",
+      "partOfSpeech": "명사 (Noun)",
+      "examples": [
+        {
+          "target": "오랜 세월을 함께 보낸 이웃 주민들 사이에는 끈끈한 정이 넘쳐납니다.",
+          "translation": "Between neighboring residents who have spent long years together, deep and sticky jeong overflows."
+        },
+        {
+          "target": "한국 사회에서 정은 단순한 호감을 넘어 서로를 가족처럼 보살피는 연대감입니다.",
+          "translation": "In Korean society, jeong transcends simple liking to become a sense of solidarity caring for one another like family."
+        }
+      ],
+      "synonyms": [
+        "인정 (Injeong)",
+        "애정 (Aejeong)",
+        "유대감 (Yudaegam)"
+      ],
+      "register": "일반 / 문화적 핵심어 (Core Cultural Noun)",
+      "notes": "Often described as untranslatable, distinguishing Korean interpersonal bonds from individualistic affection."
     },
     {
       "term": "한 (Han)",
-      "definition": "Cultural-historical concept of collective sorrow, endurance, resilience, and transformed grief in Korean identity",
-      "category": "Cultural History",
-      "level": "C1 / C2"
+      "definition": "Deep collective grief, unavenged sorrow, enduring resilience, and unresolved anguish transformed into artistic sublimity (Pansori, poetry, cinema).",
+      "category": "전통 문화와 정서 (Tradition & Aesthetics)",
+      "level": "TOPIK II / C1",
+      "pronunciation": "한 [haːn]",
+      "partOfSpeech": "명사 (Noun)",
+      "examples": [
+        {
+          "target": "판소리의 구슬픈 가락에는 우리 민족의 오랜 역사적 한이 서려 있습니다.",
+          "translation": "In the sorrowful melodies of Pansori, our people's long historical han is deeply imbued."
+        },
+        {
+          "target": "한국 문학은 비극적 아픔인 한을 승화시켜 숭고한 예술적 아름다움으로 표현합니다.",
+          "translation": "Korean literature sublimates the tragic pain of han, expressing it as sublime artistic beauty."
+        }
+      ],
+      "synonyms": [
+        "비애 (Biae)",
+        "원한 (Wonhan)",
+        "슬픔 (Seulpeum)"
+      ],
+      "register": "문학 / 민족 정서 (Literary / Aesthetic)"
     },
     {
       "term": "눈치 (Nunchi)",
-      "definition": "The subtle emotional art of gauging other people’s moods, unspoken feelings, and reading the social room instantly",
-      "category": "Cultural Psychology",
-      "level": "B1"
+      "definition": "The subtle art and speed of gauging other people's thoughts, moods, and social atmosphere (reading the room) in order to respond with prompt tact and harmony.",
+      "category": "사회 생활과 예절 (Social Tact & Etiquette)",
+      "level": "TOPIK I / A2",
+      "pronunciation": "눈치 [nuntɕʰi]",
+      "partOfSpeech": "명사 (Noun)",
+      "examples": [
+        {
+          "target": "눈치가 빠른 사람은 직장과 대인 관계에서 갈등을 원만하게 예방합니다.",
+          "translation": "A person with quick nunchi smoothly prevents conflict in the workplace and interpersonal relationships."
+        },
+        {
+          "target": "모두가 침묵할 때 상황의 분위기를 파악하는 눈치를 발휘해야 합니다.",
+          "translation": "When everyone is silent, one must exercise nunchi to grasp the situational atmosphere."
+        }
+      ],
+      "synonyms": [
+        "기지 (Giji)",
+        "처세술 (Cheosesul)",
+        "센스 (Sense)"
+      ],
+      "register": "일상 / 필수 사회 어휘 (Everyday Social Concept)"
     },
     {
       "term": "회식 (Hoesik)",
@@ -7260,6 +7315,32 @@
       "definition": "Global cultural phenomenon driving worldwide Korean language study, entertainment, and design trends",
       "category": "Contemporary Culture",
       "level": "A1 / A2"
+    },
+    {
+      "term": "효도 (Hyodo)",
+      "pronunciation": "효도 [hjoːdo]",
+      "partOfSpeech": "명사 (Noun)",
+      "definition": "Filial piety; sincere devotion, respect, gratitude, and care shown by children toward their parents and ancestors.",
+      "category": "유교 전통과 윤리 (Confucian Ethics)",
+      "level": "TOPIK I / A2",
+      "examples": [
+        {
+          "target": "어버이날을 맞아 부모님께 감사의 마음을 전하며 효도를 실천했습니다.",
+          "translation": "Marking Parents' Day, I conveyed my gratitude to my parents and practiced filial piety."
+        },
+        {
+          "target": "전통적으로 효도는 모든 도덕적 행위의 근본으로 여겨져 왔습니다.",
+          "translation": "Traditionally, filial piety has been regarded as the root of all moral action."
+        }
+      ],
+      "synonyms": [
+        "효심 (Hyosim)",
+        "효행 (Hyohaeng)"
+      ],
+      "antonyms": [
+        "불효 (Bulhyo - unfilial conduct)"
+      ],
+      "register": "공식 / 윤리 (Formal / Ethical)"
     }
   ],
   "cs110": [
