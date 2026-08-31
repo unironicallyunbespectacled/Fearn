@@ -775,6 +775,7 @@
           <button class="fearn-btn ${viewMode === 'daily' ? 'fearn-btn--primary' : ''}" id="tab-daily-btn" type="button">📅 Daily Workout</button>
           <button class="fearn-btn ${viewMode === 'apex' ? 'fearn-btn--primary' : ''}" id="tab-apex-btn" type="button">🏃 Apex Stride</button>
           <button class="fearn-btn ${viewMode === 'library' ? 'fearn-btn--primary' : ''}" id="tab-library-btn" type="button">📚 Track Library & Roadmap</button>
+          <button class="fearn-btn ${viewMode === 'nutrition' ? 'fearn-btn--primary' : ''}" id="tab-nutrition-btn" type="button">🥗 Nutrition & Recovery</button>
         </div>
       </div>
       <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; border-top: 1px solid var(--glass-border); padding-top: 14px;">
@@ -797,6 +798,7 @@
     var tabDaily = header.querySelector('#tab-daily-btn'); if (tabDaily) tabDaily.onclick = () => { setViewMode('daily'); renderFitness(container); };
     var tabApex = header.querySelector('#tab-apex-btn'); if (tabApex) tabApex.onclick = () => { setViewMode('apex'); renderFitness(container); };
     var tabLib = header.querySelector('#tab-library-btn'); if (tabLib) tabLib.onclick = () => { setViewMode('library'); renderFitness(container); };
+    var tabNutr = header.querySelector('#tab-nutrition-btn'); if (tabNutr) tabNutr.onclick = () => { setViewMode('nutrition'); renderFitness(container); };
 
     header.querySelectorAll('.fearn-mode-pill').forEach(pill => {
       pill.onclick = () => {
@@ -810,6 +812,8 @@
       renderDailyWorkoutSummary(wrapper, container, locationMode);
     } else if (viewMode === 'apex') {
       renderApexStrideView(wrapper, container);
+    } else if (viewMode === 'nutrition') {
+      renderNutritionDietHub(wrapper, container);
     } else {
       renderTrackLibraryView(wrapper, container, locationMode);
     }
@@ -1269,6 +1273,303 @@
     };
 
     wrapper.appendChild(card);
+  }
+
+
+  // -----------------------------------------------------------------------
+  // Nutrition, Diet & Recovery Hub
+  // -----------------------------------------------------------------------
+  function renderNutritionDietHub(wrapper, container) {
+    const card = document.createElement('div');
+    card.className = 'fearn-card fearn-glass--strong';
+    card.style.padding = '24px';
+    card.style.display = 'flex';
+    card.style.flexDirection = 'column';
+    card.style.gap = '24px';
+
+    // Saved or default user parameters
+    let userWeight = FEARN.storage.get('nutrition:weight', 70); // kg
+    let userGoal = FEARN.storage.get('nutrition:goal', 'hypertrophy'); // 'hypertrophy' | 'recomp' | 'fat_loss'
+    let userActivity = FEARN.storage.get('nutrition:activity', 'moderate'); // 'moderate' | 'high'
+
+    function calculateMacros() {
+      // Base BMR via Mifflin-St Jeor estimate (assuming standard 175cm / 22yo male/female average)
+      const bmr = 10 * userWeight + 6.25 * 175 - 5 * 23 + 5;
+      const actMult = (userActivity === 'high') ? 1.65 : 1.45;
+      const maintenanceTDEE = Math.round(bmr * actMult);
+
+      let targetCalories = maintenanceTDEE;
+      let proteinGramsPerKg = 2.0;
+      let fatGramsPerKg = 0.9;
+
+      if (userGoal === 'hypertrophy') {
+        targetCalories = maintenanceTDEE + 300; // Controlled lean surplus
+        proteinGramsPerKg = 2.0;
+        fatGramsPerKg = 0.9;
+      } else if (userGoal === 'recomp') {
+        targetCalories = maintenanceTDEE;
+        proteinGramsPerKg = 2.2;
+        fatGramsPerKg = 0.85;
+      } else if (userGoal === 'fat_loss') {
+        targetCalories = maintenanceTDEE - 450; // Moderate deficit preserving LBM
+        proteinGramsPerKg = 2.4; // Higher protein to spare muscle in deficit
+        fatGramsPerKg = 0.75;
+      }
+
+      const proteinG = Math.round(userWeight * proteinGramsPerKg);
+      const fatG = Math.round(userWeight * fatGramsPerKg);
+      const proteinKcal = proteinG * 4;
+      const fatKcal = fatG * 9;
+      const carbKcal = Math.max(0, targetCalories - (proteinKcal + fatKcal));
+      const carbG = Math.round(carbKcal / 4);
+      const waterLiters = (userWeight * 0.04).toFixed(1);
+
+      return { targetCalories, proteinG, carbG, fatG, waterLiters, maintenanceTDEE };
+    }
+
+    const macros = calculateMacros();
+
+    card.innerHTML = `
+      <!-- HEADER -->
+      <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; border-bottom: 1px solid var(--glass-border); padding-bottom: 16px;">
+        <div>
+          <div style="font-size: 1.3rem; font-weight: 900; color: #38bdf8; display: flex; align-items: center; gap: 8px;">
+            <span>🥗</span> Precision Nutrition, Combini Guide & Anabolic Recovery
+          </div>
+          <div style="font-size: 0.82rem; color: var(--text-sub); margin-top: 3px;">
+            Evidence-based macronutrient pacing, Tokyo convenience store high-protein picks, and physiological recovery.
+          </div>
+        </div>
+        <div style="font-size: 0.75rem; background: rgba(56,189,248,0.12); color: #38bdf8; border: 1px solid rgba(56,189,248,0.3); padding: 4px 12px; border-radius: 12px; font-weight: 700;">
+          Shinagawa & Tokyo Optimized
+        </div>
+      </div>
+
+      <!-- INTERACTIVE MACRO CALCULATOR -->
+      <div style="background: rgba(15,23,42,0.6); border: 1px solid rgba(255,255,255,0.08); border-radius: 14px; padding: 20px; display: flex; flex-direction: column; gap: 18px;">
+        <div style="font-size: 0.95rem; font-weight: 800; color: #f8fafc; display: flex; align-items: center; gap: 6px;">
+          <span>⚡</span> Personalized Daily Energy & Macronutrient Target
+        </div>
+
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 14px;">
+          <div style="display: flex; flex-direction: column; gap: 6px;">
+            <label style="font-size: 0.75rem; font-weight: 700; color: var(--text-sub); text-transform: uppercase;">Bodyweight (kg):</label>
+            <div style="display: flex; align-items: center; gap: 8px;">
+              <input type="range" id="nutr-weight-slider" min="45" max="120" value="${userWeight}" style="flex: 1; cursor: pointer;" />
+              <span id="nutr-weight-val" style="font-weight: 900; color: #38bdf8; min-width: 45px;">${userWeight} kg</span>
+            </div>
+          </div>
+
+          <div style="display: flex; flex-direction: column; gap: 6px;">
+            <label style="font-size: 0.75rem; font-weight: 700; color: var(--text-sub); text-transform: uppercase;">Current Training Goal:</label>
+            <select id="nutr-goal-select" style="background: #0f172a; border: 1px solid rgba(255,255,255,0.15); color: #fff; border-radius: 8px; padding: 6px 10px; font-weight: 700; font-size: 0.82rem; cursor: pointer;">
+              <option value="hypertrophy" ${userGoal === 'hypertrophy' ? 'selected' : ''}>🚀 Hypertrophy / Clean Bulk (+300 kcal)</option>
+              <option value="recomp" ${userGoal === 'recomp' ? 'selected' : ''}>⚡ Body Recomposition (Maintenance)</option>
+              <option value="fat_loss" ${userGoal === 'fat_loss' ? 'selected' : ''}>🔥 Lean Fat Loss / Cut (-450 kcal)</option>
+            </select>
+          </div>
+
+          <div style="display: flex; flex-direction: column; gap: 6px;">
+            <label style="font-size: 0.75rem; font-weight: 700; color: var(--text-sub); text-transform: uppercase;">Daily Activity Level:</label>
+            <select id="nutr-act-select" style="background: #0f172a; border: 1px solid rgba(255,255,255,0.15); color: #fff; border-radius: 8px; padding: 6px 10px; font-weight: 700; font-size: 0.82rem; cursor: pointer;">
+              <option value="moderate" ${userActivity === 'moderate' ? 'selected' : ''}>Standard Training (3–4 days/wk)</option>
+              <option value="high" ${userActivity === 'high' ? 'selected' : ''}>High Volume (5–7 days + Apex Stride)</option>
+            </select>
+          </div>
+        </div>
+
+        <!-- MACRO TILES -->
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 12px; margin-top: 6px;">
+          <div style="background: rgba(56,189,248,0.1); border: 1px solid rgba(56,189,248,0.25); border-radius: 10px; padding: 12px; text-align: center;">
+            <div style="font-size: 0.7rem; font-weight: 800; color: #38bdf8; text-transform: uppercase;">Calories</div>
+            <div style="font-size: 1.45rem; font-weight: 900; color: #fff; margin-top: 2px;">${macros.targetCalories} <span style="font-size: 0.75rem; font-weight: 600; color: var(--text-sub);">kcal</span></div>
+          </div>
+          <div style="background: rgba(244,63,94,0.1); border: 1px solid rgba(244,63,94,0.25); border-radius: 10px; padding: 12px; text-align: center;">
+            <div style="font-size: 0.7rem; font-weight: 800; color: #fb7185; text-transform: uppercase;">Protein (4 kcal/g)</div>
+            <div style="font-size: 1.45rem; font-weight: 900; color: #fff; margin-top: 2px;">${macros.proteinG} <span style="font-size: 0.75rem; font-weight: 600; color: var(--text-sub);">g</span></div>
+          </div>
+          <div style="background: rgba(251,191,36,0.1); border: 1px solid rgba(251,191,36,0.25); border-radius: 10px; padding: 12px; text-align: center;">
+            <div style="font-size: 0.7rem; font-weight: 800; color: #fbbf24; text-transform: uppercase;">Carbs (4 kcal/g)</div>
+            <div style="font-size: 1.45rem; font-weight: 900; color: #fff; margin-top: 2px;">${macros.carbG} <span style="font-size: 0.75rem; font-weight: 600; color: var(--text-sub);">g</span></div>
+          </div>
+          <div style="background: rgba(74,222,128,0.1); border: 1px solid rgba(74,222,128,0.25); border-radius: 10px; padding: 12px; text-align: center;">
+            <div style="font-size: 0.7rem; font-weight: 800; color: #4ade80; text-transform: uppercase;">Fats (9 kcal/g)</div>
+            <div style="font-size: 1.45rem; font-weight: 900; color: #fff; margin-top: 2px;">${macros.fatG} <span style="font-size: 0.75rem; font-weight: 600; color: var(--text-sub);">g</span></div>
+          </div>
+          <div style="background: rgba(168,85,247,0.1); border: 1px solid rgba(168,85,247,0.25); border-radius: 10px; padding: 12px; text-align: center;">
+            <div style="font-size: 0.7rem; font-weight: 800; color: #c084fc; text-transform: uppercase;">Hydration</div>
+            <div style="font-size: 1.45rem; font-weight: 900; color: #fff; margin-top: 2px;">${macros.waterLiters} <span style="font-size: 0.75rem; font-weight: 600; color: var(--text-sub);">L</span></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- TOKYO COMBINI & SUPERMARKET CHEAT SHEET -->
+      <div style="display: flex; flex-direction: column; gap: 14px;">
+        <div style="font-size: 1.05rem; font-weight: 900; color: #f8fafc; display: flex; align-items: center; gap: 8px;">
+          <span>🏪</span> Tokyo Convenience Store & Supermarket High-Protein Cheat Sheet
+        </div>
+        <div style="font-size: 0.82rem; color: var(--text-sub); line-height: 1.5;">
+          Tailored for student/residence micro-dorm life in Shinagawa, Tokyo. Maximum protein bioavailability with zero kitchen prep:
+        </div>
+
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 14px;">
+          <!-- 7-Eleven / Lawson Combini Picks -->
+          <div style="background: rgba(15,23,42,0.5); border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; padding: 16px; display: flex; flex-direction: column; gap: 10px;">
+            <div style="font-size: 0.88rem; font-weight: 800; color: #38bdf8; display: flex; align-items: center; gap: 6px;">
+              <span>🏪</span> Convenience Stores (7-Eleven / Lawson / FamilyMart)
+            </div>
+            <div style="display: flex; flex-direction: column; gap: 8px; font-size: 0.78rem;">
+              <div style="background: rgba(255,255,255,0.03); padding: 8px 10px; border-radius: 8px; border-left: 3px solid #38bdf8;">
+                <div style="font-weight: 800; color: #f8fafc;">サラダチキン (Salad Chicken - Plain/Herb)</div>
+                <div style="color: #4ade80; font-weight: 700;">24g Protein · 115 kcal · 0g Sugar · ~¥240</div>
+                <div style="color: var(--text-sub); font-size: 0.72rem; margin-top: 2px;">Ready to eat immediately. Cleanest single-serving protein source in Japan.</div>
+              </div>
+              <div style="background: rgba(255,255,255,0.03); padding: 8px 10px; border-radius: 8px; border-left: 3px solid #fbbf24;">
+                <div style="font-weight: 800; color: #f8fafc;">味付き半熟ゆでたまご (Seasoned Soft-Boiled Eggs - 2-pack)</div>
+                <div style="color: #4ade80; font-weight: 700;">12g Protein · 130 kcal · 8g Healthy Fat · ~¥170</div>
+                <div style="color: var(--text-sub); font-size: 0.72rem; margin-top: 2px;">Choline, lutein, and complete amino acid profile with intact yolk micronutrients.</div>
+              </div>
+              <div style="background: rgba(255,255,255,0.03); padding: 8px 10px; border-radius: 8px; border-left: 3px solid #4ade80;">
+                <div style="font-weight: 800; color: #f8fafc;">塩茹で枝豆 (Salt-Boiled Edamame)</div>
+                <div style="color: #4ade80; font-weight: 700;">11g Protein · 140 kcal · 6g Fiber · ~¥190</div>
+                <div style="color: var(--text-sub); font-size: 0.72rem; margin-top: 2px;">High fiber plant protein and potassium for fluid retention balance.</div>
+              </div>
+              <div style="background: rgba(255,255,255,0.03); padding: 8px 10px; border-radius: 8px; border-left: 3px solid #c084fc;">
+                <div style="font-weight: 800; color: #f8fafc;">オイコス ギリシャヨーグルト (OIKOS Greek Yogurt)</div>
+                <div style="color: #4ade80; font-weight: 700;">10g Protein · 92 kcal · 0g Fat · ~¥190</div>
+                <div style="color: var(--text-sub); font-size: 0.72rem; margin-top: 2px;">Slow-digesting casein and calcium for nighttime recovery.</div>
+              </div>
+              <div style="background: rgba(255,255,255,0.03); padding: 8px 10px; border-radius: 8px; border-left: 3px solid #f43f5e;">
+                <div style="font-weight: 800; color: #f8fafc;">ザバス MILK PROTEIN (Savas 200ml / 430ml)</div>
+                <div style="color: #4ade80; font-weight: 700;">15g–20g Protein · 105 kcal · ~¥170–¥210</div>
+                <div style="color: var(--text-sub); font-size: 0.72rem; margin-top: 2px;">Zero fat liquid protein bolus ideal immediately following training.</div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Tokyo Supermarket Value Staples -->
+          <div style="background: rgba(15,23,42,0.5); border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; padding: 16px; display: flex; flex-direction: column; gap: 10px;">
+            <div style="font-size: 0.88rem; font-weight: 800; color: #4ade80; display: flex; align-items: center; gap: 6px;">
+              <span>🛒</span> Supermarket Budget Staples (Maruetsu / Life / Seiyu)
+            </div>
+            <div style="display: flex; flex-direction: column; gap: 8px; font-size: 0.78rem;">
+              <div style="background: rgba(255,255,255,0.03); padding: 8px 10px; border-radius: 8px; border-left: 3px solid #4ade80;">
+                <div style="font-weight: 800; color: #f8fafc;">鶏むね肉 (Skinless Chicken Breast)</div>
+                <div style="color: #4ade80; font-weight: 700;">23g Protein / 100g · Ultra-Affordable (~¥68–¥88 / 100g)</div>
+                <div style="color: var(--text-sub); font-size: 0.72rem; margin-top: 2px;">The golden economic standard for muscle building in Japan.</div>
+              </div>
+              <div style="background: rgba(255,255,255,0.03); padding: 8px 10px; border-radius: 8px; border-left: 3px solid #fbbf24;">
+                <div style="font-weight: 800; color: #f8fafc;">納豆 3パック (Natto Fermented Soybeans)</div>
+                <div style="color: #4ade80; font-weight: 700;">24g Protein Total · Vitamin K2 · ~¥98 for 3 packs</div>
+                <div style="color: var(--text-sub); font-size: 0.72rem; margin-top: 2px;">High in nattokinase for vascular health and bioavailable Vitamin K2.</div>
+              </div>
+              <div style="background: rgba(255,255,255,0.03); padding: 8px 10px; border-radius: 8px; border-left: 3px solid #38bdf8;">
+                <div style="font-weight: 800; color: #f8fafc;">さば水煮缶 (Canned Mackerel in Water)</div>
+                <div style="color: #4ade80; font-weight: 700;">26g Protein · 3,000mg EPA/DHA Omega-3 · ~¥148</div>
+                <div style="color: var(--text-sub); font-size: 0.72rem; margin-top: 2px;">Potent anti-inflammatory essential fatty acids protecting joints.</div>
+              </div>
+              <div style="background: rgba(255,255,255,0.03); padding: 8px 10px; border-radius: 8px; border-left: 3px solid #c084fc;">
+                <div style="font-weight: 800; color: #f8fafc;">木綿豆腐 (Firm Momen Tofu - 300g)</div>
+                <div style="color: #4ade80; font-weight: 700;">21g Protein · 210 kcal · Magnesium · ~¥88</div>
+                <div style="color: var(--text-sub); font-size: 0.72rem; margin-top: 2px;">No cooking needed; drain and top with soy sauce and bonito flakes.</div>
+              </div>
+              <div style="background: rgba(255,255,255,0.03); padding: 8px 10px; border-radius: 8px; border-left: 3px solid #f43f5e;">
+                <div style="font-weight: 800; color: #f8fafc;">焼き芋 (Japanese Sweet Potato) & オートミール (Oats)</div>
+                <div style="color: #4ade80; font-weight: 700;">Low-GI Complex Carbs · Potassium & Beta-Carotene</div>
+                <div style="color: var(--text-sub); font-size: 0.72rem; margin-top: 2px;">Sustained muscular glycogen without insulin spikes.</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- NUTRIENT TIMING & ANABOLIC PHYSIOLOGY -->
+      <div style="background: rgba(15,23,42,0.5); border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; padding: 20px; display: flex; flex-direction: column; gap: 14px;">
+        <div style="font-size: 1rem; font-weight: 800; color: #f8fafc; display: flex; align-items: center; gap: 8px;">
+          <span>⏱️</span> Workout Nutrient Timing & The Leucine Threshold
+        </div>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px;">
+          <div style="background: rgba(255,255,255,0.03); padding: 12px; border-radius: 8px;">
+            <div style="font-size: 0.8rem; font-weight: 800; color: #38bdf8;">1. Pre-Workout Window (60–90 min prior)</div>
+            <div style="font-size: 0.75rem; color: var(--text-sub); margin-top: 4px; line-height: 1.4;">
+              <b>Target:</b> 30–40g complex carbs (Onigiri / Banana) + 20–25g lean protein + 500ml water + pinch of salt. Hydrates cells and primes muscular glycogen.
+            </div>
+          </div>
+          <div style="background: rgba(255,255,255,0.03); padding: 12px; border-radius: 8px;">
+            <div style="font-size: 0.8rem; font-weight: 800; color: #4ade80;">2. Intra-Workout Hydration</div>
+            <div style="font-size: 0.75rem; color: var(--text-sub); margin-top: 4px; line-height: 1.4;">
+              <b>Target:</b> Sip 400–600ml water with sodium/potassium. A 2% drop in body water causes an ~11% decline in maximal isometric force production.
+            </div>
+          </div>
+          <div style="background: rgba(255,255,255,0.03); padding: 12px; border-radius: 8px;">
+            <div style="font-size: 0.8rem; font-weight: 800; color: #fbbf24;">3. Post-Workout Anabolic Trigger</div>
+            <div style="font-size: 0.75rem; color: var(--text-sub); margin-top: 4px; line-height: 1.4;">
+              <b>Target:</b> 30–40g protein supplying $\\ge 3\\text{g}$ of Leucine. Maximally triggers the <b>mTORC1</b> pathway and muscle protein synthesis (MPS).
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- SCIENTIFICALLY VALIDATED SUPPLEMENT PROTOCOL -->
+      <div style="background: rgba(15,23,42,0.5); border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; padding: 20px; display: flex; flex-direction: column; gap: 14px;">
+        <div style="font-size: 1rem; font-weight: 800; color: #f8fafc; display: flex; align-items: center; gap: 8px;">
+          <span>💊</span> Evidence-Based Supplement Protocol (Zero Gimmicks)
+        </div>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; font-size: 0.75rem;">
+          <div style="background: rgba(255,255,255,0.03); padding: 10px; border-radius: 8px;">
+            <div style="font-weight: 800; color: #38bdf8;">Creatine Monohydrate (5g/day)</div>
+            <div style="color: var(--text-sub); margin-top: 2px;">Saturates muscle phosphocreatine stores. Direct +10% boost in high-intensity power output.</div>
+          </div>
+          <div style="background: rgba(255,255,255,0.03); padding: 10px; border-radius: 8px;">
+            <div style="font-weight: 800; color: #4ade80;">Whey / Plant Protein Isolate</div>
+            <div style="color: var(--text-sub); margin-top: 2px;">Convenient leucine-dense bolus meeting your 1.8–2.2g/kg daily target easily.</div>
+          </div>
+          <div style="background: rgba(255,255,255,0.03); padding: 10px; border-radius: 8px;">
+            <div style="font-weight: 800; color: #fbbf24;">Vitamin D3 (3000 IU) + K2 (100mcg)</div>
+            <div style="color: var(--text-sub); margin-top: 2px;">Crucial for bone remodeling, immune resilience, and hormone optimization in indoor dorms.</div>
+          </div>
+          <div style="background: rgba(255,255,255,0.03); padding: 10px; border-radius: 8px;">
+            <div style="font-weight: 800; color: #c084fc;">Magnesium Glycinate (350mg Bedtime)</div>
+            <div style="color: var(--text-sub); margin-top: 2px;">Activates GABAergic receptors, enhances slow-wave sleep depth, and stops muscle cramps.</div>
+          </div>
+          <div style="background: rgba(255,255,255,0.03); padding: 10px; border-radius: 8px;">
+            <div style="font-weight: 800; color: #f43f5e;">Omega-3 Fish Oil (2–3g EPA/DHA)</div>
+            <div style="color: var(--text-sub); margin-top: 2px;">Modulates inflammatory cytokines and enhances muscle sensitivity to amino acids.</div>
+          </div>
+        </div>
+      </div>
+    `;
+
+    wrapper.appendChild(card);
+
+    // Wire Interactive Calculator Sliders & Selects
+    const slider = card.querySelector('#nutr-weight-slider');
+    const sliderVal = card.querySelector('#nutr-weight-val');
+    const goalSelect = card.querySelector('#nutr-goal-select');
+    const actSelect = card.querySelector('#nutr-act-select');
+
+    if (slider) {
+      slider.oninput = () => {
+        userWeight = Number(slider.value);
+        if (sliderVal) sliderVal.textContent = userWeight + ' kg';
+        FEARN.storage.set('nutrition:weight', userWeight);
+        renderNutritionDietHub(wrapper, container);
+      };
+    }
+    if (goalSelect) {
+      goalSelect.onchange = () => {
+        userGoal = goalSelect.value;
+        FEARN.storage.set('nutrition:goal', userGoal);
+        renderNutritionDietHub(wrapper, container);
+      };
+    }
+    if (actSelect) {
+      actSelect.onchange = () => {
+        userActivity = actSelect.value;
+        FEARN.storage.set('nutrition:activity', userActivity);
+        renderNutritionDietHub(wrapper, container);
+      };
+    }
   }
 
   function escapeHtml(str) {
