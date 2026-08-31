@@ -16235,76 +16235,81 @@
         "id": "en-u32-l1",
         "unit": "en-u32",
         "level": "C1",
-        "objective": "William Shakespeare & The Globe Theatre (The Globe 1599, Iambic Pentameter, Soliloquies in Hamlet & Macbeth): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "objective": "William Shakespeare & The Globe Theatre: Iambic pentameter, blank verse, dramatic soliloquy, and Elizabethan stagecraft.",
         "presentation": {
-            "explanation": "William Shakespeare & The Globe Theatre (The Globe 1599, Iambic Pentameter, Soliloquies in Hamlet & Macbeth) represents a cornerstone of Theatre, Dramaturgy & Stagecraft. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "William Shakespeare (1564–1616) and the Lord Chamberlain's Men transformed Elizabethan theatrical culture through the construction of the Globe Theatre on Bankside in 1599. Shakespearean dramaturgy synthesizes unrhymed iambic pentameter (blank verse) with vernacular prose, deploying rhythmic variation, caesuras, and enjambment to map the shifting psychological states of characters. The open-air wooden 'O' of the Globe abolished pictorial illusionism in favor of an acoustic, rhetorical theatre: daylight illuminated both actor and audience equally, making dramatic soliloquies (such as Hamlet's 'To be or not to be' or Macbeth's 'Tomorrow and tomorrow and tomorrow') direct philosophical dialogues with the spectator rather than private interior monologues.",
             "examples": [
                 {
-                    "target": "Mastery of William Shakespeare & The Globe Theatre (The Globe 1599, Iambic Pentameter, Soliloquies in Hamlet & Macbeth) exemplifies the cultural and expressive pinnacle of English.",
-                    "reading": "Target analysis of William Shakespeare & The Globe Theatre (The Globe 1599, Iambic Pentameter, Soliloquies in Hamlet & Macbeth)...",
-                    "translation": "Mastery of William Shakespeare & The Globe Theatre (The Globe 1599, Iambic Pentameter, Soliloquies in Hamlet & Macbeth) exemplifies the cultural and expressive pinnacle of English."
+                    "target": "Blank verse employs an unstressed-stressed metric pattern without end-rhymes, mirroring natural English rhetorical cadences.",
+                    "reading": "Blank verse employs an unstressed-stressed metric pattern without end-rhymes, mirroring natural English rhetorical cadences.",
+                    "translation": "Blank verse employs an unstressed-stressed metric pattern without end-rhymes, mirroring natural English rhetorical cadences."
+                },
+                {
+                    "target": "In the Globe's thrust-stage architecture, the soliloquy functioned as an unmediated communion between speaker and audience.",
+                    "reading": "In the Globe's thrust-stage architecture, the soliloquy functioned as an unmediated communion between speaker and audience.",
+                    "translation": "In the Globe's thrust-stage architecture, the soliloquy functioned as an unmediated communion between speaker and audience."
                 }
             ],
             "mnemonics": [
-                "William Shakespeare & The Globe Theatre (The Globe 1599, Iambic Pentameter, Soliloquies in Hamlet & Macbeth)! Essential milestone in Theatre, Dramaturgy & Stagecraft!"
+                "Blank verse: five iambic feet per line without rhyming couplets, expressing elevated passion and psychological conflict."
             ],
             "culturalNotes": [
-                "William Shakespeare & The Globe Theatre (The Globe 1599, Iambic Pentameter, Soliloquies in Hamlet & Macbeth) is celebrated worldwide as a defining achievement of English heritage."
+                "The original 1599 Globe was built using oak timber salvaged from London's very first permanent public playhouse, simply named 'The Theatre'."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of William Shakespeare & The Globe Theatre (The Globe 1599, Iambic Pentameter, Soliloquies in Hamlet & Macbeth)?",
+                    "prompt": "What was the primary acoustic and dramaturgical function of the soliloquy in Elizabethan public amphitheatres like the Globe?",
                     "options": [
-                        "Generic introductory concept (156.1)",
-                        "Irrelevant topic (156.2)",
-                        "Modern fast-food trend (156.3)",
-                        "William Shakespeare & The Globe Theatre (156.4)"
+                        "A silent pantomime performed exclusively while offstage machinery rotated scenery.",
+                        "A direct, daylight address to the surrounding audience that shared internal moral reasoning.",
+                        "A rhymed musical aria sung in Latin to mark the end of each act.",
+                        "An announcement by the theatre owner regarding ticket prices."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "William Shakespeare & The Globe Theatre is the central subject."
+                    "answerIndex": 1,
+                    "explanation": "In the open-air, thrust-stage Globe, soliloquies engaged the groundlings directly as confidants in moral and existential dilemmas."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Dramaturgy & Stagecraft, what is the primary significance of William Shakespeare & The Globe Theatre?",
+                    "prompt": "How does Shakespeare dynamically employ shifts between unrhymed blank verse and vernacular prose?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in English civilization. (156.1)",
-                        "It has no historical significance. (156.2)",
-                        "It was imported from an unrelated continent. (156.3)",
-                        "It was invented yesterday. (156.4)"
+                        "Prose is reserved strictly for translation into foreign languages.",
+                        "Verse is used exclusively for villains, while heroes always speak in prose.",
+                        "Verse signals elevated status, poetic passion, or political authority, while prose frequently indicates comedy, lower social station, or mental breakdown.",
+                        "The alternation follows a rigid line counter irrespective of dramatic context."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in English civilization."
+                    "answerIndex": 2,
+                    "explanation": "Shakespeare dynamically shifts between verse and prose to demarcate social rank, psychological state, and tonal register."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of William Shakespeare & The Globe Theatre in the development of Theatre, Dramaturgy & Stagecraft:",
+                    "prompt": "Which structural poetic meter forms the backbone of Shakespearean dramatic dialogue?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "William Shakespeare & The Globe Theatre established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education.",
-                        "It was completely forgotten within a week."
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "Accurate analysis of William Shakespeare & The Globe Theatre (The Globe 1599, Iambic Pentameter, Soliloquies in Hamlet & Macbeth)."
-                },
-                {
-                    "prompt": "What mastery level does completing William Shakespeare & The Globe Theatre contribute to in the FEARN curriculum?",
-                    "options": [
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Beginner A1",
-                        "Pre-intermediate B1",
-                        "Elementary A2"
+                        "Unrhymed iambic pentameter (blank verse)",
+                        "Dactylic hexameter with heroic couplets",
+                        "Trochaic tetrameter exclusively",
+                        "Anapestic trimeter with alternating rhymes"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "explanation": "Blank verse—unrhymed lines of five iambic feet—is the foundational meter of Shakespearean drama."
+                },
+                {
+                    "prompt": "What happened to the original Globe Theatre during a performance of Henry VIII in 1613?",
+                    "options": [
+                        "It was demolished by Puritan authorities overnight.",
+                        "A theatrical cannon shot ignited the thatched roof, burning the building to the ground in under an hour.",
+                        "It collapsed into the Thames due to riverbank flooding.",
+                        "It was converted into a municipal grain warehouse."
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "A theatrical cannon ignited the thatch during a 1613 performance of Henry VIII, burning the theatre down."
                 }
             ],
             "passThreshold": 0.8
@@ -16314,76 +16319,81 @@
         "id": "en-u32-l2",
         "unit": "en-u32",
         "level": "C1",
-        "objective": "Restoration Comedy & The Comedy of Manners 1660 (Nell Gwyn, William Congreve The Way of the World): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "objective": "Restoration Comedy & The Comedy of Manners: The reopening of the theatres (1660), female actors, William Congreve, and cynical wit.",
         "presentation": {
-            "explanation": "Restoration Comedy & The Comedy of Manners 1660 (Nell Gwyn, William Congreve The Way of the World) represents a cornerstone of Theatre, Dramaturgy & Stagecraft. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Following the restoration of Charles II to the English throne in 1660, the eighteen-year Puritan ban on public theatrical performance was lifted, inaugurating the Restoration era. Royal patents granted to Thomas Killigrew and William Davenant established indoor, candlelit proscenium playhouses with moveable shutter scenery and, crucially, legalized professional female actors on the English stage for the first time (celebrated by figures like Nell Gwyn and Elizabeth Barry). The dominant dramatic genre became the Comedy of Manners, perfected by William Wycherley (*The Country Wife*, 1675) and William Congreve (*The Way of the World*, 1700). Characterized by dazzling verbal wit (repartee), aristocratic libertinism, sexual intrigue, and cynical satire of matrimonial commercialism, Restoration comedies dramatized the tension between genuine romantic passion and mercenary societal performativity.",
             "examples": [
                 {
-                    "target": "Mastery of Restoration Comedy & The Comedy of Manners 1660 (Nell Gwyn, William Congreve The Way of the World) exemplifies the cultural and expressive pinnacle of English.",
-                    "reading": "Target analysis of Restoration Comedy & The Comedy of Manners 1660 (Nell Gwyn, William Congreve The Way of the World)...",
-                    "translation": "Mastery of Restoration Comedy & The Comedy of Manners 1660 (Nell Gwyn, William Congreve The Way of the World) exemplifies the cultural and expressive pinnacle of English."
+                    "target": "In Congreve's The Way of the World, the provisio scene between Mirabell and Millamant establishes marital terms through intellectual sparring.",
+                    "reading": "In Congreve's The Way of the World, the provisio scene between Mirabell and Millamant establishes marital terms through intellectual sparring.",
+                    "translation": "In Congreve's The Way of the World, the provisio scene between Mirabell and Millamant establishes marital terms through intellectual sparring."
+                },
+                {
+                    "target": "The introduction of women onto the public stage in 1660 revolutionized the theatrical representation of female desire and agency.",
+                    "reading": "The introduction of women onto the public stage in 1660 revolutionized the theatrical representation of female desire and agency.",
+                    "translation": "The introduction of women onto the public stage in 1660 revolutionized the theatrical representation of female desire and agency."
                 }
             ],
             "mnemonics": [
-                "Restoration Comedy & The Comedy of Manners 1660 (Nell Gwyn, William Congreve The Way of the World)! Essential milestone in Theatre, Dramaturgy & Stagecraft!"
+                "Restoration 1660: Monarch restored, women take the stage, wit replaces piety, and manners mock marriage."
             ],
             "culturalNotes": [
-                "Restoration Comedy & The Comedy of Manners 1660 (Nell Gwyn, William Congreve The Way of the World) is celebrated worldwide as a defining achievement of English heritage."
+                "Aphra Behn became England's first professional female playwright during the Restoration, achieving commercial success with plays like *The Rover* (1677)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Restoration Comedy & The Comedy of Manners 1660 (Nell Gwyn, William Congreve The Way of the World)?",
+                    "prompt": "Which revolutionary institutional change occurred in English public theatre immediately following the 1660 Restoration of Charles II?",
                     "options": [
-                        "Restoration Comedy & The Comedy of Manners 1660 (157.1)",
-                        "Irrelevant topic (157.2)",
-                        "Modern fast-food trend (157.3)",
-                        "Generic introductory concept (157.4)"
+                        "The total prohibition of comedic scripts in favor of solemn religious mysteries.",
+                        "The legal debut of professional female actresses on the commercial public stage.",
+                        "The requirement that all actors speak in whispered rhymed couplets.",
+                        "The abolition of all indoor candlelit theatres."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Restoration Comedy & The Comedy of Manners 1660 is the central subject."
+                    "answerIndex": 1,
+                    "explanation": "The Restoration patents granted by Charles II explicitly permitted women to perform female roles on stage for the first time in English history."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Dramaturgy & Stagecraft, what is the primary significance of Restoration Comedy & The Comedy of Manners 1660?",
+                    "prompt": "What constitutes the defining thematic and stylistic hallmark of Restoration Comedy of Manners?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in English civilization. (157.1)",
-                        "It has no historical significance. (157.2)",
-                        "It was invented yesterday. (157.3)",
-                        "It was imported from an unrelated continent. (157.4)"
+                        "Solemn pastoral laments focusing on agricultural labor and rural monasticism.",
+                        "High-speed slapstick violence featuring mythical beasts without spoken dialogue.",
+                        "Sharp, cynical repartee exploring aristocratic sexual intrigue, marriage contracts, and social hypocrisy.",
+                        "Strict adherence to medieval morality play conventions with personified sins."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in English civilization."
+                    "answerIndex": 2,
+                    "explanation": "Restoration Comedy of Manners centers on aristocratic social maneuvering, libertine cynicism, and sparkling verbal wit."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Restoration Comedy & The Comedy of Manners 1660 in the development of Theatre, Dramaturgy & Stagecraft:",
+                    "prompt": "Who authored The Way of the World (1700), widely regarded as the literary masterpiece of Restoration Comedy of Manners?",
                     "options": [
-                        "Restoration Comedy & The Comedy of Manners 1660 established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "It only applied to elementary school education."
+                        "William Congreve",
+                        "John Milton",
+                        "Christopher Marlowe",
+                        "Ben Jonson"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Accurate analysis of Restoration Comedy & The Comedy of Manners 1660 (Nell Gwyn, William Congreve The Way of the World)."
+                    "explanation": "William Congreve authored *The Way of the World*, celebrated for its intricate plotting and polished provisio scenes."
                 },
                 {
-                    "prompt": "What mastery level does completing Restoration Comedy & The Comedy of Manners 1660 contribute to in the FEARN curriculum?",
+                    "prompt": "What was the 'provisio scene' in Restoration comedies like Congreve's The Way of the World?",
                     "options": [
-                        "Pre-intermediate B1",
-                        "Beginner A1",
-                        "Elementary A2",
-                        "Advanced C1/C2 Sovereign Omni-Mastery"
+                        "A legal and emotional negotiation between prospective spouses establishing conditions before agreeing to marry.",
+                        "A food fight staged in an inn kitchen.",
+                        "A monologue praising the reigning monarch's tax policies.",
+                        "An intermission song performed by the theatre stagehands."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "The provisio scene featured the hero and heroine debating conditions under which they would preserve their independence in marriage."
                 }
             ],
             "passThreshold": 0.8
@@ -16392,77 +16402,82 @@
     "en-u32-l3": {
         "id": "en-u32-l3",
         "unit": "en-u32",
-        "level": "C2",
-        "objective": "Oscar Wilde & George Bernard Shaw (The Importance of Being Earnest 1895, Pygmalion 1912 Fabian drama): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "level": "C1",
+        "objective": "Oscar Wilde & The Aesthetic Movement: Decadence, Victorian hypocrisy, subversive epigrams, and The Importance of Being Earnest.",
         "presentation": {
-            "explanation": "Oscar Wilde & George Bernard Shaw (The Importance of Being Earnest 1895, Pygmalion 1912 Fabian drama) represents a cornerstone of Theatre, Dramaturgy & Stagecraft. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Oscar Wilde (1854–1900) brought the principles of the Aesthetic Movement—'art for art's sake' (l'art pour l'art)—to supreme theatrical realization in late-Victorian London. In his four society comedies (*Lady Windermere's Fan*, *A Woman of No Importance*, *An Ideal Husband*, and *The Importance of Being Earnest*, 1895), Wilde weaponized paradoxical epigrams and inverted moral truisms to expose the hollow moralism and class anxieties of high Victorian society. In *The Importance of Being Earnest*, subtitled *A Trivial Comedy for Serious People*, Wilde treats solemn Victorian institutions (marriage, baptism, genealogy, philanthropy) with utmost levity while treating absurd aesthetic trivialities (cucumber sandwiches, buttonholes, German grammar) with earnest solemnity. Through the concept of 'Bunburying'—inventing a fictional invalid friend to escape burdensome social duties—Wilde satirized double lives, social decorum, and the oppressive performance of Victorian respectability.",
             "examples": [
                 {
-                    "target": "Mastery of Oscar Wilde & George Bernard Shaw (The Importance of Being Earnest 1895, Pygmalion 1912 Fabian drama) exemplifies the cultural and expressive pinnacle of English.",
-                    "reading": "Target analysis of Oscar Wilde & George Bernard Shaw (The Importance of Being Earnest 1895, Pygmalion 1912 Fabian drama)...",
-                    "translation": "Mastery of Oscar Wilde & George Bernard Shaw (The Importance of Being Earnest 1895, Pygmalion 1912 Fabian drama) exemplifies the cultural and expressive pinnacle of English."
+                    "target": "Wilde's epigram 'I can resist everything except temptation' subverts conventional Victorian moral didacticism through wit.",
+                    "reading": "Wilde's epigram 'I can resist everything except temptation' subverts conventional Victorian moral didacticism through wit.",
+                    "translation": "Wilde's epigram 'I can resist everything except temptation' subverts conventional Victorian moral didacticism through wit."
+                },
+                {
+                    "target": "Lady Bracknell's interrogation of Jack Worthing exemplifies the Victorian aristocracy's obsession with property, lineage, and surface decorum.",
+                    "reading": "Lady Bracknell's interrogation of Jack Worthing exemplifies the Victorian aristocracy's obsession with property, lineage, and surface decorum.",
+                    "translation": "Lady Bracknell's interrogation of Jack Worthing exemplifies the Victorian aristocracy's obsession with property, lineage, and surface decorum."
                 }
             ],
             "mnemonics": [
-                "Oscar Wilde & George Bernard Shaw (The Importance of Being Earnest 1895, Pygmalion 1912 Fabian drama)! Essential milestone in Theatre, Dramaturgy & Stagecraft!"
+                "Bunburying: inventing an alter-ego or fictitious obligation to evade tedious social duties with aesthetic flair."
             ],
             "culturalNotes": [
-                "Oscar Wilde & George Bernard Shaw (The Importance of Being Earnest 1895, Pygmalion 1912 Fabian drama) is celebrated worldwide as a defining achievement of English heritage."
+                "The premiere of *The Importance of Being Earnest* on 14 February 1895 at London's St James's Theatre coincided with the peak of Wilde's fame, mere days before his catastrophic legal battles."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Oscar Wilde & George Bernard Shaw (The Importance of Being Earnest 1895, Pygmalion 1912 Fabian drama)?",
+                    "prompt": "How does Oscar Wilde employ the rhetorical device of the paradoxical epigram in his society comedies?",
                     "options": [
-                        "Oscar Wilde & George Bernard Shaw (158.1)",
-                        "Generic introductory concept (158.2)",
-                        "Irrelevant topic (158.3)",
-                        "Modern fast-food trend (158.4)"
+                        "By reciting literal Bible verses without irony to preach strict Victorian asceticism.",
+                        "By inverting accepted societal clichés and moral axioms to reveal their underlying absurdity and pretension.",
+                        "By shouting ungrammatical insults at the audience between scenes.",
+                        "By composing rhymed nursery rhymes for children's pantomimes."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Oscar Wilde & George Bernard Shaw is the central subject."
+                    "answerIndex": 1,
+                    "explanation": "Wilde inverted conventional moral platitudes to create sparkling paradoxes that dismantled Victorian earnestness."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Dramaturgy & Stagecraft, what is the primary significance of Oscar Wilde & George Bernard Shaw?",
+                    "prompt": "In The Importance of Being Earnest, what does Algernon Moncrieff mean by the term 'Bunburying'?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in English civilization. (158.1)",
-                        "It was imported from an unrelated continent. (158.2)",
-                        "It was invented yesterday. (158.3)",
-                        "It has no historical significance. (158.4)"
+                        "A specialized culinary method for baking cucumber loaves.",
+                        "The practice of inventing a fictitious double or pretext to escape tedious social and familial obligations.",
+                        "A Victorian street dance performed during cricket tournaments.",
+                        "A parliamentary voting procedure for hereditary peers."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in English civilization."
+                    "answerIndex": 1,
+                    "explanation": "Bunburying is Algernon's term for fabricating a sick friend (Bunbury) to provide an alibi for escaping social duties."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Oscar Wilde & George Bernard Shaw in the development of Theatre, Dramaturgy & Stagecraft:",
+                    "prompt": "What is the subtitle of Oscar Wilde's 1895 masterpiece The Importance of Being Earnest?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "It only applied to elementary school education.",
-                        "Oscar Wilde & George Bernard Shaw established enduring philosophical, technical, and expressive standards across the tradition."
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "Accurate analysis of Oscar Wilde & George Bernard Shaw (The Importance of Being Earnest 1895, Pygmalion 1912 Fabian drama)."
-                },
-                {
-                    "prompt": "What mastery level does completing Oscar Wilde & George Bernard Shaw contribute to in the FEARN curriculum?",
-                    "options": [
-                        "Beginner A1",
-                        "Elementary A2",
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Pre-intermediate B1"
+                        "A Melodrama for Tragic Times",
+                        "A Treatise on British Imperialism",
+                        "A Trivial Comedy for Serious People",
+                        "A Historical Chronicle in Three Acts"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "explanation": "Wilde gave the play the paradoxically profound subtitle 'A Trivial Comedy for Serious People'."
+                },
+                {
+                    "prompt": "In what object was Jack Worthing discovered as an abandoned infant in Victoria Station in The Importance of Being Earnest?",
+                    "options": [
+                        "A black leather handbag left in the cloakroom of the Brighton line",
+                        "A wooden hatbox under a first-class train carriage seat",
+                        "A picnic basket in the station tea-room",
+                        "A silver trunk shipped from Dublin"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Jack was discovered in a black leather handbag left in the cloakroom at Victoria Station by Miss Prism."
                 }
             ],
             "passThreshold": 0.8
@@ -16471,77 +16486,82 @@
     "en-u32-l4": {
         "id": "en-u32-l4",
         "unit": "en-u32",
-        "level": "C2",
-        "objective": "Harold Pinter & The Theatre of the Absurd: The Pinter Pause (Nobel 2005, The Birthday Party, The Caretaker): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "level": "C1",
+        "objective": "Samuel Beckett & Post-War Absurdism: Waiting for Godot, existential minimalism, circular dialogue, and theatrical stillness.",
         "presentation": {
-            "explanation": "Harold Pinter & The Theatre of the Absurd: The Pinter Pause (Nobel 2005, The Birthday Party, The Caretaker) represents a cornerstone of Theatre, Dramaturgy & Stagecraft. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Samuel Beckett (1906–1989), Dublin-born writer and 1969 Nobel laureate in Literature, redefined twentieth-century world theatre with the premiere of *En attendant Godot* (*Waiting for Godot*, written in French and self-translated into English, 1953). Associated with Martin Esslin's concept of the Theatre of the Absurd, Beckett rejected naturalistic exposition, psychological motivation, and linear plot progression. In *Waiting for Godot*, two tramps, Vladimir (Didi) and Estragon (Gogo), wait endlessly by a country road beside a bare tree for an enigmatic figure who never arrives. Beckett strips the stage down to elemental existential coordinates: tragicomedy, physical vaudeville (hat-swapping, boot-struggles), long pregnant silences, and circular linguistic repetition where 'nothing happens, nobody comes, nobody goes, it's awful.' Beckett's later masterpieces—such as *Endgame* (1957), *Krapp's Last Tape* (1958), and *Happy Days* (1961)—pushed theatrical minimalism even further, exploring entropy, memory decay, and humanity's unquenchable urge to speak in the face of oblivion.",
             "examples": [
                 {
-                    "target": "Mastery of Harold Pinter & The Theatre of the Absurd: The Pinter Pause (Nobel 2005, The Birthday Party, The Caretaker) exemplifies the cultural and expressive pinnacle of English.",
-                    "reading": "Target analysis of Harold Pinter & The Theatre of the Absurd: The Pinter Pause (Nobel 2005, The Birthday Party, The Caretaker)...",
-                    "translation": "Mastery of Harold Pinter & The Theatre of the Absurd: The Pinter Pause (Nobel 2005, The Birthday Party, The Caretaker) exemplifies the cultural and expressive pinnacle of English."
+                    "target": "Beckett's precise stage directions—such as 'Silence', 'Pause', and 'They do not move'—carry equal dramaturgical weight to spoken lines.",
+                    "reading": "Beckett's precise stage directions—such as 'Silence', 'Pause', and 'They do not move'—carry equal dramaturgical weight to spoken lines.",
+                    "translation": "Beckett's precise stage directions—such as 'Silence', 'Pause', and 'They do not move'—carry equal dramaturgical weight to spoken lines."
+                },
+                {
+                    "target": "The circular structure of Waiting for Godot reflects existential stasis: Act Two mirrors Act One with only slight variations.",
+                    "reading": "The circular structure of Waiting for Godot reflects existential stasis: Act Two mirrors Act One with only slight variations.",
+                    "translation": "The circular structure of Waiting for Godot reflects existential stasis: Act Two mirrors Act One with only slight variations."
                 }
             ],
             "mnemonics": [
-                "Harold Pinter & The Theatre of the Absurd: The Pinter Pause (Nobel 2005, The Birthday Party, The Caretaker)! Essential milestone in Theatre, Dramaturgy & Stagecraft!"
+                "Beckettian Absurdism: Two tramps + one bare tree + zero Godot = profound existential tragicomedy."
             ],
             "culturalNotes": [
-                "Harold Pinter & The Theatre of the Absurd: The Pinter Pause (Nobel 2005, The Birthday Party, The Caretaker) is celebrated worldwide as a defining achievement of English heritage."
+                "When *Waiting for Godot* was staged at San Quentin State Prison by the San Francisco Actors' Workshop in 1957, the incarcerated audience immediately understood the tramps' predicament without requiring academic commentary."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Harold Pinter & The Theatre of the Absurd: The Pinter Pause (Nobel 2005, The Birthday Party, The Caretaker)?",
+                    "prompt": "What occurs at the end of both Act I and Act II in Samuel Beckett's Waiting for Godot when Vladimir and Estragon agree 'Well, shall we go?' / 'Yes, let's go'?",
                     "options": [
-                        "Generic introductory concept (159.1)",
-                        "Irrelevant topic (159.2)",
-                        "Modern fast-food trend (159.3)",
-                        "Harold Pinter & The Theatre of the Absurd: The Pinter Pause (159.4)"
+                        "They sprint offstage toward London.",
+                        "The stage direction states: 'They do not move.'",
+                        "They start singing a jubilant Broadway show tune.",
+                        "A curtain falls while fireworks explode overhead."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Harold Pinter & The Theatre of the Absurd: The Pinter Pause is the central subject."
+                    "answerIndex": 1,
+                    "explanation": "The iconic Beckettian dissonance occurs when their spoken intent to depart is contradicted by the stage direction: 'They do not move.'"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Dramaturgy & Stagecraft, what is the primary significance of Harold Pinter & The Theatre of the Absurd: The Pinter Pause?",
+                    "prompt": "Why did Samuel Beckett deliberately compose many of his seminal dramatic works in French before translating them into English?",
                     "options": [
-                        "It has no historical significance. (159.1)",
-                        "It was imported from an unrelated continent. (159.2)",
-                        "It was invented yesterday. (159.3)",
-                        "It represents a defining historical and aesthetic breakthrough in English civilization. (159.4)"
+                        "French was the only language permitted by British theatrical censors at the time.",
+                        "He felt writing in a second language forced him to strip away verbal ornamentation and write with greater economy and clarity.",
+                        "He had completely forgotten how to write in his native English.",
+                        "He wanted to prevent his plays from ever being staged in Dublin."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "It represents a defining breakthrough in English civilization."
+                    "answerIndex": 1,
+                    "explanation": "Beckett explained that writing in French allowed him to write 'without style', avoiding easy English rhetorical flourishes."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Harold Pinter & The Theatre of the Absurd: The Pinter Pause in the development of Theatre, Dramaturgy & Stagecraft:",
+                    "prompt": "Which master-servant pair abruptly interrupts Vladimir and Estragon's vigil on the road in Waiting for Godot?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "Harold Pinter & The Theatre of the Absurd: The Pinter Pause established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education."
+                        "Pozzo and Lucky",
+                        "Rosencrantz and Guildenstern",
+                        "Polonius and Laertes",
+                        "Jack and Algernon"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Accurate analysis of Harold Pinter & The Theatre of the Absurd: The Pinter Pause (Nobel 2005, The Birthday Party, The Caretaker)."
+                    "answerIndex": 0,
+                    "explanation": "Pozzo (holding Lucky by a rope) arrives in Act I, with Lucky famously delivering a torrent of stream-of-consciousness speech when ordered to think."
                 },
                 {
-                    "prompt": "What mastery level does completing Harold Pinter & The Theatre of the Absurd: The Pinter Pause contribute to in the FEARN curriculum?",
+                    "prompt": "In Beckett's Endgame (1957), where do Nagg and Nell, the elderly parents of the blind protagonist Hamm, spend the entirety of the play?",
                     "options": [
-                        "Pre-intermediate B1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Elementary A2",
-                        "Beginner A1"
+                        "In two dustbins placed side-by-side on stage",
+                        "Inside an antique grandfather clock",
+                        "Suspended from the ceiling in velvet hammocks",
+                        "Floating in glass water tanks"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "In *Endgame*, Hamm's legless parents Nagg and Nell live inside two dustbins, emerging occasionally to ask for food or reminisce."
                 }
             ],
             "passThreshold": 0.8
@@ -16550,77 +16570,82 @@
     "en-u32-l5": {
         "id": "en-u32-l5",
         "unit": "en-u32",
-        "level": "C2",
-        "objective": "The Royal National Theatre & West End Stagecraft (Sir Laurence Olivier, War Horse Handspring Puppetry): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "level": "C1",
+        "objective": "Contemporary British & Global English Theatre: Harold Pinter's menace, Tom Stoppard's philosophical wit, and Caryl Churchill's feminist form.",
         "presentation": {
-            "explanation": "The Royal National Theatre & West End Stagecraft (Sir Laurence Olivier, War Horse Handspring Puppetry) represents a cornerstone of Theatre, Dramaturgy & Stagecraft. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Post-war and contemporary British theatre transformed global stagecraft through radical innovations in linguistic subtext, intellectual metadrama, and non-linear political dramaturgy. Harold Pinter (1930–2008, 2005 Nobel laureate) forged the 'comedy of menace' and the legendary 'Pinter pause', where domestic banalities (*The Birthday Party*, 1957; *The Caretaker*, 1960; *Betrayal*, 1978) conceal territorial warfare, unspoken trauma, and shifting power hierarchies. Tom Stoppard (b. 1937) synthesized linguistic gymnastics, philosophy of science, and metatheatrical intertextuality in landmarks like *Rosencrantz and Guildenstern Are Dead* (1966), *Arcadia* (1993), and *Leopoldstadt* (2020). Concurrently, Caryl Churchill (b. 1938) revolutionized feminist and socialist dramaturgy in *Top Girls* (1982) with overlapping dialogue and anachronistic historical dinner parties, and in *Cloud 9* (1979) with gender-swapped cross-casting across colonial eras. Together with playwrights like Sarah Kane, Jez Butterworth (*Jerusalem*), and debbie tucker green, modern English-language drama continues to challenge stage realism and political complacency.",
             "examples": [
                 {
-                    "target": "Mastery of The Royal National Theatre & West End Stagecraft (Sir Laurence Olivier, War Horse Handspring Puppetry) exemplifies the cultural and expressive pinnacle of English.",
-                    "reading": "Target analysis of The Royal National Theatre & West End Stagecraft (Sir Laurence Olivier, War Horse Handspring Puppetry)...",
-                    "translation": "Mastery of The Royal National Theatre & West End Stagecraft (Sir Laurence Olivier, War Horse Handspring Puppetry) exemplifies the cultural and expressive pinnacle of English."
+                    "target": "In Pinter's plays, pauses and silences are active linguistic battlegrounds where dominance is negotiated without overt physical violence.",
+                    "reading": "In Pinter's plays, pauses and silences are active linguistic battlegrounds where dominance is negotiated without overt physical violence.",
+                    "translation": "In Pinter's plays, pauses and silences are active linguistic battlegrounds where dominance is negotiated without overt physical violence."
+                },
+                {
+                    "target": "The opening scene of Churchill's Top Girls brings together historical and fictional women from different centuries to debate female power.",
+                    "reading": "The opening scene of Churchill's Top Girls brings together historical and fictional women from different centuries to debate female power.",
+                    "translation": "The opening scene of Churchill's Top Girls brings together historical and fictional women from different centuries to debate female power."
                 }
             ],
             "mnemonics": [
-                "The Royal National Theatre & West End Stagecraft (Sir Laurence Olivier, War Horse Handspring Puppetry)! Essential milestone in Theatre, Dramaturgy & Stagecraft!"
+                "Post-war British giants: Pinter (pregnant menace), Stoppard (dazzling erudition), Churchill (revolutionary feminist form)."
             ],
             "culturalNotes": [
-                "The Royal National Theatre & West End Stagecraft (Sir Laurence Olivier, War Horse Handspring Puppetry) is celebrated worldwide as a defining achievement of English heritage."
+                "The Royal Court Theatre in London's Sloane Square has served as the legendary incubator of radical British playwriting since George Devine launched the English Stage Company there in 1956 with John Osborne's *Look Back in Anger*."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of The Royal National Theatre & West End Stagecraft (Sir Laurence Olivier, War Horse Handspring Puppetry)?",
+                    "prompt": "What constitutes the psychological function of the famous 'Pinter pause' in Harold Pinter's plays?",
                     "options": [
-                        "The Royal National Theatre & West End Stagecraft (160.1)",
-                        "Generic introductory concept (160.2)",
-                        "Modern fast-food trend (160.3)",
-                        "Irrelevant topic (160.4)"
+                        "A signal for the audience to leave the auditorium for drinks.",
+                        "An active moment of silence where characters exert territorial dominance, withhold information, or process existential dread.",
+                        "A technical pause required for the actors to reload battery packs.",
+                        "A tribute to silent film comedy requiring mime gestures."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "The Royal National Theatre & West End Stagecraft is the central subject."
+                    "answerIndex": 1,
+                    "explanation": "Pinter's pauses are charged with unspoken aggression, vulnerability, and shifting power dynamics beneath mundane surfaces."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Dramaturgy & Stagecraft, what is the primary significance of The Royal National Theatre & West End Stagecraft?",
+                    "prompt": "Which dramaturgical innovation in dialogue notation did Caryl Churchill pioneer in her 1982 play Top Girls?",
                     "options": [
-                        "It has no historical significance. (160.1)",
-                        "It was imported from an unrelated continent. (160.2)",
-                        "It was invented yesterday. (160.3)",
-                        "It represents a defining historical and aesthetic breakthrough in English civilization. (160.4)"
+                        "Requiring actors to sing every third word in falsetto.",
+                        "Using forward slashes (/) to indicate precise points where characters' speeches overlap simultaneously.",
+                        "Eliminating all vowels from printed stage scripts.",
+                        "Writing dialogue entirely in rhymed Latin hexameters."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "It represents a defining breakthrough in English civilization."
+                    "answerIndex": 1,
+                    "explanation": "Churchill pioneered the slash notation to choreograph overlapping, realistic conversation among multiple women."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of The Royal National Theatre & West End Stagecraft in the development of Theatre, Dramaturgy & Stagecraft:",
+                    "prompt": "Whose perspective frames the events of Hamlet in Tom Stoppard's 1966 metatheatrical masterpiece Rosencrantz and Guildenstern Are Dead?",
                     "options": [
-                        "It was completely forgotten within a week.",
-                        "The Royal National Theatre & West End Stagecraft established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education.",
-                        "It was a minor commercial advertising campaign."
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "Accurate analysis of The Royal National Theatre & West End Stagecraft (Sir Laurence Olivier, War Horse Handspring Puppetry)."
-                },
-                {
-                    "prompt": "What mastery level does completing The Royal National Theatre & West End Stagecraft contribute to in the FEARN curriculum?",
-                    "options": [
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Elementary A2",
-                        "Pre-intermediate B1",
-                        "Beginner A1"
+                        "Two minor courtiers who find themselves helpless pawns in a narrative they cannot comprehend",
+                        "King Claudius writing secret memoirs in exile",
+                        "Ophelia's ghost haunting Elsinore Castle",
+                        "The Gravedigger working alone in the cemetery"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "explanation": "Stoppard reframes *Hamlet* through Shakespeare's two minor, doomed courtiers, blending comedy with Beckettian existential confusion."
+                },
+                {
+                    "prompt": "Which Tom Stoppard play (1993) alternates between 1809 and the present day in a Derbyshire country estate to explore chaos theory, thermodynamics, and Romanticism?",
+                    "options": [
+                        "Arcadia",
+                        "The Coast of Utopia",
+                        "Jumpers",
+                        "Travesties"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "*Arcadia* is renowned for weaving mathematical fractals, Byron, landscape gardening, and literary mystery across two centuries."
                 }
             ],
             "passThreshold": 0.8
@@ -16630,76 +16655,81 @@
         "id": "en-u33-l1",
         "unit": "en-u33",
         "level": "C1",
-        "objective": "Sir Christopher Wren & The Rebuilding of London (St Paul's Cathedral 1675–1710, triple-dome geometry): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "objective": "Sir Christopher Wren & The Rebuilding of London: The Great Fire of 1666, English Baroque, St Paul's triple-dome geometry, and Portland stone.",
         "presentation": {
-            "explanation": "Sir Christopher Wren & The Rebuilding of London (St Paul's Cathedral 1675–1710, triple-dome geometry) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "In September 1666, the Great Fire of London consumed over 13,000 houses and 87 parish churches, obliterating the medieval city within the Roman walls. Sir Christopher Wren (1632–1723), Savilian Professor of Astronomy at Oxford and founding fellow of the Royal Society, was appointed Surveyor-General of the King's Works to rebuild the capital. Wren designed 51 individual city churches—each boasting a unique Portland stone steeple (such as St Mary-le-Bow and St Bride's)—and embarked on his magnum opus: St Paul's Cathedral (1675–1710). Synthesizing English Baroque classicism with cutting-edge empirical mathematics, Wren resolved the structural engineering problem of the monumental dome through a brilliant triple-dome system: an internal painted brick hemispherical dome visible to worshippers inside, a hidden structural brick cone that supports the massive 850-ton Portland stone lantern, and an external lead-covered timber dome that dominates the London skyline. His epitaph inside St Paul's famously reads: *Si monumentum requiris, circumspice* ('If you seek his monument, look around you').",
             "examples": [
                 {
-                    "target": "Mastery of Sir Christopher Wren & The Rebuilding of London (St Paul's Cathedral 1675–1710, triple-dome geometry) exemplifies the cultural and expressive pinnacle of English.",
-                    "reading": "Target analysis of Sir Christopher Wren & The Rebuilding of London (St Paul's Cathedral 1675–1710, triple-dome geometry)...",
-                    "translation": "Mastery of Sir Christopher Wren & The Rebuilding of London (St Paul's Cathedral 1675–1710, triple-dome geometry) exemplifies the cultural and expressive pinnacle of English."
+                    "target": "Wren's hidden structural brick cone in St Paul's carries the immense vertical load of the exterior lantern down to eight massive piers.",
+                    "reading": "Wren's hidden structural brick cone in St Paul's carries the immense vertical load of the exterior lantern down to eight massive piers.",
+                    "translation": "Wren's hidden structural brick cone in St Paul's carries the immense vertical load of the exterior lantern down to eight massive piers."
+                },
+                {
+                    "target": "The use of pale, durable Portland limestone from Dorset became the defining textural material of post-fire London civic architecture.",
+                    "reading": "The use of pale, durable Portland limestone from Dorset became the defining textural material of post-fire London civic architecture.",
+                    "translation": "The use of pale, durable Portland limestone from Dorset became the defining textural material of post-fire London civic architecture."
                 }
             ],
             "mnemonics": [
-                "Sir Christopher Wren & The Rebuilding of London (St Paul's Cathedral 1675–1710, triple-dome geometry)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "Wren's St Paul's triple dome: inner aesthetic shell + hidden conical support + soaring outer lead dome."
             ],
             "culturalNotes": [
-                "Sir Christopher Wren & The Rebuilding of London (St Paul's Cathedral 1675–1710, triple-dome geometry) is celebrated worldwide as a defining achievement of English heritage."
+                "During the London Blitz in World War II, Prime Minister Winston Churchill issued strict orders to volunteer fire watchers that 'St Paul's must be saved at all costs'; Herbert Mason's iconic photograph of the cathedral dome standing resilient amid smoke became an enduring symbol of British survival."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Sir Christopher Wren & The Rebuilding of London (St Paul's Cathedral 1675–1710, triple-dome geometry)?",
+                    "prompt": "How did Sir Christopher Wren structurally solve the problem of supporting St Paul's Cathedral's massive stone lantern without collapsing the interior dome?",
                     "options": [
-                        "Generic introductory concept (161.1)",
-                        "Irrelevant topic (161.2)",
-                        "Modern fast-food trend (161.3)",
-                        "Sir Christopher Wren & The Rebuilding of London (161.4)"
+                        "By using cast-iron cables suspended from nearby hot air balloons.",
+                        "By constructing an intermediate conical brick dome between the inner hemispherical dome and outer timber shell.",
+                        "By filling the entire cathedral roof with solid granite blocks.",
+                        "By eliminating the lantern entirely and painting a trompe-l'œil window."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Sir Christopher Wren & The Rebuilding of London is the central subject."
+                    "answerIndex": 1,
+                    "explanation": "Wren placed a hidden structural brick cone between the inner and outer domes to support the 850-ton lantern."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of Sir Christopher Wren & The Rebuilding of London?",
+                    "prompt": "Which famous Latin inscription marks Sir Christopher Wren's crypt inside St Paul's Cathedral?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in English civilization. (161.1)",
-                        "It has no historical significance. (161.2)",
-                        "It was imported from an unrelated continent. (161.3)",
-                        "It was invented yesterday. (161.4)"
+                        "Carpe diem quam minimum credula postero",
+                        "Si monumentum requiris, circumspice (If you seek his monument, look around you)",
+                        "Alea iacta est",
+                        "Veni, vidi, vici"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in English civilization."
+                    "answerIndex": 1,
+                    "explanation": "Wren's son composed the famous epitaph *Si monumentum requiris, circumspice*, directing the observer to the cathedral itself."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Sir Christopher Wren & The Rebuilding of London in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "Which historic catastrophe in September 1666 provided Sir Christopher Wren the opportunity to rebuild London's civic and sacred landscape?",
                     "options": [
-                        "Sir Christopher Wren & The Rebuilding of London established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It was a minor commercial advertising campaign.",
-                        "It only applied to elementary school education.",
-                        "It was completely forgotten within a week."
+                        "The Great Fire of London",
+                        "The Thames Tsunami",
+                        "The Great Frost of 1684",
+                        "The Gunpowder Plot"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Accurate analysis of Sir Christopher Wren & The Rebuilding of London (St Paul's Cathedral 1675–1710, triple-dome geometry)."
+                    "explanation": "The Great Fire destroyed medieval London, prompting the comprehensive rebuilding of 51 churches and St Paul's."
                 },
                 {
-                    "prompt": "What mastery level does completing Sir Christopher Wren & The Rebuilding of London contribute to in the FEARN curriculum?",
+                    "prompt": "What primary natural building stone, quarried in Dorset, did Wren specify for St Paul's Cathedral and his London churches?",
                     "options": [
-                        "Elementary A2",
-                        "Beginner A1",
-                        "Pre-intermediate B1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery"
+                        "Portland limestone",
+                        "Carrara marble",
+                        "Scottish red granite",
+                        "Welsh blue slate"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Portland stone provided the durable, luminous white limestone facade characteristic of Wren's London."
                 }
             ],
             "passThreshold": 0.8
@@ -16709,76 +16739,81 @@
         "id": "en-u33-l2",
         "unit": "en-u33",
         "level": "C1",
-        "objective": "English Gothic Cathedrals: Salisbury & Westminster Abbey (Salisbury Cathedral spire, fan-vaulted Henry VII Chapel): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "objective": "Gothic Revival & The Palace of Westminster: Charles Barry, Augustus Welby Pugin, Victorian moral architecture, and Elizabeth Tower.",
         "presentation": {
-            "explanation": "English Gothic Cathedrals: Salisbury & Westminster Abbey (Salisbury Cathedral spire, fan-vaulted Henry VII Chapel) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Following the catastrophic fire of 1834 that consumed the medieval Palace of Westminster, a royal commission mandated that the new home of Parliament be designed in either the Gothic or Elizabethan style, rejecting pagan Roman neoclassicism in favor of a distinctively British, Christian heritage. Architect Sir Charles Barry (1795–1860) created the balanced, classical axial ground plan along the Thames, while Augustus Welby Northmore Pugin (1812–1852)—the ideological firebrand of the Gothic Revival—designed every decorative and structural gothic detail, from stone tracery and wood carvings to encaustic floor tiles, stained glass, throne furniture, and the clock dials of the Elizabeth Tower (home to Big Ben). Pugin argued in his influential treatises *Contrasts* (1836) and *The True Principles of Pointed or Christian Architecture* (1841) that architectural form is inextricably bound to moral and spiritual truth, championing medieval craft against soulless industrial manufacturing. The resulting Palace of Westminster stands as the quintessential monument of Victorian Gothic Revival and constitutional governance.",
             "examples": [
                 {
-                    "target": "Mastery of English Gothic Cathedrals: Salisbury & Westminster Abbey (Salisbury Cathedral spire, fan-vaulted Henry VII Chapel) exemplifies the cultural and expressive pinnacle of English.",
-                    "reading": "Target analysis of English Gothic Cathedrals: Salisbury & Westminster Abbey (Salisbury Cathedral spire, fan-vaulted Henry VII Chapel)...",
-                    "translation": "Mastery of English Gothic Cathedrals: Salisbury & Westminster Abbey (Salisbury Cathedral spire, fan-vaulted Henry VII Chapel) exemplifies the cultural and expressive pinnacle of English."
+                    "target": "Pugin's obsessive attention to detail meant he designed over ten thousand bespoke decorative elements for the interior of Parliament.",
+                    "reading": "Pugin's obsessive attention to detail meant he designed over ten thousand bespoke decorative elements for the interior of Parliament.",
+                    "translation": "Pugin's obsessive attention to detail meant he designed over ten thousand bespoke decorative elements for the interior of Parliament."
+                },
+                {
+                    "target": "The Palace of Westminster synthesizes Barry's rational neoclassical symmetry with Pugin's rich Perpendicular Gothic verticality.",
+                    "reading": "The Palace of Westminster synthesizes Barry's rational neoclassical symmetry with Pugin's rich Perpendicular Gothic verticality.",
+                    "translation": "The Palace of Westminster synthesizes Barry's rational neoclassical symmetry with Pugin's rich Perpendicular Gothic verticality."
                 }
             ],
             "mnemonics": [
-                "English Gothic Cathedrals: Salisbury & Westminster Abbey (Salisbury Cathedral spire, fan-vaulted Henry VII Chapel)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "Palace of Westminster division of labor: Barry drew the plan and proportions, Pugin crafted the Gothic soul and ornamentation."
             ],
             "culturalNotes": [
-                "English Gothic Cathedrals: Salisbury & Westminster Abbey (Salisbury Cathedral spire, fan-vaulted Henry VII Chapel) is celebrated worldwide as a defining achievement of English heritage."
+                "The great bell inside the Elizabeth Tower, known colloquially as 'Big Ben', was cast at Whitechapel Bell Foundry in 1858 and weighs 13.7 tonnes."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of English Gothic Cathedrals: Salisbury & Westminster Abbey (Salisbury Cathedral spire, fan-vaulted Henry VII Chapel)?",
+                    "prompt": "What core philosophical argument did A.W.N. Pugin advance in his seminal treatise Contrasts (1836)?",
                     "options": [
-                        "English Gothic Cathedrals: Salisbury & Westminster Abbey (162.1)",
-                        "Irrelevant topic (162.2)",
-                        "Modern fast-food trend (162.3)",
-                        "Generic introductory concept (162.4)"
+                        "That modern steel-frame skyscrapers were superior to all stone structures.",
+                        "That medieval Gothic architecture embodied Christian moral purity and craftsmanship, contrasting with degraded industrial materialism.",
+                        "That Greek classical temples should replace all Christian churches in London.",
+                        "That buildings should never use windows or decorative stone tracery."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "English Gothic Cathedrals: Salisbury & Westminster Abbey is the central subject."
+                    "answerIndex": 1,
+                    "explanation": "Pugin argued that Gothic architecture was the only true Christian style, morally and aesthetically superior to modern industrial utilitarianism."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of English Gothic Cathedrals: Salisbury & Westminster Abbey?",
+                    "prompt": "Which architectural style was specifically mandated by the 1835 competition for the new Palace of Westminster after the 1834 fire?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in English civilization. (162.1)",
-                        "It has no historical significance. (162.2)",
-                        "It was invented yesterday. (162.3)",
-                        "It was imported from an unrelated continent. (162.4)"
+                        "French Rococo or Art Nouveau",
+                        "Egyptian Revival or Babylonian",
+                        "Gothic or Elizabethan",
+                        "International Style Modernism"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in English civilization."
+                    "answerIndex": 2,
+                    "explanation": "The parliamentary committee required Gothic or Elizabethan style to reflect national historical continuity."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of English Gothic Cathedrals: Salisbury & Westminster Abbey in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "Who designed the iconic clock faces, metalwork, and intricate Gothic interiors of the Palace of Westminster?",
                     "options": [
-                        "It only applied to elementary school education.",
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "English Gothic Cathedrals: Salisbury & Westminster Abbey established enduring philosophical, technical, and expressive standards across the tradition."
+                        "Augustus Welby Pugin",
+                        "John Soane",
+                        "Inigo Jones",
+                        "John Nash"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Accurate analysis of English Gothic Cathedrals: Salisbury & Westminster Abbey (Salisbury Cathedral spire, fan-vaulted Henry VII Chapel)."
+                    "answerIndex": 0,
+                    "explanation": "A.W.N. Pugin was responsible for the exhaustive, brilliant Gothic interior details and the clock tower design."
                 },
                 {
-                    "prompt": "What mastery level does completing English Gothic Cathedrals: Salisbury & Westminster Abbey contribute to in the FEARN curriculum?",
+                    "prompt": "What medieval hall, surviving from 1097 with its spectacular 1390s hammerbeam roof, was preserved and integrated into the new Palace of Westminster?",
                     "options": [
-                        "Elementary A2",
-                        "Beginner A1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Pre-intermediate B1"
+                        "Westminster Hall",
+                        "Guildhall London",
+                        "Hampton Court Great Hall",
+                        "St George's Hall Windsor"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Westminster Hall survived the 1834 fire and remains the ceremonial heart of the parliamentary estate."
                 }
             ],
             "passThreshold": 0.8
@@ -16787,77 +16822,82 @@
     "en-u33-l3": {
         "id": "en-u33-l3",
         "unit": "en-u33",
-        "level": "C2",
-        "objective": "Inigo Jones & Palladian Classical Architecture (Banqueting House at Whitehall 1622, Andrea Palladio influence): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "level": "C1",
+        "objective": "Industrial Victorian Engineering: Isambard Kingdom Brunel, the Great Western Railway, Clifton Suspension Bridge, and Paddington Station.",
         "presentation": {
-            "explanation": "Inigo Jones & Palladian Classical Architecture (Banqueting House at Whitehall 1622, Andrea Palladio influence) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Isambard Kingdom Brunel (1806–1859) stood as the visionary giant of nineteenth-century British civil and mechanical engineering, pioneering monumental transport infrastructures that connected Britain to the wider world during the Industrial Revolution. Appointed chief engineer of the Great Western Railway (GWR) at just 27 in 1833, Brunel championed the broad 7-foot gauge for speed and stability, surveyed the sweeping alignment from London to Bristol, and blasted the Box Tunnel through two miles of solid limestone. His architectural masterpiece, Paddington Station (opened 1854), designed with architect Matthew Digby Wyatt, employed soaring tri-span wrought-iron and glass rib vaults influenced by Joseph Paxton's Crystal Palace (1851). Brunel's iconic Clifton Suspension Bridge over the Avon Gorge in Bristol and the Royal Albert Bridge over the River Tamar in Cornwall demonstrated mastery of tensile mechanics and wrought-iron fabrication. Pushing beyond land transport, Brunel designed three revolutionary steamships—the *Great Western* (1838), the iron-hulled propeller-driven *Great Britain* (1843), and the colossal *Great Eastern* (1858)—laying the foundations of global maritime travel.",
             "examples": [
                 {
-                    "target": "Mastery of Inigo Jones & Palladian Classical Architecture (Banqueting House at Whitehall 1622, Andrea Palladio influence) exemplifies the cultural and expressive pinnacle of English.",
-                    "reading": "Target analysis of Inigo Jones & Palladian Classical Architecture (Banqueting House at Whitehall 1622, Andrea Palladio influence)...",
-                    "translation": "Mastery of Inigo Jones & Palladian Classical Architecture (Banqueting House at Whitehall 1622, Andrea Palladio influence) exemplifies the cultural and expressive pinnacle of English."
+                    "target": "Brunel's Paddington Station celebrated the structural honesty of industrial iron and glass without disguising them behind masonry facades.",
+                    "reading": "Brunel's Paddington Station celebrated the structural honesty of industrial iron and glass without disguising them behind masonry facades.",
+                    "translation": "Brunel's Paddington Station celebrated the structural honesty of industrial iron and glass without disguising them behind masonry facades."
+                },
+                {
+                    "target": "The SS Great Britain was the world's first iron-hulled, screw-propeller-driven ocean liner, transforming transatlantic navigation.",
+                    "reading": "The SS Great Britain was the world's first iron-hulled, screw-propeller-driven ocean liner, transforming transatlantic navigation.",
+                    "translation": "The SS Great Britain was the world's first iron-hulled, screw-propeller-driven ocean liner, transforming transatlantic navigation."
                 }
             ],
             "mnemonics": [
-                "Inigo Jones & Palladian Classical Architecture (Banqueting House at Whitehall 1622, Andrea Palladio influence)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "Brunel's Iron Trinity: Clifton Suspension Bridge (sky), Paddington Station (rail), SS Great Britain (sea)."
             ],
             "culturalNotes": [
-                "Inigo Jones & Palladian Classical Architecture (Banqueting House at Whitehall 1622, Andrea Palladio influence) is celebrated worldwide as a defining achievement of English heritage."
+                "In a nationwide 2002 BBC poll to find the '100 Greatest Britons', Brunel placed second overall, behind only Sir Winston Churchill."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Inigo Jones & Palladian Classical Architecture (Banqueting House at Whitehall 1622, Andrea Palladio influence)?",
+                    "prompt": "What engineering innovation characterized the roof structure of Brunel's 1854 Paddington Station terminus?",
                     "options": [
-                        "Inigo Jones & Palladian Classical Architecture (163.1)",
-                        "Generic introductory concept (163.2)",
-                        "Irrelevant topic (163.3)",
-                        "Modern fast-food trend (163.4)"
+                        "A flat thatched roof supported by solid oak pillars.",
+                        "Three monumental barrel-vaulted spans of wrought iron and glass with decorative transepts.",
+                        "Solid lead sheeting supported on unreinforced mud brick arches.",
+                        "A canvas tent tied to exterior timber poles."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Inigo Jones & Palladian Classical Architecture is the central subject."
+                    "answerIndex": 1,
+                    "explanation": "Paddington Station featured three elegant, sweeping arches of wrought iron and translucent glass."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of Inigo Jones & Palladian Classical Architecture?",
+                    "prompt": "Which famous suspension bridge, spanning the Avon Gorge in Bristol, was designed by Brunel and completed posthumously as a memorial to his genius?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in English civilization. (163.1)",
-                        "It was imported from an unrelated continent. (163.2)",
-                        "It was invented yesterday. (163.3)",
-                        "It has no historical significance. (163.4)"
+                        "Tower Bridge",
+                        "Clifton Suspension Bridge",
+                        "Menai Suspension Bridge",
+                        "Forth Road Bridge"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in English civilization."
+                    "answerIndex": 1,
+                    "explanation": "The Clifton Suspension Bridge in Bristol is Brunel's most recognizable bridge design, completed in 1864."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Inigo Jones & Palladian Classical Architecture in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "What gauge did Brunel originally champion for the Great Western Railway before standard gauge was enforced by Parliament in 1846?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "Inigo Jones & Palladian Classical Architecture established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education."
+                        "Broad gauge of 7 feet 0¼ inches (2,140 mm)",
+                        "Standard gauge of 4 feet 8½ inches (1,435 mm)",
+                        "Narrow gauge of 2 feet (610 mm)",
+                        "Monorail single-track system"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Accurate analysis of Inigo Jones & Palladian Classical Architecture (Banqueting House at Whitehall 1622, Andrea Palladio influence)."
+                    "answerIndex": 0,
+                    "explanation": "Brunel chose broad gauge (7 ft) for greater stability, passenger comfort, and higher operational speeds."
                 },
                 {
-                    "prompt": "What mastery level does completing Inigo Jones & Palladian Classical Architecture contribute to in the FEARN curriculum?",
+                    "prompt": "Which Brunel vessel, launched in 1858 as the largest ship in the world, went on to successfully lay the first lasting transatlantic telegraph cable in 1866?",
                     "options": [
-                        "Beginner A1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Pre-intermediate B1",
-                        "Elementary A2"
+                        "SS Great Eastern",
+                        "SS Great Western",
+                        "HMS Victory",
+                        "Cutty Sark"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "The colossal *SS Great Eastern* proved ideal for storing and unspooling thousands of miles of heavy undersea telegraph cable."
                 }
             ],
             "passThreshold": 0.8
@@ -16866,77 +16906,82 @@
     "en-u33-l4": {
         "id": "en-u33-l4",
         "unit": "en-u33",
-        "level": "C2",
-        "objective": "The Industrial Revolution Architecture: Crystal Palace & St Pancras (Joseph Paxton 1851, George Gilbert Scott): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "level": "C1",
+        "objective": "Modernist & Brutalist London: Denys Lasdun, the Royal National Theatre, and the Barbican Estate (Chamberlin, Powell and Bon).",
         "presentation": {
-            "explanation": "The Industrial Revolution Architecture: Crystal Palace & St Pancras (Joseph Paxton 1851, George Gilbert Scott) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "In the decades following the devastation of World War II, British municipal planning and architecture embraced heroic modernism and Brutalism (*béton brut*—raw concrete). On the South Bank of the Thames, Sir Denys Lasdun (1914–2001) designed the Royal National Theatre (opened 1976), composing layered horizontal concrete 'strata' that act as urban terraces overlooking the river. Lasdun utilized timber-grained shutter board board-marked concrete, treating the building as an extension of the public realm. Simultaneously, the architectural practice Chamberlin, Powell and Bon transformed a 35-acre blitzed bombsite in the City of London into the Barbican Estate (1965–1982). A high-density residential utopian fortress housing 4,000 residents alongside the Barbican Arts Centre and Guildhall School of Music, the Barbican features elevated pedestrian podium walkways separating people from vehicular traffic, sunken water gardens, rough bush-hammered aggregate concrete finishes, and three 43-storey residential towers that redefined the post-war City skyline.",
             "examples": [
                 {
-                    "target": "Mastery of The Industrial Revolution Architecture: Crystal Palace & St Pancras (Joseph Paxton 1851, George Gilbert Scott) exemplifies the cultural and expressive pinnacle of English.",
-                    "reading": "Target analysis of The Industrial Revolution Architecture: Crystal Palace & St Pancras (Joseph Paxton 1851, George Gilbert Scott)...",
-                    "translation": "Mastery of The Industrial Revolution Architecture: Crystal Palace & St Pancras (Joseph Paxton 1851, George Gilbert Scott) exemplifies the cultural and expressive pinnacle of English."
+                    "target": "Lasdun conceived the National Theatre's fly towers and outdoor terraces as public stages in continuous dialogue with London.",
+                    "reading": "Lasdun conceived the National Theatre's fly towers and outdoor terraces as public stages in continuous dialogue with London.",
+                    "translation": "Lasdun conceived the National Theatre's fly towers and outdoor terraces as public stages in continuous dialogue with London."
+                },
+                {
+                    "target": "The Barbican's pedestrian deck system (podium) created a traffic-free urban sanctuary within the financial heart of London.",
+                    "reading": "The Barbican's pedestrian deck system (podium) created a traffic-free urban sanctuary within the financial heart of London.",
+                    "translation": "The Barbican's pedestrian deck system (podium) created a traffic-free urban sanctuary within the financial heart of London."
                 }
             ],
             "mnemonics": [
-                "The Industrial Revolution Architecture: Crystal Palace & St Pancras (Joseph Paxton 1851, George Gilbert Scott)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "Brutalist London: South Bank (Lasdun's tiered theatre strata) + City core (Barbican's walled concrete utopia)."
             ],
             "culturalNotes": [
-                "The Industrial Revolution Architecture: Crystal Palace & St Pancras (Joseph Paxton 1851, George Gilbert Scott) is celebrated worldwide as a defining achievement of English heritage."
+                "Though initially controversial—King Charles III infamously described Lasdun's National Theatre in 1988 as 'a clever way of building a nuclear power station in the middle of London'—both the National Theatre and Barbican Estate were awarded Grade II* listed status for their architectural magnificence."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of The Industrial Revolution Architecture: Crystal Palace & St Pancras (Joseph Paxton 1851, George Gilbert Scott)?",
+                    "prompt": "What tactile surface finish characterizes the concrete walls of the Barbican Estate in London?",
                     "options": [
-                        "Generic introductory concept (164.1)",
-                        "Irrelevant topic (164.2)",
-                        "Modern fast-food trend (164.3)",
-                        "The Industrial Revolution Architecture: Crystal Palace & St Pancras (164.4)"
+                        "Polished pink Italian porcelain tiles.",
+                        "Rough bush-hammered and pick-hammered aggregate exposing the crushed granite beneath.",
+                        "Smooth yellow vinyl wallpaper pasted over plywood.",
+                        "Mirrored glass panels glued directly to steel frames."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "The Industrial Revolution Architecture: Crystal Palace & St Pancras is the central subject."
+                    "answerIndex": 1,
+                    "explanation": "Masons spent years bush-hammering the concrete surfaces by hand to reveal the texture of the coarse aggregate."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of The Industrial Revolution Architecture: Crystal Palace & St Pancras?",
+                    "prompt": "What urban planning concept was central to Chamberlin, Powell and Bon's layout of the Barbican Estate?",
                     "options": [
-                        "It has no historical significance. (164.1)",
-                        "It was imported from an unrelated continent. (164.2)",
-                        "It was invented yesterday. (164.3)",
-                        "It represents a defining historical and aesthetic breakthrough in English civilization. (164.4)"
+                        "Placing motorways on rooftops while burying all residences underground.",
+                        "Vertical separation of pedestrian walkways (podiums) from subterranean vehicular traffic and parking.",
+                        "Building detached single-family wooden cottages along narrow mud alleys.",
+                        "Requiring all residents to commute by horse-drawn carriages."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "It represents a defining breakthrough in English civilization."
+                    "answerIndex": 1,
+                    "explanation": "The Barbican separated pedestrians completely from vehicles using elevated podiums, quiet courtyards, and lakes."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of The Industrial Revolution Architecture: Crystal Palace & St Pancras in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "Who was the architect of the Grade II* listed Royal National Theatre on London's South Bank (1976)?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "The Industrial Revolution Architecture: Crystal Palace & St Pancras established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education.",
-                        "It was completely forgotten within a week."
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "Accurate analysis of The Industrial Revolution Architecture: Crystal Palace & St Pancras (Joseph Paxton 1851, George Gilbert Scott)."
-                },
-                {
-                    "prompt": "What mastery level does completing The Industrial Revolution Architecture: Crystal Palace & St Pancras contribute to in the FEARN curriculum?",
-                    "options": [
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Elementary A2",
-                        "Pre-intermediate B1",
-                        "Beginner A1"
+                        "Sir Denys Lasdun",
+                        "Sir Edwin Lutyens",
+                        "James Stirling",
+                        "Richard Rogers"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "explanation": "Sir Denys Lasdun designed the National Theatre with its iconic board-marked concrete strata and fly towers."
+                },
+                {
+                    "prompt": "From which French term coined by Le Corbusier does the name 'Brutalism' derive?",
+                    "options": [
+                        "Béton brut (raw / unfinished concrete)",
+                        "Bête noire (black beast)",
+                        "Brut force (military strength)",
+                        "Boutique brute (coarse shop)"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Brutalism derives from *béton brut*, referring to raw concrete left unplastered to display formwork markings."
                 }
             ],
             "passThreshold": 0.8
@@ -16945,77 +16990,82 @@
     "en-u33-l5": {
         "id": "en-u33-l5",
         "unit": "en-u33",
-        "level": "C2",
-        "objective": "Contemporary British Starchitects: Lord Norman Foster (The Gherkin, Reichstag) & Lord Richard Rogers (Lloyd's of London): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "level": "C1",
+        "objective": "High-Tech & Sustainable British Architecture: Norman Foster (The Gherkin), Richard Rogers (Lloyd's Building), and structural expressionism.",
         "presentation": {
-            "explanation": "Contemporary British Starchitects: Lord Norman Foster (The Gherkin, Reichstag) & Lord Richard Rogers (Lloyd's of London) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "In the late twentieth and twenty-first centuries, British architecture achieved worldwide acclaim through High-Tech architecture and Structural Expressionism, spearheaded by Pritzker Prize laureates Lord Norman Foster (b. 1935) and Lord Richard Rogers (1933–2021). Rogers transformed the City of London with the Lloyd's Building (1986), an iconic 'inside-out' structure that placed service pipes, stainless steel elevators, staircases, and HVAC ducts on the exterior facade, creating an unobstructed 14-storey central atrium (the Underwriting Room) inside. Foster & Partners advanced sustainable skyscraper design with 30 St Mary Axe (known as 'The Gherkin', 2004), utilizing a diagrid aerodynamic form that reduces wind turbulence, draws natural ventilation through spiraling lightwells, and consumes half the energy of a conventional office tower. Alongside projects like Foster's Great Court at the British Museum (2000) and Millennium Bridge, and Rogers' Leadenhall Building ('The Cheesegrater'), British high-tech engineering synthesizes structural transparency, prefabricated industrial precision, and ecological sustainability.",
             "examples": [
                 {
-                    "target": "Mastery of Contemporary British Starchitects: Lord Norman Foster (The Gherkin, Reichstag) & Lord Richard Rogers (Lloyd's of London) exemplifies the cultural and expressive pinnacle of English.",
-                    "reading": "Target analysis of Contemporary British Starchitects: Lord Norman Foster (The Gherkin, Reichstag) & Lord Richard Rogers (Lloyd's of London)...",
-                    "translation": "Mastery of Contemporary British Starchitects: Lord Norman Foster (The Gherkin, Reichstag) & Lord Richard Rogers (Lloyd's of London) exemplifies the cultural and expressive pinnacle of English."
+                    "target": "Rogers' 'inside-out' strategy at Lloyd's maximizes internal floorplate flexibility by banishing services to exterior towers.",
+                    "reading": "Rogers' 'inside-out' strategy at Lloyd's maximizes internal floorplate flexibility by banishing services to exterior towers.",
+                    "translation": "Rogers' 'inside-out' strategy at Lloyd's maximizes internal floorplate flexibility by banishing services to exterior towers."
+                },
+                {
+                    "target": "The diagrid structural perimeter of Foster's Gherkin provides seismic and wind stiffness while opening up column-free office interiors.",
+                    "reading": "The diagrid structural perimeter of Foster's Gherkin provides seismic and wind stiffness while opening up column-free office interiors.",
+                    "translation": "The diagrid structural perimeter of Foster's Gherkin provides seismic and wind stiffness while opening up column-free office interiors."
                 }
             ],
             "mnemonics": [
-                "Contemporary British Starchitects: Lord Norman Foster (The Gherkin, Reichstag) & Lord Richard Rogers (Lloyd's of London)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "British High-Tech masters: Rogers puts the skeleton on the outside; Foster sculpts the aerodynamic energy-saving curve."
             ],
             "culturalNotes": [
-                "Contemporary British Starchitects: Lord Norman Foster (The Gherkin, Reichstag) & Lord Richard Rogers (Lloyd's of London) is celebrated worldwide as a defining achievement of English heritage."
+                "The Lloyd's Building became the youngest structure in British history to be granted Grade I listing in 2011, when it was only 25 years old."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Contemporary British Starchitects: Lord Norman Foster (The Gherkin, Reichstag) & Lord Richard Rogers (Lloyd's of London)?",
+                    "prompt": "What is the architectural concept behind Richard Rogers' design for the Lloyd's Building (1986) in London?",
                     "options": [
-                        "Contemporary British Starchitects: Lord Norman Foster (165.1)",
-                        "Generic introductory concept (165.2)",
-                        "Modern fast-food trend (165.3)",
-                        "Irrelevant topic (165.4)"
+                        "An 'inside-out' building where utilities, lifts, ducts, and stairs are located on the exterior to free up flexible internal space.",
+                        "A subterranean bunker with no exterior windows to protect documents from light.",
+                        "A wooden log cabin covered in grass turf.",
+                        "A replica of a fourteenth-century Venetian palazzo."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Contemporary British Starchitects: Lord Norman Foster is the central subject."
+                    "explanation": "Rogers placed all service elements on the perimeter in six towers, leaving the interior trading room vast and uncluttered."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of Contemporary British Starchitects: Lord Norman Foster?",
+                    "prompt": "How does the aerodynamic curved shape of Norman Foster's 30 St Mary Axe ('The Gherkin') benefit the building's environmental performance?",
                     "options": [
-                        "It has no historical significance. (165.1)",
-                        "It was imported from an unrelated continent. (165.2)",
-                        "It was invented yesterday. (165.3)",
-                        "It represents a defining historical and aesthetic breakthrough in English civilization. (165.4)"
+                        "It enables it to fly during severe weather events.",
+                        "It reduces wind deflections to street level and incorporates spiraling natural ventilation lightwells that cut heating/cooling energy usage.",
+                        "It generates hydroelectric power from rainwater collected on its tip.",
+                        "It acts as an enormous solar magnifying glass that warms adjacent parks."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "It represents a defining breakthrough in English civilization."
+                    "answerIndex": 1,
+                    "explanation": "The aerodynamic tapering reduces wind turbulence and uses internal spiraling shafts for passive ventilation and daylighting."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Contemporary British Starchitects: Lord Norman Foster in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "Which British architectural movement is characterized by exposed structural frames, industrial fabrication, stainless steel pods, and high-performance glazing?",
                     "options": [
-                        "Contemporary British Starchitects: Lord Norman Foster established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It was completely forgotten within a week.",
-                        "It only applied to elementary school education.",
-                        "It was a minor commercial advertising campaign."
+                        "High-Tech Architecture (Structural Expressionism)",
+                        "Arts and Crafts Movement",
+                        "Tudor Revival",
+                        "Palladian Neoclassicism"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Accurate analysis of Contemporary British Starchitects: Lord Norman Foster (The Gherkin, Reichstag) & Lord Richard Rogers (Lloyd's of London)."
+                    "explanation": "High-Tech architecture celebrated industrial engineering, exposed steel framing, and prefabricated components."
                 },
                 {
-                    "prompt": "What mastery level does completing Contemporary British Starchitects: Lord Norman Foster contribute to in the FEARN curriculum?",
+                    "prompt": "Who designed the tessellated glass-and-steel geodesic canopy spanning the two-acre Great Court of the British Museum (2000)?",
                     "options": [
-                        "Beginner A1",
-                        "Elementary A2",
-                        "Pre-intermediate B1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery"
+                        "Foster & Partners",
+                        "Zaha Hadid",
+                        "Inigo Jones",
+                        "Charles Rennie Mackintosh"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Norman Foster & Partners created the breathtaking glass canopy over the British Museum's central courtyard."
                 }
             ],
             "passThreshold": 0.8

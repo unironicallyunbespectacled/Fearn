@@ -16105,78 +16105,83 @@
     },
     "tr-u32-l1": {
         "id": "tr-u32-l1",
-        "unit": "tr-u32",
+        "unit": "u32",
         "level": "C1",
-        "objective": "Karagöz and Hacivat: Shadow Theatre & UNESCO Heritage (Karagöz ve Hacivat UNESCO 2009, Hayalî, Şeyh Küşteri Meydanı): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "objective": "Karagöz ve Hacivat: Geleneksel Türk gölge oyunu, Hayalî, Şeyh Küşteri Meydanı, tasvirler ve UNESCO mirası.",
         "presentation": {
-            "explanation": "Karagöz and Hacivat: Shadow Theatre & UNESCO Heritage (Karagöz ve Hacivat UNESCO 2009, Hayalî, Şeyh Küşteri Meydanı) represents a cornerstone of Theatre, Dramaturgy & Performing Arts. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Karagöz ve Hacivat, kökleri 14. yüzyıl Osmanlı Bursa'sına uzanan ve 2009 yılında UNESCO İnsanlığın Somut Olmayan Kültürel Mirası Temsili Listesi'ne kaydedilen geleneksel Türk gölge oyunudur. Rivayete göre Orhan Gazi devrinde Bursa Ulu Camii inşaatında çalışan iki neşeli işçinin nükte ve atışmalarıyla şantiyeyi oyalaması üzerine başlayan efsane, Şeyh Küşteri tarafından beyaz bir perde (ayna) arkasında mum ışığıyla tasvirlerin oynatılmasıyla sahne sanatına dönüşmüştür («Şeyh Küşteri Meydanı»). Oyun, deve veya manda derisinden kesilip kök boyalarla renklendirilen şeffaf tasvirlerin usta bir gölge oynatıcı («Hayalî» veya «Hayalbaz») ve yardımcısı («Yardak») tarafından yatay tahta çubuklarla oynatılması esasına dayanır. Halkın sağduyusunu, dobra ve eğitimsiz sesini temsil eden Karagöz ile medrese eğitimi almış, yabancı kelimelerle konuşan yarı aydın Hacivat arasındaki dilsel yanlış anlamalar, nükte ve taşlamalar oyunun omurgasını oluşturur.",
             "examples": [
                 {
-                    "target": "Mastery of Karagöz and Hacivat: Shadow Theatre & UNESCO Heritage (Karagöz ve Hacivat UNESCO 2009, Hayalî, Şeyh Küşteri Meydanı) exemplifies the cultural and expressive pinnacle of Turkish.",
-                    "reading": "Target analysis of Karagöz and Hacivat: Shadow Theatre & UNESCO Heritage (Karagöz ve Hacivat UNESCO 2009, Hayalî, Şeyh Küşteri Meydanı)...",
-                    "translation": "Mastery of Karagöz and Hacivat: Shadow Theatre & UNESCO Heritage (Karagöz ve Hacivat UNESCO 2009, Hayalî, Şeyh Küşteri Meydanı) exemplifies the cultural and expressive pinnacle of Turkish."
+                    "target": "Hayalî, perdedeki bütün karakterlerin seslerini ve farklı Osmanlı lehçelerini tek başına taklit eder.",
+                    "reading": "Hayalî, perdedeki bütün karakterlerin seslerini ve farklı Osmanlı lehçelerini tek başına taklit eder.",
+                    "translation": "The shadow master imitates the voices of all characters and different Ottoman dialects all by himself."
+                },
+                {
+                    "target": "Perde gazeli, oyunun başında tasavvufi ve felsefi bir derinlikle dünyanın faniliğini dile getirir.",
+                    "reading": "Perde gazeli, oyunun başında tasavvufi ve felsefi bir derinlikle dünyanın faniliğini dile getirir.",
+                    "translation": "The screen lyric expresses the fleeting nature of the world with mystical depth at the start of the play."
                 }
             ],
             "mnemonics": [
-                "Karagöz and Hacivat: Shadow Theatre & UNESCO Heritage (Karagöz ve Hacivat UNESCO 2009, Hayalî, Şeyh Küşteri Meydanı)! Essential milestone in Theatre, Dramaturgy & Performing Arts!"
+                "Karagöz ve Hacivat: Karagöz halkın dobrası ve hazırcevabı, Hacivat ise ağdalı dil kullanan kibar arabulucudur."
             ],
             "culturalNotes": [
-                "Karagöz and Hacivat: Shadow Theatre & UNESCO Heritage (Karagöz ve Hacivat UNESCO 2009, Hayalî, Şeyh Küşteri Meydanı) is celebrated worldwide as a defining achievement of Turkish heritage."
+                "Karagöz oyunu; Mukaddime (Giriş), Muhavere (Atışma), Fasıl (Asıl Oyun) ve Bitiş olmak üzere dört geleneksel bölümden meydana gelir."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Karagöz and Hacivat: Shadow Theatre & UNESCO Heritage (Karagöz ve Hacivat UNESCO 2009, Hayalî, Şeyh Küşteri Meydanı)?",
+                    "prompt": "Geleneksel Türk gölge oyununda tasvirleri perde arkasında tek başına seslendirip oynatan ustaya ne ad verilir?",
                     "options": [
-                        "Generic introductory concept (156.1)",
-                        "Irrelevant topic (156.2)",
-                        "Modern fast-food trend (156.3)",
-                        "Karagöz and Hacivat: Shadow Theatre & UNESCO Heritage (156.4)"
+                        "Hayalî (Hayalbaz)",
+                        "Kavuklu",
+                        "Sufleci",
+                        "Figüran"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Karagöz and Hacivat: Shadow Theatre & UNESCO Heritage is the central subject."
+                    "answerIndex": 0,
+                    "explanation": "Gölge oyununun tüm seslendirme ve manipülasyonunu yöneten tek ustaya Hayalî denir."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Dramaturgy & Performing Arts, what is the primary significance of Karagöz and Hacivat: Shadow Theatre & UNESCO Heritage?",
+                    "prompt": "Karagöz perdesine gölge oyununun piri kabul edilen Şeyh Küşteri'nin anısına ne ad verilir?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Turkish civilization. (156.1)",
-                        "It has no historical significance. (156.2)",
-                        "It was imported from an unrelated continent. (156.3)",
-                        "It was invented yesterday. (156.4)"
+                        "Şeyh Küşteri Meydanı",
+                        "Gülhane Meydanı",
+                        "Divan-ı Hümayun",
+                        "Enderun Sahnesi"
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Turkish civilization."
+                    "explanation": "Gölge oyunu perdesi gelenekte saygıyla «Şeyh Küşteri Meydanı» olarak anılır."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Karagöz and Hacivat: Shadow Theatre & UNESCO Heritage in the development of Theatre, Dramaturgy & Performing Arts:",
+                    "prompt": "Karagöz oyununda tasvirler geleneksel olarak hangi malzemeden yapılarak şeffaflaştırılır ve renklendirilir?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "Karagöz and Hacivat: Shadow Theatre & UNESCO Heritage established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education.",
-                        "It was completely forgotten within a week."
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "Accurate analysis of Karagöz and Hacivat: Shadow Theatre & UNESCO Heritage (Karagöz ve Hacivat UNESCO 2009, Hayalî, Şeyh Küşteri Meydanı)."
-                },
-                {
-                    "prompt": "What mastery level does completing Karagöz and Hacivat: Shadow Theatre & UNESCO Heritage contribute to in the FEARN curriculum?",
-                    "options": [
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Beginner A1",
-                        "Pre-intermediate B1",
-                        "Elementary A2"
+                        "İşlenmiş şeffaf deve veya manda derisi (kök boyalarla boyanmış)",
+                        "Sert plastik levhalar",
+                        "Alüminyum folyo",
+                        "Renkli karton kâğıt"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "explanation": "Geleneksel tasvirler dayanıklı ve ışığı geçiren tabaklanmış deve derisinden oyulur."
+                },
+                {
+                    "prompt": "Karagöz oyunu hangi yıl UNESCO İnsanlığın Somut Olmayan Kültürel Mirası Temsili Listesi'ne kabul edilmiştir?",
+                    "options": [
+                        "2009",
+                        "1985",
+                        "2020",
+                        "1950"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Türkiye adına Karagöz geleneği 2009 yılında UNESCO listesine tescil edilmiştir."
                 }
             ],
             "passThreshold": 0.8
@@ -16184,78 +16189,83 @@
     },
     "tr-u32-l2": {
         "id": "tr-u32-l2",
-        "unit": "tr-u32",
+        "unit": "u32",
         "level": "C1",
-        "objective": "Ortaoyunu & Meddah: The Traditional Arena (Kavuklu ve Pişekâr, İsmail Dümbüllü Kavuk geleneği, Ferhan Şensoy): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "objective": "Ortaoyunu ve Meddahlık: Kavuklu ile Pişekâr, İsmail Dümbüllü Kavuk geleneği ve Ferhan Şensoy.",
         "presentation": {
-            "explanation": "Ortaoyunu & Meddah: The Traditional Arena (Kavuklu ve Pişekâr, İsmail Dümbüllü Kavuk geleneği, Ferhan Şensoy) represents a cornerstone of Theatre, Dramaturgy & Performing Arts. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Ortaoyunu ve Meddahlık, Türk temaşa sanatının gölge oyunundan canlı oyuncu meydanına ve tek kişilik anlatı tiyatrosuna geçişini temsil eden temel halk tiyatrosu türleridir. Ortaoyunu; çepeçevre seyircilerle çevrili üstü açık bir alanda («Palanga»), paravan görevi gören «yeni dünya» ve dükkân dekoru eşliğinde yazılı metne dayanmadan (doğaçlama / tulûat) sergilenir. Karagöz'ün canlı sahnedeki karşılığı olan saf ve komik «Kavuklu» ile Hacivat'ın dengi olan eğitimli, görgülü «Pişekâr» arasındaki söz düelloları halkın zekasını yansıtır. Meddah ise bir mendil (makrame) ve sopa (pastav) yardımıyla yüksekçe bir sandalyede onlarca farklı tipi canlandıran tek kişilik destansı anlatıcıdır. Türk tiyatrosunun en kutsal simgesi sayılan «Kavuk» (ve fes), Kel Hasan Efendi'den İsmail Dümbüllü'ye, ondan Münir Özkul'a, Ferhan Şensoy'a, Rasim Öztekin'e ve Şevket Çoruh'a devredilen asırlık bir usta-çırak mirasıdır.",
             "examples": [
                 {
-                    "target": "Mastery of Ortaoyunu & Meddah: The Traditional Arena (Kavuklu ve Pişekâr, İsmail Dümbüllü Kavuk geleneği, Ferhan Şensoy) exemplifies the cultural and expressive pinnacle of Turkish.",
-                    "reading": "Target analysis of Ortaoyunu & Meddah: The Traditional Arena (Kavuklu ve Pişekâr, İsmail Dümbüllü Kavuk geleneği, Ferhan Şensoy)...",
-                    "translation": "Mastery of Ortaoyunu & Meddah: The Traditional Arena (Kavuklu ve Pişekâr, İsmail Dümbüllü Kavuk geleneği, Ferhan Şensoy) exemplifies the cultural and expressive pinnacle of Turkish."
+                    "target": "Ortaoyununda Kavuklu'nun Pişekâr ile yaptığı tekerleme bölümü doğaçlama ustalığının zirvesidir.",
+                    "reading": "Ortaoyununda Kavuklu'nun Pişekâr ile yaptığı tekerleme bölümü doğaçlama ustalığının zirvesidir.",
+                    "translation": "In Ortaoyunu, the punning sequence between Kavuklu and Pişekâr represents the peak of improvisational mastery."
+                },
+                {
+                    "target": "Kel Hasan Efendi'den devredilen Kavuk, Türk güldürü tiyatrosunun meşalesi kabul edilir.",
+                    "reading": "Kel Hasan Efendi'den devredilen Kavuk, Türk güldürü tiyatrosunun meşalesi kabul edilir.",
+                    "translation": "The Kavuk passed down from Kel Hasan Efendi is considered the torch of Turkish comedy theatre."
                 }
             ],
             "mnemonics": [
-                "Ortaoyunu & Meddah: The Traditional Arena (Kavuklu ve Pişekâr, İsmail Dümbüllü Kavuk geleneği, Ferhan Şensoy)! Essential milestone in Theatre, Dramaturgy & Performing Arts!"
+                "Kavuk geleneği zinciri: Kel Hasan -> İsmail Dümbüllü -> Münir Özkul -> Ferhan Şensoy -> Rasim Öztekin -> Şevket Çoruh."
             ],
             "culturalNotes": [
-                "Ortaoyunu & Meddah: The Traditional Arena (Kavuklu ve Pişekâr, İsmail Dümbüllü Kavuk geleneği, Ferhan Şensoy) is celebrated worldwide as a defining achievement of Turkish heritage."
+                "Ferhan Şensoy kurduğu «Ortaoyuncular» tiyatrosu ve Şan Tiyatrosu'ndaki devrimci kabareleriyle bu geleneksel damarı çağdaş siyasi hicve taşımıştır."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Ortaoyunu & Meddah: The Traditional Arena (Kavuklu ve Pişekâr, İsmail Dümbüllü Kavuk geleneği, Ferhan Şensoy)?",
+                    "prompt": "Ortaoyununun sergilendiği, seyircilerle çevrili açık meydana ve ana oyun alanına ne ad verilir?",
                     "options": [
-                        "Ortaoyunu & Meddah: The Traditional Arena (157.1)",
-                        "Irrelevant topic (157.2)",
-                        "Modern fast-food trend (157.3)",
-                        "Generic introductory concept (157.4)"
+                        "Palanga",
+                        "Kulisse",
+                        "Agora",
+                        "Arena"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Ortaoyunu & Meddah: The Traditional Arena is the central subject."
+                    "explanation": "Ortaoyunu palanga adı verilen dairesel veya elips biçimli açık alanda oynanır."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Dramaturgy & Performing Arts, what is the primary significance of Ortaoyunu & Meddah: The Traditional Arena?",
+                    "prompt": "Geleneksel Meddah anlatıcısının elinde tuttuğu iki temel simgesel aksesuar nedir?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Turkish civilization. (157.1)",
-                        "It has no historical significance. (157.2)",
-                        "It was invented yesterday. (157.3)",
-                        "It was imported from an unrelated continent. (157.4)"
+                        "Mendil (makrame) ve sopa / değnek (pastav)",
+                        "Kılıç ve kalkan",
+                        "Fener ve büyüteç",
+                        "Gözlük ve kitap"
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Turkish civilization."
+                    "explanation": "Meddah sopayı dikkat çekmek ve ses çıkarmak, mendili ise farklı karakterleri taklit etmek için kullanır."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Ortaoyunu & Meddah: The Traditional Arena in the development of Theatre, Dramaturgy & Performing Arts:",
+                    "prompt": "İsmail Dümbüllü'nün geleneksel Türk tiyatrosunun simgesi olan tarihi Kavuk'u devrettiği efsanevi aktör kimdir?",
                     "options": [
-                        "Ortaoyunu & Meddah: The Traditional Arena established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "It only applied to elementary school education."
+                        "Münir Özkul",
+                        "Sadri Alışık",
+                        "Kemal Sunal",
+                        "Şener Şen"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Accurate analysis of Ortaoyunu & Meddah: The Traditional Arena (Kavuklu ve Pişekâr, İsmail Dümbüllü Kavuk geleneği, Ferhan Şensoy)."
+                    "explanation": "İsmail Dümbüllü 1968 yılında Kavuk'u Münir Özkul'a devrederek geleneği taçlandırmıştır."
                 },
                 {
-                    "prompt": "What mastery level does completing Ortaoyunu & Meddah: The Traditional Arena contribute to in the FEARN curriculum?",
+                    "prompt": "Ortaoyununda zurna eşliğinde meydana ilk çıkan, oyunu başlatan ve idare eden bilgili karakter kimdir?",
                     "options": [
-                        "Pre-intermediate B1",
-                        "Beginner A1",
-                        "Elementary A2",
-                        "Advanced C1/C2 Sovereign Omni-Mastery"
+                        "Pişekâr",
+                        "Kavuklu",
+                        "Zenne",
+                        "Çelebi"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Pişekâr oyunu açan, seyirciyi selamlayan ve akışı düzenleyen yönetici figürdür."
                 }
             ],
             "passThreshold": 0.8
@@ -16263,78 +16273,83 @@
     },
     "tr-u32-l3": {
         "id": "tr-u32-l3",
-        "unit": "tr-u32",
-        "level": "C2",
-        "objective": "Darülbedayi & Muhsin Ertuğrul: The Modern Stage (Darülbedayi 1914, Muhsin Ertuğrul, Afife Jale 1920): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "unit": "u32",
+        "level": "C1",
+        "objective": "Darülbedayi ve Muhsin Ertuğrul: Çağdaş Türk tiyatrosunun kuruluşu (1914), Şehir Tiyatroları ve Afife Jale (1920).",
         "presentation": {
-            "explanation": "Darülbedayi & Muhsin Ertuğrul: The Modern Stage (Darülbedayi 1914, Muhsin Ertuğrul, Afife Jale 1920) represents a cornerstone of Theatre, Dramaturgy & Performing Arts. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Modern ve kurumsal Türk tiyatrosunun temelleri, 1914 yılında İstanbul Şehremini Cemil Topuzlu Paşa'nın davetiyle Fransız tiyatro kuramcısı André Antoine'ın İstanbul'a gelişi ve *Darülbedayi-i Osmanî*'nin (Güzellikler Evi / Şehir Tiyatroları) kurulmasıyla atıldı. Kurumun başına geçen büyük tiyatro ve sinema adamı Muhsin Ertuğrul (1892–1979), disiplinli oyunculuk, batılı sahneleme teknikleri, dünya klasiklerinin çevirisi ve telif Türk piyeslerinin teşvikiyle modern bir devrim gerçekleştirdi. 1920 yılında, Kadıköy Apollon Sineması'nda Hüseyin Suat'ın *Tatlı Sır* oyununda «Emel» rolüyle sahneye çıkan Afife Jale (1902–1941), Osmanlı döneminde sahneye çıkan ilk Müslüman Türk kadın oyuncu olarak tarihe geçti. Polisin baskı ve tutuklamalarına rağmen «Beni acıyarak değil, sahneye adım attığım cesaretle anın» diyerek kadınların sanat özgürlüğünün ölümsüz meşalesi oldu.",
             "examples": [
                 {
-                    "target": "Mastery of Darülbedayi & Muhsin Ertuğrul: The Modern Stage (Darülbedayi 1914, Muhsin Ertuğrul, Afife Jale 1920) exemplifies the cultural and expressive pinnacle of Turkish.",
-                    "reading": "Target analysis of Darülbedayi & Muhsin Ertuğrul: The Modern Stage (Darülbedayi 1914, Muhsin Ertuğrul, Afife Jale 1920)...",
-                    "translation": "Mastery of Darülbedayi & Muhsin Ertuğrul: The Modern Stage (Darülbedayi 1914, Muhsin Ertuğrul, Afife Jale 1920) exemplifies the cultural and expressive pinnacle of Turkish."
+                    "target": "Muhsin Ertuğrul, disiplinli sahne ahlakı ve yerli piyes yazımına verdiği destekle Türk tiyatrosunu kurumsallaştırdı.",
+                    "reading": "Muhsin Ertuğrul, disiplinli sahne ahlakı ve yerli piyes yazımına verdiği destekle Türk tiyatrosunu kurumsallaştırdı.",
+                    "translation": "Muhsin Ertuğrul institutionalized Turkish theatre through disciplined stage ethics and support for local playwrighting."
+                },
+                {
+                    "target": "Afife Jale, baskılara boyun eğmeyerek Türk kadınına tiyatro sahnelerinin kapısını sonsuza dek açtı.",
+                    "reading": "Afife Jale, baskılara boyun eğmeyerek Türk kadınına tiyatro sahnelerinin kapısını sonsuza dek açtı.",
+                    "translation": "Afife Jale opened the doors of theatre stages to Turkish women forever by refusing to bow to oppression."
                 }
             ],
             "mnemonics": [
-                "Darülbedayi & Muhsin Ertuğrul: The Modern Stage (Darülbedayi 1914, Muhsin Ertuğrul, Afife Jale 1920)! Essential milestone in Theatre, Dramaturgy & Performing Arts!"
+                "Darülbedayi 1914 (Şehir Tiyatroları beşiği) + Muhsin Ertuğrul disiplini + Afife Jale'nin 1920 sahne devrimi."
             ],
             "culturalNotes": [
-                "Darülbedayi & Muhsin Ertuğrul: The Modern Stage (Darülbedayi 1914, Muhsin Ertuğrul, Afife Jale 1920) is celebrated worldwide as a defining achievement of Turkish heritage."
+                "Türkiye'nin en prestijli tiyatro ödülleri, Afife Jale'nin anısına her yıl düzenlenen «Afife Tiyatro Ödülleri» adıyla verilmektedir."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Darülbedayi & Muhsin Ertuğrul: The Modern Stage (Darülbedayi 1914, Muhsin Ertuğrul, Afife Jale 1920)?",
+                    "prompt": "1920 yılında sahneye çıkan ilk Müslüman Türk kadın tiyatro oyuncusu kimdir?",
                     "options": [
-                        "Darülbedayi & Muhsin Ertuğrul: The Modern Stage (158.1)",
-                        "Generic introductory concept (158.2)",
-                        "Irrelevant topic (158.3)",
-                        "Modern fast-food trend (158.4)"
+                        "Afife Jale",
+                        "Cahide Sonku",
+                        "Gülriz Sururi",
+                        "Yıldız Kenter"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Darülbedayi & Muhsin Ertuğrul: The Modern Stage is the central subject."
+                    "explanation": "Afife Jale, 1920'de Kadıköy Apollon Tiyatrosu'nda sahneye çıkarak büyük bir tabuyu yıkmıştır."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Dramaturgy & Performing Arts, what is the primary significance of Darülbedayi & Muhsin Ertuğrul: The Modern Stage?",
+                    "prompt": "1914'te temelleri atılan ve günümüzde İstanbul Büyükşehir Belediyesi Şehir Tiyatroları olarak yaşayan tarihi kurumun ilk adı nedir?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Turkish civilization. (158.1)",
-                        "It was imported from an unrelated continent. (158.2)",
-                        "It was invented yesterday. (158.3)",
-                        "It has no historical significance. (158.4)"
+                        "Darülbedayi-i Osmanî",
+                        "Darülfünun",
+                        "Darüşşafaka",
+                        "Mekteb-i Mülkiye"
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Turkish civilization."
+                    "explanation": "Darülbedayi («Güzellikler Kapısı»), Türk tiyatrosunun ilk konservatuvar ve ödenekli tiyatro kurumudur."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Darülbedayi & Muhsin Ertuğrul: The Modern Stage in the development of Theatre, Dramaturgy & Performing Arts:",
+                    "prompt": "Türk tiyatrosunun batılı anlamda kurucusu ve uzun yıllar Şehir Tiyatroları ile Devlet Tiyatroları genel sanat yönetmenliğini yürüten isim kimdir?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "It only applied to elementary school education.",
-                        "Darülbedayi & Muhsin Ertuğrul: The Modern Stage established enduring philosophical, technical, and expressive standards across the tradition."
+                        "Muhsin Ertuğrul",
+                        "Haldun Taner",
+                        "Ahmet Vefik Paşa",
+                        "Genco Erkal"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Accurate analysis of Darülbedayi & Muhsin Ertuğrul: The Modern Stage (Darülbedayi 1914, Muhsin Ertuğrul, Afife Jale 1920)."
+                    "answerIndex": 0,
+                    "explanation": "Muhsin Ertuğrul, modern Türk sahne sanatlarının en büyük mimarı ve eğitmenidir."
                 },
                 {
-                    "prompt": "What mastery level does completing Darülbedayi & Muhsin Ertuğrul: The Modern Stage contribute to in the FEARN curriculum?",
+                    "prompt": "Her yıl Türkiye'nin en başarılı tiyatro sanatçılarına verilen en köklü ve saygın tiyatro ödülü hangisidir?",
                     "options": [
-                        "Beginner A1",
-                        "Elementary A2",
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Pre-intermediate B1"
+                        "Afife Tiyatro Ödülleri",
+                        "Altın Portakal",
+                        "Altın Koza",
+                        "Sedat Simavi Ödülleri"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Afife Tiyatro Ödülleri, Yapı Kredi sponsorluğunda 1997'den beri aralıksız verilmektedir."
                 }
             ],
             "passThreshold": 0.8
@@ -16342,78 +16357,83 @@
     },
     "tr-u32-l4": {
         "id": "tr-u32-l4",
-        "unit": "tr-u32",
-        "level": "C2",
-        "objective": "Haldun Taner & The Epic Kabare (Keşanlı Ali Destanı 1964 ilk epik tiyatro, Devekuşu Kabare, Zeki-Metin): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "unit": "u32",
+        "level": "C1",
+        "objective": "Haldun Taner ve Epik Kabare: Keşanlı Ali Destanı (1964), Devekuşu Kabare, Zeki Alasya ve Metin Akpınar.",
         "presentation": {
-            "explanation": "Haldun Taner & The Epic Kabare (Keşanlı Ali Destanı 1964 ilk epik tiyatro, Devekuşu Kabare, Zeki-Metin) represents a cornerstone of Theatre, Dramaturgy & Performing Arts. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Haldun Taner (1915–1986), Türk edebiyatı ve tiyatrosunda epik tiyatro ve kabare türünün tartışmasız kurucusu ve büyük ustasıdır. 1964 yılında Gülriz Sururi - Engin Cezzar Tiyatrosu tarafından sahnelenen ve müziğini Yalçın Tura'nın bestelediği *Keşanlı Ali Destanı*, Türk tiyatrosunun ilk epik müzikal şaheseridir. Gecekondu ortamında geçen oyun, haksız yere hapse giren Ali'nin halkın gözünde nasıl bir mitolojik halk kahramanına dönüştüğünü Brechtyen yabancılaştırma ve geleneksel meddah-ortaoyunu ögelerini harmanlayarak hicveder. 1967 yılında Haldun Taner, Zeki Alasya, Metin Akpınar ve Ahmet Gülhan tarafından kurulan «Devekuşu Kabare Tiyatrosu» (*Vatan Kurtaran Şaban*, *Gözlerimi Kaparım Vazifemi Yaparım*, *Aşk Olsun*), zekice kurgulanmış skeçleri ve taşlamalarıyla Türk halkının hafızasına kazınmış bir toplumsal muhalefet ve mizah okulu olmuştur.",
             "examples": [
                 {
-                    "target": "Mastery of Haldun Taner & The Epic Kabare (Keşanlı Ali Destanı 1964 ilk epik tiyatro, Devekuşu Kabare, Zeki-Metin) exemplifies the cultural and expressive pinnacle of Turkish.",
-                    "reading": "Target analysis of Haldun Taner & The Epic Kabare (Keşanlı Ali Destanı 1964 ilk epik tiyatro, Devekuşu Kabare, Zeki-Metin)...",
-                    "translation": "Mastery of Haldun Taner & The Epic Kabare (Keşanlı Ali Destanı 1964 ilk epik tiyatro, Devekuşu Kabare, Zeki-Metin) exemplifies the cultural and expressive pinnacle of Turkish."
+                    "target": "Keşanlı Ali Destanı, gecekondu kültürünün doğumunu ve kitlelerin kahraman yaratma zaafını epik dille eleştirir.",
+                    "reading": "Keşanlı Ali Destanı, gecekondu kültürünün doğumunu ve kitlelerin kahraman yaratma zaafını epik dille eleştirir.",
+                    "translation": "The Ballad of Ali of Keshan critically examines the birth of shantytown culture and the masses' weakness for creating mythical heroes in epic style."
+                },
+                {
+                    "target": "Devekuşu Kabare, Zeki Alasya ve Metin Akpınar'ın eşsiz oyunculuk uyumuyla dönemin siyasi tabularını hicvetmiştir.",
+                    "reading": "Devekuşu Kabare, Zeki Alasya ve Metin Akpınar'ın eşsiz oyunculuk uyumuyla dönemin siyasi tabularını hicvetmiştir.",
+                    "translation": "Devekuşu Cabaret satirized the political taboos of the era through the unique acting chemistry of Zeki Alasya and Metin Akpınar."
                 }
             ],
             "mnemonics": [
-                "Haldun Taner & The Epic Kabare (Keşanlı Ali Destanı 1964 ilk epik tiyatro, Devekuşu Kabare, Zeki-Metin)! Essential milestone in Theatre, Dramaturgy & Performing Arts!"
+                "Haldun Taner ustalığı: Keşanlı Ali Destanı (ilk epik müzikal) + Devekuşu Kabare (siyasi mizah okulu)."
             ],
             "culturalNotes": [
-                "Haldun Taner & The Epic Kabare (Keşanlı Ali Destanı 1964 ilk epik tiyatro, Devekuşu Kabare, Zeki-Metin) is celebrated worldwide as a defining achievement of Turkish heritage."
+                "*Keşanlı Ali Destanı*, aralarında Almanca, İngilizce, Fransızca, İtalyanca ve Arapça'nın bulunduğu onlarca dile çevrilip Berlin'den Londra'ya dünya sahnelerinde oynanmıştır."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Haldun Taner & The Epic Kabare (Keşanlı Ali Destanı 1964 ilk epik tiyatro, Devekuşu Kabare, Zeki-Metin)?",
+                    "prompt": "Türk tiyatro tarihinin ilk epik tiyatro başyapıtı kabul edilen ve Haldun Taner tarafından yazılan 1964 tarihli oyun hangisidir?",
                     "options": [
-                        "Generic introductory concept (159.1)",
-                        "Irrelevant topic (159.2)",
-                        "Modern fast-food trend (159.3)",
-                        "Haldun Taner & The Epic Kabare (159.4)"
+                        "Keşanlı Ali Destanı",
+                        "Lüküs Hayat",
+                        "Köşebaşı",
+                        "Paydos"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Haldun Taner & The Epic Kabare is the central subject."
+                    "answerIndex": 0,
+                    "explanation": "*Keşanlı Ali Destanı*, geleneksel anlatı ögeleriyle Brecht tiyatrosunu birleştiren ilk yerli epik eserdir."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Dramaturgy & Performing Arts, what is the primary significance of Haldun Taner & The Epic Kabare?",
+                    "prompt": "1967 yılında Haldun Taner'in öncülüğünde Zeki Alasya ve Metin Akpınar ile birlikte kurulan efsanevi kabare tiyatrosu hangisidir?",
                     "options": [
-                        "It has no historical significance. (159.1)",
-                        "It was imported from an unrelated continent. (159.2)",
-                        "It was invented yesterday. (159.3)",
-                        "It represents a defining historical and aesthetic breakthrough in Turkish civilization. (159.4)"
+                        "Devekuşu Kabare Tiyatrosu",
+                        "Dostlar Tiyatrosu",
+                        "Kent Oyuncuları",
+                        "AST (Ankara Sanat Tiyatrosu)"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "It represents a defining breakthrough in Turkish civilization."
+                    "answerIndex": 0,
+                    "explanation": "Devekuşu Kabare, Türkiye'de siyasi ve edebi kabare türünün zirvesini temsil eder."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Haldun Taner & The Epic Kabare in the development of Theatre, Dramaturgy & Performing Arts:",
+                    "prompt": "Haldun Taner'in bürokrasiyi ve her devrin adamı olma fırsatçılığını eleştirdiği ünlü hiciv piyesi hangisidir?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "Haldun Taner & The Epic Kabare established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education."
+                        "Gözlerimi Kaparım, Vazifemi Yaparım",
+                        "Çalıkuşu",
+                        "Yaban",
+                        "Kiralık Konak"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Accurate analysis of Haldun Taner & The Epic Kabare (Keşanlı Ali Destanı 1964 ilk epik tiyatro, Devekuşu Kabare, Zeki-Metin)."
+                    "answerIndex": 0,
+                    "explanation": "*Gözlerimi Kaparım Vazifemi Yaparım*, Vicdani ve Efruz karakterleri üzerinden Türkiye'nin yakın tarihini hicveder."
                 },
                 {
-                    "prompt": "What mastery level does completing Haldun Taner & The Epic Kabare contribute to in the FEARN curriculum?",
+                    "prompt": "Keşanlı Ali Destanı oyununun dünya çapında tanınan unutulmaz müziklerini besteleyen ünlü besteci kimdir?",
                     "options": [
-                        "Pre-intermediate B1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Elementary A2",
-                        "Beginner A1"
+                        "Yalçın Tura",
+                        "Münir Nurettin Selçuk",
+                        "Cemal Reşit Rey",
+                        "Ulvi Cemal Erkin"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Prof. Yalçın Tura eserin epik şarkılarını geleneksel Türk makamlarıyla harmanlayarak bestelemiştir."
                 }
             ],
             "passThreshold": 0.8
@@ -16421,78 +16441,83 @@
     },
     "tr-u32-l5": {
         "id": "tr-u32-l5",
-        "unit": "tr-u32",
-        "level": "C2",
-        "objective": "Contemporary Turkish Dramaturgy: Genco Erkal & Dostlar Tiyatrosu (Nâzım Hikmet sahne uyarlamaları): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "unit": "u32",
+        "level": "C1",
+        "objective": "Çağdaş Türk Dramaturgisi: Genco Erkal ve Dostlar Tiyatrosu, Nâzım Hikmet uyarlamaları ve politik sahne.",
         "presentation": {
-            "explanation": "Contemporary Turkish Dramaturgy: Genco Erkal & Dostlar Tiyatrosu (Nâzım Hikmet sahne uyarlamaları) represents a cornerstone of Theatre, Dramaturgy & Performing Arts. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Çağdaş Türk tiyatrosunun en saygın ve ödün vermez doruklarından biri, usta tiyatrocu Genco Erkal (1938–2024) ve 1969 yılında kurduğu «Dostlar Tiyatrosu»dur. Türk tiyatrosunda politik, belgesel ve epik sahneleme anlayışını kurumsallaştıran Erkal, özellikle Nâzım Hikmet'in destansı şiir külliyatını (*Kuvâyi Milliye Destanı*, *Yaşamaya Dair*, *Kerem Gibi*, *Güneşin Sofrasında*) tek kişilik ve çok sesli sahne senfonilerine dönüştürerek efsaneleşti. Nikolay Gogol'ün *Bir Delinin Hatıra Defteri* eserini 1965'ten itibaren Türkiye'de ilk kez tek kişilik oyun olarak oynayan ve neredeyse 60 yıl boyunca aralıksız sahneleyen Erkal, Bertolt Brecht uyarlamaları (*Gurgula*, *Ben Bertolt Brecht*) ve Aziz Nesin taşlamalarıyla açık hava tiyatrolarından tarihi mekanlara kadar kitleleri aydınlatan sarsıcı bir entelektüel direniş kalesi inşa etti.",
             "examples": [
                 {
-                    "target": "Mastery of Contemporary Turkish Dramaturgy: Genco Erkal & Dostlar Tiyatrosu (Nâzım Hikmet sahne uyarlamaları) exemplifies the cultural and expressive pinnacle of Turkish.",
-                    "reading": "Target analysis of Contemporary Turkish Dramaturgy: Genco Erkal & Dostlar Tiyatrosu (Nâzım Hikmet sahne uyarlamaları)...",
-                    "translation": "Mastery of Contemporary Turkish Dramaturgy: Genco Erkal & Dostlar Tiyatrosu (Nâzım Hikmet sahne uyarlamaları) exemplifies the cultural and expressive pinnacle of Turkish."
+                    "target": "Genco Erkal, Bir Delinin Hatıra Defteri'ni Türkiye'de ilk kez tek kişilik sahne gösterisi olarak sergiledi.",
+                    "reading": "Genco Erkal, Bir Delinin Hatıra Defteri'ni Türkiye'de ilk kez tek kişilik sahne gösterisi olarak sergiledi.",
+                    "translation": "Genco Erkal performed Diary of a Madman for the first time in Turkey as a solo one-man stage production."
+                },
+                {
+                    "target": "Dostlar Tiyatrosu, Nâzım Hikmet'in dizelerini halkla buluşturan devrimci bir sahne dili kurdu.",
+                    "reading": "Dostlar Tiyatrosu, Nâzım Hikmet'in dizelerini halkla buluşturan devrimci bir sahne dili kurdu.",
+                    "translation": "Dostlar Theatre established a revolutionary stage language bringing Nâzım Hikmet's verses to the people."
                 }
             ],
             "mnemonics": [
-                "Contemporary Turkish Dramaturgy: Genco Erkal & Dostlar Tiyatrosu (Nâzım Hikmet sahne uyarlamaları)! Essential milestone in Theatre, Dramaturgy & Performing Arts!"
+                "Genco Erkal mirası: Dostlar Tiyatrosu (1969) + Bir Delinin Hatıra Defteri virtüözlüğü + Nâzım Hikmet tutkusu."
             ],
             "culturalNotes": [
-                "Contemporary Turkish Dramaturgy: Genco Erkal & Dostlar Tiyatrosu (Nâzım Hikmet sahne uyarlamaları) is celebrated worldwide as a defining achievement of Turkish heritage."
+                "Genco Erkal, sinemada Erden Kıral'ın yönettiği 1983 yapımı *Hakkâri'de Bir Mevsim* filmindeki öğretmen rolüyle Berlin Film Festivali'nde Gümüş Ayı ödülünü paylaşmıştır."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Contemporary Turkish Dramaturgy: Genco Erkal & Dostlar Tiyatrosu (Nâzım Hikmet sahne uyarlamaları)?",
+                    "prompt": "1969 yılında Genco Erkal ve arkadaşları tarafından kurulan ve Türk politik tiyatrosunun öncüsü olan topluluk hangisidir?",
                     "options": [
-                        "Contemporary Turkish Dramaturgy: Genco Erkal & Dostlar Tiyatrosu (160.1)",
-                        "Generic introductory concept (160.2)",
-                        "Modern fast-food trend (160.3)",
-                        "Irrelevant topic (160.4)"
+                        "Dostlar Tiyatrosu",
+                        "Oyun Atölyesi",
+                        "Kenter Tiyatrosu",
+                        "BKM"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Contemporary Turkish Dramaturgy: Genco Erkal & Dostlar Tiyatrosu is the central subject."
+                    "explanation": "Dostlar Tiyatrosu, yarım asrı aşkın süre boyunca toplumcu tiyatronun öncülüğünü yapmıştır."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Dramaturgy & Performing Arts, what is the primary significance of Contemporary Turkish Dramaturgy: Genco Erkal & Dostlar Tiyatrosu?",
+                    "prompt": "Genco Erkal'ın 1965 yılından itibaren Türkiye'de ilk tek kişilik oyun olarak sahnelediği Gogol eseri hangisidir?",
                     "options": [
-                        "It has no historical significance. (160.1)",
-                        "It was imported from an unrelated continent. (160.2)",
-                        "It was invented yesterday. (160.3)",
-                        "It represents a defining historical and aesthetic breakthrough in Turkish civilization. (160.4)"
+                        "Bir Delinin Hatıra Defteri",
+                        "Müfettiş",
+                        "Ölü Canlar",
+                        "Palto"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "It represents a defining breakthrough in Turkish civilization."
+                    "answerIndex": 0,
+                    "explanation": "*Bir Delinin Hatıra Defteri* Poprişçin karakteriyle Genco Erkal'ın anıtlaşmış başyapıtıdır."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Contemporary Turkish Dramaturgy: Genco Erkal & Dostlar Tiyatrosu in the development of Theatre, Dramaturgy & Performing Arts:",
+                    "prompt": "Genco Erkal hangi dünya şairinin şiirlerini tiyatro sahnesine taşıyarak Yaşamaya Dair ve Kerem Gibi oyunlarını yaratmıştır?",
                     "options": [
-                        "It was completely forgotten within a week.",
-                        "Contemporary Turkish Dramaturgy: Genco Erkal & Dostlar Tiyatrosu established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education.",
-                        "It was a minor commercial advertising campaign."
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "Accurate analysis of Contemporary Turkish Dramaturgy: Genco Erkal & Dostlar Tiyatrosu (Nâzım Hikmet sahne uyarlamaları)."
-                },
-                {
-                    "prompt": "What mastery level does completing Contemporary Turkish Dramaturgy: Genco Erkal & Dostlar Tiyatrosu contribute to in the FEARN curriculum?",
-                    "options": [
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Elementary A2",
-                        "Pre-intermediate B1",
-                        "Beginner A1"
+                        "Nâzım Hikmet Ran",
+                        "Attila İlhan",
+                        "Orhan Veli Kanık",
+                        "Ahmet Arif"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "explanation": "Genco Erkal, Nâzım Hikmet'in şiirlerini tiyatro formunda sahneleyen en büyük ustaydı."
+                },
+                {
+                    "prompt": "Genco Erkal'ın başrolünü oynadığı ve 1983 Berlin Film Festivali'nde Gümüş Ayı kazanan ünlü film hangisidir?",
+                    "options": [
+                        "Hakkâri'de Bir Mevsim",
+                        "Yol",
+                        "Umut",
+                        "Sürü"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Ferit Edgü'nün romanından uyarlanan *Hakkâri'de Bir Mevsim*, Türk sinemasının başyapıtlarındandır."
                 }
             ],
             "passThreshold": 0.8
@@ -16500,78 +16525,83 @@
     },
     "tr-u33-l1": {
         "id": "tr-u33-l1",
-        "unit": "tr-u33",
+        "unit": "u33",
         "level": "C1",
-        "objective": "Mimar Sinan & The Imperial Ottoman Peak (Mimar Sinan: Şehzadebaşı, Süleymaniye ve Edirne Selimiye Camii 1575): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "objective": "Mimar Sinan ve Klasik Osmanlı Mimarisi: Şehzadebaşı («çıraklık»), Süleymaniye («kalfalık») ve Selimiye («ustalık», 1575).",
         "presentation": {
-            "explanation": "Mimar Sinan & The Imperial Ottoman Peak (Mimar Sinan: Şehzadebaşı, Süleymaniye ve Edirne Selimiye Camii 1575) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Koca Mimar Sinan (1488/1490–1588), Osmanlı İmparatorluğu'nun Başmimarı (Ser-mimarân-ı Hassa) olarak yaklaşık 50 yıl boyunca görev yapmış ve dünya mimarlık tarihinin en büyük dâhilerinden biri kabul edilmiştir. Sinan, merkezi kubbe mekanını kademeli yarım kubbeler, pandantifler, tromplar ve filayaklarıyla genişleterek ferah, aydınlık ve tek parça bir iç mekan elde etme idealini kusursuzlaştırmıştır. Kendi ifadesiyle gelişim çizgisini üç anıtsal camiyle özetlemiştir: Çıraklık eseri *Şehzade Camii* (1548, merkezi kubbeyi dört yarım kubbeyle çevreleyen ideal simetri), kalfalık eseri İstanbul *Süleymaniye Camii* (1557, Kanuni Sultan Süleyman adına Haliç'e nazır inşa edilen, akustik küpleri ve hava akım odalarıyla donatılmış muazzam külliye) ve ustalık eseri Edirne *Selimiye Camii* (1575, UNESCO Dünya Mirası). Selimiye'de 31,25 metrelik devasa ana kubbeyi sekiz büyük filayağı üzerine oturtarak hiçbir yarım kubbeye ihtiyaç duymadan mekan bütünlüğü ve ferahlıkta erişilmez bir zirveye ulaşmıştır.",
             "examples": [
                 {
-                    "target": "Mastery of Mimar Sinan & The Imperial Ottoman Peak (Mimar Sinan: Şehzadebaşı, Süleymaniye ve Edirne Selimiye Camii 1575) exemplifies the cultural and expressive pinnacle of Turkish.",
-                    "reading": "Target analysis of Mimar Sinan & The Imperial Ottoman Peak (Mimar Sinan: Şehzadebaşı, Süleymaniye ve Edirne Selimiye Camii 1575)...",
-                    "translation": "Mastery of Mimar Sinan & The Imperial Ottoman Peak (Mimar Sinan: Şehzadebaşı, Süleymaniye ve Edirne Selimiye Camii 1575) exemplifies the cultural and expressive pinnacle of Turkish."
+                    "target": "Selimiye Camii'nin sekizgen kaideye oturan kubbesi iç mekanda benzersiz bir ferahlık ve aydınlık yaratır.",
+                    "reading": "Selimiye Camii'nin sekizgen kaideye oturan kubbesi iç mekanda benzersiz bir ferahlık ve aydınlık yaratır.",
+                    "translation": "The dome of Selimiye Mosque sitting on an octagonal base creates unique spaciousness and light inside."
+                },
+                {
+                    "target": "Süleymaniye Külliyesi; medreseleri, darüşşifası ve kütüphanesiyle devrin en büyük üniversite kampüsüdür.",
+                    "reading": "Süleymaniye Külliyesi; medreseleri, darüşşifası ve kütüphanesiyle devrin en büyük üniversite kampüsüdür.",
+                    "translation": "Süleymaniye Complex was the greatest university campus of the era with its madrasas, hospital, and library."
                 }
             ],
             "mnemonics": [
-                "Mimar Sinan & The Imperial Ottoman Peak (Mimar Sinan: Şehzadebaşı, Süleymaniye ve Edirne Selimiye Camii 1575)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "Mimar Sinan üçlemesi: Şehzade (çıraklık - 4 yarım kubbe) -> Süleymaniye (kalfalık - külliye ihtişamı) -> Selimiye (ustalık - 8 filayağı)."
             ],
             "culturalNotes": [
-                "Mimar Sinan & The Imperial Ottoman Peak (Mimar Sinan: Şehzadebaşı, Süleymaniye ve Edirne Selimiye Camii 1575) is celebrated worldwide as a defining achievement of Turkish heritage."
+                "Mimar Sinan'ın Süleymaniye Camii'nde yanan yüzlerce kandilin isini toplayıp mürekkep yaptığı ve hava akımıyla yönlendirdiği «İs Odası» mühendislik harikasıdır."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Mimar Sinan & The Imperial Ottoman Peak (Mimar Sinan: Şehzadebaşı, Süleymaniye ve Edirne Selimiye Camii 1575)?",
+                    "prompt": "Mimar Sinan'ın bizzat kendi sözleriyle «ustalık eserim» dediği ve 1575 yılında tamamlanan Edirne'deki şaheseri hangisidir?",
                     "options": [
-                        "Generic introductory concept (161.1)",
-                        "Irrelevant topic (161.2)",
-                        "Modern fast-food trend (161.3)",
-                        "Mimar Sinan & The Imperial Ottoman Peak (161.4)"
+                        "Selimiye Camii",
+                        "Süleymaniye Camii",
+                        "Şehzade Camii",
+                        "Mihrimah Sultan Camii"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Mimar Sinan & The Imperial Ottoman Peak is the central subject."
+                    "answerIndex": 0,
+                    "explanation": "Edirne Selimiye Camii, Sinan'ın sekizgen taşıyıcı sistemle merkezi kubbeyi zirveye ulaştırdığı ustalık yapıtıdır."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of Mimar Sinan & The Imperial Ottoman Peak?",
+                    "prompt": "Mimar Sinan'ın Süleymaniye Camii kubbesinin altına yerleştirdiği ters çömlekler ve küpler hangi mühendislik amacına hizmet eder?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Turkish civilization. (161.1)",
-                        "It has no historical significance. (161.2)",
-                        "It was imported from an unrelated continent. (161.3)",
-                        "It was invented yesterday. (161.4)"
+                        "Mükemmel bir akustik rezonans sağlamak ve sesin her köşeye eşit yayılmasını temin etmek.",
+                        "Deprem anında su depolamak.",
+                        "Caminin içine kuşların yuva yapmasını engellemek.",
+                        "Fazla altınları saklamak."
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Turkish civilization."
+                    "explanation": "Sinan kubbe içine içi boş akustik küpler yerleştirerek insan sesinin kusursuz yankılanmasını sağlamıştır."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Mimar Sinan & The Imperial Ottoman Peak in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "Mimar Sinan'ın «çıraklık eserim» olarak nitelendirdiği İstanbul Fatih'teki 1548 tarihli anıtsal cami hangisidir?",
                     "options": [
-                        "Mimar Sinan & The Imperial Ottoman Peak established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It was a minor commercial advertising campaign.",
-                        "It only applied to elementary school education.",
-                        "It was completely forgotten within a week."
+                        "Şehzade Camii (Şehzade Mehmet adına)",
+                        "Rüstem Paşa Camii",
+                        "Kılıç Ali Paşa Camii",
+                        "Piyale Paşa Camii"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Accurate analysis of Mimar Sinan & The Imperial Ottoman Peak (Mimar Sinan: Şehzadebaşı, Süleymaniye ve Edirne Selimiye Camii 1575)."
+                    "explanation": "Şehzade Camii, Kanuni'nin genç yaşta ölen oğlu Şehzade Mehmet için yaptırılmış ve Sinan'ın ilk anıt yapısı olmuştur."
                 },
                 {
-                    "prompt": "What mastery level does completing Mimar Sinan & The Imperial Ottoman Peak contribute to in the FEARN curriculum?",
+                    "prompt": "Mimar Sinan'ın türbesi İstanbul'da hangi büyük külliyenin hemen kuzeydoğu köşesinde mütevazı bir açık türbede yer alır?",
                     "options": [
-                        "Elementary A2",
-                        "Beginner A1",
-                        "Pre-intermediate B1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery"
+                        "Süleymaniye Külliyesi",
+                        "Fatih Külliyesi",
+                        "Sultanahmet Camii",
+                        "Eyüp Sultan Külliyesi"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Sinan kendi tasarladığı sade türbesinde Süleymaniye Camii'nin gölgesinde yatmaktadır."
                 }
             ],
             "passThreshold": 0.8
@@ -16579,78 +16609,83 @@
     },
     "tr-u33-l2": {
         "id": "tr-u33-l2",
-        "unit": "tr-u33",
+        "unit": "u33",
         "level": "C1",
-        "objective": "Hagia Sophia: The Architectural Matrix (Ayasofya 537 yılı, pandantif kubbe geometrisi, 1500 yıllık mabet): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "objective": "Ayasofya: Mimarlık tarihinin 1500 yıllık matrisi, pandantif kubbe geometrisi ve Doğu Roma-Osmanlı sentezi (537).",
         "presentation": {
-            "explanation": "Hagia Sophia: The Architectural Matrix (Ayasofya 537 yılı, pandantif kubbe geometrisi, 1500 yıllık mabet) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Ayasofya (Kutsal Bilgelik / Hagia Sophia), Doğu Roma İmparatoru I. Justinianus tarafından 532–537 yılları arasında Miletli İsidoros ve Trallesli Anthemios adlı iki matematikçi ve fizikçiye inşa ettirilen, dünya mimarlık tarihinin en devrimci anıtlarından biridir. Dört devasa kemer üzerine oturtulan 31 metre çapındaki basık ana kubbe, ağırlığını köşe «pandantifler» (küresel üçgenler) aracılığıyla dört masif ayağa aktararak kare bir tabanın üzerinde havada asılıymış hissi verir. 1453'te Fatih Sultan Mehmet'in İstanbul'u fethiyle camiye dönüştürülen yapı, Osmanlı döneminde Mimar Sinan tarafından eklenen devasa dış payandalar ve istinat duvarları sayesinde depremlere karşı güçlendirilmiş, minareler, Kazasker Mustafa İzzet Efendi'nin devasa hat levhaları ve hünkar mahfili ile Doğu Roma ve İslam sanatının görkemli bir sentezine dönüşmüştür.",
             "examples": [
                 {
-                    "target": "Mastery of Hagia Sophia: The Architectural Matrix (Ayasofya 537 yılı, pandantif kubbe geometrisi, 1500 yıllık mabet) exemplifies the cultural and expressive pinnacle of Turkish.",
-                    "reading": "Target analysis of Hagia Sophia: The Architectural Matrix (Ayasofya 537 yılı, pandantif kubbe geometrisi, 1500 yıllık mabet)...",
-                    "translation": "Mastery of Hagia Sophia: The Architectural Matrix (Ayasofya 537 yılı, pandantif kubbe geometrisi, 1500 yıllık mabet) exemplifies the cultural and expressive pinnacle of Turkish."
+                    "target": "Ayasofya'nın pandantif kubbe sistemi, kubbenin adeta gökyüzünden altın bir zincirle sarkıtıldığı hissini verir.",
+                    "reading": "Ayasofya'nın pandantif kubbe sistemi, kubbenin adeta gökyüzünden altın bir zincirle sarkıtıldığı hissini verir.",
+                    "translation": "Hagia Sophia's pendentive dome system creates the impression that the dome is suspended by a golden chain from heaven."
+                },
+                {
+                    "target": "Mimar Sinan'ın eklediği istinat payandaları Ayasofya'yı günümüze kadar ayakta tutan can simidi olmuştur.",
+                    "reading": "Mimar Sinan'ın eklediği istinat payandaları Ayasofya'yı günümüze kadar ayakta tutan can simidi olmuştur.",
+                    "translation": "The retaining buttresses added by Mimar Sinan were the lifeline keeping Hagia Sophia standing to this day."
                 }
             ],
             "mnemonics": [
-                "Hagia Sophia: The Architectural Matrix (Ayasofya 537 yılı, pandantif kubbe geometrisi, 1500 yıllık mabet)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "Ayasofya geometrisi: Kare plan üzerine oturan pandantifli ana kubbe + doğu ve batı yarım kubbeleri."
             ],
             "culturalNotes": [
-                "Hagia Sophia: The Architectural Matrix (Ayasofya 537 yılı, pandantif kubbe geometrisi, 1500 yıllık mabet) is celebrated worldwide as a defining achievement of Turkish heritage."
+                "Ayasofya, 537 yılındaki inşasından 1520 yılında Sevilla Katedrali tamamlanana kadar yaklaşık bin yıl boyunca dünyanın en büyük katedrali unvanını korumuştur."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Hagia Sophia: The Architectural Matrix (Ayasofya 537 yılı, pandantif kubbe geometrisi, 1500 yıllık mabet)?",
+                    "prompt": "Dairesel bir kubbenin kare planlı bir alt yapıya statik olarak oturmasını sağlayan küresel üçgen mimari elemana ne ad verilir?",
                     "options": [
-                        "Hagia Sophia: The Architectural Matrix (162.1)",
-                        "Irrelevant topic (162.2)",
-                        "Modern fast-food trend (162.3)",
-                        "Generic introductory concept (162.4)"
+                        "Pandantif (küresel bingi)",
+                        "Sütun başlığı",
+                        "Kemer kilittaşı",
+                        "Çan kulesi"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Hagia Sophia: The Architectural Matrix is the central subject."
+                    "explanation": "Pandantifler, küre kesiti üçgenler olarak kubbe yükünü dört ana sütun ayağına aktarır."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of Hagia Sophia: The Architectural Matrix?",
+                    "prompt": "16. yüzyılda Ayasofya'nın yıkılmasını engellemek için dev istinat duvarları ve minareler inşa eden Osmanlı mimarı kimdir?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Turkish civilization. (162.1)",
-                        "It has no historical significance. (162.2)",
-                        "It was invented yesterday. (162.3)",
-                        "It was imported from an unrelated continent. (162.4)"
+                        "Mimar Sinan",
+                        "Mimar Hayrettin",
+                        "Sedefkâr Mehmet Ağa",
+                        "Balyan Usta"
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Turkish civilization."
+                    "explanation": "Mimar Sinan yaptığı payanda ve destek duvarlarıyla yapının statik ömrünü uzatmıştır."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Hagia Sophia: The Architectural Matrix in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "Ayasofya'nın yapımını 532 yılında başlatan Doğu Roma (Bizans) İmparatoru kimdir?",
                     "options": [
-                        "It only applied to elementary school education.",
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "Hagia Sophia: The Architectural Matrix established enduring philosophical, technical, and expressive standards across the tradition."
+                        "I. Justinianus",
+                        "Büyük Konstantin",
+                        "Teodosyus",
+                        "Herakleios"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Accurate analysis of Hagia Sophia: The Architectural Matrix (Ayasofya 537 yılı, pandantif kubbe geometrisi, 1500 yıllık mabet)."
+                    "answerIndex": 0,
+                    "explanation": "İmparator I. Justinianus, Nika Ayaklanması'ndan hemen sonra yapıyı 5 yılda inşa ettirmiştir."
                 },
                 {
-                    "prompt": "What mastery level does completing Hagia Sophia: The Architectural Matrix contribute to in the FEARN curriculum?",
+                    "prompt": "Ayasofya'nın kubbe eteğini çevreleyen kaç adet pencere iç mekana mistik bir ışık akışı sağlar?",
                     "options": [
-                        "Elementary A2",
-                        "Beginner A1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Pre-intermediate B1"
+                        "40 pencere",
+                        "12 pencere",
+                        "4 pencere",
+                        "100 pencere"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Kubbe kasnağındaki 40 pencere kubbenin adeta ışık üzerinde yüzdüğü yanılsamasını yaratır."
                 }
             ],
             "passThreshold": 0.8
@@ -16658,78 +16693,83 @@
     },
     "tr-u33-l3": {
         "id": "tr-u33-l3",
-        "unit": "tr-u33",
-        "level": "C2",
-        "objective": "Topkapı Palace & The Imperial Courtyard Divan (Topkapı Sarayı, Bab-ı Hümayun, Harem, Enderun Mektebi): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "unit": "u33",
+        "level": "C1",
+        "objective": "Topkapı Sarayı ve Divan Avluları: Bâb-ı Hümâyûn, Harem-i Hümâyûn, Enderun Mektebi ve ahşap köşk mimarisi.",
         "presentation": {
-            "explanation": "Topkapı Palace & The Imperial Courtyard Divan (Topkapı Sarayı, Bab-ı Hümayun, Harem, Enderun Mektebi) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Topkapı Sarayı (Saray-ı Cedîd-i Âmire), Fatih Sultan Mehmet tarafından 1460–1478 yılları arasında Sarayburnu yarımadasında inşa ettirilen ve yaklaşık 400 yıl boyunca Osmanlı İmparatorluğu'nun idari, siyasi ve hanedan merkezi olan eşsiz bir organik saray kompleksidir. Avrupa'daki tek parça simetrik kütle sarayların (Versailles gibi) aksine Topkapı Sarayı; birbirini takip eden dört törensel avlu etrafında bahçeler, köşkler, divan binaları ve revaklarla harmanlanmış asimetrik ve insani ölçekli bir yerleşim düzenine sahiptir. Birinci avludaki anıtsal *Bâb-ı Hümâyûn* ve *Bâbüsselâm* (Selam Kapısı), ikinci avludaki devlet yönetim merkezi *Divan-ı Hümâyûn* (Kubbealtı) ve Adalet Kulesi, üçüncü avludaki *Enderun Mektebi* ve Hazine, dördüncü avludaki Boğaz manzaralı Revan ve Bağdat Köşkleri ile gizemli *Harem*, Osmanlı klasik saray yaşamının ve ahşap-çini bezeme sanatının zirvesini sergiler.",
             "examples": [
                 {
-                    "target": "Mastery of Topkapı Palace & The Imperial Courtyard Divan (Topkapı Sarayı, Bab-ı Hümayun, Harem, Enderun Mektebi) exemplifies the cultural and expressive pinnacle of Turkish.",
-                    "reading": "Target analysis of Topkapı Palace & The Imperial Courtyard Divan (Topkapı Sarayı, Bab-ı Hümayun, Harem, Enderun Mektebi)...",
-                    "translation": "Mastery of Topkapı Palace & The Imperial Courtyard Divan (Topkapı Sarayı, Bab-ı Hümayun, Harem, Enderun Mektebi) exemplifies the cultural and expressive pinnacle of Turkish."
+                    "target": "Bağdat Köşkü, IV. Murad'ın Bağdat fethi anısına çinilerle bezenmiş klasik köşk mimarisinin şaheseridir.",
+                    "reading": "Bağdat Köşkü, IV. Murad'ın Bağdat fethi anısına çinilerle bezenmiş klasik köşk mimarisinin şaheseridir.",
+                    "translation": "Baghdad Kiosk is the masterpiece of classical pavilion architecture decorated with tiles in memory of Murad IV's conquest of Baghdad."
+                },
+                {
+                    "target": "Kubbealtı salonu, vezirlerin sadrazam başkanlığında cihan devletinin kararlarını aldığı divan merkezidir.",
+                    "reading": "Kubbealtı salonu, vezirlerin sadrazam başkanlığında cihan devletinin kararlarını aldığı divan merkezidir.",
+                    "translation": "The Kubbealtı hall is the imperial council center where viziers presided over by the Grand Vizier took decisions of the world state."
                 }
             ],
             "mnemonics": [
-                "Topkapı Palace & The Imperial Courtyard Divan (Topkapı Sarayı, Bab-ı Hümayun, Harem, Enderun Mektebi)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "Topkapı Sarayı 4 Avlu Mantığı: 1. Alay Meydanı -> 2. Divan Meydanı -> 3. Enderun Avlusu -> 4. Hasbahçe ve Köşkler."
             ],
             "culturalNotes": [
-                "Topkapı Palace & The Imperial Courtyard Divan (Topkapı Sarayı, Bab-ı Hümayun, Harem, Enderun Mektebi) is celebrated worldwide as a defining achievement of Turkish heritage."
+                "Topkapı Sarayı Mukaddes Emanetler Dairesi'nde Yavuz Sultan Selim'in 1517 Mısır seferinden bu yana 500 yılı aşkın süredir 24 saat kesintisiz Kur'an-ı Kerim tilaveti geleneği sürmektedir."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Topkapı Palace & The Imperial Courtyard Divan (Topkapı Sarayı, Bab-ı Hümayun, Harem, Enderun Mektebi)?",
+                    "prompt": "Topkapı Sarayı'nda devlet işlerinin görüşüldüğü vezirler divanı olan Kubbealtı hangi avluda yer alır?",
                     "options": [
-                        "Topkapı Palace & The Imperial Courtyard Divan (163.1)",
-                        "Generic introductory concept (163.2)",
-                        "Irrelevant topic (163.3)",
-                        "Modern fast-food trend (163.4)"
+                        "İkinci Avlu (Divan Meydanı)",
+                        "Birinci Avlu (Alay Meydanı)",
+                        "Üçüncü Avlu (Enderun)",
+                        "Gülhane Parkı"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Topkapı Palace & The Imperial Courtyard Divan is the central subject."
+                    "explanation": "İkinci avlu devlet yönetiminin ve ulufe dağıtım törenlerinin yapıldığı resmi merkezdir."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of Topkapı Palace & The Imperial Courtyard Divan?",
+                    "prompt": "Osmanlı bürokrat ve devlet adamlarının eğitildiği Topkapı Sarayı üçüncü avlusundaki tarihi okul hangisidir?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Turkish civilization. (163.1)",
-                        "It was imported from an unrelated continent. (163.2)",
-                        "It was invented yesterday. (163.3)",
-                        "It has no historical significance. (163.4)"
+                        "Enderun Mektebi",
+                        "Darülmuallimin",
+                        "Kuleli Mektebi",
+                        "Mülkiye Mektebi"
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Turkish civilization."
+                    "explanation": "Enderun Mektebi, yetenekli gençleri imparatorluğun zirve yöneticileri olarak yetiştiren elit okuldur."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Topkapı Palace & The Imperial Courtyard Divan in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "Topkapı Sarayı'nın siluetinde en yüksek yapı olan ve adaletin saray üzerindeki üstünlüğünü simgeleyen kule hangisidir?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "Topkapı Palace & The Imperial Courtyard Divan established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education."
+                        "Adalet Kulesi (Kasr-ı Adl)",
+                        "Galata Kulesi",
+                        "Beyazıt Kulesi",
+                        "Kız Kulesi"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Accurate analysis of Topkapı Palace & The Imperial Courtyard Divan (Topkapı Sarayı, Bab-ı Hümayun, Harem, Enderun Mektebi)."
+                    "answerIndex": 0,
+                    "explanation": "Adalet Kulesi Kubbealtı'nın hemen yanında yükselir ve padişahın divanı gizlice izlediği pencereye sahiptir."
                 },
                 {
-                    "prompt": "What mastery level does completing Topkapı Palace & The Imperial Courtyard Divan contribute to in the FEARN curriculum?",
+                    "prompt": "Topkapı Sarayı'nı 1478 yılında tamamlatarak ilk kez ikametgah ve yönetim merkezi olarak kullanan Osmanlı padişahı kimdir?",
                     "options": [
-                        "Beginner A1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Pre-intermediate B1",
-                        "Elementary A2"
+                        "Fatih Sultan Mehmet",
+                        "Kanuni Sultan Süleyman",
+                        "Yavuz Sultan Selim",
+                        "II. Abdülhamid"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Fatih Sultan Mehmet fetihten sonra sarayın inşasını emretmiş ve buraya yerleşmiştir."
                 }
             ],
             "passThreshold": 0.8
@@ -16737,78 +16777,83 @@
     },
     "tr-u33-l4": {
         "id": "tr-u33-l4",
-        "unit": "tr-u33",
-        "level": "C2",
-        "objective": "The Balyan Dynasty & Bosphorus Baroque: Dolmabahçe Palace (Balyan Ailesi, Dolmabahçe 1856, Ortaköy Camii): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "unit": "u33",
+        "level": "C1",
+        "objective": "Balyan Ailesi ve Boğaziçi Baroku: Dolmabahçe Sarayı (1856), Çırağan, Beylerbeyi ve Ortaköy Camii.",
         "presentation": {
-            "explanation": "The Balyan Dynasty & Bosphorus Baroque: Dolmabahçe Palace (Balyan Ailesi, Dolmabahçe 1856, Ortaköy Camii) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "19. yüzyıl Osmanlı modernleşme (Tanzimat) dönemi mimarlığına, birkaç kuşak boyunca hassa mimarı olarak hizmet veren Ermeni kökenli Balyan Ailesi (Garabet Amira Balyan, Nigoğos Balyan, Sarkis Balyan) damgasını vurmuştur. Sultan Abdülmecid'in emriyle 1843–1856 yılları arasında inşa edilen *Dolmabahçe Sarayı*, Osmanlı saray mimarisinde geleneksel köşkler düzeninden tek kütleli, 285 odalı ve 44 salonlu anıtsal bir Avrupa sarayına geçişi simgeler. Boğaz kıyısında yükselen saray; Fransız Baroku, Rokoko ve Neoklasisizmi Osmanlı süsleme zevkiyle birleştiren eklektik bir üsluba («Boğaziçi Baroku») sahiptir. Sarayın 4,5 tonluk İngiliz kristal avizesiyle aydınlanan 36 metre yüksekliğindeki Muayede Salonu (Tören Salonu) ve Nigoğos Balyan tasarımı Ortaköy (Büyük Mecidiye) Camii, Boğaziçi siluetinin en zarif neobarok simgeleridir.",
             "examples": [
                 {
-                    "target": "Mastery of The Balyan Dynasty & Bosphorus Baroque: Dolmabahçe Palace (Balyan Ailesi, Dolmabahçe 1856, Ortaköy Camii) exemplifies the cultural and expressive pinnacle of Turkish.",
-                    "reading": "Target analysis of The Balyan Dynasty & Bosphorus Baroque: Dolmabahçe Palace (Balyan Ailesi, Dolmabahçe 1856, Ortaköy Camii)...",
-                    "translation": "Mastery of The Balyan Dynasty & Bosphorus Baroque: Dolmabahçe Palace (Balyan Ailesi, Dolmabahçe 1856, Ortaköy Camii) exemplifies the cultural and expressive pinnacle of Turkish."
+                    "target": "Dolmabahçe Sarayı'nın Muayede Salonu, görkemli kubbesi ve kristal avizesiyle imparatorluğun batılılaşan yüzüdür.",
+                    "reading": "Dolmabahçe Sarayı'nın Muayede Salonu, görkemli kubbesi ve kristal avizesiyle imparatorluğun batılılaşan yüzüdür.",
+                    "translation": "The Muayede Hall of Dolmabahçe Palace is the westernizing face of the empire with its magnificent dome and crystal chandelier."
+                },
+                {
+                    "target": "Ortaköy Camii, zarif neobarok taş oymacılığıyla Boğaz köprüsü altında büyüleyici bir tezat sunar.",
+                    "reading": "Ortaköy Camii, zarif neobarok taş oymacılığıyla Boğaz köprüsü altında büyüleyici bir tezat sunar.",
+                    "translation": "Ortaköy Mosque offers a mesmerizing contrast beneath the Bosphorus Bridge with its elegant neo-baroque stonework."
                 }
             ],
             "mnemonics": [
-                "The Balyan Dynasty & Bosphorus Baroque: Dolmabahçe Palace (Balyan Ailesi, Dolmabahçe 1856, Ortaköy Camii)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "Balyan Hanedanı & Boğaziçi Baroku: Dolmabahçe Sarayı (1856) + Ortaköy Camii + Beylerbeyi Sarayı."
             ],
             "culturalNotes": [
-                "The Balyan Dynasty & Bosphorus Baroque: Dolmabahçe Palace (Balyan Ailesi, Dolmabahçe 1856, Ortaköy Camii) is celebrated worldwide as a defining achievement of Turkish heritage."
+                "Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk, 10 Kasım 1938 günü saat 09.05'te Dolmabahçe Sarayı'nın 71 numaralı odasında ebediyete intikal etmiştir."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of The Balyan Dynasty & Bosphorus Baroque: Dolmabahçe Palace (Balyan Ailesi, Dolmabahçe 1856, Ortaköy Camii)?",
+                    "prompt": "19. yüzyılda Dolmabahçe Sarayı, Ortaköy Camii ve Beylerbeyi Sarayı gibi anıtsal Boğaz yapılarını tasarlayan ünlü mimar ailesi kimdir?",
                     "options": [
-                        "Generic introductory concept (164.1)",
-                        "Irrelevant topic (164.2)",
-                        "Modern fast-food trend (164.3)",
-                        "The Balyan Dynasty & Bosphorus Baroque: Dolmabahçe Palace (164.4)"
+                        "Balyan Ailesi (Garabet, Nigoğos ve Sarkis Balyan)",
+                        "Fossati Kardeşler",
+                        "D'Aronco Hanedanı",
+                        "Melling Kardeşler"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "The Balyan Dynasty & Bosphorus Baroque: Dolmabahçe Palace is the central subject."
+                    "answerIndex": 0,
+                    "explanation": "Balyan ailesi Tanzimat ve sonrasında Osmanlı saray mimarları olarak anıtsal yapılar inşa etmiştir."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of The Balyan Dynasty & Bosphorus Baroque: Dolmabahçe Palace?",
+                    "prompt": "Dolmabahçe Sarayı'nın inşasını 1843 yılında başlatan ve 1856'da açılışını yapan Osmanlı padişahı kimdir?",
                     "options": [
-                        "It has no historical significance. (164.1)",
-                        "It was imported from an unrelated continent. (164.2)",
-                        "It was invented yesterday. (164.3)",
-                        "It represents a defining historical and aesthetic breakthrough in Turkish civilization. (164.4)"
+                        "Sultan Abdülmecid",
+                        "Sultan II. Mahmud",
+                        "Sultan Abdülaziz",
+                        "Sultan V. Murad"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "It represents a defining breakthrough in Turkish civilization."
+                    "answerIndex": 0,
+                    "explanation": "Sultan Abdülmecid, Topkapı Sarayı'ndan taşınarak Dolmabahçe Sarayı'nı resmi ikametgâh yapmıştır."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of The Balyan Dynasty & Bosphorus Baroque: Dolmabahçe Palace in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "Dolmabahçe Sarayı'nın merkezindeki 36 metre yüksekliğindeki anıtsal Tören Salonu'nda (Muayede Salonu) asılı olan devasa kristal avize kaç tondur?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "The Balyan Dynasty & Bosphorus Baroque: Dolmabahçe Palace established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education.",
-                        "It was completely forgotten within a week."
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "Accurate analysis of The Balyan Dynasty & Bosphorus Baroque: Dolmabahçe Palace (Balyan Ailesi, Dolmabahçe 1856, Ortaköy Camii)."
-                },
-                {
-                    "prompt": "What mastery level does completing The Balyan Dynasty & Bosphorus Baroque: Dolmabahçe Palace contribute to in the FEARN curriculum?",
-                    "options": [
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Elementary A2",
-                        "Pre-intermediate B1",
-                        "Beginner A1"
+                        "4,5 ton (İngiltere Kraliçesi Victoria hediyesi)",
+                        "500 kilogram",
+                        "20 ton",
+                        "100 kilogram"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "explanation": "Salonda asılı 4,5 tonluk avize 750 ampul ve kristal prizmalarla donatılmıştır."
+                },
+                {
+                    "prompt": "Mustafa Kemal Atatürk'ün 10 Kasım 1938'de hayata gözlerini yumduğu tarihi mekan neresidir?",
+                    "options": [
+                        "Dolmabahçe Sarayı",
+                        "Çankaya Köşkü",
+                        "Yıldız Sarayı",
+                        "Beylerbeyi Sarayı"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Atatürk yaşamının son aylarını Dolmabahçe Sarayı'nda geçirmiş ve burada vefat etmiştir."
                 }
             ],
             "passThreshold": 0.8
@@ -16816,78 +16861,83 @@
     },
     "tr-u33-l5": {
         "id": "tr-u33-l5",
-        "unit": "tr-u33",
-        "level": "C2",
-        "objective": "Contemporary Turkish Architecture: Sedad Hakkı Eldem & Emre Arolat (Sancaklar Camii yer altı minimalist beton mimarisi): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "unit": "u33",
+        "level": "C1",
+        "objective": "Çağdaş Türk Mimarisi: Sedad Hakkı Eldem (Türk Evi) ve Emre Arolat (Sancaklar Camii, 2012).",
         "presentation": {
-            "explanation": "Contemporary Turkish Architecture: Sedad Hakkı Eldem & Emre Arolat (Sancaklar Camii yer altı minimalist beton mimarisi) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Çağdaş Türk mimarlığı, cumhuriyetin rasyonel modernizmi ile geleneksel Anadolu-Osmanlı mekan hafızasının sentezinde öncü eserler üretmiştir. Sedad Hakkı Eldem (1908–1988), «Türk Evi» tipolojisini bilimsel olarak sınıflandırıp geniş saçaklar, cumbalar, eliböğründeler ve modüler pencere dizilimlerini modern betonarme karkas mimariyle birleştirerek Milli Mimarlık Semineri ve Zeyrek Sosyal Sigortalar Kurumu Binası (1970, Ağa Han Mimarlık Ödülü) gibi başyapıtlar kazandırdı. 21. yüzyılda ise Emre Arolat (EAA), İstanbul Büyükçekmece'de tasarladığı *Sancaklar Camii* (2012) ile geleneksel cami formunun kubbe ve minare klişelerini tamamen yıktı: Eğimli topoğrafyaya gömülü brüt beton, doğal kayrak taşları, yer altı sadeliği ve sadece kıble duvarındaki yarıktan süzülen dramatik gün ışığıyla ibadeti dünyevi gösterişten arındırıp saf bir manevi huşu mekanına dönüştürerek uluslararası RIBA ve WAF ödüllerine layık görüldü.",
             "examples": [
                 {
-                    "target": "Mastery of Contemporary Turkish Architecture: Sedad Hakkı Eldem & Emre Arolat (Sancaklar Camii yer altı minimalist beton mimarisi) exemplifies the cultural and expressive pinnacle of Turkish.",
-                    "reading": "Target analysis of Contemporary Turkish Architecture: Sedad Hakkı Eldem & Emre Arolat (Sancaklar Camii yer altı minimalist beton mimarisi)...",
-                    "translation": "Mastery of Contemporary Turkish Architecture: Sedad Hakkı Eldem & Emre Arolat (Sancaklar Camii yer altı minimalist beton mimarisi) exemplifies the cultural and expressive pinnacle of Turkish."
+                    "target": "Sancaklar Camii, topoğrafyaya gizlenen mağara benzeri yapısıyla maneviyatta sadeliğin manifestosudur.",
+                    "reading": "Sancaklar Camii, topoğrafyaya gizlenen mağara benzeri yapısıyla maneviyatta sadeliğin manifestosudur.",
+                    "translation": "Sancaklar Mosque is a manifesto of simplicity in spirituality with its cave-like structure concealed in topography."
+                },
+                {
+                    "target": "Sedad Hakkı Eldem, geleneksel Türk evinin cumba ve saçak oranlarını çağdaş kentsel yapılara aktarmıştır.",
+                    "reading": "Sedad Hakkı Eldem, geleneksel Türk evinin cumba ve saçak oranlarını çağdaş kentsel yapılara aktarmıştır.",
+                    "translation": "Sedad Hakkı Eldem transferred the bay window and eave proportions of the traditional Turkish house to contemporary urban buildings."
                 }
             ],
             "mnemonics": [
-                "Contemporary Turkish Architecture: Sedad Hakkı Eldem & Emre Arolat (Sancaklar Camii yer altı minimalist beton mimarisi)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "Türk modern mimarlığı: Sedad Hakkı Eldem (Türk Evi oranları) + Emre Arolat (Sancaklar yer altı brütalizmi)."
             ],
             "culturalNotes": [
-                "Contemporary Turkish Architecture: Sedad Hakkı Eldem & Emre Arolat (Sancaklar Camii yer altı minimalist beton mimarisi) is celebrated worldwide as a defining achievement of Turkish heritage."
+                "Sancaklar Camii, Kur'an-ı Kerim'deki «Yeryüzü bana mescit kılındı» ve Hira Mağarası'nın yalın inziva ruhundan ilham alınarak tasarlanmıştır."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Contemporary Turkish Architecture: Sedad Hakkı Eldem & Emre Arolat (Sancaklar Camii yer altı minimalist beton mimarisi)?",
+                    "prompt": "Emre Arolat tarafından tasarlanan ve geleneksel kubbe-minare şablonlarını aşarak toprağa gömülen ödüllü çağdaş cami hangisidir?",
                     "options": [
-                        "Contemporary Turkish Architecture: Sedad Hakkı Eldem & Emre Arolat (165.1)",
-                        "Generic introductory concept (165.2)",
-                        "Modern fast-food trend (165.3)",
-                        "Irrelevant topic (165.4)"
+                        "Sancaklar Camii (Büyükçekmece, 2012)",
+                        "Kocatepe Camii",
+                        "Şakirin Camii",
+                        "Ahmet Hamdi Akseki Camii"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Contemporary Turkish Architecture: Sedad Hakkı Eldem & Emre Arolat is the central subject."
+                    "explanation": "Sancaklar Camii yeraltı mimarisi ve brüt beton sadeliğiyle dünya çapında yankı uyandırmıştır."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of Contemporary Turkish Architecture: Sedad Hakkı Eldem & Emre Arolat?",
+                    "prompt": "Geleneksel Türk konut mimarisini («Türk Evi») derinlemesine araştırıp modern binalara uyarlayan efsanevi cumhuriyet mimarı kimdir?",
                     "options": [
-                        "It has no historical significance. (165.1)",
-                        "It was imported from an unrelated continent. (165.2)",
-                        "It was invented yesterday. (165.3)",
-                        "It represents a defining historical and aesthetic breakthrough in Turkish civilization. (165.4)"
+                        "Sedad Hakkı Eldem",
+                        "Mimar Kemalettin",
+                        "Vedat Tek",
+                        "Turgut Cansever"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "It represents a defining breakthrough in Turkish civilization."
+                    "answerIndex": 0,
+                    "explanation": "Sedad Hakkı Eldem Türk Evi plan şemalarını modern Türk mimarisinin temeline yerleştirmiştir."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Contemporary Turkish Architecture: Sedad Hakkı Eldem & Emre Arolat in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "Sedad Hakkı Eldem'in İstanbul Zeyrek'te geleneksel dokuya saygılı kademeli kütle tasarımıyla 1986 yılında Ağa Han Mimarlık Ödülü kazanan yapısı hangisidir?",
                     "options": [
-                        "Contemporary Turkish Architecture: Sedad Hakkı Eldem & Emre Arolat established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It was completely forgotten within a week.",
-                        "It only applied to elementary school education.",
-                        "It was a minor commercial advertising campaign."
+                        "SSK Zeyrek Tesisleri",
+                        "Taşlık Şark Kahvesi",
+                        "Yalova Termal Oteli",
+                        "Hilton Oteli İstanbul"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Accurate analysis of Contemporary Turkish Architecture: Sedad Hakkı Eldem & Emre Arolat (Sancaklar Camii yer altı minimalist beton mimarisi)."
+                    "explanation": "Zeyrek SSK kompleksi tarihi çevreye duyarlı modern Türk mimarisinin simgesidir."
                 },
                 {
-                    "prompt": "What mastery level does completing Contemporary Turkish Architecture: Sedad Hakkı Eldem & Emre Arolat contribute to in the FEARN curriculum?",
+                    "prompt": "Sancaklar Camii'nin ibadet salonunda aydınlatma nasıl sağlanmaktadır?",
                     "options": [
-                        "Beginner A1",
-                        "Elementary A2",
-                        "Pre-intermediate B1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery"
+                        "Kıble duvarı boyunca tavandaki yarıktan süzülen dramatik doğal gün ışığı ile",
+                        "Tavandan sarkan yüzlerce floresan lamba ile",
+                        "Sadece mumlarla",
+                        "Renkli neon tüpleriyle"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Kıble duvarından süzülen doğal ışık mekana derin bir sükunet ve uhrevi atmosfer katar."
                 }
             ],
             "passThreshold": 0.8

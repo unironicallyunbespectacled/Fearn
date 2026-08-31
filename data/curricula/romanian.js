@@ -16245,78 +16245,83 @@
     },
     "ro-u32-l1": {
         "id": "ro-u32-l1",
-        "unit": "ro-u32",
+        "unit": "u32",
         "level": "C1",
-        "objective": "Ion Luca Caragiale & Master of Comic Satire (O scrisoare pierdută 1884, Tipătescu, Cetățeanul turmentat): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "objective": "Ion Luca Caragiale & Satira comică: O scrisoare pierdută (1884), demagogia politică, Tipătescu și Cetățeanul turmentat.",
         "presentation": {
-            "explanation": "Ion Luca Caragiale & Master of Comic Satire (O scrisoare pierdută 1884, Tipătescu, Cetățeanul turmentat) represents a cornerstone of Theatre, Dramaturgy & Performing Arts. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Ion Luca Caragiale (1852–1912) este dramaturgul canonic absolut al literaturii române și maestrul neegalat al comediei de moravuri, de caractere și de limbaj. În capodopera sa *O scrisoare pierdută* (reprezentată în premieră în 1884 la Teatrul Național din București), Caragiale realizează o radiografie necruțătoare a vieții politice provinciale din România sfârșitului de secol XIX. Mecanismul dramatic este declanșat de pierderea unei scrisori de dragoste compromițătoare trimise de prefectul Ștefan Tipătescu amantei sale Zoe Trahanache, soția venerabilului Zaharia Trahanache («nenea Zaharia»). Șantajul politic exercitat de avocatul Nae Cațavencu, discursurile sforăitoare pline de truisme și nonsensuri («unde nu e moral, acolo e corupție»), prezența emblematică a «Cetățeanului turmentat» (care votează docil întrebând mereu: «Eu cu cine votez?») și apariția oportunistului unsuros Agamemnon Dandanache construiesc o frescă satirică universală a demagogiei electorale.",
             "examples": [
                 {
-                    "target": "Mastery of Ion Luca Caragiale & Master of Comic Satire (O scrisoare pierdută 1884, Tipătescu, Cetățeanul turmentat) exemplifies the cultural and expressive pinnacle of Romanian.",
-                    "reading": "Target analysis of Ion Luca Caragiale & Master of Comic Satire (O scrisoare pierdută 1884, Tipătescu, Cetățeanul turmentat)...",
-                    "translation": "Mastery of Ion Luca Caragiale & Master of Comic Satire (O scrisoare pierdută 1884, Tipătescu, Cetățeanul turmentat) exemplifies the cultural and expressive pinnacle of Romanian."
+                    "target": "Replica celebră a lui Trahanache, «Ai puțintică răbdare», a devenit o expresie proverbială în cultura română.",
+                    "reading": "Replica celebră a lui Trahanache, «Ai puțintică răbdare», a devenit o expresie proverbială în cultura română.",
+                    "translation": "Trahanache's famous line, \"Have a little patience\", became a proverbial expression in Romanian culture."
+                },
+                {
+                    "target": "Caragiale sancționează contrastul comic dintre pretențiile patriotice și corupția morală a personajelor sale.",
+                    "reading": "Caragiale sancționează contrastul comic dintre pretențiile patriotice și corupția morală a personajelor sale.",
+                    "translation": "Caragiale sanctions the comic contrast between patriotic pretensions and the moral corruption of his characters."
                 }
             ],
             "mnemonics": [
-                "Ion Luca Caragiale & Master of Comic Satire (O scrisoare pierdută 1884, Tipătescu, Cetățeanul turmentat)! Essential milestone in Theatre, Dramaturgy & Performing Arts!"
+                "Comedia caragialiană: Șantajul cu scrisoarea dezvăluie demagogia politică și comicul de limbaj («Curat murdar!»)."
             ],
             "culturalNotes": [
-                "Ion Luca Caragiale & Master of Comic Satire (O scrisoare pierdută 1884, Tipătescu, Cetățeanul turmentat) is celebrated worldwide as a defining achievement of Romanian heritage."
+                "Teatrul Național din București îi poartă numele oficial: Teatrul Național «I. L. Caragiale», iar statuia dramaturgului veghează în fața clădirii."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Ion Luca Caragiale & Master of Comic Satire (O scrisoare pierdută 1884, Tipătescu, Cetățeanul turmentat)?",
+                    "prompt": "Care este mecanismul declanșator al intrigii în piesa O scrisoare pierdută de Ion Luca Caragiale?",
                     "options": [
-                        "Generic introductory concept (156.1)",
-                        "Irrelevant topic (156.2)",
-                        "Modern fast-food trend (156.3)",
-                        "Ion Luca Caragiale & Master of Comic Satire (156.4)"
+                        "O bătălie militară la granița imperiului.",
+                        "Pierderea și șantajul cu o scrisoare de amor între prefectul Tipătescu și Zoe Trahanache în plină campanie electorală.",
+                        "Construirea unei căi ferate prin munți.",
+                        "O crimă misterioasă la hanul din sat."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Ion Luca Caragiale & Master of Comic Satire is the central subject."
+                    "answerIndex": 1,
+                    "explanation": "Scrisoarea de dragoste pierdută devine instrumentul de șantaj politic dintre taberele rivale."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Dramaturgy & Performing Arts, what is the primary significance of Ion Luca Caragiale & Master of Comic Satire?",
+                    "prompt": "Ce personaj caragialian simbolizează alegătorul naiv și derutat prin întrebarea recurentă «Eu cu cine votez?»?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Romanian civilization. (156.1)",
-                        "It has no historical significance. (156.2)",
-                        "It was imported from an unrelated continent. (156.3)",
-                        "It was invented yesterday. (156.4)"
+                        "Cetățeanul turmentat",
+                        "Farfuridi",
+                        "Brânzovenescu",
+                        "Ghiță Pristanda"
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Romanian civilization."
+                    "explanation": "Cetățeanul turmentat este alegătorul anonim manipulat de politicieni, dar care caută mereu să fie cinstit."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Ion Luca Caragiale & Master of Comic Satire in the development of Theatre, Dramaturgy & Performing Arts:",
+                    "prompt": "Cum își justifică polițaiul Ghiță Pristanda micile afaceri necurate cu steaguri în fața prefectului?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "Ion Luca Caragiale & Master of Comic Satire established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education.",
-                        "It was completely forgotten within a week."
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "Accurate analysis of Ion Luca Caragiale & Master of Comic Satire (O scrisoare pierdută 1884, Tipătescu, Cetățeanul turmentat)."
-                },
-                {
-                    "prompt": "What mastery level does completing Ion Luca Caragiale & Master of Comic Satire contribute to in the FEARN curriculum?",
-                    "options": [
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Beginner A1",
-                        "Pre-intermediate B1",
-                        "Elementary A2"
+                        "Prin sintagma «Famelie mare, renumerație mică, după buget»",
+                        "Spunând că a moștenit o avere fabuloasă",
+                        "Pretinzând că este cetățean străin",
+                        "Afirmând că a donat toți banii școlii"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "explanation": "Pristanda se scuză invocând familia numeroasă și leafa mică («după buget, coane Fănică»)."
+                },
+                {
+                    "prompt": "Cine este candidatul trimis de la «centru» care câștigă în final mandatul de deputat în ciuda rivalităților locale?",
+                    "options": [
+                        "Agamemnon (Agamiță) Dandanache",
+                        "Nae Cațavencu",
+                        "Iordache Brânzovenescu",
+                        "Tache Farfuridi"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Agamiță Dandanache este impostorul absolut trimis de la București, care deține la rândul său o scrisoare de șantaj."
                 }
             ],
             "passThreshold": 0.8
@@ -16324,78 +16329,83 @@
     },
     "ro-u32-l2": {
         "id": "ro-u32-l2",
-        "unit": "ro-u32",
+        "unit": "u32",
         "level": "C1",
-        "objective": "Eugen Ionescu / Eugène Ionesco & The Theatre of the Absurd (Cântăreața cheală 1950, Rinocerii 1959): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "objective": "Eugen Ionescu / Eugène Ionesco & Teatrul Absurdului: Cântăreața cheală (1950), Rinocerii (1959) și Academia Franceză.",
         "presentation": {
-            "explanation": "Eugen Ionescu / Eugène Ionesco & The Theatre of the Absurd (Cântăreața cheală 1950, Rinocerii 1959) represents a cornerstone of Theatre, Dramaturgy & Performing Arts. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Eugen Ionescu (Eugène Ionesco, 1909–1994), născut la Slatina din tată român și mamă franceză, a revoluționat dramaturgia mondială a secolului XX ca părinte fondator al Teatrului Absurdului (alături de Samuel Beckett și Arthur Adamov). Debutând la Paris în 1950 cu *Cântăreața cheală* (*La Cantatrice chauve*, numită de autor «antipiesă»), Ionescu a descompus limbajul convențional burghez, arătând cum clișeele și truismele automate trădează vidul de comunicare și alienarea ființei umane. În capodopera sa antitotalitară *Rinocerii* (*Rhinocéros*, 1959), inspirată direct de ascensiunea mișcărilor fasciste și totalitare din anii 1930 din România și Europa, Ionescu dramatizează «rinocerizarea»—contagiunea colectivă și capitularea etică a intelectualilor în fața conformismului ideologic, lăsându-l pe personajul Bérenger ca ultim om solitar care refuză să capituleze («Nu voi abdica!»). În 1970, Ionescu a fost ales membru al prestigioasei Academii Franceze.",
             "examples": [
                 {
-                    "target": "Mastery of Eugen Ionescu / Eugène Ionesco & The Theatre of the Absurd (Cântăreața cheală 1950, Rinocerii 1959) exemplifies the cultural and expressive pinnacle of Romanian.",
-                    "reading": "Target analysis of Eugen Ionescu / Eugène Ionesco & The Theatre of the Absurd (Cântăreața cheală 1950, Rinocerii 1959)...",
-                    "translation": "Mastery of Eugen Ionescu / Eugène Ionesco & The Theatre of the Absurd (Cântăreața cheală 1950, Rinocerii 1959) exemplifies the cultural and expressive pinnacle of Romanian."
+                    "target": "În Rinocerii, transformarea locuitorilor în fiare grohăitoare este o metaforă cutremurătoare a fanatismului politic.",
+                    "reading": "În Rinocerii, transformarea locuitorilor în fiare grohăitoare este o metaforă cutremurătoare a fanatismului politic.",
+                    "translation": "In Rhinoceros, the inhabitants' transformation into grunting beasts is a chilling metaphor for political fanaticism."
+                },
+                {
+                    "target": "Cântăreața cheală demonstrează cum limbajul golit de sens devine un mecanism automat fără gândire.",
+                    "reading": "Cântăreața cheală demonstrează cum limbajul golit de sens devine un mecanism automat fără gândire.",
+                    "translation": "The Bald Soprano demonstrates how language emptied of meaning becomes an automatic mechanism without thought."
                 }
             ],
             "mnemonics": [
-                "Eugen Ionescu / Eugène Ionesco & The Theatre of the Absurd (Cântăreața cheală 1950, Rinocerii 1959)! Essential milestone in Theatre, Dramaturgy & Performing Arts!"
+                "Ionesco și Absurdul: De la disoluția limbajului (Cântăreața cheală) la rezistența morală împotriva totalitarismului (Rinocerii)."
             ],
             "culturalNotes": [
-                "Eugen Ionescu / Eugène Ionesco & The Theatre of the Absurd (Cântăreața cheală 1950, Rinocerii 1959) is celebrated worldwide as a defining achievement of Romanian heritage."
+                "*Cântăreața cheală* și *Lecția* se joacă neîntrerupt la Théâtre de la Huchette din Paris din 1957, deținând recordul mondial Guinness de longevitate teatrală."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Eugen Ionescu / Eugène Ionesco & The Theatre of the Absurd (Cântăreața cheală 1950, Rinocerii 1959)?",
+                    "prompt": "Ce fenomen psihologic și politic descrie termenul «rinocerizare» în dramaturgia lui Eugen Ionescu?",
                     "options": [
-                        "Eugen Ionescu / Eugène Ionesco & The Theatre of the Absurd (157.1)",
-                        "Irrelevant topic (157.2)",
-                        "Modern fast-food trend (157.3)",
-                        "Generic introductory concept (157.4)"
+                        "O epidemie veterinară în savana africană.",
+                        "Adeziunea oarbă, conformistă și fanatică a maselor și a intelectualilor la o ideologie totalitară.",
+                        "O metodă de antrenament pentru atleții olimpici.",
+                        "O tehnică de pictură suprarealistă cu vopsea verde."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Eugen Ionescu / Eugène Ionesco & The Theatre of the Absurd is the central subject."
+                    "answerIndex": 1,
+                    "explanation": "«Rinocerizarea» este metafora capitulării conștiinței umane în fața contagiunii ideologiilor totalitare."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Dramaturgy & Performing Arts, what is the primary significance of Eugen Ionescu / Eugène Ionesco & The Theatre of the Absurd?",
+                    "prompt": "Cine este protagonistul din Rinocerii care rămâne singurul om lucid și refuză să se transforme în rinocer?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Romanian civilization. (157.1)",
-                        "It has no historical significance. (157.2)",
-                        "It was invented yesterday. (157.3)",
-                        "It was imported from an unrelated continent. (157.4)"
+                        "Bérenger",
+                        "Jean",
+                        "Domnul Smith",
+                        "Profesorul"
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Romanian civilization."
+                    "explanation": "Bérenger reprezintă conștiința individuală care rezistă presiunii uniformizatoare a turmei."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Eugen Ionescu / Eugène Ionesco & The Theatre of the Absurd in the development of Theatre, Dramaturgy & Performing Arts:",
+                    "prompt": "Cum a subintitulat Eugen Ionescu piesa sa de debut Cântăreața cheală (1950)?",
                     "options": [
-                        "Eugen Ionescu / Eugène Ionesco & The Theatre of the Absurd established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "It only applied to elementary school education."
+                        "Antipiesă (Anti-pièce)",
+                        "Dramă istorică în versuri",
+                        "Tragidramă religioasă",
+                        "Comedie muzicală"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Accurate analysis of Eugen Ionescu / Eugène Ionesco & The Theatre of the Absurd (Cântăreața cheală 1950, Rinocerii 1959)."
+                    "explanation": "Ionescu a definit piesa ca «antipiesă» deoarece distrugea structura clasică de acțiune și personaje."
                 },
                 {
-                    "prompt": "What mastery level does completing Eugen Ionescu / Eugène Ionesco & The Theatre of the Absurd contribute to in the FEARN curriculum?",
+                    "prompt": "În ce an a fost ales Eugen Ionescu membru al Academiei Franceze (Fotoliul 6)?",
                     "options": [
-                        "Pre-intermediate B1",
-                        "Beginner A1",
-                        "Elementary A2",
-                        "Advanced C1/C2 Sovereign Omni-Mastery"
+                        "1970",
+                        "1935",
+                        "1999",
+                        "1950"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Ionescu a devenit «nemuritor» al Academiei Franceze în anul 1970."
                 }
             ],
             "passThreshold": 0.8
@@ -16403,78 +16413,83 @@
     },
     "ro-u32-l3": {
         "id": "ro-u32-l3",
-        "unit": "ro-u32",
-        "level": "C2",
-        "objective": "Liviu Ciulei & Lucian Pintilie: The Bulandra Revolution (Revizorul de Gogol 1972, rezistență culturală): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "unit": "u32",
+        "level": "C1",
+        "objective": "Liviu Ciulei & Lucian Pintilie: Revoluția Teatrului Bulandra, montarea Revizorul (1972) și rezistența culturală.",
         "presentation": {
-            "explanation": "Liviu Ciulei & Lucian Pintilie: The Bulandra Revolution (Revizorul de Gogol 1972, rezistență culturală) represents a cornerstone of Theatre, Dramaturgy & Performing Arts. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Teatrul românesc din a doua jumătate a secolului XX a atins culmi de prestigiu internațional prin activitatea legendară de la Teatrul Lucia Sturdza Bulandra din București, condus de marele regizor, arhitect și scenograf Liviu Ciulei (1923–2011). Ciulei a promovat «reteatralizarea teatrului»—respingerea realismului socialist tern în favoarea unei forțe vizuale excepționale, a rigoarei arhitecturale a spațiului și a profunzimii metaforice. Alături de Ciulei, regizorul Lucian Pintilie (1933–2018) a creat montări explozive de o violență satirică incendiară. Scandalul politic din septembrie 1972 provocat de montarea lui Pintilie cu *Revizorul* de Gogol la Teatrul Bulandra (care a demascat grotescul aparatului birocratic comunist) a dus la interzicerea spectacolului după doar trei reprezentații, demiterea lui Ciulei de la conducerea teatrului și exilul artistic al amândurora în Occident, unde Ciulei a condus teatrul Guthrie din Minneapolis și a regizat pe marile scene din New York și Berlin.",
             "examples": [
                 {
-                    "target": "Mastery of Liviu Ciulei & Lucian Pintilie: The Bulandra Revolution (Revizorul de Gogol 1972, rezistență culturală) exemplifies the cultural and expressive pinnacle of Romanian.",
-                    "reading": "Target analysis of Liviu Ciulei & Lucian Pintilie: The Bulandra Revolution (Revizorul de Gogol 1972, rezistență culturală)...",
-                    "translation": "Mastery of Liviu Ciulei & Lucian Pintilie: The Bulandra Revolution (Revizorul de Gogol 1972, rezistență culturală) exemplifies the cultural and expressive pinnacle of Romanian."
+                    "target": "Liviu Ciulei concepea scenografia ca pe o structură arhitecturală vie ce dictează mișcarea actorului.",
+                    "reading": "Liviu Ciulei concepea scenografia ca pe o structură arhitecturală vie ce dictează mișcarea actorului.",
+                    "translation": "Liviu Ciulei conceived stage design as a living architectural structure that dictates the actor's movement."
+                },
+                {
+                    "target": "Spectacolul Revizorul din 1972 a demonstrat forța teatrului ca spațiu de libertate spirituală împotriva cenzurii.",
+                    "reading": "Spectacolul Revizorul din 1972 a demonstrat forța teatrului ca spațiu de libertate spirituală împotriva cenzurii.",
+                    "translation": "The 1972 staging of The Government Inspector demonstrated the power of theatre as a space of spiritual freedom against censorship."
                 }
             ],
             "mnemonics": [
-                "Liviu Ciulei & Lucian Pintilie: The Bulandra Revolution (Revizorul de Gogol 1972, rezistență culturală)! Essential milestone in Theatre, Dramaturgy & Performing Arts!"
+                "Școala Bulandra: Ciulei (arhitectura viziunii) + Pintilie (energia contestatară radicală)."
             ],
             "culturalNotes": [
-                "Liviu Ciulei & Lucian Pintilie: The Bulandra Revolution (Revizorul de Gogol 1972, rezistență culturală) is celebrated worldwide as a defining achievement of Romanian heritage."
+                "Liviu Ciulei a fost distins cu Premiul pentru Regie la Festivalul de Film de la Cannes în 1965 pentru capodopera cinematografică *Pădurea spânzuraților*."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Liviu Ciulei & Lucian Pintilie: The Bulandra Revolution (Revizorul de Gogol 1972, rezistență culturală)?",
+                    "prompt": "Ce concept estetic a teoretizat și aplicat Liviu Ciulei pentru a elibera scena românească de dogmele realismului socialist?",
                     "options": [
-                        "Liviu Ciulei & Lucian Pintilie: The Bulandra Revolution (158.1)",
-                        "Generic introductory concept (158.2)",
-                        "Irrelevant topic (158.3)",
-                        "Modern fast-food trend (158.4)"
+                        "«Reteatralizarea teatrului», redând scenei convenția ludică, forța poetică și rigoarea spațială.",
+                        "Eliminarea totală a decorurilor și a costumelor.",
+                        "Obligativitatea ca toți actorii să fie recrutați din fabrici fără studii de teatru.",
+                        "Lectura statică a textelor de pe foi albe."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Liviu Ciulei & Lucian Pintilie: The Bulandra Revolution is the central subject."
+                    "explanation": "Ciulei a redefinit teatrul ca artă vizuală autonomă, refuzând copierea servilă a realității cotidiene."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Dramaturgy & Performing Arts, what is the primary significance of Liviu Ciulei & Lucian Pintilie: The Bulandra Revolution?",
+                    "prompt": "Ce piesă clasică montată de Lucian Pintilie la Teatrul Bulandra în 1972 a fost interzisă de cenzura comunistă după trei reprezentații?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Romanian civilization. (158.1)",
-                        "It was imported from an unrelated continent. (158.2)",
-                        "It was invented yesterday. (158.3)",
-                        "It has no historical significance. (158.4)"
+                        "Revizorul de Nikolai Gogol",
+                        "Othello de William Shakespeare",
+                        "Pescărușul de Anton Cehov",
+                        "Faust de Goethe"
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Romanian civilization."
+                    "explanation": "*Revizorul* lui Pintilie din 1972 a fost perceput de autoritățile comuniste ca un atac direct la adresa regimului ceaușist."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Liviu Ciulei & Lucian Pintilie: The Bulandra Revolution in the development of Theatre, Dramaturgy & Performing Arts:",
+                    "prompt": "Ce prestigios teatru american din Minneapolis a fost condus de Liviu Ciulei ca director artistic între 1980 și 1986?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "It only applied to elementary school education.",
-                        "Liviu Ciulei & Lucian Pintilie: The Bulandra Revolution established enduring philosophical, technical, and expressive standards across the tradition."
+                        "Guthrie Theater",
+                        "Broadway Majestic",
+                        "Actors Studio",
+                        "Chicago Steppenwolf"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Accurate analysis of Liviu Ciulei & Lucian Pintilie: The Bulandra Revolution (Revizorul de Gogol 1972, rezistență culturală)."
+                    "answerIndex": 0,
+                    "explanation": "La Guthrie Theater, Ciulei a montat producții de referință cu Shakespeare, Cehov și Brecht aplaudate în toată America."
                 },
                 {
-                    "prompt": "What mastery level does completing Liviu Ciulei & Lucian Pintilie: The Bulandra Revolution contribute to in the FEARN curriculum?",
+                    "prompt": "Ce film românesc regizat de Liviu Ciulei a câștigat Premiul de Regie la Cannes în 1965?",
                     "options": [
-                        "Beginner A1",
-                        "Elementary A2",
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Pre-intermediate B1"
+                        "Pădurea spânzuraților",
+                        "Reconstituirea",
+                        "Balanța",
+                        "Moara cu noroc"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "*Pădurea spânzuraților* (după romanul lui Liviu Rebreanu) a adus primul mare premiu de regie la Cannes pentru cinematografia română."
                 }
             ],
             "passThreshold": 0.8
@@ -16482,78 +16497,83 @@
     },
     "ro-u32-l4": {
         "id": "ro-u32-l4",
-        "unit": "ro-u32",
-        "level": "C2",
-        "objective": "Silviu Purcărete & Visual Grandeur (Capodopera Faust la Teatrul Național Radu Stanca din Sibiu / FITS): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "unit": "u32",
+        "level": "C1",
+        "objective": "Silviu Purcărete & Grandoarea Vizuală: Capodopera Faust la Teatrul Național Radu Stanca din Sibiu și FITS.",
         "presentation": {
-            "explanation": "Silviu Purcărete & Visual Grandeur (Capodopera Faust la Teatrul Național Radu Stanca din Sibiu / FITS) represents a cornerstone of Theatre, Dramaturgy & Performing Arts. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Silviu Purcărete (n. 1950) este recunoscut la nivel mondial drept unul dintre cei mai mari creatori de spectacol monumental și imagistică teatrală halucinantă. Producția sa magistrală cu *Faust* după Johann Wolfgang von Goethe (premieră în 2007 la Teatrul Național «Radu Stanca» din Sibiu, cu actorul Ilie Gheorghe / Miklós Bács în rolul lui Faust și Ofelia Popii într-un Mefisto genial și hermafrodit) a devenit un spectacol-fenomen internațional. Montat într-o hală industrială imensă din Sibiu cu peste 100 de actori, muzicieni, animale vii, pirotehnie și decoruri mobile create de Helmut Stürmer, spectacolul transformă Noaptea Valpurgiei într-un coșmar baroc dionisiac în care publicul este invitat să pășească fizic în infern. Acest Faust a consolidat Festivalul Internațional de Teatru de la Sibiu (FITS, fondat de Constantin Chiriac) ca al treilea cel mai important festival de artele spectacolului din lume, după Edinburgh și Avignon.",
             "examples": [
                 {
-                    "target": "Mastery of Silviu Purcărete & Visual Grandeur (Capodopera Faust la Teatrul Național Radu Stanca din Sibiu / FITS) exemplifies the cultural and expressive pinnacle of Romanian.",
-                    "reading": "Target analysis of Silviu Purcărete & Visual Grandeur (Capodopera Faust la Teatrul Național Radu Stanca din Sibiu / FITS)...",
-                    "translation": "Mastery of Silviu Purcărete & Visual Grandeur (Capodopera Faust la Teatrul Național Radu Stanca din Sibiu / FITS) exemplifies the cultural and expressive pinnacle of Romanian."
+                    "target": "Ofelia Popii a creat în Faust un Mefisto androgin de o energie carnală și o virtuozitate fizică copleșitoare.",
+                    "reading": "Ofelia Popii a creat în Faust un Mefisto androgin de o energie carnală și o virtuozitate fizică copleșitoare.",
+                    "translation": "Ofelia Popii created in Faust an androgynous Mephisto of overwhelming carnal energy and physical virtuosity."
+                },
+                {
+                    "target": "Faust-ul lui Purcărete scufundă spectatorul direct în tumultul carnavalesc al Nopții Valpurgiei.",
+                    "reading": "Faust-ul lui Purcărete scufundă spectatorul direct în tumultul carnavalesc al Nopții Valpurgiei.",
+                    "translation": "Purcărete's Faust immerses the spectator directly into the carnivalesque turmoil of Walpurgis Night."
                 }
             ],
             "mnemonics": [
-                "Silviu Purcărete & Visual Grandeur (Capodopera Faust la Teatrul Național Radu Stanca din Sibiu / FITS)! Essential milestone in Theatre, Dramaturgy & Performing Arts!"
+                "Purcărete Faust Sibiu: Peste 100 de actori, Mefisto hermafrodit (Ofelia Popii) și hală industrială transformată în univers dantesc."
             ],
             "culturalNotes": [
-                "Silviu Purcărete & Visual Grandeur (Capodopera Faust la Teatrul Național Radu Stanca din Sibiu / FITS) is celebrated worldwide as a defining achievement of Romanian heritage."
+                "Spectacolul *Faust* a fost aclamat ca atracția de vârf a Festivalului Internațional de la Edinburgh în 2009, primind cronici elogioase în *The Guardian* și *The Times*."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Silviu Purcărete & Visual Grandeur (Capodopera Faust la Teatrul Național Radu Stanca din Sibiu / FITS)?",
+                    "prompt": "Care este inovația spațială radicală pe care o trăiește publicul în timpul spectacolului Faust regizat de Silviu Purcărete la Sibiu?",
                     "options": [
-                        "Generic introductory concept (159.1)",
-                        "Irrelevant topic (159.2)",
-                        "Modern fast-food trend (159.3)",
-                        "Silviu Purcărete & Visual Grandeur (159.4)"
+                        "Spectatorii rămân legați la ochi pe tot parcursul serii.",
+                        "După prima parte, publicul este ridicat de pe scaune și condus direct în spațiul imens al Nopții Valpurgiei printre actori, foc și demoni.",
+                        "Spectacolul se vizionează doar printr-un ecran de televizor mic.",
+                        "Publicul este așezat pe bărci gonflabile într-o piscină."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Silviu Purcărete & Visual Grandeur is the central subject."
+                    "answerIndex": 1,
+                    "explanation": "Spectatorii devin participanți imersivi în călătoria faustică, trecând dintr-o sală intimă în spațiul halucinant al Nopții Valpurgiei."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Dramaturgy & Performing Arts, what is the primary significance of Silviu Purcărete & Visual Grandeur?",
+                    "prompt": "Ce mare festival românesc de teatru, clasat printre primele trei din lume ca anvergură, are spectacolul Faust ca emblemă?",
                     "options": [
-                        "It has no historical significance. (159.1)",
-                        "It was imported from an unrelated continent. (159.2)",
-                        "It was invented yesterday. (159.3)",
-                        "It represents a defining historical and aesthetic breakthrough in Romanian civilization. (159.4)"
+                        "Festivalul Internațional de Teatru de la Sibiu (FITS)",
+                        "Festivalul Național de Teatru București",
+                        "Festivalul de la Sighișoara",
+                        "Gala Tânărului Actor HOP"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "It represents a defining breakthrough in Romanian civilization."
+                    "answerIndex": 0,
+                    "explanation": "FITS atrage la Sibiu anual mii de artiști și sute de mii de spectatori din peste 70 de țări."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Silviu Purcărete & Visual Grandeur in the development of Theatre, Dramaturgy & Performing Arts:",
+                    "prompt": "Ce actriță a câștigat Premiul UNITER pentru cel mai bun rol principal feminin pentru interpretarea electrizantă a lui Mefisto în Faust?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "Silviu Purcărete & Visual Grandeur established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education."
+                        "Ofelia Popii",
+                        "Maia Morgenstern",
+                        "Mariana Mihuț",
+                        "Rodica Mandache"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Accurate analysis of Silviu Purcărete & Visual Grandeur (Capodopera Faust la Teatrul Național Radu Stanca din Sibiu / FITS)."
+                    "answerIndex": 0,
+                    "explanation": "Ofelia Popii a oferit o interpretare istorică rolului Mefisto în viziunea lui Silviu Purcărete."
                 },
                 {
-                    "prompt": "What mastery level does completing Silviu Purcărete & Visual Grandeur contribute to in the FEARN curriculum?",
+                    "prompt": "Cine a semnat scenografia monumentală și concepția spațiului pentru Faust la Teatrul Național din Sibiu?",
                     "options": [
-                        "Pre-intermediate B1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Elementary A2",
-                        "Beginner A1"
+                        "Helmut Stürmer",
+                        "Liviu Ciulei",
+                        "Ion Sava",
+                        "Dan Perjovschi"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Helmut Stürmer a creat decorurile și universul vizual grandios al spectacolului."
                 }
             ],
             "passThreshold": 0.8
@@ -16561,78 +16581,83 @@
     },
     "ro-u32-l5": {
         "id": "ro-u32-l5",
-        "unit": "ro-u32",
-        "level": "C2",
-        "objective": "Contemporary Stagecraft: Radu Afrim & Postdramatic Visceral Theatre at the National Theatre Bucharest: Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "unit": "u32",
+        "level": "C1",
+        "objective": "Teatrul Contemporan Românesc: Radu Afrim, Gianina Cărbunariu, teatrul postdramatic și Teatrul Național București.",
         "presentation": {
-            "explanation": "Contemporary Stagecraft: Radu Afrim & Postdramatic Visceral Theatre at the National Theatre Bucharest represents a cornerstone of Theatre, Dramaturgy & Performing Arts. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Dramaturgia și regia contemporană din România se remarcă prin două direcții majore de forță: universul poetic-senzorial postdramatic al lui Radu Afrim (n. 1968) și teatrul politic documentar investigativ fondat de Gianina Cărbunariu (n. 1977). Radu Afrim creează spectacole hipnotice, melancolice și intens vizuale la Teatrul Național din București (TNB) și în teatrele din țară (*Pădurea spânzuraților*, *Trei surori*, *Repetiție pentru o lume mai bună*), amestecând muzică live indie, proiecții video poetice, umor bizar și vulnerabilitate umană crudă. În paralel, Gianina Cărbunariu (*Stop the Tempo*, *Kebab*, *Tipografic Majuscul*) utilizează dosarele securității, interviuri reale și documente de arhivă pentru a interoga traumele tranziției postcomuniste, exploatarea migranților și complicitățile morale colective, piesele ei fiind traduse și montate pe scene de referință din Germania, Franța și Marea Britanie.",
             "examples": [
                 {
-                    "target": "Mastery of Contemporary Stagecraft: Radu Afrim & Postdramatic Visceral Theatre at the National Theatre Bucharest exemplifies the cultural and expressive pinnacle of Romanian.",
-                    "reading": "Target analysis of Contemporary Stagecraft: Radu Afrim & Postdramatic Visceral Theatre at the National Theatre Bucharest...",
-                    "translation": "Mastery of Contemporary Stagecraft: Radu Afrim & Postdramatic Visceral Theatre at the National Theatre Bucharest exemplifies the cultural and expressive pinnacle of Romanian."
+                    "target": "Spectacolele lui Radu Afrim îmbină teatralitatea barocă cu sensibilitatea cinematografică contemporană.",
+                    "reading": "Spectacolele lui Radu Afrim îmbină teatralitatea barocă cu sensibilitatea cinematografică contemporană.",
+                    "translation": "Radu Afrim's productions combine baroque theatricality with contemporary cinematic sensibility."
+                },
+                {
+                    "target": "În Tipografic Majuscul, Gianina Cărbunariu reconstituie povestea elevului Mugur Călinescu din dosarele Securității.",
+                    "reading": "În Tipografic Majuscul, Gianina Cărbunariu reconstituie povestea elevului Mugur Călinescu din dosarele Securității.",
+                    "translation": "In Upper Case Print, Gianina Cărbunariu reconstructs the story of high-schooler Mugur Călinescu from Securitate files."
                 }
             ],
             "mnemonics": [
-                "Contemporary Stagecraft: Radu Afrim & Postdramatic Visceral Theatre at the National Theatre Bucharest! Essential milestone in Theatre, Dramaturgy & Performing Arts!"
+                "Teatru contemporan românesc: Afrim (univers poetic și vizual hipnotic) + Cărbunariu (teatru documentar politic)."
             ],
             "culturalNotes": [
-                "Contemporary Stagecraft: Radu Afrim & Postdramatic Visceral Theatre at the National Theatre Bucharest is celebrated worldwide as a defining achievement of Romanian heritage."
+                "Clădirea Teatrului Național «I. L. Caragiale» din București a fost reconsolidată între 2011 și 2015, readucând la lumină fațada originală a anilor 1970 și adăugând un amfiteatru în aer liber pe acoperiș."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Contemporary Stagecraft: Radu Afrim & Postdramatic Visceral Theatre at the National Theatre Bucharest?",
+                    "prompt": "Care este metoda de lucru caracteristică a dramaturgului și regizorului Gianina Cărbunariu?",
                     "options": [
-                        "Contemporary Stagecraft: Radu Afrim & Postdramatic Visceral Theatre at the National Theatre Bucharest (160.1)",
-                        "Generic introductory concept (160.2)",
-                        "Modern fast-food trend (160.3)",
-                        "Irrelevant topic (160.4)"
+                        "Documentarea riguroasă pe bază de dosare de arhivă, interviuri pe teren și fenomene socio-politice fierbinți.",
+                        "Scrierea de comedii bufe medievale în versuri cu rimă împerecheată.",
+                        "Traducerea exclusivă a operelor lui William Shakespeare.",
+                        "Pantomima fără cuvinte acompaniată de orgă mecanică."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Contemporary Stagecraft: Radu Afrim & Postdramatic Visceral Theatre at the National Theatre Bucharest is the central subject."
+                    "explanation": "Cărbunariu este pioniera teatrului documentar în România, aducând realitatea socială direct pe scenă."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Dramaturgy & Performing Arts, what is the primary significance of Contemporary Stagecraft: Radu Afrim & Postdramatic Visceral Theatre at the National Theatre Bucharest?",
+                    "prompt": "Ce spectacol-manifest regizat de Radu Afrim la Sala Mare a TNB a reinterpretat romanul lui Liviu Rebreanu prin prisma tinerilor de azi și a războiului?",
                     "options": [
-                        "It has no historical significance. (160.1)",
-                        "It was imported from an unrelated continent. (160.2)",
-                        "It was invented yesterday. (160.3)",
-                        "It represents a defining historical and aesthetic breakthrough in Romanian civilization. (160.4)"
+                        "Pădurea spânzuraților",
+                        "Ion",
+                        "Răscoala",
+                        "Enigma Otiliei"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "It represents a defining breakthrough in Romanian civilization."
+                    "answerIndex": 0,
+                    "explanation": "*Pădurea spânzuraților* în viziunea lui Afrim a devenit un spectacol-eveniment despre absurditatea conflictului și fragilitatea vieții."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Contemporary Stagecraft: Radu Afrim & Postdramatic Visceral Theatre at the National Theatre Bucharest in the development of Theatre, Dramaturgy & Performing Arts:",
+                    "prompt": "Despre ce adolescent curajos din Botoșani care scria lozinci anticomuniste pe ziduri tratează piesa Tipografic Majuscul de Gianina Cărbunariu?",
                     "options": [
-                        "It was completely forgotten within a week.",
-                        "Contemporary Stagecraft: Radu Afrim & Postdramatic Visceral Theatre at the National Theatre Bucharest established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education.",
-                        "It was a minor commercial advertising campaign."
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "Accurate analysis of Contemporary Stagecraft: Radu Afrim & Postdramatic Visceral Theatre at the National Theatre Bucharest."
-                },
-                {
-                    "prompt": "What mastery level does completing Contemporary Stagecraft: Radu Afrim & Postdramatic Visceral Theatre at the National Theatre Bucharest contribute to in the FEARN curriculum?",
-                    "options": [
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Elementary A2",
-                        "Pre-intermediate B1",
-                        "Beginner A1"
+                        "Mugur Călinescu",
+                        "Gheorghe Ursu",
+                        "Doina Cornea",
+                        "Liviu Babeș"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "explanation": "Mugur Călinescu a fost elevul de 16 ani persecutat necruțător de Securitate pentru că a scris mesaje de libertate cu cretă."
+                },
+                {
+                    "prompt": "De câte ori a câștigat regizorul Radu Afrim prestigiosul premiu UNITER pentru cea mai bună regie?",
+                    "options": [
+                        "De 3 ori",
+                        "Niciodată",
+                        "O singură dată",
+                        "De 15 ori"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Radu Afrim a fost distins de trei ori cu Premiul UNITER pentru Regie pentru montările sale vizionare."
                 }
             ],
             "passThreshold": 0.8
@@ -16640,78 +16665,83 @@
     },
     "ro-u33-l1": {
         "id": "ro-u33-l1",
-        "unit": "ro-u33",
+        "unit": "u33",
         "level": "C1",
-        "objective": "The Wooden Churches of Maramureș (UNESCO World Heritage: Bârsana, Ieud, soaring oak shingles): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "objective": "Bisericile de lemn din Maramureș: Patrimoniul UNESCO (Bârsana, Ieud), meșteșugul stejarului și turnurile ascuțite.",
         "presentation": {
-            "explanation": "The Wooden Churches of Maramureș (UNESCO World Heritage: Bârsana, Ieud, soaring oak shingles) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Bisericile de lemn din Maramureș (dintre care opt sunt înscrise pe lista Patrimoniului Mondial UNESCO: Bârsana, Budești Josani, Desești, Ieud Deal, Plopiș, Poienile Izei, Rogoz și Șurdești) reprezintă culmea absolută a arhitecturii vernaculare în lemn din Europa. Ridicate de meșteri populari anonimi («meșterii lemnari») fără a utiliza cuie de fier, exclusiv prin tehnica îmbinărilor măiestrite din bârne groase de stejar și molid (îmbinare în coadă de rândunică și cheotoare), aceste lăcașuri se caracterizează prin turle zvelte și extrem de înalte cu foișor și fleșă ascuțită, acoperișuri abrupte cu poale duble acoperite cu șindrilă de brad (draniță). Turnul bisericii din Șurdești (54 de metri înălțime a turnului, 72 de metri înălțime totală) a fost mult timp cea mai înaltă construcție de lemn din Europa. În interior, picturile murale pe pânză maruflată pe lemn executate de zugravi itineranți precum Alexandru Ponehalschi și Radu Munteanu transpun teme biblice în viața satului maramureșean.",
             "examples": [
                 {
-                    "target": "Mastery of The Wooden Churches of Maramureș (UNESCO World Heritage: Bârsana, Ieud, soaring oak shingles) exemplifies the cultural and expressive pinnacle of Romanian.",
-                    "reading": "Target analysis of The Wooden Churches of Maramureș (UNESCO World Heritage: Bârsana, Ieud, soaring oak shingles)...",
-                    "translation": "Mastery of The Wooden Churches of Maramureș (UNESCO World Heritage: Bârsana, Ieud, soaring oak shingles) exemplifies the cultural and expressive pinnacle of Romanian."
+                    "target": "Biserica din Ieud Deal este considerată una dintre cele mai vechi biserici de lemn din Maramureș.",
+                    "reading": "Biserica din Ieud Deal este considerată una dintre cele mai vechi biserici de lemn din Maramureș.",
+                    "translation": "The church in Ieud Deal is considered one of the oldest wooden churches in Maramureș."
+                },
+                {
+                    "target": "Tehnica îmbinării bârnelor de stejar fără cuie demonstrează geniul meșterilor maramureșeni.",
+                    "reading": "Tehnica îmbinării bârnelor de stejar fără cuie demonstrează geniul meșterilor maramureșeni.",
+                    "translation": "The technique of joining oak beams without nails demonstrates the genius of Maramureș carpenters."
                 }
             ],
             "mnemonics": [
-                "The Wooden Churches of Maramureș (UNESCO World Heritage: Bârsana, Ieud, soaring oak shingles)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "Arhitectura Maramureșului: Bârne masive de stejar + îmbinare în coadă de rândunică + turn ascuțit spre cer."
             ],
             "culturalNotes": [
-                "The Wooden Churches of Maramureș (UNESCO World Heritage: Bârsana, Ieud, soaring oak shingles) is celebrated worldwide as a defining achievement of Romanian heritage."
+                "În podul bisericii din Ieud Deal a fost descoperit în 1921 «Codicele de la Ieud», considerat de unii filologi cel mai vechi text scris în limba română (datat 1391 sau sfârșitul secolului XVI)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of The Wooden Churches of Maramureș (UNESCO World Heritage: Bârsana, Ieud, soaring oak shingles)?",
+                    "prompt": "Care este materialul de construcție exclusiv și tehnica de îmbinare a bisericilor de lemn din Maramureș?",
                     "options": [
-                        "Generic introductory concept (161.1)",
-                        "Irrelevant topic (161.2)",
-                        "Modern fast-food trend (161.3)",
-                        "The Wooden Churches of Maramureș (161.4)"
+                        "Bârne masive de stejar îmbinate în cheotoare și coadă de rândunică, fără cuie de fier.",
+                        "Cărămizi arse legate cu ciment modern.",
+                        "Blocuri de marmură albă sculptată.",
+                        "Foi de tablă ondulată montate pe schelet de aluminiu."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "The Wooden Churches of Maramureș is the central subject."
+                    "answerIndex": 0,
+                    "explanation": "Tradiția interzicea folosirea metalului, meșterii utilizând doar cuie din lemn de tisă și îmbinări perfecte."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of The Wooden Churches of Maramureș?",
+                    "prompt": "Ce element arhitectural exterior conferă siluetei bisericilor maramureșene verticalitatea spectaculoasă?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Romanian civilization. (161.1)",
-                        "It has no historical significance. (161.2)",
-                        "It was imported from an unrelated continent. (161.3)",
-                        "It was invented yesterday. (161.4)"
+                        "O turlă-clopotniță extrem de ascuțită și înaltă, înălțată deasupra pronaosului, cu acoperiș dublu din șindrilă.",
+                        "Un dom bizantin sferic din cupru aurit.",
+                        "O terasă plată cu fântâni arteziene.",
+                        "Un turn de veghe crenelat din granit roșu."
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Romanian civilization."
+                    "explanation": "Turlele ascuțite străpung cerul și dau identitatea vizuală inconfundabilă a peisajului maramureșean."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of The Wooden Churches of Maramureș in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "Câte biserici de lemn din Maramureș sunt incluse în Patrimoniul Mondial UNESCO?",
                     "options": [
-                        "The Wooden Churches of Maramureș established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It was a minor commercial advertising campaign.",
-                        "It only applied to elementary school education.",
-                        "It was completely forgotten within a week."
+                        "8 biserici",
+                        "2 biserici",
+                        "50 de biserici",
+                        "12 biserici"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Accurate analysis of The Wooden Churches of Maramureș (UNESCO World Heritage: Bârsana, Ieud, soaring oak shingles)."
+                    "explanation": "Opt biserici de lemn maramureșene au fost selectate pe lista UNESCO pentru valoarea lor universală excepțională."
                 },
                 {
-                    "prompt": "What mastery level does completing The Wooden Churches of Maramureș contribute to in the FEARN curriculum?",
+                    "prompt": "Care biserică maramureșeană de lemn din patrimoniul UNESCO atinge o înălțime totală impresionantă de 72 de metri?",
                     "options": [
-                        "Elementary A2",
-                        "Beginner A1",
-                        "Pre-intermediate B1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery"
+                        "Biserica «Sfinții Arhangheli» din Șurdești",
+                        "Biserica din Voroneț",
+                        "Mănăstirea Cozia",
+                        "Biserica Neagră din Brașov"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Turnul din Șurdești a fost timp de secole cea mai înaltă structură de lemn cu turn din Europa."
                 }
             ],
             "passThreshold": 0.8
@@ -16719,78 +16749,83 @@
     },
     "ro-u33-l2": {
         "id": "ro-u33-l2",
-        "unit": "ro-u33",
+        "unit": "u33",
         "level": "C1",
-        "objective": "The Painted Monasteries of Bucovina: Voroneț Blue (Voroneț 1488, Humor, Moldovița, fresce exterioare): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "objective": "Mănăstirile pictate din Bucovina: Albastrul de Voroneț (1488), frescele exterioare, Humor și Moldovița.",
         "presentation": {
-            "explanation": "The Painted Monasteries of Bucovina: Voroneț Blue (Voroneț 1488, Humor, Moldovița, fresce exterioare) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Mănăstirile cu pictură murală exterioară din Bucovina (nordul Moldovei, înscrise în Patrimoniul Mondial UNESCO: Voroneț, Humor, Moldovița, Sucevița, Arbore, Pătrăuți, Probota) reprezintă o manifestare artistică unică în arta bizantină și europeană din secolele XV–XVI. Ctitorită de domnitorul Ștefan cel Mare în 1488 în urma unei victorii împotriva otomanilor și extinsă de mitropolitul Grigorie Roșca în 1547, Mănăstirea Voroneț este supranumită «Capela Sixtină a Estului». Pereții exteriori sunt acoperiți integral cu fresce de o rigoare teologică și compozițională uimitoare, create pentru a educa poporul și armata. Pe peretele vestic de la Voroneț se desfășoară monumentalul *Judecata de Apoi*, realizat pe fundalul inegalabilului «Albastru de Voroneț»—un pigment mineral strălucitor și misterios a cărui rețetă secretă rezistă de peste 470 de ani intemperiilor.",
             "examples": [
                 {
-                    "target": "Mastery of The Painted Monasteries of Bucovina: Voroneț Blue (Voroneț 1488, Humor, Moldovița, fresce exterioare) exemplifies the cultural and expressive pinnacle of Romanian.",
-                    "reading": "Target analysis of The Painted Monasteries of Bucovina: Voroneț Blue (Voroneț 1488, Humor, Moldovița, fresce exterioare)...",
-                    "translation": "Mastery of The Painted Monasteries of Bucovina: Voroneț Blue (Voroneț 1488, Humor, Moldovița, fresce exterioare) exemplifies the cultural and expressive pinnacle of Romanian."
+                    "target": "Fresca Judecata de Apoi de la Voroneț include instrumente muzicale tradiționale românești precum buciumul.",
+                    "reading": "Fresca Judecata de Apoi de la Voroneț include instrumente muzicale tradiționale românești precum buciumul.",
+                    "translation": "The Last Judgment fresco at Voroneț includes traditional Romanian musical instruments like the bucium."
+                },
+                {
+                    "target": "Mănăstirea Sucevița impresionează prin fresca monumentală Scara Virtuților pictată pe fațada nordică.",
+                    "reading": "Mănăstirea Sucevița impresionează prin fresca monumentală Scara Virtuților pictată pe fațada nordică.",
+                    "translation": "Sucevița Monastery impresses with the monumental Ladder of Virtues fresco painted on its northern facade."
                 }
             ],
             "mnemonics": [
-                "The Painted Monasteries of Bucovina: Voroneț Blue (Voroneț 1488, Humor, Moldovița, fresce exterioare)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "Frescele din Bucovina: Voroneț (albastru azurit), Humor (roșu cărămiziu), Moldovița (galben solar), Sucevița (verde smarald)."
             ],
             "culturalNotes": [
-                "The Painted Monasteries of Bucovina: Voroneț Blue (Voroneț 1488, Humor, Moldovița, fresce exterioare) is celebrated worldwide as a defining achievement of Romanian heritage."
+                "Ștefan cel Mare a ridicat 44 de biserici și mănăstiri, conform tradiției câte un lăcaș de cult după fiecare bătălie purtată pentru apărarea Moldovei."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of The Painted Monasteries of Bucovina: Voroneț Blue (Voroneț 1488, Humor, Moldovița, fresce exterioare)?",
+                    "prompt": "Care este celebra compoziție iconografică ce ocupă întregul perete vestic fără ferestre al Mănăstirii Voroneț?",
                     "options": [
-                        "The Painted Monasteries of Bucovina: Voroneț Blue (162.1)",
-                        "Irrelevant topic (162.2)",
-                        "Modern fast-food trend (162.3)",
-                        "Generic introductory concept (162.4)"
+                        "Judecata de Apoi",
+                        "Facerea Lumii",
+                        "Turnul Babel",
+                        "Nunta din Cana Galileii"
                     ],
                     "answerIndex": 0,
-                    "explanation": "The Painted Monasteries of Bucovina: Voroneț Blue is the central subject."
+                    "explanation": "*Judecata de Apoi* de la Voroneț este considerată o capodoperă a artei universale prin dramatismul și cromatica sa."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of The Painted Monasteries of Bucovina: Voroneț Blue?",
+                    "prompt": "Ce nuanță cromatică unică stă la baza faimei mondiale a frescelor Mănăstirii Voroneț?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Romanian civilization. (162.1)",
-                        "It has no historical significance. (162.2)",
-                        "It was invented yesterday. (162.3)",
-                        "It was imported from an unrelated continent. (162.4)"
+                        "Albastrul de Voroneț (pe bază de mineral azurit)",
+                        "Negrul de cărbune de fag",
+                        "Rozul fosforescent",
+                        "Auriul cu sclipici"
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Romanian civilization."
+                    "explanation": "Albastrul de Voroneț a rămas nealterat timp de secole în ciuda ploilor, gerului și soarelui."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of The Painted Monasteries of Bucovina: Voroneț Blue in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "Ce mare domnitor al Moldovei a ctitorit Mănăstirea Voroneț în anul 1488 în doar 3 luni și 3 săptămâni?",
                     "options": [
-                        "It only applied to elementary school education.",
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "The Painted Monasteries of Bucovina: Voroneț Blue established enduring philosophical, technical, and expressive standards across the tradition."
+                        "Ștefan cel Mare",
+                        "Mihai Viteazul",
+                        "Alexandru Lăpușneanu",
+                        "Mircea cel Bătrân"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Accurate analysis of The Painted Monasteries of Bucovina: Voroneț Blue (Voroneț 1488, Humor, Moldovița, fresce exterioare)."
+                    "answerIndex": 0,
+                    "explanation": "Ștefan cel Mare a ridicat Voronețul la îndemnul duhovnicului său, Sihastrul Daniil."
                 },
                 {
-                    "prompt": "What mastery level does completing The Painted Monasteries of Bucovina: Voroneț Blue contribute to in the FEARN curriculum?",
+                    "prompt": "Cum este supranumită Mănăstirea Voroneț datorită splendidei sale fresce exterioare?",
                     "options": [
-                        "Elementary A2",
-                        "Beginner A1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Pre-intermediate B1"
+                        "Capela Sixtină a Estului",
+                        "Catedrala de Cristal",
+                        "Sanctuarul Munților",
+                        "Acro отображение Nordului"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Datorită geniului compoziției și culorilor, Voronețul este numit Capela Sixtină a Estului."
                 }
             ],
             "passThreshold": 0.8
@@ -16798,78 +16833,83 @@
     },
     "ro-u33-l3": {
         "id": "ro-u33-l3",
-        "unit": "ro-u33",
-        "level": "C2",
-        "objective": "Brâncovenesc Architecture & Sacred Synthesis (Palatul Mogoșoaia 1702, Mănăstirea Horezu, foișor): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "unit": "u33",
+        "level": "C1",
+        "objective": "Arhitectura Brâncovenească: Palatul Mogoșoaia (1702), Mănăstirea Horezu, foișorul și Renașterea românească.",
         "presentation": {
-            "explanation": "Brâncovenesc Architecture & Sacred Synthesis (Palatul Mogoșoaia 1702, Mănăstirea Horezu, foișor) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Stilul Brâncovenesc (sau «Renașterea Românească»), dezvoltat în Țara Românească în timpul domniei voievodului martir Constantin Brâncoveanu (1688–1714), este singurul stil arhitectural autohton de sinteză majoră din istoria României. Născut la confluența dintre tradiția bizantină orientală, decorația florală otomană și elementele Renașterii italiene și Barocului venețian, stilul se remarcă prin echilibru, rafinament și armonie. Elementele sale distinctive includ: foișorul deschis cu arcade trilobate sprijinite pe coloane de piatră sculptată cu capiteluri corintice, scările exterioare monumentale, ancadramentele sculptate în piatră cu motive vegetale (frunze de acant, struguri, rodii) și utilizarea cărămizii aparente. Capodoperele acestui stil sunt Palatul Mogoșoaia (1702, reședința de vară de lângă București) și Mănăstirea Horezu (1690–1693, UNESCO), cel mai vast și reprezentativ complex monastic brâncovenesc.",
             "examples": [
                 {
-                    "target": "Mastery of Brâncovenesc Architecture & Sacred Synthesis (Palatul Mogoșoaia 1702, Mănăstirea Horezu, foișor) exemplifies the cultural and expressive pinnacle of Romanian.",
-                    "reading": "Target analysis of Brâncovenesc Architecture & Sacred Synthesis (Palatul Mogoșoaia 1702, Mănăstirea Horezu, foișor)...",
-                    "translation": "Mastery of Brâncovenesc Architecture & Sacred Synthesis (Palatul Mogoșoaia 1702, Mănăstirea Horezu, foișor) exemplifies the cultural and expressive pinnacle of Romanian."
+                    "target": "Foișorul Palatului Mogoșoaia se deschide spre lac printr-o loggie venețiană din piatră fin sculptată.",
+                    "reading": "Foișorul Palatului Mogoșoaia se deschide spre lac printr-o loggie venețiană din piatră fin sculptată.",
+                    "translation": "The gazebo of Mogoșoaia Palace opens towards the lake through a finely carved Venetian stone loggia."
+                },
+                {
+                    "target": "Mănăstirea Horezu este considerată capodopera absolută a stilului brâncovenesc în arta sacră.",
+                    "reading": "Mănăstirea Horezu este considerată capodopera absolută a stilului brâncovenesc în arta sacră.",
+                    "translation": "Horezu Monastery is considered the absolute masterpiece of the Brâncovenesc style in sacred art."
                 }
             ],
             "mnemonics": [
-                "Brâncovenesc Architecture & Sacred Synthesis (Palatul Mogoșoaia 1702, Mănăstirea Horezu, foișor)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "Stilul Brâncovenesc: Foișor cu arcade trilobate + coloane sculptate în piatră + motive florale renascentisto-orientale."
             ],
             "culturalNotes": [
-                "Brâncovenesc Architecture & Sacred Synthesis (Palatul Mogoșoaia 1702, Mănăstirea Horezu, foișor) is celebrated worldwide as a defining achievement of Romanian heritage."
+                "Constantin Brâncoveanu și cei patru fii ai săi au fost martirizați la Constantinopol pe 15 august 1714 pentru refuzul de a renunța la credința creștină."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Brâncovenesc Architecture & Sacred Synthesis (Palatul Mogoșoaia 1702, Mănăstirea Horezu, foișor)?",
+                    "prompt": "Care este elementul arhitectural emblematic al fațadelor în stil brâncovenesc?",
                     "options": [
-                        "Brâncovenesc Architecture & Sacred Synthesis (163.1)",
-                        "Generic introductory concept (163.2)",
-                        "Irrelevant topic (163.3)",
-                        "Modern fast-food trend (163.4)"
+                        "Foișorul (loggia) deschis cu arcade trilobate susținute de coloane din piatră sculptată.",
+                        "Un pod mobil din fier cu turnuri de apărare romane.",
+                        "O cupolă geodezică din sticlă modernă.",
+                        "Pereți opaci fără uși sau ferestre."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Brâncovenesc Architecture & Sacred Synthesis is the central subject."
+                    "explanation": "Foișorul brâncovenesc oferă deschidere și eleganță palatelor și chiliilor mănăstirești."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of Brâncovenesc Architecture & Sacred Synthesis?",
+                    "prompt": "Ce mănăstire din județul Vâlcea, ctitorită de Constantin Brâncoveanu, este inclusă în Patrimoniul Mondial UNESCO?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Romanian civilization. (163.1)",
-                        "It was imported from an unrelated continent. (163.2)",
-                        "It was invented yesterday. (163.3)",
-                        "It has no historical significance. (163.4)"
+                        "Mănăstirea Horezu (Hurez)",
+                        "Mănăstirea Curtea de Argeș",
+                        "Mănăstirea Putna",
+                        "Mănăstirea Tismana"
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Romanian civilization."
+                    "explanation": "Mănăstirea Horezu este cel mai complet ansamblu de arhitectură brâncovenească păstrat."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Brâncovenesc Architecture & Sacred Synthesis in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "În ce an a fost finalizat Palatul Mogoșoaia de lângă București ca reședință pentru fiul lui Brâncoveanu, Ștefan?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "Brâncovenesc Architecture & Sacred Synthesis established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education."
+                        "1702",
+                        "1850",
+                        "1600",
+                        "1920"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Accurate analysis of Brâncovenesc Architecture & Sacred Synthesis (Palatul Mogoșoaia 1702, Mănăstirea Horezu, foișor)."
+                    "answerIndex": 0,
+                    "explanation": "Palatul Mogoșoaia a fost desăvârșit în anul 1702 pe malul lacului Mogoșoaia."
                 },
                 {
-                    "prompt": "What mastery level does completing Brâncovenesc Architecture & Sacred Synthesis contribute to in the FEARN curriculum?",
+                    "prompt": "Ce mișcare arhitecturală de la începutul secolului XX (Ion Mincu, Petre Antonescu) a reinterpretat elementele stilului brâncovenesc?",
                     "options": [
-                        "Beginner A1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Pre-intermediate B1",
-                        "Elementary A2"
+                        "Stilul Neoromânesc",
+                        "Brutalismul socialist",
+                        "Art Deco bucureștean",
+                        "Cubismul funcționalist"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Stilul Neoromânesc a preluat foișoarele, arcadele și sculptura în piatră brâncovenească în clădirile moderne."
                 }
             ],
             "passThreshold": 0.8
@@ -16877,78 +16917,83 @@
     },
     "ro-u33-l4": {
         "id": "ro-u33-l4",
-        "unit": "ro-u33",
-        "level": "C2",
-        "objective": "Constantin Brâncuși's Sculptural Ensemble at Târgu Jiu (Coloana Infinitului, Poarta Sărutului, Masa Tăcerii): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "unit": "u33",
+        "level": "C1",
+        "objective": "Ansamblul Sculptural Constantin Brâncuși de la Târgu Jiu: Coloana Infinitului, Poarta Sărutului și Masa Tăcerii.",
         "presentation": {
-            "explanation": "Constantin Brâncuși's Sculptural Ensemble at Târgu Jiu (Coloana Infinitului, Poarta Sărutului, Masa Tăcerii) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Constantin Brâncuși (1876–1957), născut la Hobița (Gorj) și stabilit la Paris, este părintele sculpturii moderne universale. Între 1937 și 1938, Brâncuși a revenit în România pentru a realiza singurul său ansamblu monumental de for public în aer liber: Ansamblul sculptural de la Târgu Jiu, închinat memoriei eroilor căzuți în Primul Război Mondial (inclus în Patrimoniul Mondial UNESCO în 2024). Dispuse de-a lungul unei axe est-vest de 1,5 kilometri («Calea Eroilor»), cele trei capodopere marchează un itinerar simbolic al destinului uman: *Masa Tăcerii* (calcar circular înconjurat de 12 scaune în formă de clepsidră, simbolizând timpul și comuniunea înainte de bătălie), *Aleea Scaunelor*, *Poarta Sărutului* (arcul de triumf al iubirii și biruinței vieții asupra morții) și *Coloana fără Sfârșit* (*Coloana Infinitului*—un ax vertical de 29,33 metri compus din 15 moduli octaedrici din fontă alămită, reprezentând o scară a sufletelor spre infinit și înălțarea eternă a spiritului).",
             "examples": [
                 {
-                    "target": "Mastery of Constantin Brâncuși's Sculptural Ensemble at Târgu Jiu (Coloana Infinitului, Poarta Sărutului, Masa Tăcerii) exemplifies the cultural and expressive pinnacle of Romanian.",
-                    "reading": "Target analysis of Constantin Brâncuși's Sculptural Ensemble at Târgu Jiu (Coloana Infinitului, Poarta Sărutului, Masa Tăcerii)...",
-                    "translation": "Mastery of Constantin Brâncuși's Sculptural Ensemble at Târgu Jiu (Coloana Infinitului, Poarta Sărutului, Masa Tăcerii) exemplifies the cultural and expressive pinnacle of Romanian."
+                    "target": "Coloana Infinitului a fost descrisă de Brâncuși ca un cântec etern al recunoștinței față de sacrificiul eroilor.",
+                    "reading": "Coloana Infinitului a fost descrisă de Brâncuși ca un cântec etern al recunoștinței față de sacrificiul eroilor.",
+                    "translation": "The Endless Column was described by Brâncuși as an eternal song of gratitude for the heroes' sacrifice."
+                },
+                {
+                    "target": "Motivele ochilor îmbrățișați de pe stâlpii Porții Sărutului sintetizează fuziunea a două ființe într-una singură.",
+                    "reading": "Motivele ochilor îmbrățișați de pe stâlpii Porții Sărutului sintetizează fuziunea a două ființe într-una singură.",
+                    "translation": "The motifs of embracing eyes on the Kiss Gate pillars synthesize the fusion of two beings into one."
                 }
             ],
             "mnemonics": [
-                "Constantin Brâncuși's Sculptural Ensemble at Târgu Jiu (Coloana Infinitului, Poarta Sărutului, Masa Tăcerii)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "Axa Brâncuși Târgu Jiu: Masa Tăcerii (pregătire) -> Poarta Sărutului (trecere) -> Coloana Infinitului (înălțare spre cer)."
             ],
             "culturalNotes": [
-                "Constantin Brâncuși's Sculptural Ensemble at Târgu Jiu (Coloana Infinitului, Poarta Sărutului, Masa Tăcerii) is celebrated worldwide as a defining achievement of Romanian heritage."
+                "În anii 1950, autoritățile staliniste locale au încercat să dărâme Coloana Infinitului cu un tractor legat cu lanțuri, considerând-o «artă decadentă burgheză», dar structura din oțel a rezistat intactă."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Constantin Brâncuși's Sculptural Ensemble at Târgu Jiu (Coloana Infinitului, Poarta Sărutului, Masa Tăcerii)?",
+                    "prompt": "Care este succesiunea pe axa urbană a celor trei monumente majore create de Constantin Brâncuși la Târgu Jiu?",
                     "options": [
-                        "Generic introductory concept (164.1)",
-                        "Irrelevant topic (164.2)",
-                        "Modern fast-food trend (164.3)",
-                        "Constantin Brâncuși's Sculptural Ensemble at Târgu Jiu (164.4)"
+                        "Masa Tăcerii, Poarta Sărutului și Coloana Infinitului.",
+                        "Coloana Infinitului, Sfinxul din Bucegi și Palatul Parlamentului.",
+                        "Poarta Sărutului, Castelul Bran și Cetatea Neamțului.",
+                        "Masa Tăcerii, Arcul de Triumf și Biserica Neagră."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Constantin Brâncuși's Sculptural Ensemble at Târgu Jiu is the central subject."
+                    "answerIndex": 0,
+                    "explanation": "Ansamblul este dispus de-a lungul Căii Eroilor din parcul de pe malul Jiului până în parcul Coloanei."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of Constantin Brâncuși's Sculptural Ensemble at Târgu Jiu?",
+                    "prompt": "Ce formă geometrică modulară repetată alcătuiește trunchiul Coloanei fără Sfârșit a lui Brâncuși?",
                     "options": [
-                        "It has no historical significance. (164.1)",
-                        "It was imported from an unrelated continent. (164.2)",
-                        "It was invented yesterday. (164.3)",
-                        "It represents a defining historical and aesthetic breakthrough in Romanian civilization. (164.4)"
+                        "Module octaedrice (romboidale) suprapuse din fontă alămită pe miez de oțel.",
+                        "Sfere perfecte din sticlă transparentă.",
+                        "Cuburi din lemn de nuc legate cu funii.",
+                        "Piramide egiptene inversate din argint."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "It represents a defining breakthrough in Romanian civilization."
+                    "answerIndex": 0,
+                    "explanation": "Modulele romboidale de fontă creează senzația de pulsație și înălțare ritmică nesfârșită spre cer."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Constantin Brâncuși's Sculptural Ensemble at Târgu Jiu in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "În ce an a fost înscris Ansamblul monumental Constantin Brâncuși de la Târgu Jiu în Patrimoniul Mondial UNESCO?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "Constantin Brâncuși's Sculptural Ensemble at Târgu Jiu established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education.",
-                        "It was completely forgotten within a week."
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "Accurate analysis of Constantin Brâncuși's Sculptural Ensemble at Târgu Jiu (Coloana Infinitului, Poarta Sărutului, Masa Tăcerii)."
-                },
-                {
-                    "prompt": "What mastery level does completing Constantin Brâncuși's Sculptural Ensemble at Târgu Jiu contribute to in the FEARN curriculum?",
-                    "options": [
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Elementary A2",
-                        "Pre-intermediate B1",
-                        "Beginner A1"
+                        "2024",
+                        "1970",
+                        "1900",
+                        "1945"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "explanation": "În iulie 2024, UNESCO a recunoscut oficial valoarea universală excepțională a capodoperei lui Brâncuși de la Târgu Jiu."
+                },
+                {
+                    "prompt": "Ce simbolizează cele 12 scaune rotunde din piatră așezate în jurul Mesei Tăcerii?",
+                    "options": [
+                        "Cele 12 luni ale anului și cele 12 ore de pe cadranul timpului.",
+                        "12 triburi de nomazi.",
+                        "12 regi ai Franței.",
+                        "12 vagoane de tren."
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Scaunele-clepsidră evocă scurgerea timpului și meditația tăcută în fața destinului."
                 }
             ],
             "passThreshold": 0.8
@@ -16956,78 +17001,83 @@
     },
     "ro-u33-l5": {
         "id": "ro-u33-l5",
-        "unit": "ro-u33",
-        "level": "C2",
-        "objective": "Pelișor & Peleș Castle: Neo-Renaissance Crown of the Carpathians (Sinaia, Regele Carol I, Schöngrün): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "unit": "u33",
+        "level": "C1",
+        "objective": "Castelul Peleș & Pelișor: Renașterea montană a Carpaților, Regele Carol I, Schöngrün și Sinaia.",
         "presentation": {
-            "explanation": "Pelișor & Peleș Castle: Neo-Renaissance Crown of the Carpathians (Sinaia, Regele Carol I, Schöngrün) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Castelul Peleș din Sinaia (construit între 1873 și 1914 la inițiativa primului rege al României, Carol I de Hohenzollern-Sigmaringen) este una dintre cele mai spectaculoase și rafinate reședințe regale din Europa, reprezentând o capodoperă a stilului Neorenaștere germană cu influențe gotice și alpine. Proiectat de arhitecții Johannes Schultz, Carol Benesch și Karel Liman, Peleșul îmbină armonios bârnele aparente (*Fachwerk*), turnurile zvelte, terasele italiene din piatră împodobite cu statui de Raffaello Romanelli și decorațiunile interioare somptuoase din lemn sculptat (Sala Armelor, Sala Florentină, Sala Maura). Peleșul a fost cel mai modern castel al epocii sale: a fost primul castel complet electrificat din Europa (cu uzină electrică proprie), dotat cu încălzire centrală, lift și plafon mobil din vitralii acționat electric. În apropiere se află Castelul Pelișor (1899–1902), decorat în stil Art Nouveau vienez de arhitectul Bernhard Ludwig pentru Regina Maria.",
             "examples": [
                 {
-                    "target": "Mastery of Pelișor & Peleș Castle: Neo-Renaissance Crown of the Carpathians (Sinaia, Regele Carol I, Schöngrün) exemplifies the cultural and expressive pinnacle of Romanian.",
-                    "reading": "Target analysis of Pelișor & Peleș Castle: Neo-Renaissance Crown of the Carpathians (Sinaia, Regele Carol I, Schöngrün)...",
-                    "translation": "Mastery of Pelișor & Peleș Castle: Neo-Renaissance Crown of the Carpathians (Sinaia, Regele Carol I, Schöngrün) exemplifies the cultural and expressive pinnacle of Romanian."
+                    "target": "Castelul Peleș a fost inaugurat oficial în 1883 ca reședință regală de vară.",
+                    "reading": "Castelul Peleș a fost inaugurat oficial în 1883 ca reședință regală de vară.",
+                    "translation": "Peleș Castle was officially inaugurated in 1883 as a royal summer residence."
+                },
+                {
+                    "target": "Camera de Aur din Castelul Pelișor a fost concepută după viziunea artistică Art Nouveau a Reginei Maria.",
+                    "reading": "Camera de Aur din Castelul Pelișor a fost concepută după viziunea artistică Art Nouveau a Reginei Maria.",
+                    "translation": "The Golden Room in Pelișor Castle was designed according to Queen Marie's Art Nouveau artistic vision."
                 }
             ],
             "mnemonics": [
-                "Pelișor & Peleș Castle: Neo-Renaissance Crown of the Carpathians (Sinaia, Regele Carol I, Schöngrün)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "Domeniul Regal Sinaia: Peleș (grandoare Neorenaștere germană) + Pelișor (intimitate Art Nouveau a Reginei Maria)."
             ],
             "culturalNotes": [
-                "Pelișor & Peleș Castle: Neo-Renaissance Crown of the Carpathians (Sinaia, Regele Carol I, Schöngrün) is celebrated worldwide as a defining achievement of Romanian heritage."
+                "Colecția de arme a Castelului Peleș numără peste 4.000 de piese istorice, incluzând o armură completă de cavaler și cal unică în România."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Pelișor & Peleș Castle: Neo-Renaissance Crown of the Carpathians (Sinaia, Regele Carol I, Schöngrün)?",
+                    "prompt": "Care rege al României a comandat construirea Castelului Peleș la Sinaia ca reședință de vară a dinastiei?",
                     "options": [
-                        "Pelișor & Peleș Castle: Neo-Renaissance Crown of the Carpathians (165.1)",
-                        "Generic introductory concept (165.2)",
-                        "Modern fast-food trend (165.3)",
-                        "Irrelevant topic (165.4)"
+                        "Regele Carol I",
+                        "Regele Mihai I",
+                        "Regele Ferdinand I",
+                        "Regele Carol al II-lea"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Pelișor & Peleș Castle: Neo-Renaissance Crown of the Carpathians is the central subject."
+                    "explanation": "Carol I a fost fermecat de sălbăticia Munților Bucegi și a decis ridicarea castelului în 1873."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of Pelișor & Peleș Castle: Neo-Renaissance Crown of the Carpathians?",
+                    "prompt": "Prin ce inovație tehnologică revoluționară a rămas Castelul Peleș în istoria reședințelor europene de la sfârșitul secolului XIX?",
                     "options": [
-                        "It has no historical significance. (165.1)",
-                        "It was imported from an unrelated continent. (165.2)",
-                        "It was invented yesterday. (165.3)",
-                        "It represents a defining historical and aesthetic breakthrough in Romanian civilization. (165.4)"
+                        "A fost primul castel din Europa complet electrificat, având propria uzină hidroelectrică.",
+                        "A fost construit în întregime din sticlă securizată subacvatic.",
+                        "A funcționat pe bază de motoare cu abur pentru deplasare pe șine.",
+                        "A fost luminat doar cu torțe din rășină de brad fără ferestre."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "It represents a defining breakthrough in Romanian civilization."
+                    "answerIndex": 0,
+                    "explanation": "Peleșul beneficia de electricitate, încălzire centralizată și plafon mobil din vitralii acționat electric."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Pelișor & Peleș Castle: Neo-Renaissance Crown of the Carpathians in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "În ce stil arhitectural și decorativ de la 1900 este amenajat interiorul Castelului Pelișor de lângă Peleș?",
                     "options": [
-                        "Pelișor & Peleș Castle: Neo-Renaissance Crown of the Carpathians established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It was completely forgotten within a week.",
-                        "It only applied to elementary school education.",
-                        "It was a minor commercial advertising campaign."
+                        "Art Nouveau (Jugendstil vienez cu motive celtice și bizantine)",
+                        "Gotic pur medieval",
+                        "Baroc francez ca la Versailles",
+                        "Brutalism modern"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Accurate analysis of Pelișor & Peleș Castle: Neo-Renaissance Crown of the Carpathians (Sinaia, Regele Carol I, Schöngrün)."
+                    "explanation": "Regina Maria și arhitectul Bernhard Ludwig au creat la Pelișor o bijuterie Art Nouveau."
                 },
                 {
-                    "prompt": "What mastery level does completing Pelișor & Peleș Castle: Neo-Renaissance Crown of the Carpathians contribute to in the FEARN curriculum?",
+                    "prompt": "În ce lanț muntos spectaculos din România se află amplasat domeniul regal Peleș?",
                     "options": [
-                        "Beginner A1",
-                        "Elementary A2",
-                        "Pre-intermediate B1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery"
+                        "Munții Bucegi (Carpații Meridionali)",
+                        "Munții Apuseni",
+                        "Munții Rodnei",
+                        "Munții Măcin"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Castelul Peleș este situat în valea râului Peleș la poalele maiestuoase ale Munților Bucegi."
                 }
             ],
             "passThreshold": 0.8

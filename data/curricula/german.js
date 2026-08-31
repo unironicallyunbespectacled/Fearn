@@ -16197,78 +16197,83 @@
     },
     "de-u32-l1": {
         "id": "de-u32-l1",
-        "unit": "de-u32",
+        "unit": "u32",
         "level": "C1",
-        "objective": "Bertolt Brecht & The Epic Theatre: Verfremdungseffekt (Der V-Effekt, Die Dreigroschenoper, Berliner Ensemble): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "objective": "Weimarer Klassik & Goethe / Schiller: Das Hoftheater Weimar, der Blankvers, Humanitätsideal und Faust I & II.",
         "presentation": {
-            "explanation": "Bertolt Brecht & The Epic Theatre: Verfremdungseffekt (Der V-Effekt, Die Dreigroschenoper, Berliner Ensemble) represents a cornerstone of Theatre, Dramaturgy & Stagecraft. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Die Weimarer Klassik (ca. 1786–1805), geprägt durch die enge schöpferische Freundschaft zwischen Johann Wolfgang von Goethe (1749–1832) und Friedrich Schiller (1759–1805), begründete das Fundament der deutschen Hochdramatik am Weimarer Hoftheater. In bewusster Abgrenzung zur ungestümen Emotionalität des Sturm und Drang strebte die Klassik nach einer Synthese aus antiker Formstrenge, sittlicher Läuterung und dem aufklärerischen Humanitätsideal. Schiller etablierte im deutschen Drama den fünfhebigen, reimlosen Jambus (Blankvers) als erhabenes Sprachmedium für historische und philosophische Konflikte (*Don Karlos*, *Wallenstein*, *Wilhelm Tell*), während Goethe in seinem monumentalen Lebenswerk *Faust* (Teil I 1808, Teil II 1832) die existenzielle Zerrissenheit des modernen Menschen zwischen titanischem Erkenntnisdrang, Hybris und Erlösung dichterisch gestaltete.",
             "examples": [
                 {
-                    "target": "Mastery of Bertolt Brecht & The Epic Theatre: Verfremdungseffekt (Der V-Effekt, Die Dreigroschenoper, Berliner Ensemble) exemplifies the cultural and expressive pinnacle of German.",
-                    "reading": "Target analysis of Bertolt Brecht & The Epic Theatre: Verfremdungseffekt (Der V-Effekt, Die Dreigroschenoper, Berliner Ensemble)...",
-                    "translation": "Mastery of Bertolt Brecht & The Epic Theatre: Verfremdungseffekt (Der V-Effekt, Die Dreigroschenoper, Berliner Ensemble) exemplifies the cultural and expressive pinnacle of German."
+                    "target": "Der Blankvers verleiht dem klassischen deutschen Ideendrama rhythmische Würde und rhetorische Plastizität.",
+                    "reading": "Der Blankvers verleiht dem klassischen deutschen Ideendrama rhythmische Würde und rhetorische Plastizität.",
+                    "translation": "Blank verse endows the classical German drama of ideas with rhythmic dignity and rhetorical plasticity."
+                },
+                {
+                    "target": "In Goethes Faust verkörpert Mephistopheles den Geist, der stets verneint und doch das Gute schafft.",
+                    "reading": "In Goethes Faust verkörpert Mephistopheles den Geist, der stets verneint und doch das Gute schafft.",
+                    "translation": "In Goethe's Faust, Mephistopheles embodies the spirit that ever denies and yet creates the good."
                 }
             ],
             "mnemonics": [
-                "Bertolt Brecht & The Epic Theatre: Verfremdungseffekt (Der V-Effekt, Die Dreigroschenoper, Berliner Ensemble)! Essential milestone in Theatre, Dramaturgy & Stagecraft!"
+                "Weimarer Klassik: Goethe und Schiller vereinen antikes Maß mit deutscher Sprachkraft im reimlosen Blankvers."
             ],
             "culturalNotes": [
-                "Bertolt Brecht & The Epic Theatre: Verfremdungseffekt (Der V-Effekt, Die Dreigroschenoper, Berliner Ensemble) is celebrated worldwide as a defining achievement of German heritage."
+                "Goethe leitete das Weimarer Hoftheater von 1791 bis 1817 über 26 Jahre lang persönlich als Intendant und Regisseur."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Bertolt Brecht & The Epic Theatre: Verfremdungseffekt (Der V-Effekt, Die Dreigroschenoper, Berliner Ensemble)?",
+                    "prompt": "Welches metrische Versmaß wählten Goethe und Schiller als maßgebliches poetisches Sprachmedium für das klassische Ideendrama?",
                     "options": [
-                        "Generic introductory concept (156.1)",
-                        "Irrelevant topic (156.2)",
-                        "Modern fast-food trend (156.3)",
-                        "Bertolt Brecht & The Epic Theatre: Verfremdungseffekt (156.4)"
+                        "Der reimlose fünfhebige Jambus (Blankvers)",
+                        "Der vierhebige Knittelvers aus dem Mittelalter",
+                        "Der sapphische Elfsilbler ohne Zäsur",
+                        "Der freie Hexameter mit Reimpaaren"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Bertolt Brecht & The Epic Theatre: Verfremdungseffekt is the central subject."
+                    "answerIndex": 0,
+                    "explanation": "Der Blankvers (nach Shakespeares und Lessings Vorbild) wurde durch Schiller und Goethe zum Standard der Weimarer Klassik erhoben."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Dramaturgy & Stagecraft, what is the primary significance of Bertolt Brecht & The Epic Theatre: Verfremdungseffekt?",
+                    "prompt": "Was kennzeichnet das ästhetische und philosophische Humanitätsideal der Weimarer Klassik?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in German civilization. (156.1)",
-                        "It has no historical significance. (156.2)",
-                        "It was imported from an unrelated continent. (156.3)",
-                        "It was invented yesterday. (156.4)"
+                        "Die vollständige Ablehnung jeglicher antiker Kunstformen zugunsten roher Naturlaute.",
+                        "Die sittliche Veredelung des Menschen durch die harmonische Einheit von Vernunft, Pflicht und Neigung im Sinne Schillers ästhetischer Erziehung.",
+                        "Die Verherrlichung des blinden Fatalismus und des Nihilismus.",
+                        "Die Beschränkung des Theaters auf bloße höfische Unterhaltungsmusik."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in German civilization."
+                    "answerIndex": 1,
+                    "explanation": "Schiller postulierte in den Briefen «Über die ästhetische Erziehung des Menschen» die Veredelung des Charakters durch die Kunst."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Bertolt Brecht & The Epic Theatre: Verfremdungseffekt in the development of Theatre, Dramaturgy & Stagecraft:",
+                    "prompt": "Welches Schiller-Drama aus dem Jahr 1804 behandelt den Schweizer Freiheitskampf gegen die habsburgische Fremdherrschaft?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "Bertolt Brecht & The Epic Theatre: Verfremdungseffekt established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education.",
-                        "It was completely forgotten within a week."
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "Accurate analysis of Bertolt Brecht & The Epic Theatre: Verfremdungseffekt (Der V-Effekt, Die Dreigroschenoper, Berliner Ensemble)."
-                },
-                {
-                    "prompt": "What mastery level does completing Bertolt Brecht & The Epic Theatre: Verfremdungseffekt contribute to in the FEARN curriculum?",
-                    "options": [
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Beginner A1",
-                        "Pre-intermediate B1",
-                        "Elementary A2"
+                        "Wilhelm Tell",
+                        "Die Räuber",
+                        "Kabale und Liebe",
+                        "Maria Stuart"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "explanation": "*Wilhelm Tell* schildert Tells Tyrannenmord an Gessler und den Rütlischwur als legitimen Widerstand gegen Tyrannei."
+                },
+                {
+                    "prompt": "Wie lautet der berühmte Pakt zwischen Faust und Mephistopheles über den Augenblick höchster Erfüllung?",
+                    "options": [
+                        "«Werd ich zum Augenblicke sagen: Verweile doch! du bist so schön!»",
+                        "«Die Botschaft hör ich wohl, allein mir fehlt der Glaube.»",
+                        "«Hier bin ich Mensch, hier darf ich's sein!»",
+                        "«Zwei Seelen wohnen, ach! in meiner Brust.»"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Faust verpfändet seine Seele für den Moment, in dem er dem vergehenden Augenblick zurufen möchte: «Verweile doch! du bist so schön!»"
                 }
             ],
             "passThreshold": 0.8
@@ -16276,78 +16281,83 @@
     },
     "de-u32-l2": {
         "id": "de-u32-l2",
-        "unit": "de-u32",
+        "unit": "u32",
         "level": "C1",
-        "objective": "Friedrich Schiller & The Moral Stage (Die Schaubühne als eine moralische Anstalt betrachtet, Die Räuber): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "objective": "Bertolt Brecht & Das Epische Theater: Der Verfremdungseffekt (V-Effekt), Gestus, Die Dreigroschenoper und Mutter Courage.",
         "presentation": {
-            "explanation": "Friedrich Schiller & The Moral Stage (Die Schaubühne als eine moralische Anstalt betrachtet, Die Räuber) represents a cornerstone of Theatre, Dramaturgy & Stagecraft. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Bertolt Brecht (1898–1956) revolutionierte die Ästhetik des 20. Jahrhunderts durch die Entwicklung des «Epischen Theaters» am Berliner Ensemble. Brecht wandte sich radikal gegen die aristotelische Katharsis und die bürgerliche Illusionsbühne, die den Zuschauer in passive Einfühlung versetzen. Stattdessen setzt das epische Theater auf den «Verfremdungseffekt» (V-Effekt): Vertraute gesellschaftliche Verhältnisse und Verhaltensweisen werden durch sichtbare Bühnentechnik, Spruchbänder, Songs mit Kurt Weills Musik (*Die Dreigroschenoper*, 1928), Plakate und eine distanzierte Spielweise («Zeigegestus») verfremdet, sodass der Betrachter eine kritisch-analytische Haltung einnimmt. In Meisterwerken wie *Mutter Courage und ihre Kinder* (1939/1941) und *Leben des Galilei* wird die Bühne zum dialektischen Laboratorium, in dem gesellschaftliche Widersprüche und kapitalistische Kriegsökonomien schonungslos offengelegt werden.",
             "examples": [
                 {
-                    "target": "Mastery of Friedrich Schiller & The Moral Stage (Die Schaubühne als eine moralische Anstalt betrachtet, Die Räuber) exemplifies the cultural and expressive pinnacle of German.",
-                    "reading": "Target analysis of Friedrich Schiller & The Moral Stage (Die Schaubühne als eine moralische Anstalt betrachtet, Die Räuber)...",
-                    "translation": "Mastery of Friedrich Schiller & The Moral Stage (Die Schaubühne als eine moralische Anstalt betrachtet, Die Räuber) exemplifies the cultural and expressive pinnacle of German."
+                    "target": "Der Verfremdungseffekt hindert das Publikum daran, sich blindlings in die tragische Hauptfigur einzufühlen.",
+                    "reading": "Der Verfremdungseffekt hindert das Publikum daran, sich blindlings in die tragische Hauptfigur einzufühlen.",
+                    "translation": "The estrangement effect prevents the audience from blindly empathizing with the tragic protagonist."
+                },
+                {
+                    "target": "Mutter Courage zieht ihren Nutzen aus dem Krieg und verliert dabei nacheinander alle ihre drei Kinder.",
+                    "reading": "Mutter Courage zieht ihren Nutzen aus dem Krieg und verliert dabei nacheinander alle ihre drei Kinder.",
+                    "translation": "Mother Courage profits from the war while losing all three of her children one after another."
                 }
             ],
             "mnemonics": [
-                "Friedrich Schiller & The Moral Stage (Die Schaubühne als eine moralische Anstalt betrachtet, Die Räuber)! Essential milestone in Theatre, Dramaturgy & Stagecraft!"
+                "Brechts V-Effekt: Nicht mitfühlen, sondern nachdenken und verändern!"
             ],
             "culturalNotes": [
-                "Friedrich Schiller & The Moral Stage (Die Schaubühne als eine moralische Anstalt betrachtet, Die Räuber) is celebrated worldwide as a defining achievement of German heritage."
+                "Helene Weigel, Brechts Ehefrau und Intendantin des Berliner Ensembles, prägte mit ihrem legendären «stummen Schrei» als Mutter Courage Theatergeschichte."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Friedrich Schiller & The Moral Stage (Die Schaubühne als eine moralische Anstalt betrachtet, Die Räuber)?",
+                    "prompt": "Welche dramaturgische Absicht verfolgt Bertolt Brecht mit dem Einsatz des Verfremdungseffekts (V-Effekt)?",
                     "options": [
-                        "Friedrich Schiller & The Moral Stage (157.1)",
-                        "Irrelevant topic (157.2)",
-                        "Modern fast-food trend (157.3)",
-                        "Generic introductory concept (157.4)"
+                        "Das Publikum soll durch Spezialeffekte in tiefe hypnotische Trance versetzt werden.",
+                        "Die Identifikation des Zuschauers mit den Figuren soll durchbrochen werden, um kritisches, gesellschaftsveränderndes Denken anzuregen.",
+                        "Alle Schauspieler sollen wie antike Chorknaben unisono singen.",
+                        "Die Aufführung soll rein zur Beruhigung nervöser Gemüter dienen."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Friedrich Schiller & The Moral Stage is the central subject."
+                    "answerIndex": 1,
+                    "explanation": "Der V-Effekt entzaubert die theatrale Illusion und fordert den Betrachter auf, gesellschaftliche Machtstrukturen rational zu hinterfragen."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Dramaturgy & Stagecraft, what is the primary significance of Friedrich Schiller & The Moral Stage?",
+                    "prompt": "Welcher Komponist schuf die berühmte synkopierte Jazz- und Kabarettmusik für Brechts Dreigroschenoper (1928)?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in German civilization. (157.1)",
-                        "It has no historical significance. (157.2)",
-                        "It was invented yesterday. (157.3)",
-                        "It was imported from an unrelated continent. (157.4)"
+                        "Richard Wagner",
+                        "Kurt Weill",
+                        "Johannes Brahms",
+                        "Ludwig van Beethoven"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in German civilization."
+                    "answerIndex": 1,
+                    "explanation": "Kurt Weill komponierte die unvergessliche Musik zur *Dreigroschenoper*, darunter die weltbekannte *Moritat von Mackie Messer*."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Friedrich Schiller & The Moral Stage in the development of Theatre, Dramaturgy & Stagecraft:",
+                    "prompt": "Welches Theater in Ost-Berlin wurde 1949 von Bertolt Brecht und Helene Weigel als Heimat des epischen Theaters gegründet?",
                     "options": [
-                        "Friedrich Schiller & The Moral Stage established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "It only applied to elementary school education."
+                        "Das Berliner Ensemble (am Schiffbauerdamm)",
+                        "Die Wiener Staatsoper",
+                        "Das Bayerische Staatsschauspiel",
+                        "Das Hamburger Thalia Theater"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Accurate analysis of Friedrich Schiller & The Moral Stage (Die Schaubühne als eine moralische Anstalt betrachtet, Die Räuber)."
+                    "explanation": "Das Berliner Ensemble am Schiffbauerdamm wurde zur weltberühmten Spielstätte von Brechts epischen Inszenierungen."
                 },
                 {
-                    "prompt": "What mastery level does completing Friedrich Schiller & The Moral Stage contribute to in the FEARN curriculum?",
+                    "prompt": "Was versteht Brecht unter dem theaterwissenschaftlichen Begriff des «sozialen Gestus»?",
                     "options": [
-                        "Pre-intermediate B1",
-                        "Beginner A1",
-                        "Elementary A2",
-                        "Advanced C1/C2 Sovereign Omni-Mastery"
+                        "Die körperliche und sprachliche Haltung einer Figur, die ihre gesellschaftliche Klassenposition und Machtbeziehung offenbart.",
+                        "Ein rein gymnastisches Aufwärmprogramm vor Probenbeginn.",
+                        "Das Verteilen von Freikarten an Bedürftige.",
+                        "Das Auswendiglernen von Bühnenbeleuchtungsplänen."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Der Gestus fasst Haltungen und Verhaltensweisen zusammen, die den gesellschaftlichen Status und Klassenkonflikt sichtbar machen."
                 }
             ],
             "passThreshold": 0.8
@@ -16355,78 +16365,83 @@
     },
     "de-u32-l3": {
         "id": "de-u32-l3",
-        "unit": "de-u32",
-        "level": "C2",
-        "objective": "Heiner Müller & Postmodern Dramatic Deconstruction (Hamletmaschine 1977, Der Auftrag): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "unit": "u32",
+        "level": "C1",
+        "objective": "Heiner Müller & Postdramatisches Theater: Dekonstruktion, Textflächen, Die Hamletmaschine und das Erbe der DDR-Avantgarde.",
         "presentation": {
-            "explanation": "Heiner Müller & Postmodern Dramatic Deconstruction (Hamletmaschine 1977, Der Auftrag) represents a cornerstone of Theatre, Dramaturgy & Stagecraft. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Heiner Müller (1929–1995) gilt als der bedeutendste deutschsprachige Dramatiker der zweiten Hälfte des 20. Jahrhunderts nach Brecht und als Wegbereiter des postdramatischen Theaters. Aufgewachsen in der DDR, thematisierte Müller die historischen Traumata des 20. Jahrhunderts—Faschismus, Stalinismus, das Scheitern von Utopien und die Erstarrung des Staatssozialismus. Mit radikalen Textmontagen wie *Die Hamletmaschine* (1977), *Der Auftrag* (1979) und *Quartett* (1981) sprengte Müller die traditionelle Figurenpsychologie und die narrative Kohärenz. Anstelle klassischer Dialoge treten dichte assoziative Textflächen, Mythosdekonstruktionen, surreale Metaphern und Chöre aus historischen Gespenstern. Müllers Diktum «Das Theater muss ein Ort sein, an dem die Toten zu den Lebenden sprechen» prägte wegweisende Regisseure wie Robert Wilson und Frank Castorf.",
             "examples": [
                 {
-                    "target": "Mastery of Heiner Müller & Postmodern Dramatic Deconstruction (Hamletmaschine 1977, Der Auftrag) exemplifies the cultural and expressive pinnacle of German.",
-                    "reading": "Target analysis of Heiner Müller & Postmodern Dramatic Deconstruction (Hamletmaschine 1977, Der Auftrag)...",
-                    "translation": "Mastery of Heiner Müller & Postmodern Dramatic Deconstruction (Hamletmaschine 1977, Der Auftrag) exemplifies the cultural and expressive pinnacle of German."
+                    "target": "In der Hamletmaschine zerfällt die klassische Shakespearesche Heldenfigur in zersplitterte Textfragmente.",
+                    "reading": "In der Hamletmaschine zerfällt die klassische Shakespearesche Heldenfigur in zersplitterte Textfragmente.",
+                    "translation": "In the Hamletmachine, the classical Shakespearean hero figure disintegrates into fragmented text surfaces."
+                },
+                {
+                    "target": "Heiner Müllers Dramaturgie konfrontiert die Gegenwart mit den unbewältigten Katastrophen der europäischen Geschichte.",
+                    "reading": "Heiner Müllers Dramaturgie konfrontiert die Gegenwart mit den unbewältigten Katastrophen der europäischen Geschichte.",
+                    "translation": "Heiner Müller's dramaturgy confronts the present with the unmastered catastrophes of European history."
                 }
             ],
             "mnemonics": [
-                "Heiner Müller & Postmodern Dramatic Deconstruction (Hamletmaschine 1977, Der Auftrag)! Essential milestone in Theatre, Dramaturgy & Stagecraft!"
+                "Heiner Müller: Zertrümmerung der Dramenform zur seismografischen Erfassung historischer Katastrophen."
             ],
             "culturalNotes": [
-                "Heiner Müller & Postmodern Dramatic Deconstruction (Hamletmaschine 1977, Der Auftrag) is celebrated worldwide as a defining achievement of German heritage."
+                "Müllers *Hamletmaschine* umfasst im Druck kaum neun Seiten, gilt jedoch als einer der weltweit am häufigsten inszenierten Avantgardetexte."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Heiner Müller & Postmodern Dramatic Deconstruction (Hamletmaschine 1977, Der Auftrag)?",
+                    "prompt": "Welche formale Besonderheit zeichnet Heiner Müllers Meisterwerk Die Hamletmaschine (1977) aus?",
                     "options": [
-                        "Heiner Müller & Postmodern Dramatic Deconstruction (158.1)",
-                        "Generic introductory concept (158.2)",
-                        "Irrelevant topic (158.3)",
-                        "Modern fast-food trend (158.4)"
+                        "Es ist eine exakte fünfaktige historische Rekonstruktion im Versmaß des 16. Jahrhunderts.",
+                        "Es ist eine hochverdichtete postdramatische Textfläche, die Shakespeares Hamlet mit dem Aufstand in Ungarn 1956 und Geschlechterkämpfen verwebt.",
+                        "Es ist ein heiteres Kindermusical ohne politische Bezüge.",
+                        "Ein lateinisches Kirchenoratorium für Solisten und Orgel."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Heiner Müller & Postmodern Dramatic Deconstruction is the central subject."
+                    "answerIndex": 1,
+                    "explanation": "Müller dekonstruiert den Hamlet-Mythos in fünf knappe, dichte Abschnitte voller historischer und politischer Schockbilder."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Dramaturgy & Stagecraft, what is the primary significance of Heiner Müller & Postmodern Dramatic Deconstruction?",
+                    "prompt": "Welche französische Romankorrespondenz bildete die Vorlage für Heiner Müllers Dialogstück Quartett (1981)?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in German civilization. (158.1)",
-                        "It was imported from an unrelated continent. (158.2)",
-                        "It was invented yesterday. (158.3)",
-                        "It has no historical significance. (158.4)"
+                        "Madame Bovary von Gustave Flaubert",
+                        "Les Liaisons dangereuses (Gefährliche Liebschaften) von Choderlos de Laclos",
+                        "Der Glöckner von Notre-Dame von Victor Hugo",
+                        "Auf der Suche nach der verlorenen Zeit von Marcel Proust"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in German civilization."
+                    "answerIndex": 1,
+                    "explanation": "In *Quartett* spielen Valmont und Merteuil in einem postapokalyptischen Raum ein sadomasochistisches Rollentauschspiel."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Heiner Müller & Postmodern Dramatic Deconstruction in the development of Theatre, Dramaturgy & Stagecraft:",
+                    "prompt": "Welches berühmte Theater in Berlin leitete Heiner Müller in seinen letzten Lebensjahren bis 1995?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "It only applied to elementary school education.",
-                        "Heiner Müller & Postmodern Dramatic Deconstruction established enduring philosophical, technical, and expressive standards across the tradition."
+                        "Das Berliner Ensemble",
+                        "Das Schillertheater",
+                        "Das Metropol-Theater",
+                        "Die Komische Oper"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Accurate analysis of Heiner Müller & Postmodern Dramatic Deconstruction (Hamletmaschine 1977, Der Auftrag)."
+                    "answerIndex": 0,
+                    "explanation": "Müller übernahm 1992 die künstlerische Leitung des Berliner Ensembles und führte Brechts Erbe in die Postmoderne."
                 },
                 {
-                    "prompt": "What mastery level does completing Heiner Müller & Postmodern Dramatic Deconstruction contribute to in the FEARN curriculum?",
+                    "prompt": "Welche Sprecherin verkündet in der Hamletmaschine den Aufstand der Unterdrückten mit den Worten «Hier spricht Elektra»?",
                     "options": [
-                        "Beginner A1",
-                        "Elementary A2",
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Pre-intermediate B1"
+                        "Ophelia",
+                        "Gertrud",
+                        "Klytämnestra",
+                        "Desdemona"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Ophelia zerreißt ihre Kleider und verwandelt sich in Elektra, die Rächerin im Namen aller geknechteten Frauen."
                 }
             ],
             "passThreshold": 0.8
@@ -16434,78 +16449,83 @@
     },
     "de-u32-l4": {
         "id": "de-u32-l4",
-        "unit": "de-u32",
-        "level": "C2",
-        "objective": "The Bayreuth Festspielhaus & Wagner's Gesamtkunstwerk (Richard Wagner 1876, Mystischer Abgrund): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "unit": "u32",
+        "level": "C1",
+        "objective": "Deutsches Regietheater: Max Reinhardt, Frank Castorf (Volksbühne Berlin) und Thomas Ostermeier (Schaubühne).",
         "presentation": {
-            "explanation": "The Bayreuth Festspielhaus & Wagner's Gesamtkunstwerk (Richard Wagner 1876, Mystischer Abgrund) represents a cornerstone of Theatre, Dramaturgy & Stagecraft. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Das deutsche Regietheater ist eine weltweite Einzigartigkeit der europäischen Theaterlandschaft. Ausgehend von Max Reinhardts visionären Großrauminszenierungen zu Beginn des 20. Jahrhunderts entwickelte sich im deutschsprachigen Raum die Überzeugung, dass der Regisseur nicht bloß treuer Diener der Textvorlage ist, sondern ein eigenständiger Schöpfer (Auteur), der klassische Dramen radikal für die brennenden Konflikte der Gegenwart neu dechiffriert. Maßstabsetzend war die Ära von Frank Castorf an der Berliner Volksbühne am Rosa-Luxemburg-Platz (1992–2017): Zusammen mit Dramaturg Carl Hegemann, Bühnenbildner Bert Neumann und Schauspielern wie Sophie Rois und Martin Wuttke verband Castorf Dostojewski-Romane, Live-Video-Kameras auf der Bühne, Trash-Ästhetik und mehrstündige energetische Verausgabung zu monumentalen Theaterereignissen. Parallel dazu erlangte Thomas Ostermeier an der Berliner Schaubühne am Lehniner Platz durch psychologisch zugespitzte, politisch aufgeladene Ibsen- und Shakespeare-Neudeutungen weltweite Anerkennung.",
             "examples": [
                 {
-                    "target": "Mastery of The Bayreuth Festspielhaus & Wagner's Gesamtkunstwerk (Richard Wagner 1876, Mystischer Abgrund) exemplifies the cultural and expressive pinnacle of German.",
-                    "reading": "Target analysis of The Bayreuth Festspielhaus & Wagner's Gesamtkunstwerk (Richard Wagner 1876, Mystischer Abgrund)...",
-                    "translation": "Mastery of The Bayreuth Festspielhaus & Wagner's Gesamtkunstwerk (Richard Wagner 1876, Mystischer Abgrund) exemplifies the cultural and expressive pinnacle of German."
+                    "target": "Das Regietheater begreift den klassischen Text als Material für eine schonungslose Gegenwartsdiagnose.",
+                    "reading": "Das Regietheater begreift den klassischen Text als Material für eine schonungslose Gegenwartsdiagnose.",
+                    "translation": "Directors' theatre understands the classical text as raw material for an unsparing diagnosis of the present."
+                },
+                {
+                    "target": "Frank Castorfs Inszenierungen an der Volksbühne prägten das europäische Theater über ein Vierteljahrhundert.",
+                    "reading": "Frank Castorfs Inszenierungen an der Volksbühne prägten das europäische Theater über ein Vierteljahrhundert.",
+                    "translation": "Frank Castorf's stagings at the Volksbühne shaped European theatre for over a quarter of a century."
                 }
             ],
             "mnemonics": [
-                "The Bayreuth Festspielhaus & Wagner's Gesamtkunstwerk (Richard Wagner 1876, Mystischer Abgrund)! Essential milestone in Theatre, Dramaturgy & Stagecraft!"
+                "Regietheater: Der Regisseur als Autor einer eigenständigen Bühnenwirklichkeit am Puls der Gegenwart."
             ],
             "culturalNotes": [
-                "The Bayreuth Festspielhaus & Wagner's Gesamtkunstwerk (Richard Wagner 1876, Mystischer Abgrund) is celebrated worldwide as a defining achievement of German heritage."
+                "Das jährliche Berliner Theatertreffen lädt seit 1964 die zehn bemerkenswertesten deutschsprachigen Theaterinszenierungen der Saison ein."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of The Bayreuth Festspielhaus & Wagner's Gesamtkunstwerk (Richard Wagner 1876, Mystischer Abgrund)?",
+                    "prompt": "Was ist das definierende Merkmal des deutschen Regietheaters im Vergleich zur angelsächsischen Werktreue?",
                     "options": [
-                        "Generic introductory concept (159.1)",
-                        "Irrelevant topic (159.2)",
-                        "Modern fast-food trend (159.3)",
-                        "The Bayreuth Festspielhaus & Wagner's Gesamtkunstwerk (159.4)"
+                        "Die strikte Weigerung, moderne Kleidung auf der Bühne zu tragen.",
+                        "Die schöpferische Autonomie des Regisseurs, der den dramatischen Text als offenes Material für eine zeitgenössische ästhetische Neuinterpretation nutzt.",
+                        "Die Verpflichtung, jedes Theaterstück in voller Originallänge ohne Streichung aufzuführen.",
+                        "Die Beschränkung auf Laienschauspieler aus der Nachbarschaft."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "The Bayreuth Festspielhaus & Wagner's Gesamtkunstwerk is the central subject."
+                    "answerIndex": 1,
+                    "explanation": "Regietheater emanzipiert die Inszenierung zu einem eigenständigen Kunstwerk, das mit dem Ausgangstext kritisch in Dialog tritt."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Dramaturgy & Stagecraft, what is the primary significance of The Bayreuth Festspielhaus & Wagner's Gesamtkunstwerk?",
+                    "prompt": "Welche Berliner Spielstätte wurde unter der Intendanz von Frank Castorf (1992–2017) zum Epizentrum des radikalen europäischen Avantgardetheaters?",
                     "options": [
-                        "It has no historical significance. (159.1)",
-                        "It was imported from an unrelated continent. (159.2)",
-                        "It was invented yesterday. (159.3)",
-                        "It represents a defining historical and aesthetic breakthrough in German civilization. (159.4)"
+                        "Die Volksbühne am Rosa-Luxemburg-Platz",
+                        "Das Theater des Westens",
+                        "Der Friedrichstadt-Palast",
+                        "Die Staatsoper Unter den Linden"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "It represents a defining breakthrough in German civilization."
+                    "answerIndex": 0,
+                    "explanation": "Die Volksbühne am Rosa-Luxemburg-Platz prägte mit Castorf, Marthaler, Pollesch und Schlingensief eine Ära der Theatergeschichte."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of The Bayreuth Festspielhaus & Wagner's Gesamtkunstwerk in the development of Theatre, Dramaturgy & Stagecraft:",
+                    "prompt": "Welcher Bühnenbildner schuf für Frank Castorfs Inszenierungen die berühmten begehbaren Bungalows, Wohncontainer und das ikonische Rad-Logo der Volksbühne?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "The Bayreuth Festspielhaus & Wagner's Gesamtkunstwerk established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education."
+                        "Bert Neumann",
+                        "Karl Friedrich Schinkel",
+                        "Walter Gropius",
+                        "Joseph Beuys"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Accurate analysis of The Bayreuth Festspielhaus & Wagner's Gesamtkunstwerk (Richard Wagner 1876, Mystischer Abgrund)."
+                    "answerIndex": 0,
+                    "explanation": "Bert Neumann prägte mit seinen wegweisenden Rauminstallationen und Pop-Art-Zitaten die visuelle Identität der Volksbühne."
                 },
                 {
-                    "prompt": "What mastery level does completing The Bayreuth Festspielhaus & Wagner's Gesamtkunstwerk contribute to in the FEARN curriculum?",
+                    "prompt": "Welches traditionsreiche Berliner Theater leitet Thomas Ostermeier seit 1999 als künstlerischer Leiter?",
                     "options": [
-                        "Pre-intermediate B1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Elementary A2",
-                        "Beginner A1"
+                        "Die Schaubühne am Lehniner Platz",
+                        "Das Schlosspark Theater",
+                        "Das Deutsche Theater Berlin",
+                        "Das Renaissance-Theater"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Thomas Ostermeier machte die Schaubühne zu einem der international am meisten tourenden Theaterensembles Europas."
                 }
             ],
             "passThreshold": 0.8
@@ -16513,78 +16533,83 @@
     },
     "de-u32-l5": {
         "id": "de-u32-l5",
-        "unit": "de-u32",
-        "level": "C2",
-        "objective": "Contemporary German Stagecraft: Frank Castorf, Thomas Ostermeier & The Schaubühne: Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "unit": "u32",
+        "level": "C1",
+        "objective": "Zeitgenössische deutschsprachige Dramatik: Elfriede Jelinek, Roland Schimmelpfennig und Dea Loher.",
         "presentation": {
-            "explanation": "Contemporary German Stagecraft: Frank Castorf, Thomas Ostermeier & The Schaubühne represents a cornerstone of Theatre, Dramaturgy & Stagecraft. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Die zeitgenössische deutschsprachige Gegenwartsdramatik zeichnet sich durch formale Vielfalt, virtuose Sprachskepsis und präzise gesellschaftliche Tiefenbohrungen aus. Elfriede Jelinek (geb. 1946, Nobelpreis für Literatur 2004) schuf mit Werken wie *Burgtheater* (1985), *Sportstück* (1998) und *Die Schutzbefohlenen* (2013) eine monumentale Sprachexplosion: Ihre «Sprachflächen» montieren Werbeslogans, Heidegger-Zitate, Boulevardjargon und Mythen zu schneidenden Abrechnungen mit Patriarchat, Neoliberalismus und Fremdenfeindlichkeit. Roland Schimmelpfennig (geb. 1967), der meistgespielte zeitgenössische deutsche Dramatiker weltweit (*Der goldene Drache*, 2009; *Die arabische Nacht*, 2001), verbindet magischen Realismus mit epischer Brechung, indem Figuren ihre eigenen Handlungen simultan in der dritten Person beschreiben. Dea Loher (*Unschuld*, 2003; *Das letzte Feuer*, 2008) wiederum verleiht den Ausgegrenzten und Verstummten unserer Gesellschaft eine poetische, existenzielle Würde.",
             "examples": [
                 {
-                    "target": "Mastery of Contemporary German Stagecraft: Frank Castorf, Thomas Ostermeier & The Schaubühne exemplifies the cultural and expressive pinnacle of German.",
-                    "reading": "Target analysis of Contemporary German Stagecraft: Frank Castorf, Thomas Ostermeier & The Schaubühne...",
-                    "translation": "Mastery of Contemporary German Stagecraft: Frank Castorf, Thomas Ostermeier & The Schaubühne exemplifies the cultural and expressive pinnacle of German."
+                    "target": "Jelineks Sprachflächen fordern Regie und Schauspielensemble heraus, den Textchor rhythmisch im Raum zu strukturieren.",
+                    "reading": "Jelineks Sprachflächen fordern Regie und Schauspielensemble heraus, den Textchor rhythmisch im Raum zu strukturieren.",
+                    "translation": "Jelinek's language surfaces challenge the director and acting ensemble to rhythmically structure the textual chorus in space."
+                },
+                {
+                    "target": "In Schimmelpfennigs Der goldene Drache spiegelt ein Schnellrestaurant die globalisierten Ausbeutungsverhältnisse wider.",
+                    "reading": "In Schimmelpfennigs Der goldene Drache spiegelt ein Schnellrestaurant die globalisierten Ausbeutungsverhältnisse wider.",
+                    "translation": "In Schimmelpfennig's The Golden Dragon, a fast-food restaurant mirrors globalized structures of exploitation."
                 }
             ],
             "mnemonics": [
-                "Contemporary German Stagecraft: Frank Castorf, Thomas Ostermeier & The Schaubühne! Essential milestone in Theatre, Dramaturgy & Stagecraft!"
+                "Gegenwartsdramatik: Jelineks entlarvende Sprachkaskaden + Schimmelpfennigs magische Erzählstrukturen."
             ],
             "culturalNotes": [
-                "Contemporary German Stagecraft: Frank Castorf, Thomas Ostermeier & The Schaubühne is celebrated worldwide as a defining achievement of German heritage."
+                "Die Mülheimer Theatertage vergeben seit 1976 alljährlich den renommierten Mülheimer Dramatikerpreis für das beste neue deutschsprachige Theaterstück."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Contemporary German Stagecraft: Frank Castorf, Thomas Ostermeier & The Schaubühne?",
+                    "prompt": "Welches dramaturgische Konzept prägte Elfriede Jelinek für ihre theatralen Textkompositionen?",
                     "options": [
-                        "Contemporary German Stagecraft: Frank Castorf, Thomas Ostermeier & The Schaubühne (160.1)",
-                        "Generic introductory concept (160.2)",
-                        "Modern fast-food trend (160.3)",
-                        "Irrelevant topic (160.4)"
+                        "Klassische bürgerliche Zimmergespräche mit genauer Regieanweisung zu Kaffeetassen.",
+                        "Polyphone «Sprachflächen», in denen Chöre, Ideologien und Sprachmuster ohne feste Rollenzuweisung aufeinandertreffen.",
+                        "Stumme Pantomimen mit Einblendung von Stummfilm-Zwischentiteln.",
+                        "Versdramen im spanischen Romanzenversmaß."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Contemporary German Stagecraft: Frank Castorf, Thomas Ostermeier & The Schaubühne is the central subject."
+                    "answerIndex": 1,
+                    "explanation": "Jelineks Sprachflächen verweigern traditionelle Rollenmonologe und fungieren als musikalisch-assoziative Klang- und Denkströme."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Dramaturgy & Stagecraft, what is the primary significance of Contemporary German Stagecraft: Frank Castorf, Thomas Ostermeier & The Schaubühne?",
+                    "prompt": "Welche narrative Technik setzt Roland Schimmelpfennig in Stücken wie Der goldene Drache ein?",
                     "options": [
-                        "It has no historical significance. (160.1)",
-                        "It was imported from an unrelated continent. (160.2)",
-                        "It was invented yesterday. (160.3)",
-                        "It represents a defining historical and aesthetic breakthrough in German civilization. (160.4)"
+                        "Die Schauspieler sprechen die Regieanweisungen und ihre eigenen inneren Vorgänge in dritter Person laut aus.",
+                        "Alle Darsteller müssen während des gesamten Stücks mit dem Rücken zum Publikum stehen.",
+                        "Der Text wird ausschließlich als Morsecode über Lautsprecher übertragen.",
+                        "Die Zuschauer müssen die Dialoge selbst von Karten ablesen."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "It represents a defining breakthrough in German civilization."
+                    "answerIndex": 0,
+                    "explanation": "Schimmelpfennig lässt Schauspieler zwischen Spiel und distanzierter dritter Erzählerperspektive virtuos hin- und hergleiten."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Contemporary German Stagecraft: Frank Castorf, Thomas Ostermeier & The Schaubühne in the development of Theatre, Dramaturgy & Stagecraft:",
+                    "prompt": "Für welches Werk über antike Tragödie, Aischylos und die europäische Flüchtlingskrise erhielt Elfriede Jelinek breite internationale Resonanz?",
                     "options": [
-                        "It was completely forgotten within a week.",
-                        "Contemporary German Stagecraft: Frank Castorf, Thomas Ostermeier & The Schaubühne established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education.",
-                        "It was a minor commercial advertising campaign."
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "Accurate analysis of Contemporary German Stagecraft: Frank Castorf, Thomas Ostermeier & The Schaubühne."
-                },
-                {
-                    "prompt": "What mastery level does completing Contemporary German Stagecraft: Frank Castorf, Thomas Ostermeier & The Schaubühne contribute to in the FEARN curriculum?",
-                    "options": [
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Elementary A2",
-                        "Pre-intermediate B1",
-                        "Beginner A1"
+                        "Die Schutzbefohlenen (2013)",
+                        "Die Klavierspielerin",
+                        "Lust",
+                        "Wolken.Heim."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "explanation": "*Die Schutzbefohlenen* verwebt Aischylos' *Hiketiden* (Die Schutzflehenden) mit der Situation geflüchteter Menschen in Wien."
+                },
+                {
+                    "prompt": "Welche Dramatikerin verfasste das vielbeachtete Stationendrama Unschuld (2003) über Verlusterfahrungen und Schuldgefühle am Rande einer Großstadt?",
+                    "options": [
+                        "Dea Loher",
+                        "Christa Wolf",
+                        "Ingeborg Bachmann",
+                        "Herta Müller"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Dea Loher schuf mit *Unschuld* ein polyphones Requiem auf menschliche Einsamkeit und das Ringen um Sinn."
                 }
             ],
             "passThreshold": 0.8
@@ -16592,78 +16617,83 @@
     },
     "de-u33-l1": {
         "id": "de-u33-l1",
-        "unit": "de-u33",
+        "unit": "u33",
         "level": "C1",
-        "objective": "The Bauhaus Revolution: Walter Gropius & Ludwig Mies van der Rohe (Dessau 1925, «Form follows function»): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "objective": "Gotik & Der Kölner Dom: Gotische Kathedralbaukunst, Kreuzrippengewölbe, Strebewerk und die 632-jährige Baugeschichte (1248–1880).",
         "presentation": {
-            "explanation": "The Bauhaus Revolution: Walter Gropius & Ludwig Mies van der Rohe (Dessau 1925, «Form follows function») represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Der Kölner Dom (Hohe Domkirche Sankt Petrus, Baubeginn 1248, vollendet 1880) ist das unübertroffene Meisterwerk der Hochgotik in Mitteleuropa und gehört zum UNESCO-Welterbe. Inspiriert von den französischen Kathedralen in Amiens und Beauvais konzipierte Dombaumeister Gerhard von Rile ein monumentales fünfschiffiges Gotteshaus zur würdigen Aufnahme der Reliquien der Heiligen Drei Könige (aufbewahrt im weltberühmten Dreikönigenschrein von Nikolaus von Verdun). Das statische Gerüst der Gotik—bestehend aus spitzbogigem Kreuzrippengewölbe, gebündelten Pfeilern und einem kühnen äußeren Strebewerk mit Strebebögen und Fialen—ermöglichte es erstmals, die tragenden Außenmauern fast vollständig aufzulösen und durch riesige Maßwerkfenster mit leuchtenden Glasmalereien zu ersetzen. Nach jahrhundertelangem Baustopp im Mittelalter (wobei der legendäre Holzkran über 300 Jahre den Südturm krönte) wurde der Dom im 19. Jahrhundert im Geiste der Romantik und nationalen Einigung anhand wiederentdeckter Originalpläne fertiggestellt.",
             "examples": [
                 {
-                    "target": "Mastery of The Bauhaus Revolution: Walter Gropius & Ludwig Mies van der Rohe (Dessau 1925, «Form follows function») exemplifies the cultural and expressive pinnacle of German.",
-                    "reading": "Target analysis of The Bauhaus Revolution: Walter Gropius & Ludwig Mies van der Rohe (Dessau 1925, «Form follows function»)...",
-                    "translation": "Mastery of The Bauhaus Revolution: Walter Gropius & Ludwig Mies van der Rohe (Dessau 1925, «Form follows function») exemplifies the cultural and expressive pinnacle of German."
+                    "target": "Das gotische Strebewerk leitet den enormen Gewölbeschub sicher nach außen ab und öffnet die Wände für das Licht.",
+                    "reading": "Das gotische Strebewerk leitet den enormen Gewölbeschub sicher nach außen ab und öffnet die Wände für das Licht.",
+                    "translation": "The Gothic buttress system safely diverts the immense vault thrust outwards, opening the walls to light."
+                },
+                {
+                    "target": "Mit einer Höhe von 157 Metern waren die Doppeltürme des Kölner Doms bei ihrer Vollendung 1880 das höchste Bauwerk der Welt.",
+                    "reading": "Mit einer Höhe von 157 Metern waren die Doppeltürme des Kölner Doms bei ihrer Vollendung 1880 das höchste Bauwerk der Welt.",
+                    "translation": "At 157 meters in height, the twin towers of Cologne Cathedral were the tallest structure in the world upon completion in 1880."
                 }
             ],
             "mnemonics": [
-                "The Bauhaus Revolution: Walter Gropius & Ludwig Mies van der Rohe (Dessau 1925, «Form follows function»)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "Gotisches Bauprinzip: Spitzbogen + Kreuzrippengewölbe + Strebewerk = Auflösung der Wand in Lichtarchitektur."
             ],
             "culturalNotes": [
-                "The Bauhaus Revolution: Walter Gropius & Ludwig Mies van der Rohe (Dessau 1925, «Form follows function») is celebrated worldwide as a defining achievement of German heritage."
+                "Der Kölner Dom ist mit über sechs Millionen Besuchern pro Jahr die meistbesuchte Sehenswürdigkeit Deutschlands."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of The Bauhaus Revolution: Walter Gropius & Ludwig Mies van der Rohe (Dessau 1925, «Form follows function»)?",
+                    "prompt": "Welche statische Ingenieursleistung erlaubte es den gotischen Baumeistern des Kölner Doms, massive Steinmauern durch riesige Fensterflächen zu ersetzen?",
                     "options": [
-                        "Generic introductory concept (161.1)",
-                        "Irrelevant topic (161.2)",
-                        "Modern fast-food trend (161.3)",
-                        "The Bauhaus Revolution: Walter Gropius & Ludwig Mies van der Rohe (161.4)"
+                        "Das Zusammenspiel von Kreuzrippengewölbe, Bündelpfeilern und dem äußeren Strebewerk mit Strebebögen.",
+                        "Die Verwendung von unterirdischen hydraulischen Stoßdämpfern aus Bronze.",
+                        "Der Einbau von Stahlbetonträgern im Fundament.",
+                        "Die ausschließliche Dachabdeckung mit Holzschindeln."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "The Bauhaus Revolution: Walter Gropius & Ludwig Mies van der Rohe is the central subject."
+                    "answerIndex": 0,
+                    "explanation": "Das gotische Skelettsystem leitet Lasten punktförmig über Rippen und Strebebögen ab, sodass Wände zu Fenstern werden konnten."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of The Bauhaus Revolution: Walter Gropius & Ludwig Mies van der Rohe?",
+                    "prompt": "Welcher herausragende mittelalterliche Goldschatz im Kölner Dom veranlasste Erzbischof Konrad von Hochstaden 1248 zum monumentalen Dombau?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in German civilization. (161.1)",
-                        "It has no historical significance. (161.2)",
-                        "It was imported from an unrelated continent. (161.3)",
-                        "It was invented yesterday. (161.4)"
+                        "Die Eiserne Krone der Langobarden",
+                        "Der Dreikönigenschrein von Nikolaus von Verdun",
+                        "Das Reichsschwert Karls des Großen",
+                        "Das Turiner Grabtuch"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in German civilization."
+                    "answerIndex": 1,
+                    "explanation": "Die Reliquien der Heiligen Drei Könige machten Köln zu einem der bedeutendsten Pilgerziele des christlichen Abendlandes."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of The Bauhaus Revolution: Walter Gropius & Ludwig Mies van der Rohe in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "Wie viele Jahre vergingen von der Grundsteinlegung des Kölner Doms im Jahr 1248 bis zur feierlichen Vollendung 1880?",
                     "options": [
-                        "The Bauhaus Revolution: Walter Gropius & Ludwig Mies van der Rohe established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It was a minor commercial advertising campaign.",
-                        "It only applied to elementary school education.",
-                        "It was completely forgotten within a week."
+                        "632 Jahre",
+                        "120 Jahre",
+                        "350 Jahre",
+                        "890 Jahre"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Accurate analysis of The Bauhaus Revolution: Walter Gropius & Ludwig Mies van der Rohe (Dessau 1925, «Form follows function»)."
+                    "explanation": "Vom Baubeginn 1248 bis zur Fertigstellung unter Kaiser Wilhelm I. im Jahr 1880 vergingen 632 Jahre."
                 },
                 {
-                    "prompt": "What mastery level does completing The Bauhaus Revolution: Walter Gropius & Ludwig Mies van der Rohe contribute to in the FEARN curriculum?",
+                    "prompt": "Welcher weltberühmte zeitgenössische Künstler schuf 2007 das neue Südquerhausfenster des Kölner Doms aus 11.263 farbigen Glasquadraten?",
                     "options": [
-                        "Elementary A2",
-                        "Beginner A1",
-                        "Pre-intermediate B1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery"
+                        "Gerhard Richter",
+                        "Anselm Kiefer",
+                        "Georg Baselitz",
+                        "Sigmar Polke"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Gerhard Richter gestaltete das faszinierende Richter-Fenster mit zufallsgenerierten Farbquadraten."
                 }
             ],
             "passThreshold": 0.8
@@ -16671,78 +16701,83 @@
     },
     "de-u33-l2": {
         "id": "de-u33-l2",
-        "unit": "de-u33",
+        "unit": "u33",
         "level": "C1",
-        "objective": "German Gothic Cathedrals: Kölner Dom & Freiburg Minster (Der Kölner Dom 1248–1880, gotische Rippengewölbe): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "objective": "Barock & Rokoko: Schloss Sanssouci (Knobelsdorff) & Residenz Würzburg (Balthasar Neumann, Tiepolo-Fresko).",
         "presentation": {
-            "explanation": "German Gothic Cathedrals: Kölner Dom & Freiburg Minster (Der Kölner Dom 1248–1880, gotische Rippengewölbe) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Die Epochen des Barock und Rokoko im 18. Jahrhundert markieren einen Höhepunkt der deutschen fürstlichen Residenz- und Sakralarchitektur. In Preußen entwarf Georg Wenzeslaus von Knobelsdorff (1699–1753) nach Skizzen von König Friedrich dem Großen das Schloss Sanssouci in Potsdam (1745–1747). Auf terrassierten Weinbergen thronend, verkörpert dieses intime, einstöckige Sommerschloss das heitere friderizianische Rokoko—einen Zufluchtsort der Philosophie, Musik und Musen ohne Sorgen (*sans souci*). Im Süden Deutschlands vollbrachte der fränkische Geniewegbereiter Balthasar Neumann (1687–1753) mit der Würzburger Residenz (UNESCO-Welterbe) ein architektonisches Raumwunder: Sein freitragendes monumentales Treppenhaus überwölbt einen gigantischen Raum ohne Pfeilerstützen, gekrönt durch das 600 Quadratmeter große Deckenfresko des venezianischen Meisters Giovanni Battista Tiepolo, das die damals bekannten vier Erdteile in virtuoser Himmelsillusion darstellt.",
             "examples": [
                 {
-                    "target": "Mastery of German Gothic Cathedrals: Kölner Dom & Freiburg Minster (Der Kölner Dom 1248–1880, gotische Rippengewölbe) exemplifies the cultural and expressive pinnacle of German.",
-                    "reading": "Target analysis of German Gothic Cathedrals: Kölner Dom & Freiburg Minster (Der Kölner Dom 1248–1880, gotische Rippengewölbe)...",
-                    "translation": "Mastery of German Gothic Cathedrals: Kölner Dom & Freiburg Minster (Der Kölner Dom 1248–1880, gotische Rippengewölbe) exemplifies the cultural and expressive pinnacle of German."
+                    "target": "Balthasar Neumanns kühne Treppenhauswölbung in der Würzburger Residenz galt Zeitgenossen als statisches Wunder.",
+                    "reading": "Balthasar Neumanns kühne Treppenhauswölbung in der Würzburger Residenz galt Zeitgenossen als statisches Wunder.",
+                    "translation": "Balthasar Neumann's bold staircase vaulting in the Würzburg Residence was considered a structural miracle by contemporaries."
+                },
+                {
+                    "target": "Schloss Sanssouci schmiegt sich harmonisch an die sechs Weinbergterrassen des Potsdamer Parks an.",
+                    "reading": "Schloss Sanssouci schmiegt sich harmonisch an die sechs Weinbergterrassen des Potsdamer Parks an.",
+                    "translation": "Sanssouci Palace blends harmoniously into the six vineyard terraces of the Potsdam park."
                 }
             ],
             "mnemonics": [
-                "German Gothic Cathedrals: Kölner Dom & Freiburg Minster (Der Kölner Dom 1248–1880, gotische Rippengewölbe)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "Barocke Raumkunst: Potsdamer Weinberganmut (Sanssouci) trifft auf Balthasar Neumanns kühne Gewölbegröße (Würzburg)."
             ],
             "culturalNotes": [
-                "German Gothic Cathedrals: Kölner Dom & Freiburg Minster (Der Kölner Dom 1248–1880, gotische Rippengewölbe) is celebrated worldwide as a defining achievement of German heritage."
+                "Friedrich der Große ließ sich 1991, 205 Jahre nach seinem Tod, gemäß seinem letzten Willen auf der Schlossterrasse von Sanssouci neben seinen Windspielen beisetzen."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of German Gothic Cathedrals: Kölner Dom & Freiburg Minster (Der Kölner Dom 1248–1880, gotische Rippengewölbe)?",
+                    "prompt": "Welche bautechnische Meisterleistung vollbrachte Balthasar Neumann im Treppenhaus der Würzburger Residenz?",
                     "options": [
-                        "German Gothic Cathedrals: Kölner Dom & Freiburg Minster (162.1)",
-                        "Irrelevant topic (162.2)",
-                        "Modern fast-food trend (162.3)",
-                        "Generic introductory concept (162.4)"
+                        "Ein gewaltiges, stützenlos freitragendes Muldengewölbe aus Tuffstein, das selbst den Bombenangriffen von 1945 standhielt.",
+                        "Eine hölzerne Wendeltreppe, die durch Seilwinden ins Dachgeschoss hochgezogen werden konnte.",
+                        "Ein Treppenhaus komplett aus massivem gegossenem Blei.",
+                        "Einen Kanal, auf dem Gondeln von Etage zu Etage fuhren."
                     ],
                     "answerIndex": 0,
-                    "explanation": "German Gothic Cathedrals: Kölner Dom & Freiburg Minster is the central subject."
+                    "explanation": "Neumanns flaches Tuffsteingewölbe war so vollkommen konstruiert, dass es die Zerstörung der Residenz im Zweiten Weltkrieg unversehrt überstand."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of German Gothic Cathedrals: Kölner Dom & Freiburg Minster?",
+                    "prompt": "Welcher venezianische Großmeister malte das berühmte Deckenfresko über dem Treppenhaus der Würzburger Residenz?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in German civilization. (162.1)",
-                        "It has no historical significance. (162.2)",
-                        "It was invented yesterday. (162.3)",
-                        "It was imported from an unrelated continent. (162.4)"
+                        "Giovanni Battista Tiepolo",
+                        "Caravaggio",
+                        "Sandro Botticelli",
+                        "Leonardo da Vinci"
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in German civilization."
+                    "explanation": "Tiepolo schuf zwischen 1750 und 1753 das größte zusammenhängende Deckenfresko der Welt in Würzburg."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of German Gothic Cathedrals: Kölner Dom & Freiburg Minster in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "Aus welcher Sprache stammt der Name des Schlosses «Sanssouci» und was bedeutet er wörtlich?",
                     "options": [
-                        "It only applied to elementary school education.",
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "German Gothic Cathedrals: Kölner Dom & Freiburg Minster established enduring philosophical, technical, and expressive standards across the tradition."
+                        "Aus dem Französischen: «Ohne Sorge»",
+                        "Aus dem Lateinischen: «Ort des Friedens»",
+                        "Aus dem Italienischen: «Unter der Sonne»",
+                        "Aus dem Altgriechischen: «Tempel der Musen»"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Accurate analysis of German Gothic Cathedrals: Kölner Dom & Freiburg Minster (Der Kölner Dom 1248–1880, gotische Rippengewölbe)."
+                    "answerIndex": 0,
+                    "explanation": "Sanssouci ist französisch für «ohne Sorge» und spiegelte Friedrichs Wunsch nach privatem Rückzug wider."
                 },
                 {
-                    "prompt": "What mastery level does completing German Gothic Cathedrals: Kölner Dom & Freiburg Minster contribute to in the FEARN curriculum?",
+                    "prompt": "Welcher berühmte Architekt war maßgeblich für den Entwurf von Schloss Sanssouci im friderizianischen Rokoko verantwortlich?",
                     "options": [
-                        "Elementary A2",
-                        "Beginner A1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Pre-intermediate B1"
+                        "Georg Wenzeslaus von Knobelsdorff",
+                        "Karl Friedrich Schinkel",
+                        "Gottfried Semper",
+                        "Leo von Klenze"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Knobelsdorff setzte die Skizzen Friedrichs II. meisterhaft in die Realität des Schlosses Sanssouci um."
                 }
             ],
             "passThreshold": 0.8
@@ -16750,78 +16785,83 @@
     },
     "de-u33-l3": {
         "id": "de-u33-l3",
-        "unit": "de-u33",
-        "level": "C2",
-        "objective": "Balthasar Neumann & The Würzburg Residence Baroque (Kaisersaal, Tiepolo-Treppenhausfresko 1752): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "unit": "u33",
+        "level": "C1",
+        "objective": "Karl Friedrich Schinkel & Der Berliner Klassizismus: Das Alte Museum (1830), Schauspielhaus am Gendarmenmarkt und die Bauakademie.",
         "presentation": {
-            "explanation": "Balthasar Neumann & The Würzburg Residence Baroque (Kaisersaal, Tiepolo-Treppenhausfresko 1752) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Karl Friedrich Schinkel (1781–1841) war der überragende preußische Baumeister, Stadtplaner, Maler und Bühnenbildner, der Berlin im 19. Jahrhundert in ein «Spree-Athen» des Klassizismus verwandelte. Als Leiter der Oberbaudeputation schuf Schinkel ikonische Monumente bürgerlicher Kultur und staatlicher Ordnung: das Neue Schauspielhaus am Gendarmenmarkt (1821), die Neue Wache Unter den Linden (1818) und das Alte Museum am Lustgarten (1830). Das Alte Museum, mit seiner monumentalen ionischen Säulenhalle aus 18 Kolossalsäulen und der im Inneren verborgenen, an das römische Pantheon erinnernden Kuppelrotunde, begründete den modernen Typus des öffentlichen Bildungs- und Kunstmuseums. Mit der Berliner Bauakademie (1836) aus unverputztem roten Backstein und einem klaren Rastersystem nahm Schinkel zudem die funktionale Skelettbauweise und Sachlichkeit der modernen Industriearchitektur um Jahrzehnte vorweg.",
             "examples": [
                 {
-                    "target": "Mastery of Balthasar Neumann & The Würzburg Residence Baroque (Kaisersaal, Tiepolo-Treppenhausfresko 1752) exemplifies the cultural and expressive pinnacle of German.",
-                    "reading": "Target analysis of Balthasar Neumann & The Würzburg Residence Baroque (Kaisersaal, Tiepolo-Treppenhausfresko 1752)...",
-                    "translation": "Mastery of Balthasar Neumann & The Würzburg Residence Baroque (Kaisersaal, Tiepolo-Treppenhausfresko 1752) exemplifies the cultural and expressive pinnacle of German."
+                    "target": "Schinkels Altes Museum öffnete Kunstschätze erstmals für die breite Öffentlichkeit als bürgerliche Bildungsstätte.",
+                    "reading": "Schinkels Altes Museum öffnete Kunstschätze erstmals für die breite Öffentlichkeit als bürgerliche Bildungsstätte.",
+                    "translation": "Schinkel's Altes Museum opened art treasures to the general public for the first time as a civic educational institution."
+                },
+                {
+                    "target": "Die Bauakademie von 1836 gilt mit ihrer schlichten Ziegelfassade als Wiege moderner funktionaler Architektur.",
+                    "reading": "Die Bauakademie von 1836 gilt mit ihrer schlichten Ziegelfassade als Wiege moderner funktionaler Architektur.",
+                    "translation": "The Bauakademie of 1836, with its simple brick facade, is considered the cradle of modern functional architecture."
                 }
             ],
             "mnemonics": [
-                "Balthasar Neumann & The Würzburg Residence Baroque (Kaisersaal, Tiepolo-Treppenhausfresko 1752)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "Schinkel: Griechische Harmonie außen (Altes Museum) + zukunftsweisender Ziegelrasterbau innen (Bauakademie)."
             ],
             "culturalNotes": [
-                "Balthasar Neumann & The Würzburg Residence Baroque (Kaisersaal, Tiepolo-Treppenhausfresko 1752) is celebrated worldwide as a defining achievement of German heritage."
+                "Schinkel gestaltete 1813 auch das Eiserne Kreuz als preußische Kriegsauszeichnung, das bis heute als Hoheitszeichen der deutschen Bundeswehr dient."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Balthasar Neumann & The Würzburg Residence Baroque (Kaisersaal, Tiepolo-Treppenhausfresko 1752)?",
+                    "prompt": "Welches antike Vorbild inspirierte die zentrale, von außen nicht sichtbare Rotunde im Inneren von Schinkels Altem Museum in Berlin?",
                     "options": [
-                        "Balthasar Neumann & The Würzburg Residence Baroque (163.1)",
-                        "Generic introductory concept (163.2)",
-                        "Irrelevant topic (163.3)",
-                        "Modern fast-food trend (163.4)"
+                        "Das römische Pantheon",
+                        "Der Koloss von Rhodos",
+                        "Die ägyptischen Pyramiden von Gizeh",
+                        "Das antike Amphitheater von Verona"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Balthasar Neumann & The Würzburg Residence Baroque is the central subject."
+                    "explanation": "Schinkel verbarg hinter der rechteckigen Kolonnadenfassade eine lichtdurchflutete Rotunde nach dem Vorbild des Pantheons."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of Balthasar Neumann & The Würzburg Residence Baroque?",
+                    "prompt": "Welche bauliche Innovation machte Schinkels Berliner Bauakademie (1836) zu einem Meilenstein der europäischen Architekturgeschichte?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in German civilization. (163.1)",
-                        "It was imported from an unrelated continent. (163.2)",
-                        "It was invented yesterday. (163.3)",
-                        "It has no historical significance. (163.4)"
+                        "Der Verzicht auf historisierende Stuckfassaden zugunsten eines unverputzten, funktionalen Backstein-Skelettbaus mit Rasterstruktur.",
+                        "Die Errichtung komplett unter der Wasseroberfläche der Spree.",
+                        "Die ausschließliche Verwendung von importiertem Carrara-Marmor.",
+                        "Die Gestaltung als gotische Kathedrale mit Glockentürmen."
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in German civilization."
+                    "explanation": "Die Bauakademie brach mit dem Diktat der Stuckverkleidung und zeigte die konstruktive Wahrheit des roten Backsteins."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Balthasar Neumann & The Würzburg Residence Baroque in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "Wie viele monumentale ionische Sandsteinsäulen bilden die berühmte Kolonnadenfront des Alten Museums in Berlin?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "Balthasar Neumann & The Würzburg Residence Baroque established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education."
+                        "18 Säulen",
+                        "6 Säulen",
+                        "100 Säulen",
+                        "32 Säulen"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Accurate analysis of Balthasar Neumann & The Würzburg Residence Baroque (Kaisersaal, Tiepolo-Treppenhausfresko 1752)."
+                    "answerIndex": 0,
+                    "explanation": "Die Schaufassade zum Lustgarten wird von 18 imposanten ionischen Säulen getragen."
                 },
                 {
-                    "prompt": "What mastery level does completing Balthasar Neumann & The Würzburg Residence Baroque contribute to in the FEARN curriculum?",
+                    "prompt": "Welches neoklassizistische Schinkel-Bauwerk bildet zusammen mit dem Deutschen und Französischen Dom das weltberühmte Ensemble auf dem Gendarmenmarkt?",
                     "options": [
-                        "Beginner A1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Pre-intermediate B1",
-                        "Elementary A2"
+                        "Das Konzerthaus Berlin (ehemals Königliches Schauspielhaus)",
+                        "Das Brandenburger Tor",
+                        "Das Schloss Charlottenburg",
+                        "Die Berliner Siegessäule"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Schinkels Schauspielhaus (heute Konzerthaus Berlin) krönt den Gendarmenmarkt zwischen den beiden Domen."
                 }
             ],
             "passThreshold": 0.8
@@ -16829,78 +16869,83 @@
     },
     "de-u33-l4": {
         "id": "de-u33-l4",
-        "unit": "de-u33",
-        "level": "C2",
-        "objective": "The Margravial Opera House in Bayreuth (UNESCO-Welterbe, Giuseppe Galli da Bibiena 1748): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "unit": "u33",
+        "level": "C1",
+        "objective": "Das Staatliche Bauhaus & Die Moderne: Walter Gropius (Dessau 1925), Mies van der Rohe, Neue Sachlichkeit und die Neue Nationalgalerie.",
         "presentation": {
-            "explanation": "The Margravial Opera House in Bayreuth (UNESCO-Welterbe, Giuseppe Galli da Bibiena 1748) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Das 1919 von Walter Gropius in Weimar gegründete und 1925 nach Dessau umgezogene Staatliche Bauhaus gilt als die einflussreichste Kunst-, Design- und Architekturschule des 20. Jahrhunderts. Das Bauhaus überwand die historistische Ornamentik und postulierte die Einheit von Kunst, Handwerk und industrieller Massenproduktion unter dem Leitsatz «Form follows function» (Form folgt Funktion). Das von Gropius 1925/26 entworfene Bauhausgebäude in Dessau mit seiner revolutionären, stützenlosen Glas-Vorhangfassade (Curtain Wall) und den Meisterhäusern setzte neue Maßstäbe für Transparenz, Licht und funktionale Raumtrennung. Unter dem letzten Direktor Ludwig Mies van der Rohe (1886–1969) radikalisierte sich das moderne Bauen zur Ästhetik des «Weniger ist mehr» (*Less is more*). Mies schuf Ikonen wie den Barcelona-Pavillon (1929) und nach seiner Emigration in die USA sein spätes Meisterwerk in Berlin: die Neue Nationalgalerie (1968)—ein monumentaler, stützenfreier Glaskubus unter einem gigantischen, auf nur acht Stahlsäulen ruhenden Kassettendach.",
             "examples": [
                 {
-                    "target": "Mastery of The Margravial Opera House in Bayreuth (UNESCO-Welterbe, Giuseppe Galli da Bibiena 1748) exemplifies the cultural and expressive pinnacle of German.",
-                    "reading": "Target analysis of The Margravial Opera House in Bayreuth (UNESCO-Welterbe, Giuseppe Galli da Bibiena 1748)...",
-                    "translation": "Mastery of The Margravial Opera House in Bayreuth (UNESCO-Welterbe, Giuseppe Galli da Bibiena 1748) exemplifies the cultural and expressive pinnacle of German."
+                    "target": "Die Glasfassade des Bauhausgebäudes in Dessau hob die optische Grenze zwischen Innen- und Außenraum auf.",
+                    "reading": "Die Glasfassade des Bauhausgebäudes in Dessau hob die optische Grenze zwischen Innen- und Außenraum auf.",
+                    "translation": "The glass facade of the Bauhaus building in Dessau dissolved the visual boundary between interior and exterior space."
+                },
+                {
+                    "target": "Mies van der Rohes Neue Nationalgalerie demonstriert die Perfektion des stützenfreien Universalraums aus Stahl und Glas.",
+                    "reading": "Mies van der Rohes Neue Nationalgalerie demonstriert die Perfektion des stützenfreien Universalraums aus Stahl und Glas.",
+                    "translation": "Mies van der Rohe's Neue Nationalgalerie demonstrates the perfection of the column-free universal space in steel and glass."
                 }
             ],
             "mnemonics": [
-                "The Margravial Opera House in Bayreuth (UNESCO-Welterbe, Giuseppe Galli da Bibiena 1748)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "Bauhaus-Prinzip: Funktion bestimmt Form; Mies van der Rohes «Weniger ist mehr» definiert die klassische Moderne."
             ],
             "culturalNotes": [
-                "The Margravial Opera House in Bayreuth (UNESCO-Welterbe, Giuseppe Galli da Bibiena 1748) is celebrated worldwide as a defining achievement of German heritage."
+                "Das Bauhaus wurde 1933 unter massivem Druck der nationalsozialistischen Diktatur in Berlin zur Selbstauflösung gezwungen, woraufhin viele Meister in die USA emigrierten und das Bauhaus weltweit verbreiteten."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of The Margravial Opera House in Bayreuth (UNESCO-Welterbe, Giuseppe Galli da Bibiena 1748)?",
+                    "prompt": "Welche bautechnische Pionierleistung zeichnete das 1925/26 von Walter Gropius errichtete Bauhausgebäude in Dessau aus?",
                     "options": [
-                        "Generic introductory concept (164.1)",
-                        "Irrelevant topic (164.2)",
-                        "Modern fast-food trend (164.3)",
-                        "The Margravial Opera House in Bayreuth (164.4)"
+                        "Massive Burgmauern aus Feldsteinen ohne Fenster.",
+                        "Die durchgehende Glas-Vorhangfassade (Curtain Wall), die vor das tragende Stahlbetonskelett gehängt wurde.",
+                        "Ein vergoldetes barockes Kuppeldach.",
+                        "Spitzbogige gotische Rippengewölbe aus Eichenholz."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "The Margravial Opera House in Bayreuth is the central subject."
+                    "answerIndex": 1,
+                    "explanation": "Die Curtain Wall in Dessau revolutionierte das Bauen, indem Wände zu leichten, transparenten Glashäuten wurden."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of The Margravial Opera House in Bayreuth?",
+                    "prompt": "Welcher berühmte Architektursatz fasst die radikal reduzierte Stahl-Glas-Ästhetik von Ludwig Mies van der Rohe zusammen?",
                     "options": [
-                        "It has no historical significance. (164.1)",
-                        "It was imported from an unrelated continent. (164.2)",
-                        "It was invented yesterday. (164.3)",
-                        "It represents a defining historical and aesthetic breakthrough in German civilization. (164.4)"
+                        "«Weniger ist mehr» (Less is more)",
+                        "«Das Ornament ist das Ziel aller Kunst»",
+                        "«Mehr Gold, mehr Pracht»",
+                        "«Bauen ohne Vernunft»"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "It represents a defining breakthrough in German civilization."
+                    "answerIndex": 0,
+                    "explanation": "Mies van der Rohe reduzierte Architektur auf das absolut Wesentliche: Raum, Struktur und Materialität."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of The Margravial Opera House in Bayreuth in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "In welcher thüringischen Stadt wurde das Staatliche Bauhaus 1919 ursprünglich gegründet?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "The Margravial Opera House in Bayreuth established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education.",
-                        "It was completely forgotten within a week."
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "Accurate analysis of The Margravial Opera House in Bayreuth (UNESCO-Welterbe, Giuseppe Galli da Bibiena 1748)."
-                },
-                {
-                    "prompt": "What mastery level does completing The Margravial Opera House in Bayreuth contribute to in the FEARN curriculum?",
-                    "options": [
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Elementary A2",
-                        "Pre-intermediate B1",
-                        "Beginner A1"
+                        "Weimar",
+                        "Dessau",
+                        "Berlin",
+                        "Erfurt"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "explanation": "Das Bauhaus wurde 1919 in Weimar gegründet, zog 1925 nach Dessau und verbrachte seine letzte Phase 1932/33 in Berlin."
+                },
+                {
+                    "prompt": "Welches berühmte Museumsbauwerk am Berliner Kulturforum entwarf Ludwig Mies van der Rohe kurz vor seinem Tod (eröffnet 1968)?",
+                    "options": [
+                        "Die Neue Nationalgalerie",
+                        "Das Bode-Museum",
+                        "Das Jüdische Museum",
+                        "Das Humboldt Forum"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Die Neue Nationalgalerie gilt als Mies van der Rohes Vermächtnis des universellen, lichtdurchfluteten Raums."
                 }
             ],
             "passThreshold": 0.8
@@ -16908,78 +16953,83 @@
     },
     "de-u33-l5": {
         "id": "de-u33-l5",
-        "unit": "de-u33",
-        "level": "C2",
-        "objective": "Modern German Sustainable Architecture: Frei Otto (Münchner Olympiadach 1972) & Norman Foster's Reichstag Dome: Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "unit": "u33",
+        "level": "C1",
+        "objective": "Zeitgenössische nachhaltige Architektur: Frei Otto (Münchner Olympiadach 1972) und Norman Fosters Reichstagskuppel.",
         "presentation": {
-            "explanation": "Modern German Sustainable Architecture: Frei Otto (Münchner Olympiadach 1972) & Norman Foster's Reichstag Dome represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Die deutsche Nachkriegs- und Gegenwartskunst im Bauwesen setzte weltweite Maßstäbe in ökologischer Nachhaltigkeit, biomimetischem Leichtbau und bürgernaher Transparenz. Ein Meilenstein der Ingenieurbaukunst war das 1972 von Frei Otto (1925–2015, Pritzker-Preisträger 2015) und Günter Behnisch geschaffene Zeltdach für das Münchner Olympiastadion: Eine kühne, federleichte Seilnetzdachkonstruktion mit transparenten Acrylglasplatten, inspiriert von Seifenblasen und Spinnennetzen, symbolisierte das demokratische, weltoffene und heitere Gesicht des neuen Deutschland. Nach der Wiedervereinigung schuf der britische Architekt Norman Foster mit dem Umbau des Berliner Reichstagsgebäudes (1999) ein globales Symbol für demokratische Transparenz: Die begehbare gläserne Reichstagskuppel mit ihrem trichterförmigen Lichtreflektor leitet Tageslicht direkt in den darunterliegenden Plenarsaal des Bundestages und fungiert gleichzeitig als emissionsarmes solar-thermisches Entlüftungssystem.",
             "examples": [
                 {
-                    "target": "Mastery of Modern German Sustainable Architecture: Frei Otto (Münchner Olympiadach 1972) & Norman Foster's Reichstag Dome exemplifies the cultural and expressive pinnacle of German.",
-                    "reading": "Target analysis of Modern German Sustainable Architecture: Frei Otto (Münchner Olympiadach 1972) & Norman Foster's Reichstag Dome...",
-                    "translation": "Mastery of Modern German Sustainable Architecture: Frei Otto (Münchner Olympiadach 1972) & Norman Foster's Reichstag Dome exemplifies the cultural and expressive pinnacle of German."
+                    "target": "Frei Ottos pneumatische und seilnetzgestützte Leichtbauten revolutionierten das Verständnis von materialsparender Architektur.",
+                    "reading": "Frei Ottos pneumatische und seilnetzgestützte Leichtbauten revolutionierten das Verständnis von materialsparender Architektur.",
+                    "translation": "Frei Otto's pneumatic and cable-net lightweight structures revolutionized the understanding of material-saving architecture."
+                },
+                {
+                    "target": "Die gläserne Reichstagskuppel ermöglicht es den Bürgern, den gewählten Abgeordneten symbolisch aufs Haupt zu schauen.",
+                    "reading": "Die gläserne Reichstagskuppel ermöglicht es den Bürgern, den gewählten Abgeordneten symbolisch aufs Haupt zu schauen.",
+                    "translation": "The glass Reichstag dome allows citizens to symbolically look down upon the elected members of parliament."
                 }
             ],
             "mnemonics": [
-                "Modern German Sustainable Architecture: Frei Otto (Münchner Olympiadach 1972) & Norman Foster's Reichstag Dome! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "Moderne Transparenz: Münchner Seilnetzzelt (Frei Otto) + Berliner Sonnenenergie-Lichttrichter (Foster)."
             ],
             "culturalNotes": [
-                "Modern German Sustainable Architecture: Frei Otto (Münchner Olympiadach 1972) & Norman Foster's Reichstag Dome is celebrated worldwide as a defining achievement of German heritage."
+                "Frei Otto erfuhr von der Verleihung des renommierten Pritzker-Preises kurz vor seinem Tod im Jahr 2015; die Jury würdigte sein Lebenswerk im biomimetischen Leichtbau."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Modern German Sustainable Architecture: Frei Otto (Münchner Olympiadach 1972) & Norman Foster's Reichstag Dome?",
+                    "prompt": "Welches biologische und physikalische Naturprinzip inspirierte Frei Otto bei der Entwicklung seiner kühnen Leichtbau-Zeltdächer?",
                     "options": [
-                        "Modern German Sustainable Architecture: Frei Otto (165.1)",
-                        "Generic introductory concept (165.2)",
-                        "Modern fast-food trend (165.3)",
-                        "Irrelevant topic (165.4)"
+                        "Die Minimalflächenbildung von Seifenblasenfilmen und die Zugkräfte von Spinnennetzen.",
+                        "Die Schalenform von Schildkrötenpanzern aus Granit.",
+                        "Das Wachstum von Kristallstrukturen in Eisbergen.",
+                        "Die Schwere von Meteoritengestein."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Modern German Sustainable Architecture: Frei Otto is the central subject."
+                    "explanation": "Frei Otto experimentierte mit Seifenblasenmodellen, um statisch optimale Formen mit minimalem Materialeinsatz zu berechnen."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of Modern German Sustainable Architecture: Frei Otto?",
+                    "prompt": "Welche ökologische und energetische Funktion erfüllt der zentrale Lichttrichter (Spiegelkegel) in der Berliner Reichstagskuppel von Norman Foster?",
                     "options": [
-                        "It has no historical significance. (165.1)",
-                        "It was imported from an unrelated continent. (165.2)",
-                        "It was invented yesterday. (165.3)",
-                        "It represents a defining historical and aesthetic breakthrough in German civilization. (165.4)"
+                        "Er dient als Kamin für Kohleöfen im Keller.",
+                        "Er lenkt blendfreies Tageslicht tief in den Bundestag-Plenarsaal und entlüftet verbrauchte Luft über einen thermischen Aufwind.",
+                        "Er sammelt Regenwasser für einen Springbrunnen auf dem Dach.",
+                        "Er erzeugt Radiowellen für die Übertragung von Parlamentsdebatten."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "It represents a defining breakthrough in German civilization."
+                    "answerIndex": 1,
+                    "explanation": "Der Trichter reflektiert natürliches Tageslicht nach unten und transportiert warme Abluft energiesparend nach oben ab."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Modern German Sustainable Architecture: Frei Otto in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "Zu welchem internationalen Großereignis wurde das ikonische Zeltdach des Münchner Olympiastadions 1972 errichtet?",
                     "options": [
-                        "Modern German Sustainable Architecture: Frei Otto established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It was completely forgotten within a week.",
-                        "It only applied to elementary school education.",
-                        "It was a minor commercial advertising campaign."
+                        "Die XX. Olympischen Sommerspiele in München 1972",
+                        "Die Fußball-Weltmeisterschaft 1954",
+                        "Die Bundesgartenschau 1960",
+                        "Die Weltausstellung Expo 2000"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Accurate analysis of Modern German Sustainable Architecture: Frei Otto (Münchner Olympiadach 1972) & Norman Foster's Reichstag Dome."
+                    "explanation": "Das Stadion wurde für die Olympischen Spiele 1972 erbaut und setzte ein Zeichen für Leichtigkeit und Demokratie."
                 },
                 {
-                    "prompt": "What mastery level does completing Modern German Sustainable Architecture: Frei Otto contribute to in the FEARN curriculum?",
+                    "prompt": "Aus welchem Material bestehen die transparenten Eindeckungsplatten des Münchner Olympiadachs?",
                     "options": [
-                        "Beginner A1",
-                        "Elementary A2",
-                        "Pre-intermediate B1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery"
+                        "Acrylglas (Plexiglas) in flexiblen Paneelen",
+                        "Gusseisenplatten",
+                        "Undurchsichtige Teerpappe",
+                        "Marmorfliesen"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Vorgefertigte Acrylglasplatten wurden auf das Stahlseilnetz montiert, um Transparenz und Leichtigkeit zu garantieren."
                 }
             ],
             "passThreshold": 0.8

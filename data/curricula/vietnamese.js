@@ -16168,78 +16168,83 @@
     },
     "vi-u32-l1": {
         "id": "vi-u32-l1",
-        "unit": "vi-u32",
+        "unit": "u32",
         "level": "C1",
-        "objective": "The Ancient Art of Water Puppetry: Múa Rối Nước (Sân khấu thủy đình Bắc Bộ, chú Tễu, mành tre và rồng phun lửa): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "objective": "Nghệ thuật Múa rối nước truyền thống: Sân khấu thủy đình Bắc Bộ, chú Tễu, hệ thống sào dây ngầm và văn hóa lúa nước.",
         "presentation": {
-            "explanation": "The Ancient Art of Water Puppetry: Múa Rối Nước (Sân khấu thủy đình Bắc Bộ, chú Tễu, mành tre và rồng phun lửa) represents a cornerstone of Theatre, Dramaturgy & Performing Arts. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Múa rối nước (thủy đình hí) là loại hình nghệ thuật sân khấu dân gian độc nhất vô nhị trên thế giới, ra đời từ nền văn minh lúa nước sông Hồng của Việt Nam vào khoảng thế kỷ 11 thời nhà Lý (được ghi nhận trên bia tháp Sùng Thiện Diên Linh năm 1121). Không gian biểu diễn là mặt nước ao hồ với nhà thủy đình mô phỏng mái đình làng cong vút. Các nghệ nhân ngâm mình dưới nước phía sau tấm mành tre, dùng hệ thống sào, dây và máy ngầm tài tình để điều khiển con rối bằng gỗ sung sơn then, phủ sơn ta chống thấm. Nhân vật biểu tượng là «Chú Tễu»—chàng trai nông dân béo tốt, cởi trần đóng khố, tay vung vẩy nụ cười hóm hỉnh làm nhiệm vụ mở màn, bình luận sự đời và châm biếm thói hư tật xấu. Các tích trò đặc sắc như rồng phun lửa, chăn vịt bắt cáo, đánh cá, múa tứ linh gắn liền sâu sắc với tâm hồn nông thôn Việt Nam.",
             "examples": [
                 {
-                    "target": "Mastery of The Ancient Art of Water Puppetry: Múa Rối Nước (Sân khấu thủy đình Bắc Bộ, chú Tễu, mành tre và rồng phun lửa) exemplifies the cultural and expressive pinnacle of Vietnamese.",
-                    "reading": "Target analysis of The Ancient Art of Water Puppetry: Múa Rối Nước (Sân khấu thủy đình Bắc Bộ, chú Tễu, mành tre và rồng phun lửa)...",
-                    "translation": "Mastery of The Ancient Art of Water Puppetry: Múa Rối Nước (Sân khấu thủy đình Bắc Bộ, chú Tễu, mành tre và rồng phun lửa) exemplifies the cultural and expressive pinnacle of Vietnamese."
+                    "target": "Chú Tễu là nhân vật dẫn chuyện hóm hỉnh, mang lại tiếng cười sảng khoái cho khán giả múa rối nước.",
+                    "reading": "Chú Tễu là nhân vật dẫn chuyện hóm hỉnh, mang lại tiếng cười sảng khoái cho khán giả múa rối nước.",
+                    "translation": "Uncle Tễu is the witty narrator character, bringing hearty laughter to the water puppet audience."
+                },
+                {
+                    "target": "Các nghệ nhân biểu diễn múa rối nước ngâm mình dưới nước và điều khiển con rối qua hệ thống sào dây phức tạp.",
+                    "reading": "Các nghệ nhân biểu diễn múa rối nước ngâm mình dưới nước và điều khiển con rối qua hệ thống sào dây phức tạp.",
+                    "translation": "Water puppetry artists immerse themselves in water and control the puppets through a complex rod-and-string system."
                 }
             ],
             "mnemonics": [
-                "The Ancient Art of Water Puppetry: Múa Rối Nước (Sân khấu thủy đình Bắc Bộ, chú Tễu, mành tre và rồng phun lửa)! Essential milestone in Theatre, Dramaturgy & Performing Arts!"
+                "Múa rối nước: Sân khấu thủy đình + nghệ nhân ngâm mình giấu sau mành tre + chú Tễu dẫn đường."
             ],
             "culturalNotes": [
-                "The Ancient Art of Water Puppetry: Múa Rối Nước (Sân khấu thủy đình Bắc Bộ, chú Tễu, mành tre và rồng phun lửa) is celebrated worldwide as a defining achievement of Vietnamese heritage."
+                "Nhà hát Múa rối Thăng Long bên hồ Hoàn Kiếm (Hà Nội) là địa chỉ văn hóa sáng đèn 365 ngày mỗi năm đón hàng triệu lượt khách quốc tế."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of The Ancient Art of Water Puppetry: Múa Rối Nước (Sân khấu thủy đình Bắc Bộ, chú Tễu, mành tre và rồng phun lửa)?",
+                    "prompt": "Nhân vật mở màn biểu tượng và dẫn chuyện quen thuộc nhất trong nghệ thuật múa rối nước truyền thống Việt Nam là ai?",
                     "options": [
-                        "Generic introductory concept (156.1)",
-                        "Irrelevant topic (156.2)",
-                        "Modern fast-food trend (156.3)",
-                        "The Ancient Art of Water Puppetry: Múa Rối Nước (156.4)"
+                        "Chú Tễu",
+                        "Thị Màu",
+                        "Chị Hằng",
+                        "Cuội"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "The Ancient Art of Water Puppetry: Múa Rối Nước is the central subject."
+                    "answerIndex": 0,
+                    "explanation": "Chú Tễu là linh hồn dẫn chuyện hóm hỉnh và đại diện cho sự lạc quan của người nông dân."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Dramaturgy & Performing Arts, what is the primary significance of The Ancient Art of Water Puppetry: Múa Rối Nước?",
+                    "prompt": "Con rối nước truyền thống Việt Nam thường được đẽo từ loại gỗ nhẹ và mềm nào để nổi tốt trên mặt nước?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Vietnamese civilization. (156.1)",
-                        "It has no historical significance. (156.2)",
-                        "It was imported from an unrelated continent. (156.3)",
-                        "It was invented yesterday. (156.4)"
+                        "Gỗ cây sung (và phủ lớp sơn ta chống thấm nước)",
+                        "Gỗ mun đen cứng",
+                        "Gỗ sồi nhập khẩu",
+                        "Kim loại nhôm đúc"
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Vietnamese civilization."
+                    "explanation": "Gỗ sung nhẹ, xốp, dễ đục đẽo và bền bỉ khi ngâm nước được quét nhiều lớp sơn ta truyền thống."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of The Ancient Art of Water Puppetry: Múa Rối Nước in the development of Theatre, Dramaturgy & Performing Arts:",
+                    "prompt": "Công trình kiến trúc dân gian nổi trên mặt nước dùng làm sân khấu biểu diễn múa rối nước có tên gọi là gì?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "The Ancient Art of Water Puppetry: Múa Rối Nước established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education.",
-                        "It was completely forgotten within a week."
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "Accurate analysis of The Ancient Art of Water Puppetry: Múa Rối Nước (Sân khấu thủy đình Bắc Bộ, chú Tễu, mành tre và rồng phun lửa)."
-                },
-                {
-                    "prompt": "What mastery level does completing The Ancient Art of Water Puppetry: Múa Rối Nước contribute to in the FEARN curriculum?",
-                    "options": [
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Beginner A1",
-                        "Pre-intermediate B1",
-                        "Elementary A2"
+                        "Thủy đình",
+                        "Chòi canh",
+                        "Gác chuông",
+                        "Lầu nguyệt"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "explanation": "Thủy đình là nhà biểu diễn trên mặt nước với mái ngói cong cổ kính."
+                },
+                {
+                    "prompt": "Văn bia chùa nào dựng năm 1121 thời Lý có khắc ghi lại những buổi trình diễn múa rối nước dâng vua thưởng ngoạn?",
+                    "options": [
+                        "Bia tháp Sùng Thiện Diên Linh (Chùa Đọi, Hà Nam)",
+                        "Bia chùa Dâu",
+                        "Bia chùa Một Cột",
+                        "Bia chùa Hương"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Văn bia tháp Sùng Thiện Diên Linh là cứ liệu lịch sử thành văn cổ nhất mô tả múa rối nước thời Lý."
                 }
             ],
             "passThreshold": 0.8
@@ -16247,78 +16252,83 @@
     },
     "vi-u32-l2": {
         "id": "vi-u32-l2",
-        "unit": "vi-u32",
+        "unit": "u32",
         "level": "C1",
-        "objective": "Hát Chèo & Northern Folk Theatre (Hát Chèo sân đình châu thổ sông Hồng, hề Chèo, Quan Âm Thị Kính): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "objective": "Hát Chèo và Sân khấu Dân gian Đồng bằng Bắc Bộ: Chiếu chèo sân đình, hề Chèo, tích cổ Quan Âm Thị Kính và làn điệu cổ tích.",
         "presentation": {
-            "explanation": "Hát Chèo & Northern Folk Theatre (Hát Chèo sân đình châu thổ sông Hồng, hề Chèo, Quan Âm Thị Kính) represents a cornerstone of Theatre, Dramaturgy & Performing Arts. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Hát Chèo là loại hình sân khấu kịch hát dân gian bắt nguồn từ đồng bằng châu thổ sông Hồng, gắn liền với các lễ hội làng mùa xuân («Hội mùa trăng, chiếu chèo sân đình»). Chèo là nghệ thuật tổng hợp kết hợp nhuần nhuyễn giữa ca, vũ, nhạc, kịch với hệ thống làn điệu phong phú (hát xuôi, hát ngược, sa lệch, lới lơ, sắp cổ...) và dàn nhạc cụ dân tộc (trống chèo, nhị, đàn nguyệt, sáo, phách). Điểm độc đáo của Chèo là tính ước lệ, tự sự cách điệu và vai trò của nhân vật «Hề Chèo» (hề gậy, hề áo ngắn) với những câu nói tếu táo, bông lơn mang tính đả kích giai cấp thống trị ngay giữa chiếu chèo. Những vở chèo kinh điển như *Quan Âm Thị Kính* (nỗi oan Thị Kính và khát vọng từ bi), *Lưu Bình - Dương Lễ* (nghĩa bạn bè và sự hi sinh cao cả của nàng Châu Long) và *Súy Vân giả dại* (nỗi bi kịch khao khát tự do tình yêu) là đỉnh cao của nền văn học sân khấu dân gian Việt Nam.",
             "examples": [
                 {
-                    "target": "Mastery of Hát Chèo & Northern Folk Theatre (Hát Chèo sân đình châu thổ sông Hồng, hề Chèo, Quan Âm Thị Kính) exemplifies the cultural and expressive pinnacle of Vietnamese.",
-                    "reading": "Target analysis of Hát Chèo & Northern Folk Theatre (Hát Chèo sân đình châu thổ sông Hồng, hề Chèo, Quan Âm Thị Kính)...",
-                    "translation": "Mastery of Hát Chèo & Northern Folk Theatre (Hát Chèo sân đình châu thổ sông Hồng, hề Chèo, Quan Âm Thị Kính) exemplifies the cultural and expressive pinnacle of Vietnamese."
+                    "target": "Đoạn trích Súy Vân giả dại là đỉnh cao diễn xuất và múa hát hình thể trong nghệ thuật Chèo cổ truyền.",
+                    "reading": "Đoạn trích Súy Vân giả dại là đỉnh cao diễn xuất và múa hát hình thể trong nghệ thuật Chèo cổ truyền.",
+                    "translation": "The Súy Vân feigning madness excerpt is the peak of acting and physical dance in traditional Chèo."
+                },
+                {
+                    "target": "Nhân vật hề Chèo mượn tiếng cười hài hước để phê phán thói quan liêu của cường hào ác bá thời xưa.",
+                    "reading": "Nhân vật hề Chèo mượn tiếng cười hài hước để phê phán thói quan liêu của cường hào ác bá thời xưa.",
+                    "translation": "The Chèo clown character uses humor to critique the bureaucratic habits of village despots in the old days."
                 }
             ],
             "mnemonics": [
-                "Hát Chèo & Northern Folk Theatre (Hát Chèo sân đình châu thổ sông Hồng, hề Chèo, Quan Âm Thị Kính)! Essential milestone in Theatre, Dramaturgy & Performing Arts!"
+                "Chiếu chèo sân đình: Tích truyện nhân đạo (Thị Kính, Châu Long) + hề gậy dí dỏm + tiếng trống chèo thúc giục giòn giã."
             ],
             "culturalNotes": [
-                "Hát Chèo & Northern Folk Theatre (Hát Chèo sân đình châu thổ sông Hồng, hề Chèo, Quan Âm Thị Kính) is celebrated worldwide as a defining achievement of Vietnamese heritage."
+                "Hồ sơ Nghệ thuật Chèo truyền thống đang được Việt Nam đệ trình UNESCO ghi danh vào Danh sách Di sản Văn hóa Phi vật thể đại diện của nhân loại."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Hát Chèo & Northern Folk Theatre (Hát Chèo sân đình châu thổ sông Hồng, hề Chèo, Quan Âm Thị Kính)?",
+                    "prompt": "Nhân vật nữ nào trong tích chèo cổ Quan Âm Thị Kính phải chịu nỗi oan hai lần nhưng nhẫn nhục tu hành đắc đạo?",
                     "options": [
-                        "Hát Chèo & Northern Folk Theatre (157.1)",
-                        "Irrelevant topic (157.2)",
-                        "Modern fast-food trend (157.3)",
-                        "Generic introductory concept (157.4)"
+                        "Thị Kính (sau thành Phật Bà Quan Âm)",
+                        "Thị Mầu",
+                        "Súy Vân",
+                        "Châu Long"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Hát Chèo & Northern Folk Theatre is the central subject."
+                    "explanation": "Thị Kính chịu oan giết chồng và oan nhận nuôi con của Thị Mầu, biểu tượng cho lòng từ bi nhẫn nhục."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Dramaturgy & Performing Arts, what is the primary significance of Hát Chèo & Northern Folk Theatre?",
+                    "prompt": "Nhạc cụ nào giữ vai trò chỉ huy nhịp điệu và linh hồn của dàn nhạc đệm trong nghệ thuật Chèo cổ?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Vietnamese civilization. (157.1)",
-                        "It has no historical significance. (157.2)",
-                        "It was invented yesterday. (157.3)",
-                        "It was imported from an unrelated continent. (157.4)"
+                        "Trống chèo (trống đế, trống cái)",
+                        "Đàn ghi-ta điện",
+                        "Kèn đồng phương Tây",
+                        "Trống jazz hiện đại"
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Vietnamese civilization."
+                    "explanation": "Tiếng trống chèo («cắc, tùng») dẫn dắt lời hát, điệu múa và cảm xúc của diễn viên."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Hát Chèo & Northern Folk Theatre in the development of Theatre, Dramaturgy & Performing Arts:",
+                    "prompt": "Nhân vật hề trong Chèo cổ đại diện cho tiếng nói và góc nhìn của tầng lớp nào trong xã hội phong kiến?",
                     "options": [
-                        "Hát Chèo & Northern Folk Theatre established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "It only applied to elementary school education."
+                        "Người nông dân lao động bình dân yêu chuộng công lý",
+                        "Vua chúa triều đình",
+                        "Quan lại sai nha",
+                        "Thương nhân ngoại quốc"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Accurate analysis of Hát Chèo & Northern Folk Theatre (Hát Chèo sân đình châu thổ sông Hồng, hề Chèo, Quan Âm Thị Kính)."
+                    "explanation": "Hề chèo là tiếng nói chân thật của nhân dân lao động đả kích thói đạo đức giả của tầng lớp cai trị."
                 },
                 {
-                    "prompt": "What mastery level does completing Hát Chèo & Northern Folk Theatre contribute to in the FEARN curriculum?",
+                    "prompt": "Vở chèo cổ nào ca ngợi tình bạn thủy chung son sắt giữa hai người bạn nho sinh và sự tần tảo của người phụ nữ?",
                     "options": [
-                        "Pre-intermediate B1",
-                        "Beginner A1",
-                        "Elementary A2",
-                        "Advanced C1/C2 Sovereign Omni-Mastery"
+                        "Lưu Bình - Dương Lễ",
+                        "Trương Viên",
+                        "Kim Nham",
+                        "Nghêu Sò Ốc Hến"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "*Lưu Bình - Dương Lễ* tôn vinh nghĩa cử của nàng Châu Long nuôi bạn của chồng ăn học thành tài."
                 }
             ],
             "passThreshold": 0.8
@@ -16326,78 +16336,83 @@
     },
     "vi-u32-l3": {
         "id": "vi-u32-l3",
-        "unit": "vi-u32",
-        "level": "C2",
-        "objective": "Hát Tuồng / Hát Bội & Imperial Drama (Tuồng Cung đình Huế, Đào Duy Từ, mặt nạ ước lệ trung nịnh): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "unit": "u32",
+        "level": "C1",
+        "objective": "Hát Tuồng / Hát Bội và Nghệ thuật Bác học Cung đình: Đào Duy Từ, Tuồng Cung đình Huế và nghệ thuật vẽ mặt nạ ước lệ.",
         "presentation": {
-            "explanation": "Hát Tuồng / Hát Bội & Imperial Drama (Tuồng Cung đình Huế, Đào Duy Từ, mặt nạ ước lệ trung nịnh) represents a cornerstone of Theatre, Dramaturgy & Performing Arts. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Hát Tuồng (miền Nam gọi là Hát Bội) là thể loại kịch hát bác học, bi tráng và trang nghiêm bậc nhất của sân khấu truyền thống Việt Nam. Phát triển rực rỡ từ thế kỷ 17 dưới bàn tay tổ nghề Đào Duy Từ (1572–1634) tại Đàng Trong và đạt đỉnh cao huy hoàng dưới triều Nguyễn tại Cố đô Huế (vua Tự Đức lập Duyệt Thị Đường và Ban Tuồng ngự). Tuồng mang tính quy phạm cung đình nghiêm ngặt, đề cao đạo lý chính thống «Tận trung báo quốc», «Tam cương ngũ thường». Nghệ thuật Tuồng sử dụng nguyên tắc ước lệ cao độ: từ động tác vũ đạo cương nghị (vuốt râu, xốc xốc đai, cưỡi ngựa bằng roi), giọng hát xướng ngân hùng tráng (nói lối, hát nam, hát khách) đến nghệ thuật vẽ mặt nạ (hóa trang mặt tuồng) bằng các màu sắc quy ước tượng trưng—mặt đỏ (trung thần nghĩa khí như Quan Công), mặt trắng mốc (kẻ gian thần nịnh hót), mặt rằn ri (tướng soái dũng mãnh, nóng nảy).",
             "examples": [
                 {
-                    "target": "Mastery of Hát Tuồng / Hát Bội & Imperial Drama (Tuồng Cung đình Huế, Đào Duy Từ, mặt nạ ước lệ trung nịnh) exemplifies the cultural and expressive pinnacle of Vietnamese.",
-                    "reading": "Target analysis of Hát Tuồng / Hát Bội & Imperial Drama (Tuồng Cung đình Huế, Đào Duy Từ, mặt nạ ước lệ trung nịnh)...",
-                    "translation": "Mastery of Hát Tuồng / Hát Bội & Imperial Drama (Tuồng Cung đình Huế, Đào Duy Từ, mặt nạ ước lệ trung nịnh) exemplifies the cultural and expressive pinnacle of Vietnamese."
+                    "target": "Nghệ thuật vẽ mặt nạ Tuồng quy ước rõ tính cách thiện ác của nhân vật ngay khi vừa bước ra sân khấu.",
+                    "reading": "Nghệ thuật vẽ mặt nạ Tuồng quy ước rõ tính cách thiện ác của nhân vật ngay khi vừa bước ra sân khấu.",
+                    "translation": "The art of Tuồng face painting clearly conventions characters' good or evil nature as soon as they step onto the stage."
+                },
+                {
+                    "target": "Nhà hát Duyệt Thị Đường trong Đại Nội Huế là nhà hát cổ nhất còn lại của sân khấu Tuồng hoàng gia.",
+                    "reading": "Nhà hát Duyệt Thị Đường trong Đại Nội Huế là nhà hát cổ nhất còn lại của sân khấu Tuồng hoàng gia.",
+                    "translation": "Duyệt Thị Đường Theatre inside the Hue Citadel is the oldest surviving theatre of royal Tuồng stage."
                 }
             ],
             "mnemonics": [
-                "Hát Tuồng / Hát Bội & Imperial Drama (Tuồng Cung đình Huế, Đào Duy Từ, mặt nạ ước lệ trung nịnh)! Essential milestone in Theatre, Dramaturgy & Performing Arts!"
+                "Mặt nạ Tuồng: Mặt đỏ trung nghĩa anh hào, mặt trắng nịnh thần gian xảo, râu ba chòm uy nghi."
             ],
             "culturalNotes": [
-                "Hát Tuồng / Hát Bội & Imperial Drama (Tuồng Cung đình Huế, Đào Duy Từ, mặt nạ ước lệ trung nịnh) is celebrated worldwide as a defining achievement of Vietnamese heritage."
+                "Nhà hát Duyệt Thị Đường xây dựng năm 1826 thời vua Minh Mạng là nơi vua và hoàng gia triều Nguyễn thưởng thức các vở Tuồng cung đình."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Hát Tuồng / Hát Bội & Imperial Drama (Tuồng Cung đình Huế, Đào Duy Từ, mặt nạ ước lệ trung nịnh)?",
+                    "prompt": "Trong quy ước vẽ mặt nạ (hóa trang) của nghệ thuật Tuồng truyền thống, khuôn mặt màu đỏ son tượng trưng cho tính cách gì?",
                     "options": [
-                        "Hát Tuồng / Hát Bội & Imperial Drama (158.1)",
-                        "Generic introductory concept (158.2)",
-                        "Irrelevant topic (158.3)",
-                        "Modern fast-food trend (158.4)"
+                        "Bậc trung thần trượng nghĩa, ngay thẳng và dũng cảm.",
+                        "Kẻ phản bội nịnh hót hiểm độc.",
+                        "Tên trộm vặt hài hước.",
+                        "Người mất trí nhớ."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Hát Tuồng / Hát Bội & Imperial Drama is the central subject."
+                    "explanation": "Mặt đỏ trong nghệ thuật Tuồng đại diện cho nhân vật trung trinh liệt phái khí tiết ngút trời."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Dramaturgy & Performing Arts, what is the primary significance of Hát Tuồng / Hát Bội & Imperial Drama?",
+                    "prompt": "Danh nhân văn hóa quân sự nào được suy tôn là Hậu tổ có công khai sáng và phát triển nền nghệ thuật Tuồng Đàng Trong?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Vietnamese civilization. (158.1)",
-                        "It was imported from an unrelated continent. (158.2)",
-                        "It was invented yesterday. (158.3)",
-                        "It has no historical significance. (158.4)"
+                        "Đào Duy Từ",
+                        "Nguyễn Trãi",
+                        "Lê Quý Đôn",
+                        "Nguyễn Du"
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Vietnamese civilization."
+                    "explanation": "Đào Duy Từ đã lập ra các đội tuồng vũ và truyền dạy bài bản tuồng bác học cho xứ Đàng Trong."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Hát Tuồng / Hát Bội & Imperial Drama in the development of Theatre, Dramaturgy & Performing Arts:",
+                    "prompt": "Nhà hát cổ kính nào nằm trong Tử Cấm Thành của Kinh thành Huế chuyên dùng để biểu diễn Nhã nhạc và Tuồng cung đình?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "It only applied to elementary school education.",
-                        "Hát Tuồng / Hát Bội & Imperial Drama established enduring philosophical, technical, and expressive standards across the tradition."
+                        "Duyệt Thị Đường",
+                        "Nhà hát Lớn Hà Nội",
+                        "Hòa Bình",
+                        "Gia Định"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Accurate analysis of Hát Tuồng / Hát Bội & Imperial Drama (Tuồng Cung đình Huế, Đào Duy Từ, mặt nạ ước lệ trung nịnh)."
+                    "answerIndex": 0,
+                    "explanation": "Duyệt Thị Đường xây dựng năm 1826 là nhà hát hoàng gia cổ nhất còn nguyên vẹn ở Việt Nam."
                 },
                 {
-                    "prompt": "What mastery level does completing Hát Tuồng / Hát Bội & Imperial Drama contribute to in the FEARN curriculum?",
+                    "prompt": "Vị hoàng đế triều Nguyễn nào say mê nghệ thuật Tuồng đến mức tự mình tham gia hiệu đính kịch bản và sáng tác các vở tuồng đồ sộ?",
                     "options": [
-                        "Beginner A1",
-                        "Elementary A2",
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Pre-intermediate B1"
+                        "Vua Tự Đức",
+                        "Vua Gia Long",
+                        "Vua Hàm Nghi",
+                        "Vua Duy Tân"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Vua Tự Đức say mê văn học nghệ thuật, lập ra Ban Tuồng soạn thảo những pho kịch bản vĩ đại như *Vạn Bửu Trình Tường*."
                 }
             ],
             "passThreshold": 0.8
@@ -16405,78 +16420,83 @@
     },
     "vi-u32-l4": {
         "id": "vi-u32-l4",
-        "unit": "vi-u32",
-        "level": "C2",
-        "objective": "Đờn Ca Tài Tử & Cải Lương: Southern Renovation Theatre (Cao Văn Lầu Dạ cổ hoài lang 1919, đàn kìm vọng cổ): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "unit": "u32",
+        "level": "C1",
+        "objective": "Đờn Ca Tài Tử và Cải Lương Nam Bộ: Cao Văn Lầu, bản Dạ cổ hoài lang (1919), đàn kìm và điệu Vọng Cổ.",
         "presentation": {
-            "explanation": "Đờn Ca Tài Tử & Cải Lương: Southern Renovation Theatre (Cao Văn Lầu Dạ cổ hoài lang 1919, đàn kìm vọng cổ) represents a cornerstone of Theatre, Dramaturgy & Performing Arts. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Nghệ thuật Đờn ca tài tử Nam Bộ (được UNESCO công nhận là Di sản Văn hóa Phi vật thể đại diện của nhân loại năm 2013) và sân khấu Cải Lương là kết tinh tâm hồn phóng khoáng, nghĩa hiệp và trữ tình của người dân vùng đất phương Nam. Khởi nguồn từ phong trào đờn ca tài tử thính phòng cuối thế kỷ 19 với bộ ngũ tuyệt (đàn kìm, đàn tranh, đàn cò, đàn bầu, đàn tam và sáo), nghệ thuật cải cách này đã bước lên sân khấu kịch hát chuyên nghiệp vào đầu thế kỷ 20 với tiêu chí «Cải cách hát ca theo tiến bộ / Lương truyền tuồng tích sánh văn minh». Cột mốc lịch sử là năm 1919, khi nhạc sĩ Cao Văn Lầu (Sáu Lầu, Bạc Liêu) sáng tác bản *Dạ cổ hoài lang* (Đêm khuya nghe tiếng trống nhớ chồng) gồm 20 câu nhịp đôi. Từ hạt nhân bất hủ này, các nghệ nhân đã phát triển thành câu «Vọng Cổ» nhịp 4, nhịp 8, nhịp 16, nhịp 32 và nhịp 64 ngân nga da diết, đưa sân khấu Cải lương với các gánh hát lừng danh như Dạ Lý Hương, Thanh Minh - Thanh Nga và những nghệ sĩ tài danh (Út Trà Ôn, Bạch Tuyết, Hùng Cường, Thanh Nga) trở thành thánh đường nghệ thuật Nam Bộ.",
             "examples": [
                 {
-                    "target": "Mastery of Đờn Ca Tài Tử & Cải Lương: Southern Renovation Theatre (Cao Văn Lầu Dạ cổ hoài lang 1919, đàn kìm vọng cổ) exemplifies the cultural and expressive pinnacle of Vietnamese.",
-                    "reading": "Target analysis of Đờn Ca Tài Tử & Cải Lương: Southern Renovation Theatre (Cao Văn Lầu Dạ cổ hoài lang 1919, đàn kìm vọng cổ)...",
-                    "translation": "Mastery of Đờn Ca Tài Tử & Cải Lương: Southern Renovation Theatre (Cao Văn Lầu Dạ cổ hoài lang 1919, đàn kìm vọng cổ) exemplifies the cultural and expressive pinnacle of Vietnamese."
+                    "target": "Bản Dạ cổ hoài lang của cố nhạc sĩ Cao Văn Lầu là tiền thân của các bài vọng cổ Nam Bộ tha thiết.",
+                    "reading": "Bản Dạ cổ hoài lang của cố nhạc sĩ Cao Văn Lầu là tiền thân của các bài vọng cổ Nam Bộ tha thiết.",
+                    "translation": "The piece Night Drum Sound Missing Husband by the late musician Cao Văn Lầu is the precursor of poignant southern Vọng Cổ songs."
+                },
+                {
+                    "target": "Đàn kìm giữ vai trò chủ chốt trong việc hòa âm và giữ nhịp cho các bài bản đờn ca tài tử.",
+                    "reading": "Đàn kìm giữ vai trò chủ chốt trong việc hòa âm và giữ nhịp cho các bài bản đờn ca tài tử.",
+                    "translation": "The moon lute plays a pivotal role in harmonizing and keeping time for Don Ca Tai Tu repertoires."
                 }
             ],
             "mnemonics": [
-                "Đờn Ca Tài Tử & Cải Lương: Southern Renovation Theatre (Cao Văn Lầu Dạ cổ hoài lang 1919, đàn kìm vọng cổ)! Essential milestone in Theatre, Dramaturgy & Performing Arts!"
+                "Cải lương Nam Bộ: Dạ cổ hoài lang (1919) -> Vọng cổ ngậm ngùi -> Đàn kìm (nguyệt cầm) dẫn dắt câu ca."
             ],
             "culturalNotes": [
-                "Đờn Ca Tài Tử & Cải Lương: Southern Renovation Theatre (Cao Văn Lầu Dạ cổ hoài lang 1919, đàn kìm vọng cổ) is celebrated worldwide as a defining achievement of Vietnamese heritage."
+                "Nghệ thuật Đờn ca tài tử Nam Bộ được UNESCO vinh danh là Di sản Văn hóa Phi vật thể đại diện của nhân loại vào năm 2013."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Đờn Ca Tài Tử & Cải Lương: Southern Renovation Theatre (Cao Văn Lầu Dạ cổ hoài lang 1919, đàn kìm vọng cổ)?",
+                    "prompt": "Bản nhạc tiền thân bất hủ của điệu Vọng Cổ Nam Bộ do nhạc sĩ Cao Văn Lầu sáng tác tại Bạc Liêu năm 1919 có tên là gì?",
                     "options": [
-                        "Generic introductory concept (159.1)",
-                        "Irrelevant topic (159.2)",
-                        "Modern fast-food trend (159.3)",
-                        "Đờn Ca Tài Tử & Cải Lương: Southern Renovation Theatre (159.4)"
+                        "Dạ cổ hoài lang",
+                        "Lưu thủy hành vân",
+                        "Bình bán vắn",
+                        "Kim tiền Huế"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Đờn Ca Tài Tử & Cải Lương: Southern Renovation Theatre is the central subject."
+                    "answerIndex": 0,
+                    "explanation": "*Dạ cổ hoài lang* (Tiếng trống đêm nhớ chồng) là tác phẩm khai sinh ra câu vọng cổ trứ danh."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Dramaturgy & Performing Arts, what is the primary significance of Đờn Ca Tài Tử & Cải Lương: Southern Renovation Theatre?",
+                    "prompt": "Nhạc cụ dây có thùng tròn như mặt trăng, giữ vai trò lĩnh xướng và chỉ huy trong dàn nhạc Đờn ca tài tử là nhạc cụ nào?",
                     "options": [
-                        "It has no historical significance. (159.1)",
-                        "It was imported from an unrelated continent. (159.2)",
-                        "It was invented yesterday. (159.3)",
-                        "It represents a defining historical and aesthetic breakthrough in Vietnamese civilization. (159.4)"
+                        "Đàn kìm (đàn nguyệt)",
+                        "Đàn ghi-ta phím lõm",
+                        "Đàn tỳ bà",
+                        "Đàn gáo"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "It represents a defining breakthrough in Vietnamese civilization."
+                    "answerIndex": 0,
+                    "explanation": "Đàn kìm được coi là «quân tử cầm», định hình tiết tấu và giai điệu cho toàn ban nhạc tài tử."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Đờn Ca Tài Tử & Cải Lương: Southern Renovation Theatre in the development of Theatre, Dramaturgy & Performing Arts:",
+                    "prompt": "Hai câu đối «Cải cách hát ca theo tiến bộ / Lương truyền tuồng tích sánh văn minh» thể hiện tôn chỉ ra đời của loại hình sân khấu nào?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "Đờn Ca Tài Tử & Cải Lương: Southern Renovation Theatre established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education."
+                        "Cải Lương",
+                        "Hát Bội",
+                        "Múa Rối Cạn",
+                        "Hát Xoan"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Accurate analysis of Đờn Ca Tài Tử & Cải Lương: Southern Renovation Theatre (Cao Văn Lầu Dạ cổ hoài lang 1919, đàn kìm vọng cổ)."
+                    "answerIndex": 0,
+                    "explanation": "Tên gọi «Cải Lương» xuất phát từ câu đối này, biểu thị sự đổi mới tiến bộ của kịch hát Nam Bộ."
                 },
                 {
-                    "prompt": "What mastery level does completing Đờn Ca Tài Tử & Cải Lương: Southern Renovation Theatre contribute to in the FEARN curriculum?",
+                    "prompt": "Nữ nghệ sĩ tài sắc vẹn toàn nào được mệnh danh là «Nữ hoàng sân khấu Cải lương» của đoàn kịch Thanh Minh - Thanh Nga?",
                     "options": [
-                        "Pre-intermediate B1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Elementary A2",
-                        "Beginner A1"
+                        "Nghệ sĩ Thanh Nga",
+                        "Nghệ sĩ Phùng Há",
+                        "Nghệ sĩ Bạch Tuyết",
+                        "Nghệ sĩ Ngọc Giàu"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Nghệ sĩ ưu tú Thanh Nga nổi danh với vai diễn Trưng Trắc trong *Tiếng trống Mê Linh*."
                 }
             ],
             "passThreshold": 0.8
@@ -16484,78 +16504,83 @@
     },
     "vi-u32-l5": {
         "id": "vi-u32-l5",
-        "unit": "vi-u32",
-        "level": "C2",
-        "objective": "Modern Vietnamese Spoken Theatre: Kịch Nói & Lưu Quang Vũ (Hồn Trương Ba da hàng thịt 1984, Tôi và chúng ta): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "unit": "u32",
+        "level": "C1",
+        "objective": "Kịch nói hiện đại Việt Nam và Lưu Quang Vũ: Hồn Trương Ba da hàng thịt (1984), Tôi và chúng ta và kịch nhân văn triết lý.",
         "presentation": {
-            "explanation": "Modern Vietnamese Spoken Theatre: Kịch Nói & Lưu Quang Vũ (Hồn Trương Ba da hàng thịt 1984, Tôi và chúng ta) represents a cornerstone of Theatre, Dramaturgy & Performing Arts. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Sân khấu kịch nói hiện đại Việt Nam đạt đến đỉnh cao chói lọi trong thập niên 1980 nhờ thiên tài kịch tác gia Lưu Quang Vũ (1948–1988). Với sức sáng tạo phi thường (viết hơn 50 vở kịch chỉ trong gần mười năm), Lưu Quang Vũ đã thổi bùng một ngọn lửa đổi mới dân chủ, nhân văn và thức tỉnh xã hội sâu sắc trước thềm Đổi Mới. Kiệt tác *Hồn Trương Ba, da hàng thịt* (viết năm 1981, công diễn năm 1984 dưới bàn tay đạo diễn Nguyễn Đình Nghi) mượn cốt truyện dân gian để đặt ra vấn đề triết học hiện sinh muôn thuở: Bi kịch của con người khi không được sống là chính mình («Tâm hồn tôi vẫn nguyên vẹn, trong sạch» đối thoại với «Cái xác hàng thịt thô lỗ, phàm tục»). Cùng với những tác phẩm mang tính dự báo xã hội đanh thép như *Tôi và chúng ta*, *Lời thề thứ 9*, *Nàng Sita*, kịch Lưu Quang Vũ khẳng định chân lý: Cuộc sống chỉ thực sự có ý nghĩa khi con người sống trung thực, dũng cảm đấu tranh cho cái thiện và giải phóng tiềm năng sáng tạo.",
             "examples": [
                 {
-                    "target": "Mastery of Modern Vietnamese Spoken Theatre: Kịch Nói & Lưu Quang Vũ (Hồn Trương Ba da hàng thịt 1984, Tôi và chúng ta) exemplifies the cultural and expressive pinnacle of Vietnamese.",
-                    "reading": "Target analysis of Modern Vietnamese Spoken Theatre: Kịch Nói & Lưu Quang Vũ (Hồn Trương Ba da hàng thịt 1984, Tôi và chúng ta)...",
-                    "translation": "Mastery of Modern Vietnamese Spoken Theatre: Kịch Nói & Lưu Quang Vũ (Hồn Trương Ba da hàng thịt 1984, Tôi và chúng ta) exemplifies the cultural and expressive pinnacle of Vietnamese."
+                    "target": "Hồn Trương Ba da hàng thịt nêu bật khát vọng được sống toàn vẹn, hài hòa giữa thể xác và tâm hồn.",
+                    "reading": "Hồn Trương Ba da hàng thịt nêu bật khát vọng được sống toàn vẹn, hài hòa giữa thể xác và tâm hồn.",
+                    "translation": "Soul of Truong Ba in Butcher's Skin highlights the yearning to live in wholesome integrity between body and soul."
+                },
+                {
+                    "target": "Vở kịch Tôi và chúng ta là lời hiệu triệu đổi mới tư duy quản lý kinh tế và giải phóng sức lao động.",
+                    "reading": "Vở kịch Tôi và chúng ta là lời hiệu triệu đổi mới tư duy quản lý kinh tế và giải phóng sức lao động.",
+                    "translation": "The play I and We was a clarion call for renewing economic management thinking and liberating human labor."
                 }
             ],
             "mnemonics": [
-                "Modern Vietnamese Spoken Theatre: Kịch Nói & Lưu Quang Vũ (Hồn Trương Ba da hàng thịt 1984, Tôi và chúng ta)! Essential milestone in Theatre, Dramaturgy & Performing Arts!"
+                "Lưu Quang Vũ: Hồn Trương Ba (triết lý sống là chính mình) + Tôi và chúng ta (đổi mới dám nghĩ dám làm)."
             ],
             "culturalNotes": [
-                "Modern Vietnamese Spoken Theatre: Kịch Nói & Lưu Quang Vũ (Hồn Trương Ba da hàng thịt 1984, Tôi và chúng ta) is celebrated worldwide as a defining achievement of Vietnamese heritage."
+                "Lưu Quang Vũ và người vợ tài hoa—nhà thơ Xuân Quỳnh—đã qua đời trong một vụ tai nạn giao thông thảm khốc tại Hải Dương vào tháng 8 năm 1988."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Modern Vietnamese Spoken Theatre: Kịch Nói & Lưu Quang Vũ (Hồn Trương Ba da hàng thịt 1984, Tôi và chúng ta)?",
+                    "prompt": "Trong vở kịch Hồn Trương Ba, da hàng thịt, thông điệp triết học sâu sắc nhất mà Trương Ba kiên quyết lựa chọn ở hồi kết là gì?",
                     "options": [
-                        "Modern Vietnamese Spoken Theatre: Kịch Nói & Lưu Quang Vũ (160.1)",
-                        "Generic introductory concept (160.2)",
-                        "Modern fast-food trend (160.3)",
-                        "Irrelevant topic (160.4)"
+                        "Chấp nhận chết hẳn để giữ tâm hồn thanh cao, không chịu sống chắp vá, vay mượn trong thân xác kẻ khác.",
+                        "Tiếp tục nhập vào xác con lừa để sống mãi.",
+                        "Tranh giành tài sản của người hàng thịt.",
+                        "Bỏ làng lên trời làm quan thần tiên."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Modern Vietnamese Spoken Theatre: Kịch Nói & Lưu Quang Vũ is the central subject."
+                    "explanation": "Trương Ba chọn cái chết thanh thản để tâm hồn được giải thoát và người thân không phải đau khổ."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Dramaturgy & Performing Arts, what is the primary significance of Modern Vietnamese Spoken Theatre: Kịch Nói & Lưu Quang Vũ?",
+                    "prompt": "Vở kịch nào của Lưu Quang Vũ công phá cơ chế bao cấp trì trệ xơ cứng tại một xí nghiệp sản xuất?",
                     "options": [
-                        "It has no historical significance. (160.1)",
-                        "It was imported from an unrelated continent. (160.2)",
-                        "It was invented yesterday. (160.3)",
-                        "It represents a defining historical and aesthetic breakthrough in Vietnamese civilization. (160.4)"
+                        "Tôi và chúng ta",
+                        "Bệnh sĩ",
+                        "Tin ở hoa hồng",
+                        "Chiếc ô công lý"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "It represents a defining breakthrough in Vietnamese civilization."
+                    "answerIndex": 0,
+                    "explanation": "*Tôi và chúng ta* cổ vũ tinh thần đổi mới, dám nghĩ dám làm phá bỏ tư duy bao cấp lỗi thời."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Modern Vietnamese Spoken Theatre: Kịch Nói & Lưu Quang Vũ in the development of Theatre, Dramaturgy & Performing Arts:",
+                    "prompt": "Kịch tác gia tài hoa nào là tác giả của hơn 50 vở kịch làm rung chuyển sân khấu Việt Nam thập niên 1980?",
                     "options": [
-                        "It was completely forgotten within a week.",
-                        "Modern Vietnamese Spoken Theatre: Kịch Nói & Lưu Quang Vũ established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education.",
-                        "It was a minor commercial advertising campaign."
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "Accurate analysis of Modern Vietnamese Spoken Theatre: Kịch Nói & Lưu Quang Vũ (Hồn Trương Ba da hàng thịt 1984, Tôi và chúng ta)."
-                },
-                {
-                    "prompt": "What mastery level does completing Modern Vietnamese Spoken Theatre: Kịch Nói & Lưu Quang Vũ contribute to in the FEARN curriculum?",
-                    "options": [
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Elementary A2",
-                        "Pre-intermediate B1",
-                        "Beginner A1"
+                        "Lưu Quang Vũ",
+                        "Nguyễn Huy Tưởng",
+                        "Nguyễn Đình Thi",
+                        "Thế Lữ"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "explanation": "Lưu Quang Vũ được truy tặng Giải thưởng Hồ Chí Minh về Văn học Nghệ thuật năm 2000."
+                },
+                {
+                    "prompt": "Vị thần tiên ham chơi cờ trong tích kịch Hồn Trương Ba da hàng thịt đã mắc sai lầm tắc trách là ai?",
+                    "options": [
+                        "Đế Thích",
+                        "Nam Tào",
+                        "Bắc Đẩu",
+                        "Thái Thượng Lão Quân"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Đế Thích vì tiếc bạn cờ Trương Ba nên đã cho hồn Trương Ba nhập vào xác anh hàng thịt vừa chết."
                 }
             ],
             "passThreshold": 0.8
@@ -16563,78 +16588,83 @@
     },
     "vi-u33-l1": {
         "id": "vi-u33-l1",
-        "unit": "vi-u33",
+        "unit": "u33",
         "level": "C1",
-        "objective": "The Imperial Citadel of Thăng Long & One Pillar Pagoda (Hoàng thành Thăng Long 1010, Chùa Một Cột Diên Hựu): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "objective": "Hoàng thành Thăng Long và Chùa Một Cột: Kinh đô Thăng Long (1010), kiến trúc đời Lý và Chùa Diên Hựu.",
         "presentation": {
-            "explanation": "The Imperial Citadel of Thăng Long & One Pillar Pagoda (Hoàng thành Thăng Long 1010, Chùa Một Cột Diên Hựu) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Năm Canh Tuất 1010, sau khi ban *Chiếu dời đô* (*Thiên đô chiếu*) từ vùng núi Hoa Lư về vùng đất rồng cuộn hổ ngồi ở châu thổ sông Hồng, vua Lý Thái Tổ đã khởi công xây dựng Kinh đô Thăng Long. Khu di tích Hoàng thành Thăng Long (UNESCO công nhận năm 2010) là trung tâm quyền lực chính trị liên tục hơn 1000 năm của các triều đại Lý, Trần, Lê, Mạc và Nguyễn. Kiến trúc thời Lý đạt trình độ nghệ thuật tinh xảo với các tầng văn hóa gạch ngói hoa sen, lá đề rồng thời Lý và tượng rồng đá Đoan Môn. Kiệt tác kiến trúc độc nhất vô nhị thời kỳ này là *Chùa Một Cột* (Chùa Diên Hựu, dựng năm 1049 dưới thời vua Lý Thái Tông). Toàn bộ ngôi chùa đài sen bằng gỗ dựng trên một cột đá tròn duy nhất cao 4 mét cắm giữa hồ nước Linh Chiểu, mô phỏng đóa hoa sen nghìn cánh vươn lên từ bùn lầy tinh khiết theo giấc mộng Bồ Tát Quan Âm ban phúc cho hoàng gia.",
             "examples": [
                 {
-                    "target": "Mastery of The Imperial Citadel of Thăng Long & One Pillar Pagoda (Hoàng thành Thăng Long 1010, Chùa Một Cột Diên Hựu) exemplifies the cultural and expressive pinnacle of Vietnamese.",
-                    "reading": "Target analysis of The Imperial Citadel of Thăng Long & One Pillar Pagoda (Hoàng thành Thăng Long 1010, Chùa Một Cột Diên Hựu)...",
-                    "translation": "Mastery of The Imperial Citadel of Thăng Long & One Pillar Pagoda (Hoàng thành Thăng Long 1010, Chùa Một Cột Diên Hựu) exemplifies the cultural and expressive pinnacle of Vietnamese."
+                    "target": "Chùa Một Cột là đóa sen ngàn cánh tượng trưng cho sự thanh cao và trường tồn của đạo Phật thời Lý.",
+                    "reading": "Chùa Một Cột là đóa sen ngàn cánh tượng trưng cho sự thanh cao và trường tồn của đạo Phật thời Lý.",
+                    "translation": "The One Pillar Pagoda is a thousand-petal lotus symbolizing the purity and endurance of Buddhism in the Lý era."
+                },
+                {
+                    "target": "Khu khảo cổ học Hoàng thành Thăng Long minh chứng cho bề dày lịch sử ngàn năm văn hiến của thủ đô Hà Nội.",
+                    "reading": "Khu khảo cổ học Hoàng thành Thăng Long minh chứng cho bề dày lịch sử ngàn năm văn hiến của thủ đô Hà Nội.",
+                    "translation": "The Thang Long Imperial Citadel archaeological site demonstrates the millennium-long historical depth of Hanoi."
                 }
             ],
             "mnemonics": [
-                "The Imperial Citadel of Thăng Long & One Pillar Pagoda (Hoàng thành Thăng Long 1010, Chùa Một Cột Diên Hựu)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "Thăng Long 1010: Lý Thái Tổ dời đô + Hoàng thành nghìn năm + Chùa Một Cột (đài sen ngự trên cột đá)."
             ],
             "culturalNotes": [
-                "The Imperial Citadel of Thăng Long & One Pillar Pagoda (Hoàng thành Thăng Long 1010, Chùa Một Cột Diên Hựu) is celebrated worldwide as a defining achievement of Vietnamese heritage."
+                "Tổ chức Kỷ lục Châu Á đã xác lập Chùa Một Cột là «Ngôi chùa có kiến trúc độc đáo nhất châu Á» vào năm 2012."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of The Imperial Citadel of Thăng Long & One Pillar Pagoda (Hoàng thành Thăng Long 1010, Chùa Một Cột Diên Hựu)?",
+                    "prompt": "Ngôi chùa cổ thời Lý có kiến trúc hình đài sen nâng trên một cột đá giữa lòng hồ ở Hà Nội có tên gọi chính thức là gì?",
                     "options": [
-                        "Generic introductory concept (161.1)",
-                        "Irrelevant topic (161.2)",
-                        "Modern fast-food trend (161.3)",
-                        "The Imperial Citadel of Thăng Long & One Pillar Pagoda (161.4)"
+                        "Chùa Diên Hựu (Chùa Một Cột)",
+                        "Chùa Trấn Quốc",
+                        "Chùa Hương",
+                        "Chùa Bái Đính"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "The Imperial Citadel of Thăng Long & One Pillar Pagoda is the central subject."
+                    "answerIndex": 0,
+                    "explanation": "Chùa được vua Lý Thái Tông dựng năm 1049 với tên chữ là Diên Hựu (kéo dài điều lành phúc đức)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of The Imperial Citadel of Thăng Long & One Pillar Pagoda?",
+                    "prompt": "Vị vua khai sáng triều Lý đã ban Chiếu dời đô dời kinh thành từ Hoa Lư về Thăng Long năm 1010 là ai?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Vietnamese civilization. (161.1)",
-                        "It has no historical significance. (161.2)",
-                        "It was imported from an unrelated continent. (161.3)",
-                        "It was invented yesterday. (161.4)"
+                        "Vua Lý Thái Tổ (Lý Công Uẩn)",
+                        "Vua Lý Thánh Tông",
+                        "Vua Lý Nhân Tông",
+                        "Vua Lý Thái Tông"
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Vietnamese civilization."
+                    "explanation": "Lý Thái Tổ là vị vua anh minh đã nhìn thấy vị thế đắc địa của vùng đất Thăng Long."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of The Imperial Citadel of Thăng Long & One Pillar Pagoda in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "Chùa Một Cột được mô phỏng theo hình tượng loài hoa thanh cao nào trong văn hóa Phật giáo?",
                     "options": [
-                        "The Imperial Citadel of Thăng Long & One Pillar Pagoda established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It was a minor commercial advertising campaign.",
-                        "It only applied to elementary school education.",
-                        "It was completely forgotten within a week."
+                        "Hoa sen",
+                        "Hoa cúc",
+                        "Hoa mai",
+                        "Hoa đào"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Accurate analysis of The Imperial Citadel of Thăng Long & One Pillar Pagoda (Hoàng thành Thăng Long 1010, Chùa Một Cột Diên Hựu)."
+                    "explanation": "Chùa được thiết kế tựa như bông sen vươn lên từ mặt hồ Linh Chiểu."
                 },
                 {
-                    "prompt": "What mastery level does completing The Imperial Citadel of Thăng Long & One Pillar Pagoda contribute to in the FEARN curriculum?",
+                    "prompt": "Khu trung tâm Hoàng thành Thăng Long được UNESCO vinh danh là Di sản Văn hóa Thế giới vào năm nào?",
                     "options": [
-                        "Elementary A2",
-                        "Beginner A1",
-                        "Pre-intermediate B1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery"
+                        "Năm 2010 (đúng dịp Đại lễ 1000 năm Thăng Long - Hà Nội)",
+                        "Năm 1993",
+                        "Năm 2003",
+                        "Năm 1980"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "UNESCO công nhận Hoàng thành Thăng Long năm 2010 nhân kỷ niệm 1000 năm kinh đô."
                 }
             ],
             "passThreshold": 0.8
@@ -16642,78 +16672,83 @@
     },
     "vi-u33-l2": {
         "id": "vi-u33-l2",
-        "unit": "vi-u33",
+        "unit": "u33",
         "level": "C1",
-        "objective": "The Imperial City of Huế & Royal Feng Shui (Kinh thành Huế, Ngọ Môn, Điện Thái Hòa, sông Hương núi Ngự): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "objective": "Quần thể Cố đô Huế và Phong thủy Hoàng gia: Kinh thành Huế (1805), Ngọ Môn, Điện Thái Hòa và sông Hương núi Ngự.",
         "presentation": {
-            "explanation": "The Imperial City of Huế & Royal Feng Shui (Kinh thành Huế, Ngọ Môn, Điện Thái Hòa, sông Hương núi Ngự) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Quần thể Di tích Cố đô Huế (được UNESCO công nhận là Di sản Văn hóa Thế giới đầu tiên của Việt Nam năm 1993) là kinh đô của triều Nguyễn từ năm 1802 đến 1945. Được khởi công xây dựng năm 1805 thời vua Gia Long và hoàn thành thời Minh Mạng, Kinh thành Huế là sự kết hợp tuyệt mỹ giữa nguyên lý phong thủy Đông phương truyền thống và kỹ thuật kiến trúc thành lũy phòng thủ Vauban của phương Tây. Thành phố quay mặt về hướng Nam, lấy dòng sông Hương làm minh đường, cồn Dã Viên làm Bạch Hổ, cồn Hến làm Tả Thanh Long và núi Ngự Bình làm tiền án che chắn. Bên trong Hoàng thành và Tử Cấm Thành, các công trình biểu tượng như *Ngọ Môn* (cửa chính phía nam với lầu Ngũ Phụng), *Điện Thái Hòa* (nơi thiết triều và tổ chức các nghi lễ đăng quang với 80 cột gỗ lim sơn son thếp vàng rồng vờn mây) và hệ thống lăng tẩm hoàng đế (Lăng Khải Định, Lăng Tự Đức, Lăng Minh Mạng) thể hiện sự hòa hợp tuyệt đối giữa kiến trúc cung đình và cảnh quan thiên nhiên.",
             "examples": [
                 {
-                    "target": "Mastery of The Imperial City of Huế & Royal Feng Shui (Kinh thành Huế, Ngọ Môn, Điện Thái Hòa, sông Hương núi Ngự) exemplifies the cultural and expressive pinnacle of Vietnamese.",
-                    "reading": "Target analysis of The Imperial City of Huế & Royal Feng Shui (Kinh thành Huế, Ngọ Môn, Điện Thái Hòa, sông Hương núi Ngự)...",
-                    "translation": "Mastery of The Imperial City of Huế & Royal Feng Shui (Kinh thành Huế, Ngọ Môn, Điện Thái Hòa, sông Hương núi Ngự) exemplifies the cultural and expressive pinnacle of Vietnamese."
+                    "target": "Điện Thái Hòa là biểu trưng cho quyền lực tối cao của hoàng đế triều Nguyễn với nghệ thuật chạm khắc rồng tinh xảo.",
+                    "reading": "Điện Thái Hòa là biểu trưng cho quyền lực tối cao của hoàng đế triều Nguyễn với nghệ thuật chạm khắc rồng tinh xảo.",
+                    "translation": "The Thai Hoa Palace is the symbol of the supreme power of the Nguyen Dynasty emperor with exquisite dragon carvings."
+                },
+                {
+                    "target": "Lầu Ngũ Phụng trên cửa Ngọ Môn là nơi chứng kiến vua Bảo Đại thoái vị và trao ấn kiếm năm 1945.",
+                    "reading": "Lầu Ngũ Phụng trên cửa Ngọ Môn là nơi chứng kiến vua Bảo Đại thoái vị và trao ấn kiếm năm 1945.",
+                    "translation": "The Five Phoenix Pavilion atop Ngo Mon Gate witnessed Emperor Bao Dai abdicating and handing over the imperial regalia in 1945."
                 }
             ],
             "mnemonics": [
-                "The Imperial City of Huế & Royal Feng Shui (Kinh thành Huế, Ngọ Môn, Điện Thái Hòa, sông Hương núi Ngự)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "Kinh thành Huế: Minh đường sông Hương + tiền án núi Ngự + Ngọ Môn lầu Ngũ Phụng + Điện Thái Hòa son son thếp vàng."
             ],
             "culturalNotes": [
-                "The Imperial City of Huế & Royal Feng Shui (Kinh thành Huế, Ngọ Môn, Điện Thái Hòa, sông Hương núi Ngự) is celebrated worldwide as a defining achievement of Vietnamese heritage."
+                "Năm 1993, Cố đô Huế trở thành di sản thế giới đầu tiên của Việt Nam được UNESCO vinh danh."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of The Imperial City of Huế & Royal Feng Shui (Kinh thành Huế, Ngọ Môn, Điện Thái Hòa, sông Hương núi Ngự)?",
+                    "prompt": "Hai yếu tố địa lý tự nhiên nào của xứ Huế đóng vai trò làm «tiền án» và «minh đường» trong phong thủy Kinh thành Huế?",
                     "options": [
-                        "The Imperial City of Huế & Royal Feng Shui (162.1)",
-                        "Irrelevant topic (162.2)",
-                        "Modern fast-food trend (162.3)",
-                        "Generic introductory concept (162.4)"
+                        "Núi Ngự Bình (tiền án) và Sông Hương (minh đường)",
+                        "Núi Fansipan và Sông Hồng",
+                        "Đèo Hải Vân và Vịnh Lăng Cô",
+                        "Núi Bà Đen và Sông Sài Gòn"
                     ],
                     "answerIndex": 0,
-                    "explanation": "The Imperial City of Huế & Royal Feng Shui is the central subject."
+                    "explanation": "Núi Ngự Bình che chắn trước mặt kinh thành và sông Hương chảy phía trước tạo minh đường tụ thủy tụ khí."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of The Imperial City of Huế & Royal Feng Shui?",
+                    "prompt": "Cửa chính ở mặt nam của Hoàng thành Huế có lầu Ngũ Phụng tráng lệ phía trên có tên gọi là gì?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Vietnamese civilization. (162.1)",
-                        "It has no historical significance. (162.2)",
-                        "It was invented yesterday. (162.3)",
-                        "It was imported from an unrelated continent. (162.4)"
+                        "Ngọ Môn",
+                        "Cửa Đông Ba",
+                        "Cửa Thượng Tứ",
+                        "Cửa An Hòa"
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Vietnamese civilization."
+                    "explanation": "Ngọ Môn là cổng vương giả chỉ dành riêng cho vua đi lại và tổ chức các lễ duyệt binh, tuyên chỉ."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of The Imperial City of Huế & Royal Feng Shui in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "Cung điện nào quan trọng nhất trong Hoàng thành Huế, nơi đặt ngai vàng và diễn ra các đại lễ đăng quang của 13 vị vua triều Nguyễn?",
                     "options": [
-                        "It only applied to elementary school education.",
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "The Imperial City of Huế & Royal Feng Shui established enduring philosophical, technical, and expressive standards across the tradition."
+                        "Điện Thái Hòa",
+                        "Điện Cần Chánh",
+                        "Điện Kiến Trung",
+                        "Điện Long An"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Accurate analysis of The Imperial City of Huế & Royal Feng Shui (Kinh thành Huế, Ngọ Môn, Điện Thái Hòa, sông Hương núi Ngự)."
+                    "answerIndex": 0,
+                    "explanation": "Điện Thái Hòa là trung tâm quyền lực biểu trưng cho sự hòa hợp âm dương và uy quyền thiên tử."
                 },
                 {
-                    "prompt": "What mastery level does completing The Imperial City of Huế & Royal Feng Shui contribute to in the FEARN curriculum?",
+                    "prompt": "Sự kiện lịch sử trọng đại nào diễn ra tại lầu Ngọ Môn ngày 30 tháng 8 năm 1945 chấm dứt chế độ phong kiến Việt Nam?",
                     "options": [
-                        "Elementary A2",
-                        "Beginner A1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Pre-intermediate B1"
+                        "Vua Bảo Đại đọc Chiếu thoái vị và trao nộp ấn kiếm cho đại diện Chính phủ lâm thời",
+                        "Lễ ký hiệp định hòa bình",
+                        "Lễ tế trời Đất",
+                        "Đại lễ đón sứ thần quốc tế"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Bảo Đại tuyên bố thoái vị với câu nói lịch sử: «Trẫm muốn làm dân một nước tự do hơn làm vua một nước nô lệ»."
                 }
             ],
             "passThreshold": 0.8
@@ -16721,78 +16756,83 @@
     },
     "vi-u33-l3": {
         "id": "vi-u33-l3",
-        "unit": "vi-u33",
-        "level": "C2",
-        "objective": "The Ancient Port Town of Hội An & Merchant Terroir (Phố cổ Hội An, Chùa Cầu Nhật Bản, nhà cổ Tấn Ký): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "unit": "u33",
+        "level": "C1",
+        "objective": "Đô thị cổ Hội An và Giao thoa Kiến trúc Thương cảng: Chùa Cầu Nhật Bản (thế kỷ 17), nhà cổ Tấn Ký và phong vị Faifo.",
         "presentation": {
-            "explanation": "The Ancient Port Town of Hội An & Merchant Terroir (Phố cổ Hội An, Chùa Cầu Nhật Bản, nhà cổ Tấn Ký) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Đô thị cổ Hội An (tên cổ quốc tế là Faifo, UNESCO công nhận Di sản Thế giới năm 1999) nằm bên bờ hạ lưu sông Thu Bồn (tỉnh Quảng Nam), là một thương cảng quốc tế sầm uất bậc nhất Đông Nam Á từ thế kỷ 16 đến thế kỷ 19. Nơi đây lưu giữ nguyên vẹn một quần thể hơn 1.000 di tích kiến trúc cổ bao gồm nhà phố truyền thống hình ống, hội quán Hoa kiều (Hội quán Phúc Kiến, Triều Châu, Quảng Đông), nhà thờ tộc và giếng nước cổ. Biểu tượng bất hủ của Hội An là *Chùa Cầu* (Lai Viễn Kiều)—cây cầu ngói bằng gỗ dài 18 mét do các thương nhân Nhật Bản xây dựng vào đầu thế kỷ 17 với mái ngói âm dương cong vút và ngôi miếu nhỏ thờ thần Bắc Đế Trấn Vũ. Những ngôi nhà cổ như *Nhà cổ Tấn Ký* (xây dựng năm 1741) kết hợp hài hòa cấu trúc ba gian hai chái của Việt Nam với xà gồ chồng rường của Nhật Bản và chạm khắc rồng phượng, chữ Hán tinh xảo của Trung Hoa, tạo nên một bảo tàng sống về giao lưu văn hóa thương cảng.",
             "examples": [
                 {
-                    "target": "Mastery of The Ancient Port Town of Hội An & Merchant Terroir (Phố cổ Hội An, Chùa Cầu Nhật Bản, nhà cổ Tấn Ký) exemplifies the cultural and expressive pinnacle of Vietnamese.",
-                    "reading": "Target analysis of The Ancient Port Town of Hội An & Merchant Terroir (Phố cổ Hội An, Chùa Cầu Nhật Bản, nhà cổ Tấn Ký)...",
-                    "translation": "Mastery of The Ancient Port Town of Hội An & Merchant Terroir (Phố cổ Hội An, Chùa Cầu Nhật Bản, nhà cổ Tấn Ký) exemplifies the cultural and expressive pinnacle of Vietnamese."
+                    "target": "Chùa Cầu là minh chứng sống động cho sự giao thoa văn hóa giữa Việt Nam, Nhật Bản và Trung Hoa.",
+                    "reading": "Chùa Cầu là minh chứng sống động cho sự giao thoa văn hóa giữa Việt Nam, Nhật Bản và Trung Hoa.",
+                    "translation": "The Covered Bridge is living proof of the cultural convergence among Vietnam, Japan, and China."
+                },
+                {
+                    "target": "Nhà cổ Tấn Ký với kết cấu khung gỗ kiên cố đã vượt qua nhiều trận lũ lụt lịch sử suốt hơn hai thế kỷ.",
+                    "reading": "Nhà cổ Tấn Ký với kết cấu khung gỗ kiên cố đã vượt qua nhiều trận lũ lụt lịch sử suốt hơn hai thế kỷ.",
+                    "translation": "Tan Ky Old House, with its sturdy wooden frame structure, has survived numerous historic floods over two centuries."
                 }
             ],
             "mnemonics": [
-                "The Ancient Port Town of Hội An & Merchant Terroir (Phố cổ Hội An, Chùa Cầu Nhật Bản, nhà cổ Tấn Ký)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "Hội An Faifo: Chùa Cầu Nhật Bản + Nhà cổ Tấn Ký + Phố đèn lồng vàng tường vôi bên sông Thu Bồn."
             ],
             "culturalNotes": [
-                "The Ancient Port Town of Hội An & Merchant Terroir (Phố cổ Hội An, Chùa Cầu Nhật Bản, nhà cổ Tấn Ký) is celebrated worldwide as a defining achievement of Vietnamese heritage."
+                "Chùa Cầu Hội An được in trang trọng trên mặt sau của tờ tiền polymer mệnh giá 20.000 đồng của Việt Nam."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of The Ancient Port Town of Hội An & Merchant Terroir (Phố cổ Hội An, Chùa Cầu Nhật Bản, nhà cổ Tấn Ký)?",
+                    "prompt": "Cây cầu ngói cổ bằng gỗ bắc qua con lạch nhỏ ở Hội An do các thương nhân nước nào xây dựng từ đầu thế kỷ 17?",
                     "options": [
-                        "The Ancient Port Town of Hội An & Merchant Terroir (163.1)",
-                        "Generic introductory concept (163.2)",
-                        "Irrelevant topic (163.3)",
-                        "Modern fast-food trend (163.4)"
+                        "Thương nhân Nhật Bản",
+                        "Thương nhân Hà Lan",
+                        "Thương nhân Bồ Đào Nha",
+                        "Thương nhân Pháp"
                     ],
                     "answerIndex": 0,
-                    "explanation": "The Ancient Port Town of Hội An & Merchant Terroir is the central subject."
+                    "explanation": "Chùa Cầu do các thương nhân phố Nhật xây dựng để kết nối khu phố Nhật và phố Hoa kiều."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of The Ancient Port Town of Hội An & Merchant Terroir?",
+                    "prompt": "Hình ảnh di tích kiến trúc Hội An nào được in trên tờ tiền giấy polymer 20.000 đồng của Việt Nam?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Vietnamese civilization. (163.1)",
-                        "It was imported from an unrelated continent. (163.2)",
-                        "It was invented yesterday. (163.3)",
-                        "It has no historical significance. (163.4)"
+                        "Chùa Cầu (Lai Viễn Kiều)",
+                        "Nhà cổ Phùng Hưng",
+                        "Hội quán Phúc Kiến",
+                        "Cột cờ Hà Nội"
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Vietnamese civilization."
+                    "explanation": "Hình ảnh Chùa Cầu là biểu tượng di sản quốc gia trên đồng tiền 20.000 VNĐ."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of The Ancient Port Town of Hội An & Merchant Terroir in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "Ngôi nhà cổ nổi tiếng nào tại Hội An được vinh danh là Di sản Quốc gia từ năm 1990 và từng đón tiếp nhiều nguyên thủ quốc gia?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "The Ancient Port Town of Hội An & Merchant Terroir established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education."
+                        "Nhà cổ Tấn Ký",
+                        "Nhà cổ Đức An",
+                        "Nhà cổ Quân Thắng",
+                        "Nhà thờ tộc Trần"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Accurate analysis of The Ancient Port Town of Hội An & Merchant Terroir (Phố cổ Hội An, Chùa Cầu Nhật Bản, nhà cổ Tấn Ký)."
+                    "answerIndex": 0,
+                    "explanation": "Nhà cổ Tấn Ký lưu giữ 7 thế hệ gia tộc và còn nguyên vẹn nét kiến trúc giao thoa ba nền văn hóa."
                 },
                 {
-                    "prompt": "What mastery level does completing The Ancient Port Town of Hội An & Merchant Terroir contribute to in the FEARN curriculum?",
+                    "prompt": "Dòng sông thơ mộng nào chảy qua phố cổ Hội An và là tuyến giao thương huyết mạch đưa tàu buôn quốc tế cập cảng xưa kia?",
                     "options": [
-                        "Beginner A1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Pre-intermediate B1",
-                        "Elementary A2"
+                        "Sông Thu Bồn (sông Hoài)",
+                        "Sông Hương",
+                        "Sông Hàn",
+                        "Sông Tiền"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Sông Thu Bồn là dòng sông lịch sử đưa Hội An trở thành thương cảng quốc tế Faifo rực rỡ."
                 }
             ],
             "passThreshold": 0.8
@@ -16800,78 +16840,83 @@
     },
     "vi-u33-l4": {
         "id": "vi-u33-l4",
-        "unit": "vi-u33",
-        "level": "C2",
-        "objective": "Indochine Architecture & French-Vietnamese Synthesis (Ernest Hébrard, Bảo tàng Lịch sử, Nhà hát Lớn Hà Nội): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "unit": "u33",
+        "level": "C1",
+        "objective": "Kiến trúc Đông Dương: Ernest Hébrard, Bảo tàng Lịch sử, Nhà hát Lớn Hà Nội và sự kết hợp Á - Âu.",
         "presentation": {
-            "explanation": "Indochine Architecture & French-Vietnamese Synthesis (Ernest Hébrard, Bảo tàng Lịch sử, Nhà hát Lớn Hà Nội) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Phong cách kiến trúc Đông Dương (Style Indochinois), được khởi xướng và phát triển rực rỡ bởi kiến trúc sư người Pháp Ernest Hébrard (1875–1933, Giám đốc Sở Quy hoạch Kiến trúc Đông Dương từ năm 1923), là một sáng tạo kiến trúc đỉnh cao kết hợp giữa kỹ thuật xây dựng hàn lâm cổ điển Pháp (kết cấu bê tông cốt thép, mặt bằng đối xứng) với các giải pháp thích ứng khí hậu nhiệt đới gió mùa và mỹ thuật truyền thống Việt Nam. Hébrard đã khéo léo sử dụng mái ngói dốc nhiều lớp vươn rộng che mưa nắng, cửa sổ lá sách thông gió tự nhiên, hành lang sâu chống hắt nắng và hoa văn trang trí bát giác, chữ Vạn, hoa sen Á Đông. Các công trình tiêu biểu tại Hà Nội gồm có: *Bảo tàng Lịch sử Quốc gia* (nguyên là Viện Bảo tàng Louis Finot, 1932), *Đại học Tổng hợp Hà Nội* (Đại học Đông Dương, phố Lê Thánh Tông), *Tòa thị chính* và *Nhà hát Lớn Hà Nội* (Opéra de Hanoï, 1911, phỏng theo Nhà hát Opéra Garnier Paris).",
             "examples": [
                 {
-                    "target": "Mastery of Indochine Architecture & French-Vietnamese Synthesis (Ernest Hébrard, Bảo tàng Lịch sử, Nhà hát Lớn Hà Nội) exemplifies the cultural and expressive pinnacle of Vietnamese.",
-                    "reading": "Target analysis of Indochine Architecture & French-Vietnamese Synthesis (Ernest Hébrard, Bảo tàng Lịch sử, Nhà hát Lớn Hà Nội)...",
-                    "translation": "Mastery of Indochine Architecture & French-Vietnamese Synthesis (Ernest Hébrard, Bảo tàng Lịch sử, Nhà hát Lớn Hà Nội) exemplifies the cultural and expressive pinnacle of Vietnamese."
+                    "target": "Bảo tàng Lịch sử Quốc gia là kiệt tác tiêu biểu của phong cách kiến trúc Đông Dương do Ernest Hébrard thiết kế.",
+                    "reading": "Bảo tàng Lịch sử Quốc gia là kiệt tác tiêu biểu của phong cách kiến trúc Đông Dương do Ernest Hébrard thiết kế.",
+                    "translation": "The National Museum of History is the representative masterpiece of the Indochine architectural style designed by Ernest Hébrard."
+                },
+                {
+                    "target": "Kiến trúc Đông Dương giải quyết xuất sắc bài toán thông gió tự nhiên và chống ẩm trong khí hậu nhiệt đới.",
+                    "reading": "Kiến trúc Đông Dương giải quyết xuất sắc bài toán thông gió tự nhiên và chống ẩm trong khí hậu nhiệt đới.",
+                    "translation": "Indochine architecture brilliantly solves the challenge of natural ventilation and humidity control in a tropical climate."
                 }
             ],
             "mnemonics": [
-                "Indochine Architecture & French-Vietnamese Synthesis (Ernest Hébrard, Bảo tàng Lịch sử, Nhà hát Lớn Hà Nội)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "Phong cách Đông Dương (Hébrard): Khung bê tông Pháp + mái ngói chồng diêm Á Đông + cửa sổ chớp thoáng mát thích ứng khí hậu."
             ],
             "culturalNotes": [
-                "Indochine Architecture & French-Vietnamese Synthesis (Ernest Hébrard, Bảo tàng Lịch sử, Nhà hát Lớn Hà Nội) is celebrated worldwide as a defining achievement of Vietnamese heritage."
+                "Nhà hát Lớn Hà Nội tại Quảng trường Cách mạng Tháng Tám là nơi chứng kiến cuộc mít tinh lịch sử ngày 19/8/1945 mở đầu Tổng khởi nghĩa Cách mạng Tháng Tám."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Indochine Architecture & French-Vietnamese Synthesis (Ernest Hébrard, Bảo tàng Lịch sử, Nhà hát Lớn Hà Nội)?",
+                    "prompt": "Kiến trúc sư người Pháp nào được coi là cha đẻ khai sinh phong cách kiến trúc Đông Dương thích ứng với khí hậu nhiệt đới Việt Nam?",
                     "options": [
-                        "Generic introductory concept (164.1)",
-                        "Irrelevant topic (164.2)",
-                        "Modern fast-food trend (164.3)",
-                        "Indochine Architecture & French-Vietnamese Synthesis (164.4)"
+                        "Ernest Hébrard",
+                        "Gustave Eiffel",
+                        "Paul Doumer",
+                        "Auguste Perret"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Indochine Architecture & French-Vietnamese Synthesis is the central subject."
+                    "answerIndex": 0,
+                    "explanation": "Ernest Hébrard đã kết hợp tinh tế kỹ thuật Pháp và giải pháp kiến trúc truyền thống bản địa."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of Indochine Architecture & French-Vietnamese Synthesis?",
+                    "prompt": "Nhà hát Lớn Hà Nội (hoàn thành năm 1911) được thiết kế phỏng theo công trình kiến trúc nhà hát danh tiếng nào ở Paris?",
                     "options": [
-                        "It has no historical significance. (164.1)",
-                        "It was imported from an unrelated continent. (164.2)",
-                        "It was invented yesterday. (164.3)",
-                        "It represents a defining historical and aesthetic breakthrough in Vietnamese civilization. (164.4)"
+                        "Nhà hát Opéra Garnier",
+                        "Nhà thờ Đức Bà Paris",
+                        "Cung điện Versailles",
+                        "Bảo tàng Louvre"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "It represents a defining breakthrough in Vietnamese civilization."
+                    "answerIndex": 0,
+                    "explanation": "Nhà hát Lớn Hà Nội mang phong cách Tân Cổ điển phỏng theo nhà hát Opéra Garnier trứ danh."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Indochine Architecture & French-Vietnamese Synthesis in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "Đặc điểm kỹ thuật nào giúp các tòa nhà kiến trúc Đông Dương luôn mát mẻ trong mùa hè nóng ẩm nhiệt đới?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "Indochine Architecture & French-Vietnamese Synthesis established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education.",
-                        "It was completely forgotten within a week."
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "Accurate analysis of Indochine Architecture & French-Vietnamese Synthesis (Ernest Hébrard, Bảo tàng Lịch sử, Nhà hát Lớn Hà Nội)."
-                },
-                {
-                    "prompt": "What mastery level does completing Indochine Architecture & French-Vietnamese Synthesis contribute to in the FEARN curriculum?",
-                    "options": [
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Elementary A2",
-                        "Pre-intermediate B1",
-                        "Beginner A1"
+                        "Hệ mái ngói dốc chìa rộng, tường dày, hành lang bao quanh và cửa sổ hai lớp kính - chớp",
+                        "Lắp kính kín toàn bộ không mở cửa",
+                        "Sơn tường màu đen hấp thụ nhiệt",
+                        "Xây hoàn toàn dưới lòng đất không có cửa sổ"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "explanation": "Mái hiên rộng và cửa lá sách tạo luồng đối lưu không khí tự nhiên tối ưu."
+                },
+                {
+                    "prompt": "Tòa nhà Viện Bảo tàng Louis Finot xây dựng năm 1932 bên bờ sông Hồng hiện nay là bảo tàng nào?",
+                    "options": [
+                        "Bảo tàng Lịch sử Quốc gia",
+                        "Bảo tàng Mỹ thuật Việt Nam",
+                        "Bảo tàng Dân tộc học",
+                        "Bảo tàng Phụ nữ Việt Nam"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Bảo tàng Lịch sử Quốc gia tại số 1 Tràng Tiền là đỉnh cao của phong cách Đông Dương."
                 }
             ],
             "passThreshold": 0.8
@@ -16879,78 +16924,83 @@
     },
     "vi-u33-l5": {
         "id": "vi-u33-l5",
-        "unit": "vi-u33",
-        "level": "C2",
-        "objective": "Contemporary Green Bamboo Architecture: Võ Trọng Nghĩa (Nhà tre sinh thái, gió tự nhiên và Pritzker futures): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "unit": "u33",
+        "level": "C1",
+        "objective": "Kiến trúc Xanh đương đại Việt Nam: Võ Trọng Nghĩa, nhà tre sinh thái, thông gió tự nhiên và giải thưởng quốc tế.",
         "presentation": {
-            "explanation": "Contemporary Green Bamboo Architecture: Võ Trọng Nghĩa (Nhà tre sinh thái, gió tự nhiên và Pritzker futures) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Trong thế kỷ 21, kiến trúc Việt Nam tạo dấu ấn vang dội trên bản đồ kiến trúc đương đại thế giới với trào lưu Kiến trúc Xanh và Kiến trúc Tre sinh thái, dẫn đầu bởi Kiến trúc sư Võ Trọng Nghĩa (VTN Architects, sinh năm 1976). Tốt nghiệp thủ khoa tại Viện Công nghệ Nagoya và Đại học Tokyo, Võ Trọng Nghĩa đã biến cây tre—vật liệu truyền thống của làng quê Việt Nam được mệnh danh là «thép xanh của thế kỷ 21»—thành những công trình kết cấu vòm, uốn cong và đan cài kỳ vĩ mà không dùng đinh thép (như *Nhà cộng đồng Suối Rè*, *Công trình tre Grand World Phú Quốc*, *Nhà hàng Gió và Nước* tại Bình Dương, *Nhà cho cây - House for Trees* tại TP.HCM). Với triết lý đưa cây xanh và thiên nhiên trở lại đô thị, tận dụng tối đa ánh sáng mặt trời và gió tự nhiên để giảm thiểu phát thải carbon, Võ Trọng Nghĩa đã giành hàng chục giải thưởng danh giá như Giải thưởng Kiến trúc Thế giới (WAF), Giải thưởng Hội Kiến trúc sư Hoàng gia Anh (RIBA) và Huy chương Vàng Kiến trúc Châu Á (ARCASIA).",
             "examples": [
                 {
-                    "target": "Mastery of Contemporary Green Bamboo Architecture: Võ Trọng Nghĩa (Nhà tre sinh thái, gió tự nhiên và Pritzker futures) exemplifies the cultural and expressive pinnacle of Vietnamese.",
-                    "reading": "Target analysis of Contemporary Green Bamboo Architecture: Võ Trọng Nghĩa (Nhà tre sinh thái, gió tự nhiên và Pritzker futures)...",
-                    "translation": "Mastery of Contemporary Green Bamboo Architecture: Võ Trọng Nghĩa (Nhà tre sinh thái, gió tự nhiên và Pritzker futures) exemplifies the cultural and expressive pinnacle of Vietnamese."
+                    "target": "Cây tre được KTS Võ Trọng Nghĩa tôn vinh là thép xanh thế kỷ 21 nhờ tính bền bỉ và thân thiện với môi trường.",
+                    "reading": "Cây tre được KTS Võ Trọng Nghĩa tôn vinh là thép xanh thế kỷ 21 nhờ tính bền bỉ và thân thiện với môi trường.",
+                    "translation": "Bamboo is celebrated by architect Vo Trong Nghia as the green steel of the 21st century thanks to its durability and eco-friendliness."
+                },
+                {
+                    "target": "Công trình Nhà tre Grand World Phú Quốc sử dụng hơn 42.000 thân tre tầm vông uốn cong hoàn toàn tự nhiên.",
+                    "reading": "Công trình Nhà tre Grand World Phú Quốc sử dụng hơn 42.000 thân tre tầm vông uốn cong hoàn toàn tự nhiên.",
+                    "translation": "The Grand World Phu Quoc Bamboo Structure uses over 42,000 naturally curved Tam Vong bamboo culms."
                 }
             ],
             "mnemonics": [
-                "Contemporary Green Bamboo Architecture: Võ Trọng Nghĩa (Nhà tre sinh thái, gió tự nhiên và Pritzker futures)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "Kiến trúc xanh đương đại: Tre tầm vông uốn cong kết cấu vòm + Nhà cho cây (House for Trees) đưa thiên nhiên về phố thị."
             ],
             "culturalNotes": [
-                "Contemporary Green Bamboo Architecture: Võ Trọng Nghĩa (Nhà tre sinh thái, gió tự nhiên và Pritzker futures) is celebrated worldwide as a defining achievement of Vietnamese heritage."
+                "Tre dùng trong kiến trúc hiện đại được ngâm bùn và hun khói tự nhiên suốt nhiều tháng để chống mối mọt mà không sử dụng hóa chất độc hại."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Contemporary Green Bamboo Architecture: Võ Trọng Nghĩa (Nhà tre sinh thái, gió tự nhiên và Pritzker futures)?",
+                    "prompt": "Vật liệu tự nhiên truyền thống nào của Việt Nam được KTS Võ Trọng Nghĩa mệnh danh là «thép xanh của thế kỷ 21»?",
                     "options": [
-                        "Contemporary Green Bamboo Architecture: Võ Trọng Nghĩa (165.1)",
-                        "Generic introductory concept (165.2)",
-                        "Modern fast-food trend (165.3)",
-                        "Irrelevant topic (165.4)"
+                        "Cây tre (tre tầm vông, tre gai)",
+                        "Gỗ lim rừng nguyên sinh",
+                        "Đá granite hoa cương",
+                        "Nhựa tái chế"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Contemporary Green Bamboo Architecture: Võ Trọng Nghĩa is the central subject."
+                    "explanation": "Cây tre dẻo dai, phát triển nhanh và hấp thụ carbon xuất sắc, là vật liệu xanh lý tưởng."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of Contemporary Green Bamboo Architecture: Võ Trọng Nghĩa?",
+                    "prompt": "Triết lý cốt lõi trong các công trình nhà ở đô thị của VTN Architects (như House for Trees) là gì?",
                     "options": [
-                        "It has no historical significance. (165.1)",
-                        "It was imported from an unrelated continent. (165.2)",
-                        "It was invented yesterday. (165.3)",
-                        "It represents a defining historical and aesthetic breakthrough in Vietnamese civilization. (165.4)"
+                        "Đưa cây xanh, vườn tầng và thông gió tự nhiên trở lại không gian sống để làm mát đô thị bê tông.",
+                        "Bọc kín toàn bộ ngôi nhà bằng kính phản quang cách nhiệt không có cây.",
+                        "Xây nhà hình hộp không cửa sổ để chống trộm.",
+                        "Sơn toàn bộ tường nhà bằng nhũ vàng."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "It represents a defining breakthrough in Vietnamese civilization."
+                    "answerIndex": 0,
+                    "explanation": "Kiến trúc xanh giúp kết nối con người với thiên nhiên và giảm sử dụng điện điều hòa không khí."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Contemporary Green Bamboo Architecture: Võ Trọng Nghĩa in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "Công trình nhà tre khổng lồ sử dụng 42.000 thân tre tầm vông của Võ Trọng Nghĩa tại đảo ngọc Phú Quốc có tên là gì?",
                     "options": [
-                        "Contemporary Green Bamboo Architecture: Võ Trọng Nghĩa established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It was completely forgotten within a week.",
-                        "It only applied to elementary school education.",
-                        "It was a minor commercial advertising campaign."
+                        "Nhà tre Grand World Phú Quốc",
+                        "Tháp Eiffel Phú Quốc",
+                        "Cầu Vàng Bà Nà",
+                        "Landmark 81"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Accurate analysis of Contemporary Green Bamboo Architecture: Võ Trọng Nghĩa (Nhà tre sinh thái, gió tự nhiên và Pritzker futures)."
+                    "explanation": "Công trình nhà tre biểu tượng tại Phú Quốc gây ấn tượng mạnh mẽ với du khách quốc tế."
                 },
                 {
-                    "prompt": "What mastery level does completing Contemporary Green Bamboo Architecture: Võ Trọng Nghĩa contribute to in the FEARN curriculum?",
+                    "prompt": "Phương pháp truyền thống dân gian nào được sử dụng để xử lý tre chống mối mọt bền bỉ hàng chục năm mà không dùng hóa chất?",
                     "options": [
-                        "Beginner A1",
-                        "Elementary A2",
-                        "Pre-intermediate B1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery"
+                        "Ngâm dưới bùn ao tự nhiên rồi hun khói kỹ lưỡng",
+                        "Ngâm trong dầu hỏa",
+                        "Nhúng vào axit",
+                        "Bọc màng nilon kín"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Ngâm bùn và xông khói là bí quyết dân gian giúp tre không bị sâu mọt tấn công."
                 }
             ],
             "passThreshold": 0.8

@@ -741,7 +741,7 @@
                     "id": "scrabble-u2-l3-q2",
                     "type": "multiple-choice",
                     "prompt": "What is the core benefit of a \"parallel play\" compared to simply extending a word end-to-end?",
-                    "answer": "A single set of new tiles can score multiple words at once, since each new letter crosses an existing letter to form its own short word.",
+                    "answer": "A single set of new tiles can score multiple words at once, since each new letter crosses an existing letter to form its own short word",
                     "options": [
                         "It always scores more points regardless of the words involved",
                         "A single set of new tiles can score multiple words at once, since each new letter crosses an existing letter to form its own short word",
