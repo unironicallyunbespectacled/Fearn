@@ -34,7 +34,7 @@
     ],
     "stubOnly": [],
     "lastCompletedLessonId": "b111-u3-l9",
-    "nextToAuthor": "b111-u3-l9",
+    "nextToAuthor": null,
     "updatedAt": "2026-08-31"
 };
   global.FEARN_LEDGERS = global.FEARN_LEDGERS || {};
