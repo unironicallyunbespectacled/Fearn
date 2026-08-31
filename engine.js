@@ -38,6 +38,36 @@
         console.warn('FEARN.storage.set: failed to persist "' + key + '" — localStorage unavailable or full.', e);
       }
     },
+    exportVault() {
+      const data = {};
+      try {
+        for (let i = 0; i < localStorage.length; i++) {
+          const k = localStorage.key(i);
+          if (k && k.startsWith(NS)) {
+            data[k.substring(NS.length)] = JSON.parse(localStorage.getItem(k));
+          }
+        }
+      } catch (e) {}
+      return JSON.stringify({
+        fearnVaultVersion: 1,
+        exportedAt: new Date().toISOString(),
+        data: data
+      }, null, 2);
+    },
+    importVault(jsonStr) {
+      try {
+        const parsed = typeof jsonStr === 'string' ? JSON.parse(jsonStr) : jsonStr;
+        const vaultData = (parsed && parsed.data) ? parsed.data : parsed;
+        if (!vaultData || typeof vaultData !== 'object') return false;
+        Object.keys(vaultData).forEach(k => {
+          FEARN.storage.set(k, vaultData[k]);
+        });
+        return true;
+      } catch (e) {
+        console.warn('FEARN.storage.importVault error:', e);
+        return false;
+      }
+    }
   };
 
   // ---------- date helpers ----------

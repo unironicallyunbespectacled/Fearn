@@ -165,15 +165,15 @@
 
       cardFront.innerHTML = [
         '<span style="font-size:0.75rem; text-transform:uppercase; letter-spacing:0.12em; color:#38bdf8; font-weight:800;">Target Term</span>',
-        '<div style="font-size:1.6rem; font-weight:800; color:#f8fafc; line-height:1.3; max-width:90%; word-break:break-word;">' + escapeHtml(card.target) + '</div>',
-        card.reading ? '<div style="font-size:0.9rem; color:#94a3b8; font-style:italic;">' + escapeHtml(card.reading) + '</div>' : '',
+        '<div dir="auto" style="font-size:1.6rem; font-weight:800; color:#f8fafc; line-height:1.3; max-width:90%; word-break:break-word; text-align:center;">' + escapeHtml(card.target) + '</div>',
+        card.reading ? '<div dir="auto" style="font-size:0.9rem; color:#94a3b8; font-style:italic;">' + escapeHtml(card.reading) + '</div>' : '',
         '<div style="font-size:0.75rem; color:#64748b; margin-top:10px;">(Tap card to reveal meaning & translation)</div>'
       ].join('');
 
       cardBack.innerHTML = [
         '<span style="font-size:0.75rem; text-transform:uppercase; letter-spacing:0.12em; color:#c084fc; font-weight:800;">Translation & Recall</span>',
-        '<div style="font-size:1.35rem; font-weight:800; color:#22c55e; line-height:1.3; max-width:90%; word-break:break-word;">' + escapeHtml(card.translation || card.target) + '</div>',
-        card.reading ? '<div style="font-size:0.85rem; color:#cbd5e1;">' + escapeHtml(card.reading) + '</div>' : '',
+        '<div dir="auto" style="font-size:1.35rem; font-weight:800; color:#22c55e; line-height:1.3; max-width:90%; word-break:break-word; text-align:center;">' + escapeHtml(card.translation || card.target) + '</div>',
+        card.reading ? '<div dir="auto" style="font-size:0.85rem; color:#cbd5e1;">' + escapeHtml(card.reading) + '</div>' : '',
         '<div style="font-size:0.75rem; color:#94a3b8;">Rate your recall to update FSRS / SM-2 intervals:</div>'
       ].join('');
     }
