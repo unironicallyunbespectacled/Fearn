@@ -5755,10 +5755,29 @@
       "level": "A2"
     },
     {
-      "term": "Saudade (Untranslatable Noun)",
-      "definition": "Profound emotional longing, bittersweet nostalgia, and love for an absent person, place, or memory",
-      "category": "Untranslatable & Emotion",
-      "level": "B1"
+      "term": "Saudade",
+      "definition": "Profound, bittersweet longing, nostalgic yearning, or loving remembrance of a person, place, feeling, or moment that is absent or lost forever (foundational Luso-Brazilian poetic emotion).",
+      "category": "Cultura e Emoções (Culture & Emotions)",
+      "level": "B1 / Intermediário",
+      "pronunciation": "[sawˈda.dʒi]",
+      "partOfSpeech": "Substantivo feminino (Noun)",
+      "examples": [
+        {
+          "target": "Morar no exterior me fez sentir uma saudade imensa da família e das praias do Brasil.",
+          "translation": "Living abroad made me feel an immense saudade (aching yearning) for my family and the beaches of Brazil."
+        },
+        {
+          "target": "A bossa nova transforma a dor da saudade em poesia e melodia suave.",
+          "translation": "Bossa nova transforms the pain of saudade into poetry and gentle melody."
+        }
+      ],
+      "synonyms": [
+        "Nostalgia",
+        "Anelo",
+        "Lembrança afetuosa"
+      ],
+      "register": "Geral / Poético (General / Poetic)",
+      "notes": "Considered one of the most famous untranslatable words in the Portuguese language."
     },
     {
       "term": "Jeitinho Brasileiro (The Brazilian Way)",
@@ -5945,6 +5964,81 @@
       "definition": "Notarized public power of attorney authenticated by a licensed civil registry notary (cartório)",
       "category": "Legal & Notary",
       "level": "C1"
+    },
+    {
+      "term": "Gambiarra",
+      "pronunciation": "[ɡɐ̃biˈaʁɐ]",
+      "partOfSpeech": "Substantivo feminino (Noun)",
+      "definition": "Improvised fix, clever makeshift workaround, or quick creative solution using whatever materials are on hand (quintessential Brazilian creative ingenuity).",
+      "category": "Cultura e Vida Prática (Culture & Practical Life)",
+      "level": "B1 / Intermediário",
+      "examples": [
+        {
+          "target": "Quando o chuveiro quebrou no domingo, meu tio fez uma gambiarra genial com arame.",
+          "translation": "When the shower broke on Sunday, my uncle made an ingenious gambiarra (makeshift fix) with wire."
+        },
+        {
+          "target": "A gambiarra é uma demonstração da resiliência e inventividade do povo brasileiro.",
+          "translation": "Gambiarra is a demonstration of the resilience and inventiveness of the Brazilian people."
+        }
+      ],
+      "synonyms": [
+        "Jeitinho",
+        "Improviso",
+        "Gambiara"
+      ],
+      "register": "Coloquial / Cultural (Colloquial / Cultural)"
+    },
+    {
+      "term": "Cafuné",
+      "pronunciation": "[ka.fuˈnɛ]",
+      "partOfSpeech": "Substantivo masculino (Noun)",
+      "definition": "The tender, affectionate act of running one's fingers gently through the hair of someone you love (derived from Kimbundu Bantu heritage).",
+      "category": "Afeto e Relações (Affection & Relationships)",
+      "level": "A2 / Básico",
+      "examples": [
+        {
+          "target": "A mãe fez um cafuné carinhoso no filho até ele adormecer profundamente.",
+          "translation": "The mother gave a tender cafuné (stroking of the hair) to her son until he fell fast asleep."
+        },
+        {
+          "target": "Nada é mais relaxante depois de um dia cansativo do que receber um cafuné.",
+          "translation": "Nothing is more relaxing after a tiring day than receiving a cafuné."
+        }
+      ],
+      "synonyms": [
+        "Carinho nos cabelos",
+        "Afago"
+      ],
+      "register": "Afetuoso / Geral (Affectionate / General)"
+    },
+    {
+      "term": "Acolhimento",
+      "pronunciation": "[a.ko.ʎiˈmẽ.tu]",
+      "partOfSpeech": "Substantivo masculino (Noun)",
+      "definition": "Warm, hospitable welcoming, emotional shelter, embrace, and empathic reception of guests, strangers, or vulnerable individuals.",
+      "category": "Ética e Hospitalidade (Ethics & Hospitality)",
+      "level": "B2 / Avançado",
+      "examples": [
+        {
+          "target": "O acolhimento caloroso do povo brasileiro faz qualquer visitante se sentir em casa.",
+          "translation": "The warm acolhimento (welcoming hospitality) of the Brazilian people makes any visitor feel at home."
+        },
+        {
+          "target": "A instituição oferece acolhimento integral e apoio psicológico aos refugiados.",
+          "translation": "The institution offers comprehensive welcoming support and psychological aid to refugees."
+        }
+      ],
+      "synonyms": [
+        "Hospitalidade (hospitality)",
+        "Recepção calorosa",
+        "Amparo"
+      ],
+      "antonyms": [
+        "Rejeição (rejection)",
+        "Exclusão"
+      ],
+      "register": "Formal / Geral (Formal / General)"
     }
   ],
   "english": [
