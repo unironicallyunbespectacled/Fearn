@@ -2250,9 +2250,29 @@
     },
     {
       "term": "Тоска (Toska)",
-      "definition": "Untranslatable spiritual anguish, existential longing, and melancholic yearning without specific cause",
-      "category": "Untranslatable & Emotion",
-      "level": "B2"
+      "definition": "Profound, aching melancholy, yearning, spiritual anguish, or existential nostalgia with no specific cause (Nabokov described it as a sensation of great spiritual anguish, longing with nothing to long for).",
+      "category": "Психология и Литература",
+      "level": "B2 / Продвинутый",
+      "pronunciation": "тас-КА [tɐˈska]",
+      "partOfSpeech": "Существительное женского рода (Noun)",
+      "examples": [
+        {
+          "target": "Владимир Набоков утверждал, что ни одно слово в английском языке не способно передать все оттенки русской тоски.",
+          "translation": "Vladimir Nabokov asserted that no single word in the English language is capable of rendering all nuances of Russian toska."
+        },
+        {
+          "target": "Вдали от родины его охватила неизъяснимая душевная тоска.",
+          "translation": "Far from his homeland, an inexplicable spiritual yearning seized him."
+        }
+      ],
+      "synonyms": [
+        "Меланхолия",
+        "Уныние",
+        "Грусть",
+        "Печаль"
+      ],
+      "register": "Литературный / Философский",
+      "notes": "Classic untranslatable concept in Russian literature (Pushkin, Chekhov, Dostoevsky)."
     },
     {
       "term": "Душа (Dusha)",
@@ -2262,9 +2282,27 @@
     },
     {
       "term": "Быт (Byt)",
-      "definition": "Daily material routine, domestic reality, and everyday living conditions",
-      "category": "Culture & Sociology",
-      "level": "B2"
+      "definition": "Daily material existence, domestic routine, household chores, everyday life and its inescapable practical burdens.",
+      "category": "Культура и Общество",
+      "level": "B1 / Средний",
+      "pronunciation": "БЫТ [bɨt]",
+      "partOfSpeech": "Существительное мужского рода (Noun)",
+      "examples": [
+        {
+          "target": "Поэтесса Марина Цветаева часто сетовала на то, как тяжелый быт отвлекает от творчества.",
+          "translation": "Poet Marina Tsvetaeva often lamented how heavy daily domestic routine distracts from creative work."
+        },
+        {
+          "target": "Обустройство комфортного быта требует времени и организованности.",
+          "translation": "Arranging a comfortable everyday domestic life requires time and organization."
+        }
+      ],
+      "synonyms": [
+        "Повседневность",
+        "Обиход",
+        "Житейский уклад"
+      ],
+      "register": "Общий / Культурологический"
     },
     {
       "term": "Баня (Banya)",
@@ -2427,6 +2465,111 @@
       "definition": "Unified national digital government portal managing civic, tax, real estate, and municipal services",
       "category": "Civic Tech & Admin",
       "level": "B1"
+    },
+    {
+      "term": "Пошлость (Poshlost)",
+      "pronunciation": "ПОШ-лость [ˈpoʂləsʲtʲ]",
+      "partOfSpeech": "Существительное женского рода (Noun)",
+      "definition": "Vulgarity, self-satisfied mediocrity, intellectual or aesthetic banality masked as profound or exquisite; kitsch with pretensions of sophistication.",
+      "category": "Эстетика и Литература",
+      "level": "C1 / Продвинутый",
+      "examples": [
+        {
+          "target": "Николай Гоголь и Владимир Набоков беспощадно разоблачали пошлость мещанского быта.",
+          "translation": "Nikolai Gogol and Vladimir Nabokov mercilessly unmasked the vulgar banality of bourgeois life."
+        },
+        {
+          "target": "Глянцевая реклама часто граничит с откровенной пошлостью и дурным вкусом.",
+          "translation": "Glossy advertising often borders on overt banality and bad taste."
+        }
+      ],
+      "synonyms": [
+        "Вульгарность",
+        "Банальность",
+        "Мещанство",
+        "Кич"
+      ],
+      "antonyms": [
+        "Благородство (nobility)",
+        "Утонченность (refinement)"
+      ],
+      "register": "Литературный / Критический"
+    },
+    {
+      "term": "Соборность (Sobornost)",
+      "pronunciation": "са-БОР-насть [sɐˈbornəsʲtʲ]",
+      "partOfSpeech": "Существительное женского рода (Noun)",
+      "definition": "Spiritual community, organic solidarity, collective communion of individuals freely united in love, truth, and faith (Slavophile philosophy).",
+      "category": "Философия и Культура",
+      "level": "C1 / Продвинутый",
+      "examples": [
+        {
+          "target": "Философ Алексей Хомяков выдвинул понятие соборности как основу русской духовной традиции.",
+          "translation": "Philosopher Aleksey Khomyakov posited the concept of sobornost as the foundation of the Russian spiritual tradition."
+        },
+        {
+          "target": "Соборность противопоставляется как западному индивидуализму, так и принудительному коллективизму.",
+          "translation": "Sobornost is contrasted both with Western individualism and with coercive collectivism."
+        }
+      ],
+      "synonyms": [
+        "Единство",
+        "Духовная общность",
+        "Братство"
+      ],
+      "register": "Философский / Религиозный"
+    },
+    {
+      "term": "Сопереживание (Soperezhivaniye)",
+      "pronunciation": "са-пе-ре-жы-ВА-ни-е [səpʲɪrʲɪʐɨˈvanʲɪje]",
+      "partOfSpeech": "Существительное среднего рода (Noun)",
+      "definition": "Active, empathetic co-experiencing of another person's suffering or emotional state; walking alongside someone in their inner trials.",
+      "category": "Психология и Этика",
+      "level": "B2 / Продвинутый",
+      "examples": [
+        {
+          "target": "Истинное сопереживание побуждает человека протянуть руку помощи нуждающемуся.",
+          "translation": "True empathetic co-feeling impels a person to extend a helping hand to those in need."
+        },
+        {
+          "target": "Великая русская литература воспитывает в читателе способность к глубокому сопереживанию.",
+          "translation": "Great Russian literature nurtures in the reader the capacity for deep empathetic co-feeling."
+        }
+      ],
+      "synonyms": [
+        "Эмпатия",
+        "Сочувствие",
+        "Сострадание"
+      ],
+      "antonyms": [
+        "Равнодушие (indifference)",
+        "Черствость"
+      ],
+      "register": "Общий / Формальный"
+    },
+    {
+      "term": "Вдохновение (Vdokhnoveniye)",
+      "pronunciation": "вдах-на-ВЕ-ни-е [vdəxnɐˈvʲenʲɪje]",
+      "partOfSpeech": "Существительное среднего рода (Noun)",
+      "definition": "Inspiration, creative enthusiasm, divine surge of artistic or intellectual illumination.",
+      "category": "Творчество и Искусство",
+      "level": "B1 / Средний",
+      "examples": [
+        {
+          "target": "Композитор черпал вдохновение в величественной природе русского севера.",
+          "translation": "The composer drew inspiration from the majestic nature of the Russian north."
+        },
+        {
+          "target": "Вдохновение приходит во время упорного ежедневного труда.",
+          "translation": "Inspiration arrives during the course of persistent daily labor."
+        }
+      ],
+      "synonyms": [
+        "Озарение",
+        "Творческий подъем",
+        "Муза"
+      ],
+      "register": "Общий / Поэтический"
     }
   ],
   "vietnamese": [
