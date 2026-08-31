@@ -450,57 +450,31 @@
         "id": "es-u1-l1",
         "unit": "es-u1",
         "level": "A1",
-        "objective": "Greet people appropriately at different times of day and use basic courtesy expressions in a first conversation.",
+        "objective": "Spanish Phonics (Single 'r' vs Trilled 'rr', 'ñ', Silent 'h') & Courtesy Greetings: Master essential daily greetings (Hola, Buenos días) and polite conversation openers.",
         "prerequisites": [],
         "warmup": {
             "srsPull": true,
             "reviewFocus": []
         },
         "presentation": {
-            "explanation": "Spanish greetings split fairly cleanly by time of day, similar to English but slightly more rigid: buenos días covers the morning (used until roughly noon or lunchtime), buenas tardes takes over into the afternoon and early evening, and buenas noches works for both 'good evening' and 'good night' — context tells you which. Hola ('hello') is the one truly time-independent greeting and can open almost any interaction, formal or casual. Asking how someone is doing uses ¿Cómo estás? (informal, tú) or ¿Cómo está usted? (formal, usted) — note the verb estar here, used for states/conditions rather than ser, which we'll contrast in the next lesson. Typical answers are bien (well), más o menos (so-so), or mal (badly), often followed by ¿y tú? / ¿y usted? to return the question. Closing a conversation has options with different weights: adiós is a full goodbye, hasta luego ('see you later') and hasta pronto ('see you soon') both imply you'll meet again, and chao (borrowed from Italian ciao) is casual and common throughout Latin America.",
+            "explanation": "Welcome to Spanish (Español)! Spanish has one of the most phonetic spelling systems in the world, with five pure vowels (a, e, i, o, u) and clear consonant rules: (1) **Single 'r' vs Trilled 'rr'**: A single 'r' between vowels is a quick alveolar tap [ɾ] (*pero* = but), whereas double 'rr' or an initial 'r' is a forceful multi-tap trill [r] (*perro* = dog); (2) **The letter 'ñ'**: Represents the voiced palatal nasal [ɲ] (like 'ny' in canyon, e.g. *año* = year, *español*); (3) **Silent 'h'**: The letter 'h' is always completely silent in Spanish (*hola* is pronounced /o-la/, *hacer* /a-ser/); (4) **Letters 'c' and 'g'**: 'c' is soft (s/th) before e/i and hard (k) before a/o/u; 'g' is soft (h/kh) before e/i and hard (g) before a/o/u. Essential greetings include «¡Hola!» (*Hello*), «Buenos días» (*Good morning*), «Buenas tardes» (*Good afternoon*), and «¿Cómo estás?» (*How are you?*). Note Spanish inverted punctuation marks (¡ ! and ¿ ?) opening all exclamatory and interrogative sentences.",
             "examples": [
                 {
-                    "target": "Buenos días.",
-                    "reading": "",
-                    "translation": "Good morning."
+                    "target": "¡Hola! Buenos días, ¿cómo está usted? — Muy bien, gracias.",
+                    "reading": "O-la! BWE-nos DEE-as, KO-mo es-TA oos-TED? — Mwee byehn, GRA-syas.",
+                    "translation": "Hello! Good morning, how are you (formal)? — Very well, thank you."
                 },
                 {
-                    "target": "Buenas tardes.",
-                    "reading": "",
-                    "translation": "Good afternoon."
-                },
-                {
-                    "target": "Buenas noches.",
-                    "reading": "",
-                    "translation": "Good evening / good night."
-                },
-                {
-                    "target": "¿Cómo estás?",
-                    "reading": "",
-                    "translation": "How are you? (informal)"
-                },
-                {
-                    "target": "Estoy bien, gracias. ¿Y tú?",
-                    "reading": "",
-                    "translation": "I'm well, thanks. And you?"
-                },
-                {
-                    "target": "Hasta luego.",
-                    "reading": "",
-                    "translation": "See you later."
-                },
-                {
-                    "target": "Mucho gusto.",
-                    "reading": "",
-                    "translation": "Nice to meet you."
+                    "target": "Mucho gusto en conocerte. ¡Hasta luego!",
+                    "reading": "MOO-cho GOOS-to en ko-no-SER-te. AS-ta LWE-go!",
+                    "translation": "Pleasure to meet you (informal). See you later!"
                 }
             ],
             "mnemonics": [
-                "Buenas noches does double duty for 'good evening' and 'good night' — think of noche as covering the whole dark half of the day.",
-                "Hasta luego and hasta pronto both start with hasta ('until') — you're saying 'until [later/soon]', implying you'll meet again."
+                "Silent 'h' (¡Hola! = /o-la/), tap 'r' vs trill 'rr' (pero vs perro), ñ = ny. Spanish always begins exclamations with ¡ and questions with ¿."
             ],
             "culturalNotes": [
-                "In many Spanish-speaking countries, greetings are often accompanied by a light cheek kiss (one or two, depending on the country) between people who know each other, even briefly — a firm handshake is the norm in more formal or first-meeting business contexts."
+                "In Spanish-speaking cultures, greeting with a handshake or a light cheek kiss (un beso) is standard social etiquette upon meeting friends and acquaintances."
             ]
         },
         "guidedPractice": {

@@ -12,7 +12,8 @@
             "b110-u1-l2",
             "b110-u1-l3",
             "b110-u1-l4",
-            "b110-u1-l5"
+            "b110-u1-l5",
+            "b110-u1-l6"
         ]
     },
     {
@@ -69,6 +70,474 @@
     }
 ];
   var LESSONS = {
+    "b110-u1-l1": {
+        "id": "b110-u1-l1",
+        "unit": "b110-u1",
+        "level": "Unit 1",
+        "objective": "Foundations of Market Data & Consumer Analytics: Variables, Observations, Mean, Variance, Covariance & Normalization.",
+        "presentation": {
+            "explanation": "Quantitative market research and consumer behavior analysis begin with structured observational data. A market dataset is represented as a matrix of $N$ consumer respondents (rows) rating $P$ brand attributes (columns) on discrete scales (such as 1-to-7 Likert scales for reliability, speed, prestige, or price-value). Before applying advanced dimensionality reduction or clustering models, analysts must establish descriptive statistical baselines: the sample mean ($\\mu_j = \\frac{1}{N}\\sum_{i=1}^N x_{ij}$) to identify central brand perceptions, the sample variance ($s_j^2 = \\frac{1}{N-1}\\sum_{i=1}^N (x_{ij} - \\mu_j)^2$) and standard deviation to gauge perceptual consensus versus polarization, and pairwise covariance ($\\text{Cov}(X_j, X_k)$) / Pearson correlation ($r_{jk} = \\frac{\\text{Cov}(X_j, X_k)}{s_j s_k}$) to detect collinear brand associations. When attributes are measured on disparate scales (e.g. price in dollars vs rating out of 10), data must be normalized via Z-score standardization ($z_{ij} = \\frac{x_{ij} - \\mu_j}{s_j}$), centering each variable at zero mean and unit variance ($s^2=1$) to prevent high-magnitude variables from distorting Euclidean distances and subsequent principal component calculations.",
+            "examples": [
+                {
+                    "target": "Z-score standardization transforms raw attribute scores into zero-mean, unit-variance coordinates: $z = \\frac{x - \\mu}{\\sigma}$.",
+                    "reading": "Z-score standardization transforms raw attribute scores into zero-mean, unit-variance coordinates: z = (x - mean) / std.",
+                    "translation": "Z-score standardization transforms raw attribute scores into zero-mean, unit-variance coordinates: z = (x - mean) / std."
+                },
+                {
+                    "target": "A high positive covariance between «luxury» and «craftsmanship» indicates consumers who rate a brand high on luxury also perceive high craftsmanship.",
+                    "reading": "High positive covariance indicates joint positive association between two brand attributes.",
+                    "translation": "High positive covariance indicates joint positive association between two brand attributes."
+                }
+            ],
+            "mnemonics": [
+                "Market Data Pipeline: Survey matrix -> Mean (centrality) + Variance (spread) -> Z-score standardize before multi-attribute modeling."
+            ],
+            "culturalNotes": [
+                "The 5-point and 7-point Likert scales, invented by social psychologist Rensis Likert in 1932, remain the foundational measurement instrument in modern consumer econometrics and market research."
+            ]
+        },
+        "guidedPractice": {
+            "items": [
+                {
+                    "prompt": "Why is Z-score standardization essential before computing distances or running Principal Component Analysis on multi-attribute brand survey data?",
+                    "options": [
+                        "It eliminates variables with different measurement units or large numeric scales from dominating the distance calculations and variance extraction.",
+                        "It guarantees all survey respondents give identical 5-star ratings.",
+                        "It randomly deletes half the survey respondents to speed up processing.",
+                        "It converts all qualitative text responses into Latin nouns."
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Standardization prevents attributes with large variances or scales (like annual income) from overwhelming attributes measured on small scales (like 1-to-5 ratings)."
+                }
+            ]
+        },
+        "independentPractice": {
+            "items": [
+                {
+                    "prompt": "If a brand survey shows a sample variance of zero for the attribute «Safety», what does this indicate about consumer perception?",
+                    "options": [
+                        "Every respondent gave the exact same score for safety (zero variance / absolute unanimity).",
+                        "Consumers consider the brand extremely dangerous.",
+                        "The survey data was corrupted and must be thrown out.",
+                        "The brand has no safety features."
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "A variance of zero means all data points equal the mean, indicating complete consensus among respondents."
+                }
+            ]
+        },
+        "checkpointTest": {
+            "items": [
+                {
+                    "prompt": "What statistic measures the linear association and direction of relationship between two brand attributes on a normalized scale from -1.0 to +1.0?",
+                    "options": [
+                        "Pearson correlation coefficient (r)",
+                        "Eigenvalue magnitude",
+                        "Likert sum index",
+                        "Chi-square degree"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "The Pearson correlation coefficient normalizes covariance by the product of standard deviations, bounding the value between -1 and +1."
+                },
+                {
+                    "prompt": "In an $N \\times P$ customer survey matrix where $N=500$ consumers rate $P=8$ attributes, what does each row represent?",
+                    "options": [
+                        "The complete multi-attribute response vector of an individual consumer respondent.",
+                        "The average profit margin of the firm.",
+                        "The global market share of competitor brands.",
+                        "A single advertising channel budget."
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "In a standard respondent-by-attribute matrix, rows represent individual observation units (respondents)."
+                }
+            ],
+            "passThreshold": 0.8
+        }
+    },
+    "b110-u1-l2": {
+        "id": "b110-u1-l2",
+        "unit": "b110-u1",
+        "level": "Elite",
+        "objective": "Apply Principal Component Analysis (PCA) to survey data to construct strategic 2D brand perceptual maps.",
+        "presentation": {
+            "explanation": "In B110, we master quantitative product positioning:\n\n1. The Perceptual Mapping Problem:\n   Consumers evaluate products across dozens of attributes (price, luxury, reliability, speed, eco-friendliness). PCA projects high-dimensional correlation matrices onto the top 2 orthogonal principal components ($PC_1, PC_2$) that capture maximum variance:\n   $$\\mathbf{X}^T \\mathbf{X} \\mathbf{v}_i = \\lambda_i \\mathbf{v}_i$$\n\n2. Strategic White-Space Identification:\n   - Brands close together in PCA vector space are perceived as direct substitutes.\n   - Unoccupied quadrants represent market \"white space\" opportunities for differentiation.",
+            "examples": [
+                {
+                    "target": "PCA of Automotive Market: PC1 (Affordability vs Luxury, 58% variance), PC2 (Sportiness vs Utility, 24% variance).",
+                    "reading": "Perceptual Positioning",
+                    "translation": "2D positioning matrix mapping Porsche vs Toyota vs Volvo."
+                }
+            ],
+            "mnemonics": [
+                "PCA: Maximize variance along orthogonal eigenvectors!"
+            ],
+            "culturalNotes": [
+                "Developed at Stanford GSB and McKinsey & Co. for C-suite market entry strategies."
+            ]
+        },
+        "guidedPractice": {
+            "items": [
+                {
+                    "prompt": "In a perceptual map generated via PCA, what does a large distance between two brands signify?",
+                    "options": [
+                        "Consumers perceive the two brands as strongly differentiated with distinct value propositions",
+                        "No statistical meaning",
+                        "They have the same price",
+                        "They are owned by the same parent company"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Distance in PCA factor space reflects perceived psychological difference."
+                }
+            ]
+        },
+        "independentPractice": {
+            "items": [
+                {
+                    "prompt": "What is the mathematical purpose of PCA in consumer research?",
+                    "options": [
+                        "To predict stock prices",
+                        "To calculate tax returns",
+                        "Reduce high-dimensional survey attributes into uncorrelated principal components maximizing variance",
+                        "To replace user interviews completely"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "PCA reduces dimensionality while retaining maximum variance."
+                }
+            ]
+        },
+        "checkpointTest": {
+            "items": [
+                {
+                    "prompt": "How does strategic marketing utilize perceptual map \"white space\"?",
+                    "options": [
+                        "To reduce advertising budget to zero",
+                        "To close factories",
+                        "To copy the market leader exactly",
+                        "To identify unserved consumer attribute clusters and launch targeted product offerings with minimal direct collision"
+                    ],
+                    "answerIndex": 3,
+                    "explanation": "White spaces identify unserved attribute combinations in consumer demand."
+                }
+            ],
+            "passThreshold": 0.8
+        }
+    },
+    "b110-u1-l3": {
+        "id": "b110-u1-l3",
+        "unit": "b110-u1",
+        "level": "Unit 1",
+        "objective": "Execute Eigenvalue Decomposition, SVD, and Dimensionality Reduction on Brand Attribute Matrices.",
+        "presentation": {
+            "explanation": "1. **Singular Value Decomposition (SVD) of Brand Data**:\nLet $X$ be an $N \\times P$ standardized data matrix ($N$ respondents/brands, $P$ perception attributes with mean 0 and variance 1):\n$$X = U \\Sigma V^T$$\n- $U$: $N \\times N$ orthogonal matrix of respondent/brand coordinate scores\n- $\\Sigma$: $N \\times P$ diagonal matrix of singular values $\\sigma_1 \\ge \\sigma_2 \\ge \\dots \\ge \\sigma_P \\ge 0$\n- $V$: $P \\times P$ orthogonal matrix of attribute loadings (Principal Directions)\n\n2. **Eigenvalue Decomposition of Sample Covariance Matrix $S$**:\n$$S = \\frac{1}{N-1} X^T X = V \\Lambda V^T$$\n- $\\Lambda = \\text{diag}(\\lambda_1, \\lambda_2, \\dots, \\lambda_P)$ where $\\lambda_j = \\frac{\\sigma_j^2}{N-1}$ is the variance explained by the $j$-th principal component.\n\n3. **Scree Plot & Kaiser Criterion**:\n- **Kaiser Criterion**: Retain all principal components with eigenvalue $\\lambda_j \\ge 1.0$ (explaining more variance than an individual standardized attribute).\n- **Cumulative Variance Explained**: Retain top $K$ components such that $\\frac{\\sum_{j=1}^K \\lambda_j}{\\sum_{m=1}^P \\lambda_m} \\ge 70\\% - 80\\%$.",
+            "examples": [
+                {
+                    "target": "If the first two eigenvalues are lambda_1 = 3.8 and lambda_2 = 2.2 out of total variance 8.0, 2D PCA captures (3.8 + 2.2) / 8.0 = 75.0% of all market perception.",
+                    "reading": "PCA Variance Explained Calculation",
+                    "translation": "If the first two eigenvalues are lambda_1 = 3.8 and lambda_2 = 2.2 out of total variance 8.0, 2D PCA captures (3.8 + 2.2) / 8.0 = 75.0% of all market perception."
+                }
+            ],
+            "mnemonics": [
+                "PCA in Marketing: X = U Sigma V^T! Covariance S = V Lambda V^T! Kaiser rule: Keep eigenvalues >= 1.0! 2D Biplot maps brands and attribute vectors!"
+            ],
+            "culturalNotes": [
+                "Karl Pearson invented Principal Component Analysis in 1901; Harold Hotelling expanded it into random variable statistics in 1933."
+            ]
+        },
+        "guidedPractice": {
+            "items": [
+                {
+                    "prompt": "Under the Kaiser criterion, which principal components should be retained for perceptual mapping?",
+                    "options": [
+                        "Only the single largest component",
+                        "Components with negative eigenvalues",
+                        "All components regardless of size",
+                        "Components with eigenvalues lambda_j >= 1.0"
+                    ],
+                    "answerIndex": 3,
+                    "explanation": "Components with eigenvalues lambda_j >= 1.0."
+                }
+            ]
+        },
+        "independentPractice": {
+            "items": [
+                {
+                    "prompt": "What geometric interpretation is given to the columns of matrix V in PCA perceptual mapping?",
+                    "options": [
+                        "They represent raw dollar prices.",
+                        "They represent factory coordinates.",
+                        "They are random noise.",
+                        "They represent the direction vectors (loadings) of the original perceptual attributes in reduced space."
+                    ],
+                    "answerIndex": 3,
+                    "explanation": "They represent the direction vectors (loadings) of the original perceptual attributes."
+                }
+            ]
+        },
+        "checkpointTest": {
+            "items": [
+                {
+                    "prompt": "If an 8-attribute brand perception survey yields eigenvalues [3.5, 2.1, 0.9, 0.6, 0.4, 0.2, 0.2, 0.1], how many components satisfy the Kaiser criterion?",
+                    "options": [
+                        "4 components",
+                        "2 components (3.5 and 2.1 are >= 1.0)",
+                        "1 component",
+                        "8 components"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "2 components."
+                },
+                {
+                    "prompt": "What is the sum of all eigenvalues in a PCA decomposition of a standardized correlation matrix with P attributes?",
+                    "options": [
+                        "P (the total number of attributes, since each standardized variable has variance 1.0)",
+                        "100.0",
+                        "0.0",
+                        "1.0"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "P (the total number of attributes)."
+                }
+            ],
+            "passThreshold": 0.8
+        }
+    },
+    "b110-u1-l4": {
+        "id": "b110-u1-l4",
+        "unit": "b110-u1",
+        "level": "Unit 1",
+        "objective": "Interpret Attribute Vector Angles, Cosine Similarities, and Brand Clustering on 2D Biplots.",
+        "presentation": {
+            "explanation": "In a 2D PCA Perceptual Map (Biplot):\n\n1. **Attribute Vector Angles & Correlation ($r_{jk}$)**:\nThe cosine of the angle $\\theta$ between two attribute loading vectors $\\mathbf{v}_j$ and $\\mathbf{v}_k$ directly approximates their correlation coefficient in the raw customer survey data:\n$$\\cos(\\theta_{jk}) \\approx r_{jk}$$\n- $\\theta \\approx 0^\\circ (\\cos = +1.0)$: Highly positive correlation (e.g., \"Luxury\" and \"High Price\").\n- $\\theta \\approx 90^\\circ (\\cos = 0.0)$: Uncorrelated, orthogonal attributes (e.g., \"Sporty Handling\" and \"Spacious Trunk\").\n- $\\theta \\approx 180^\\circ (\\cos = -1.0)$: Strong inverse correlation (e.g., \"Budget Economy\" and \"Prestigious Status\").\n\n2. **Vector Length (Salience)**:\nThe length of an attribute vector from the origin reflects how well that attribute is explained by the 2D map ($R^2$ in reduced dimensional space). Long vectors represent dominant market differentiators.\n\n3. **Brand Projections**:\nDropping a perpendicular line from Brand $B$ onto Attribute Vector $\\mathbf{v}_j$ shows where that brand ranks on that attribute relative to competitors.",
+            "examples": [
+                {
+                    "target": "If the angle between \"Innovative\" and \"Reliable\" vectors is 30 degrees (cos 30 = 0.866), consumers perceive brands with high innovation as strongly reliable.",
+                    "reading": "Perceptual Map Cosine Correlation",
+                    "translation": "If the angle between \"Innovative\" and \"Reliable\" vectors is 30 degrees (cos 30 = 0.866), consumers perceive brands with high innovation as strongly reliable."
+                }
+            ],
+            "mnemonics": [
+                "Biplot Vector Angles: cos(0 deg) = +1 (Strong Positive correlation); cos(90 deg) = 0 (Uncorrelated); cos(180 deg) = -1 (Strong Negative correlation)! Vector length = Attribute salience!"
+            ],
+            "culturalNotes": [
+                "Perceptual biplots are used by McKinsey, BCG, and brand consultancies to identify uncontested \"White Space\" opportunities in consumer markets."
+            ]
+        },
+        "guidedPractice": {
+            "items": [
+                {
+                    "prompt": "If two attribute vectors on a perceptual biplot form a 90-degree right angle (cos = 0), what does this indicate about consumer perception?",
+                    "options": [
+                        "The two attributes are completely uncorrelated and perceived independently.",
+                        "The attributes are identical.",
+                        "The attributes are opposites.",
+                        "The data is corrupted."
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "The two attributes are completely uncorrelated."
+                }
+            ]
+        },
+        "independentPractice": {
+            "items": [
+                {
+                    "prompt": "How do you determine a brand's perceived score on a specific attribute in a 2D perceptual map?",
+                    "options": [
+                        "By counting the number of letters in the brand name",
+                        "By projecting a perpendicular line from the brand's point onto the attribute vector line",
+                        "By checking stock price",
+                        "By measuring the distance to the origin only"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "By projecting a perpendicular line from the brand's point onto the attribute vector line."
+                }
+            ]
+        },
+        "checkpointTest": {
+            "items": [
+                {
+                    "prompt": "What does an attribute vector with a very short length near the center of a PCA biplot indicate?",
+                    "options": [
+                        "The attribute is the most important market driver.",
+                        "The attribute is priced at zero dollars.",
+                        "The attribute has low variance or is poorly represented by the two retained principal components.",
+                        "The attribute has 100% market share."
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The attribute has low variance or is poorly represented by the two components."
+                },
+                {
+                    "prompt": "If \"Fuel Efficiency\" and \"Horsepower\" vectors point in nearly opposite directions (angle ~ 180 degrees), what is their relationship?",
+                    "options": [
+                        "They are perceived as mutually reinforcing positive traits.",
+                        "They are perceived as strong trade-offs with an inverse negative correlation (r ~ -1.0).",
+                        "They are identical features.",
+                        "They have zero relation."
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "They are perceived as strong trade-offs with an inverse negative correlation."
+                }
+            ],
+            "passThreshold": 0.8
+        }
+    },
+    "b110-u1-l5": {
+        "id": "b110-u1-l5",
+        "unit": "b110-u1",
+        "level": "Unit 1",
+        "objective": "Implement Preference Mapping (PREFMAP) and Ideal Point vs Vector Preference Formulations.",
+        "presentation": {
+            "explanation": "Preference Mapping (**PREFMAP** - Carroll, 1972) overlays consumer preference vectors and target customer segment **Ideal Points** onto an existing perceptual product space.\n\n1. **The Vector Preference Model (More is Always Better)**:\nConsumer utility increases monotonically along a linear direction $\\mathbf{w}_i$:\n$$U_{ik} = \\sum_{d=1}^D w_{id} Y_{kd}$$\n- $Y_{kd}$: Coordinate of Brand $k$ on Dimension $d$\n- $\\mathbf{w}_i$: Preference weight vector of segment $i$\n\n2. **The Ideal Point Model (Unfolding Model)**:\nConsumers have a specific bliss point $\\mathbf{I}_i = (I_{i1}, I_{i2})$ in perceptual space. Utility decreases quadratically with Euclidean distance from the Ideal Point:\n$$U_{ik} = - \\sum_{d=1}^D v_{id} (Y_{kd} - I_{id})^2$$\n- $v_{id}$: Salience weight of dimension $d$\n- If a brand is too sweet, too spicy, or too expensive relative to the Ideal Point, preference falls!\n\n3. **Market Segmentation via Ideal Point Clusters**:\nIdentifying uncrowded clusters of consumer Ideal Points reveals untapped market niches with high unmet demand and low competitive rivalry.",
+            "examples": [
+                {
+                    "target": "A coffee consumer has Ideal Point (Spiciness=2, Sweetness=8). A brand at (2, 8) achieves maximum utility, while a brand at (2, 2) suffers heavy utility loss.",
+                    "reading": "Ideal Point Distance Formulation",
+                    "translation": "A coffee consumer has Ideal Point (Spiciness=2, Sweetness=8). A brand at (2, 8) achieves maximum utility, while a brand at (2, 2) suffers heavy utility loss."
+                }
+            ],
+            "mnemonics": [
+                "PREFMAP: Vector Model (More is better: linear w * Y) vs Ideal Point Model (Bliss point: Utility drops with squared distance -(Y - I)^2)! Identifies White Space clusters!"
+            ],
+            "culturalNotes": [
+                "J. Douglas Carroll introduced the PREFMAP multidimensional unfolding framework at Bell Laboratories in 1972."
+            ]
+        },
+        "guidedPractice": {
+            "items": [
+                {
+                    "prompt": "Under the Ideal Point preference model, what happens to consumer utility as a product moves further away from the consumer's ideal point in perceptual space?",
+                    "options": [
+                        "Utility decreases quadratically with distance",
+                        "Utility remains constant",
+                        "Utility becomes undefined",
+                        "Utility increases linearly"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Utility decreases quadratically with distance."
+                }
+            ]
+        },
+        "independentPractice": {
+            "items": [
+                {
+                    "prompt": "For which type of product attribute is the Ideal Point model more appropriate than the Vector (linear) model?",
+                    "options": [
+                        "Attributes with an optimal middle level (e.g., sweetness in beverages, firmness in mattresses)",
+                        "Warranty duration",
+                        "Attributes where higher is always better (e.g., airline safety rating)",
+                        "Pure monetary cash rewards"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Attributes with an optimal middle level."
+                }
+            ]
+        },
+        "checkpointTest": {
+            "items": [
+                {
+                    "prompt": "In PREFMAP analysis, what does a dense cluster of consumer ideal points with no nearby competing brands represent?",
+                    "options": [
+                        "A monopoly protected by patents.",
+                        "An unprofitable market that should be abandoned.",
+                        "A statistical error in SVD calculation.",
+                        "An attractive \"White Space\" market opportunity for a new product launch or brand repositioning."
+                    ],
+                    "answerIndex": 3,
+                    "explanation": "An attractive \"White Space\" market opportunity."
+                },
+                {
+                    "prompt": "What is the mathematical form of the distance decay in Carroll's weighted Euclidean ideal point model?",
+                    "options": [
+                        "Utility = exp(Brand_d / Ideal_d)",
+                        "Utility = sum(Brand_d * Ideal_d)",
+                        "Utility = - sum(v_d * (Brand_d - Ideal_d)^2)",
+                        "Utility = Brand_d - Ideal_d"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Utility = - sum(v_d * (Brand_d - Ideal_d)^2)."
+                }
+            ],
+            "passThreshold": 0.8
+        }
+    },
+    "b110-u1-l6": {
+        "id": "b110-u1-l6",
+        "unit": "b110-u1",
+        "level": "Unit 1",
+        "objective": "C2 Synthesis on Strategic Brand Repositioning, Defensible Moats, and Perceptual Distance Optimization.",
+        "presentation": {
+            "explanation": "Strategic Brand Repositioning utilizes perceptual mapping to execute profit-maximizing market maneuvers while defending against competitive encroachment.\n\n1. **Optimization of Repositioning Trajectory**:\nLet $\\mathbf{X}_0$ be a brand's current coordinate vector and $\\mathbf{X}^*$ be the target coordinate vector. The firm chooses $\\mathbf{X}^*$ to maximize Expected Market Share subject to R&D / Advertising Cost $C(\\mathbf{X}^*, \\mathbf{X}_0)$:\n$$\\max_{\\mathbf{X}^*} \\left[ \\sum_{s=1}^S N_s \\cdot P_s(\\mathbf{X}^*, \\mathbf{Comp}) \\cdot (P - MC) \\right] - C(\\mathbf{X}^*, \\mathbf{X}_0)$$\n- $C(\\mathbf{X}^*, \\mathbf{X}_0) = k \\| \\mathbf{X}^* - \\mathbf{X}_0 \\|^2$: Repositioning cost increases quadratically with perceptual distance.\n\n2. **Defensible Competitive Moats**:\n- **Perceptual Preemption**: Launching flanking fighting brands to occupy adjacent ideal point clusters before competitors enter.\n- **Asymmetric Vulnerability**: Dominant premium brands can often reposition downward into budget segments easily, whereas budget brands face severe perceptual friction when trying to move upward into luxury prestige segments.",
+            "examples": [
+                {
+                    "target": "Toyota created the Lexus brand in 1989 to occupy the high-prestige/luxury perceptual quadrant, avoiding the prohibitive cost of repositioning the economy Toyota badge.",
+                    "reading": "Strategic Repositioning Case Study",
+                    "translation": "Toyota created the Lexus brand in 1989 to occupy the high-prestige/luxury perceptual quadrant, avoiding the prohibitive cost of repositioning the economy Toyota badge."
+                }
+            ],
+            "mnemonics": [
+                "Brand Repositioning: Maximize Segment Share * Margin - Quadratic Repositioning Cost! Fighting brands for perceptual preemption! Lexus strategy overcomes upward brand friction!"
+            ],
+            "culturalNotes": [
+                "Harvard Business School Professor Michael Porter formalized the connection between spatial positioning, cost leadership, and competitive differentiation in 1980."
+            ]
+        },
+        "guidedPractice": {
+            "items": [
+                {
+                    "prompt": "Why did Toyota launch Lexus as a distinct brand in 1989 instead of trying to sell luxury sedans under the Toyota nameplate?",
+                    "options": [
+                        "Because Toyota went bankrupt.",
+                        "To avoid Japanese export taxes.",
+                        "Because the cars used different fuel.",
+                        "To overcome the severe perceptual friction and brand dilution of trying to reposition an economy badge upward into luxury prestige."
+                    ],
+                    "answerIndex": 3,
+                    "explanation": "To overcome severe perceptual friction and brand dilution."
+                }
+            ]
+        },
+        "independentPractice": {
+            "items": [
+                {
+                    "prompt": "What defensive market strategy involves launching a second flanking brand to occupy white space near an existing flagship product?",
+                    "options": [
+                        "Perceptual preemption / Fighting brand strategy",
+                        "Price fixing",
+                        "Hostile takeover",
+                        "Vertical integration"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Perceptual preemption / Fighting brand strategy."
+                }
+            ]
+        },
+        "checkpointTest": {
+            "items": [
+                {
+                    "prompt": "Translate and evaluate: \"Repositioning an established brand across perceptual space incurs quadratic costs in R&D and marketing communications, requiring quantitative optimization against expected lifetime customer value.\"",
+                    "options": [
+                        "True: Moving brand perception requires heavy sustained investment, which must be mathematically balanced against incremental customer acquisition.",
+                        "True only for state-owned monopolies.",
+                        "False: Brand perception can be altered instantaneously with zero cost.",
+                        "False: Perceptual maps cannot track customer sentiment."
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "True."
+                },
+                {
+                    "prompt": "What asymmetric vulnerability do low-cost budget brands face when attempting to enter high-end luxury market quadrants?",
+                    "options": [
+                        "Instant bankruptcy.",
+                        "Government antitrust lawsuits.",
+                        "Inability to purchase advertising.",
+                        "Severe consumer skepticism regarding prestige and craftsmanship, making upward repositioning far harder than downward brand extension."
+                    ],
+                    "answerIndex": 3,
+                    "explanation": "Severe consumer skepticism regarding prestige and craftsmanship."
+                }
+            ],
+            "passThreshold": 0.8
+        }
+    },
     "b110-u5-l4": {
         "id": "b110-u5-l4",
         "unit": "b110-u5",
@@ -1018,322 +1487,6 @@
             "passThreshold": 0.8
         }
     },
-    "b110-u1-l5": {
-        "id": "b110-u1-l5",
-        "unit": "b110-u1",
-        "level": "Unit 1",
-        "objective": "C2 Synthesis on Strategic Brand Repositioning, Defensible Moats, and Perceptual Distance Optimization.",
-        "presentation": {
-            "explanation": "Strategic Brand Repositioning utilizes perceptual mapping to execute profit-maximizing market maneuvers while defending against competitive encroachment.\n\n1. **Optimization of Repositioning Trajectory**:\nLet $\\mathbf{X}_0$ be a brand's current coordinate vector and $\\mathbf{X}^*$ be the target coordinate vector. The firm chooses $\\mathbf{X}^*$ to maximize Expected Market Share subject to R&D / Advertising Cost $C(\\mathbf{X}^*, \\mathbf{X}_0)$:\n$$\\max_{\\mathbf{X}^*} \\left[ \\sum_{s=1}^S N_s \\cdot P_s(\\mathbf{X}^*, \\mathbf{Comp}) \\cdot (P - MC) \\right] - C(\\mathbf{X}^*, \\mathbf{X}_0)$$\n- $C(\\mathbf{X}^*, \\mathbf{X}_0) = k \\| \\mathbf{X}^* - \\mathbf{X}_0 \\|^2$: Repositioning cost increases quadratically with perceptual distance.\n\n2. **Defensible Competitive Moats**:\n- **Perceptual Preemption**: Launching flanking fighting brands to occupy adjacent ideal point clusters before competitors enter.\n- **Asymmetric Vulnerability**: Dominant premium brands can often reposition downward into budget segments easily, whereas budget brands face severe perceptual friction when trying to move upward into luxury prestige segments.",
-            "examples": [
-                {
-                    "target": "Toyota created the Lexus brand in 1989 to occupy the high-prestige/luxury perceptual quadrant, avoiding the prohibitive cost of repositioning the economy Toyota badge.",
-                    "reading": "Strategic Repositioning Case Study",
-                    "translation": "Toyota created the Lexus brand in 1989 to occupy the high-prestige/luxury perceptual quadrant, avoiding the prohibitive cost of repositioning the economy Toyota badge."
-                }
-            ],
-            "mnemonics": [
-                "Brand Repositioning: Maximize Segment Share * Margin - Quadratic Repositioning Cost! Fighting brands for perceptual preemption! Lexus strategy overcomes upward brand friction!"
-            ],
-            "culturalNotes": [
-                "Harvard Business School Professor Michael Porter formalized the connection between spatial positioning, cost leadership, and competitive differentiation in 1980."
-            ]
-        },
-        "guidedPractice": {
-            "items": [
-                {
-                    "prompt": "Why did Toyota launch Lexus as a distinct brand in 1989 instead of trying to sell luxury sedans under the Toyota nameplate?",
-                    "options": [
-                        "Because Toyota went bankrupt.",
-                        "To avoid Japanese export taxes.",
-                        "Because the cars used different fuel.",
-                        "To overcome the severe perceptual friction and brand dilution of trying to reposition an economy badge upward into luxury prestige."
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "To overcome severe perceptual friction and brand dilution."
-                }
-            ]
-        },
-        "independentPractice": {
-            "items": [
-                {
-                    "prompt": "What defensive market strategy involves launching a second flanking brand to occupy white space near an existing flagship product?",
-                    "options": [
-                        "Perceptual preemption / Fighting brand strategy",
-                        "Price fixing",
-                        "Hostile takeover",
-                        "Vertical integration"
-                    ],
-                    "answerIndex": 0,
-                    "explanation": "Perceptual preemption / Fighting brand strategy."
-                }
-            ]
-        },
-        "checkpointTest": {
-            "items": [
-                {
-                    "prompt": "Translate and evaluate: \"Repositioning an established brand across perceptual space incurs quadratic costs in R&D and marketing communications, requiring quantitative optimization against expected lifetime customer value.\"",
-                    "options": [
-                        "True: Moving brand perception requires heavy sustained investment, which must be mathematically balanced against incremental customer acquisition.",
-                        "True only for state-owned monopolies.",
-                        "False: Brand perception can be altered instantaneously with zero cost.",
-                        "False: Perceptual maps cannot track customer sentiment."
-                    ],
-                    "answerIndex": 0,
-                    "explanation": "True."
-                },
-                {
-                    "prompt": "What asymmetric vulnerability do low-cost budget brands face when attempting to enter high-end luxury market quadrants?",
-                    "options": [
-                        "Instant bankruptcy.",
-                        "Government antitrust lawsuits.",
-                        "Inability to purchase advertising.",
-                        "Severe consumer skepticism regarding prestige and craftsmanship, making upward repositioning far harder than downward brand extension."
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "Severe consumer skepticism regarding prestige and craftsmanship."
-                }
-            ],
-            "passThreshold": 0.8
-        }
-    },
-    "b110-u1-l4": {
-        "id": "b110-u1-l4",
-        "unit": "b110-u1",
-        "level": "Unit 1",
-        "objective": "Implement Preference Mapping (PREFMAP) and Ideal Point vs Vector Preference Formulations.",
-        "presentation": {
-            "explanation": "Preference Mapping (**PREFMAP** - Carroll, 1972) overlays consumer preference vectors and target customer segment **Ideal Points** onto an existing perceptual product space.\n\n1. **The Vector Preference Model (More is Always Better)**:\nConsumer utility increases monotonically along a linear direction $\\mathbf{w}_i$:\n$$U_{ik} = \\sum_{d=1}^D w_{id} Y_{kd}$$\n- $Y_{kd}$: Coordinate of Brand $k$ on Dimension $d$\n- $\\mathbf{w}_i$: Preference weight vector of segment $i$\n\n2. **The Ideal Point Model (Unfolding Model)**:\nConsumers have a specific bliss point $\\mathbf{I}_i = (I_{i1}, I_{i2})$ in perceptual space. Utility decreases quadratically with Euclidean distance from the Ideal Point:\n$$U_{ik} = - \\sum_{d=1}^D v_{id} (Y_{kd} - I_{id})^2$$\n- $v_{id}$: Salience weight of dimension $d$\n- If a brand is too sweet, too spicy, or too expensive relative to the Ideal Point, preference falls!\n\n3. **Market Segmentation via Ideal Point Clusters**:\nIdentifying uncrowded clusters of consumer Ideal Points reveals untapped market niches with high unmet demand and low competitive rivalry.",
-            "examples": [
-                {
-                    "target": "A coffee consumer has Ideal Point (Spiciness=2, Sweetness=8). A brand at (2, 8) achieves maximum utility, while a brand at (2, 2) suffers heavy utility loss.",
-                    "reading": "Ideal Point Distance Formulation",
-                    "translation": "A coffee consumer has Ideal Point (Spiciness=2, Sweetness=8). A brand at (2, 8) achieves maximum utility, while a brand at (2, 2) suffers heavy utility loss."
-                }
-            ],
-            "mnemonics": [
-                "PREFMAP: Vector Model (More is better: linear w * Y) vs Ideal Point Model (Bliss point: Utility drops with squared distance -(Y - I)^2)! Identifies White Space clusters!"
-            ],
-            "culturalNotes": [
-                "J. Douglas Carroll introduced the PREFMAP multidimensional unfolding framework at Bell Laboratories in 1972."
-            ]
-        },
-        "guidedPractice": {
-            "items": [
-                {
-                    "prompt": "Under the Ideal Point preference model, what happens to consumer utility as a product moves further away from the consumer's ideal point in perceptual space?",
-                    "options": [
-                        "Utility decreases quadratically with distance",
-                        "Utility remains constant",
-                        "Utility becomes undefined",
-                        "Utility increases linearly"
-                    ],
-                    "answerIndex": 0,
-                    "explanation": "Utility decreases quadratically with distance."
-                }
-            ]
-        },
-        "independentPractice": {
-            "items": [
-                {
-                    "prompt": "For which type of product attribute is the Ideal Point model more appropriate than the Vector (linear) model?",
-                    "options": [
-                        "Attributes with an optimal middle level (e.g., sweetness in beverages, firmness in mattresses)",
-                        "Warranty duration",
-                        "Attributes where higher is always better (e.g., airline safety rating)",
-                        "Pure monetary cash rewards"
-                    ],
-                    "answerIndex": 0,
-                    "explanation": "Attributes with an optimal middle level."
-                }
-            ]
-        },
-        "checkpointTest": {
-            "items": [
-                {
-                    "prompt": "In PREFMAP analysis, what does a dense cluster of consumer ideal points with no nearby competing brands represent?",
-                    "options": [
-                        "A monopoly protected by patents.",
-                        "An unprofitable market that should be abandoned.",
-                        "A statistical error in SVD calculation.",
-                        "An attractive \"White Space\" market opportunity for a new product launch or brand repositioning."
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "An attractive \"White Space\" market opportunity."
-                },
-                {
-                    "prompt": "What is the mathematical form of the distance decay in Carroll's weighted Euclidean ideal point model?",
-                    "options": [
-                        "Utility = exp(Brand_d / Ideal_d)",
-                        "Utility = sum(Brand_d * Ideal_d)",
-                        "Utility = - sum(v_d * (Brand_d - Ideal_d)^2)",
-                        "Utility = Brand_d - Ideal_d"
-                    ],
-                    "answerIndex": 2,
-                    "explanation": "Utility = - sum(v_d * (Brand_d - Ideal_d)^2)."
-                }
-            ],
-            "passThreshold": 0.8
-        }
-    },
-    "b110-u1-l3": {
-        "id": "b110-u1-l3",
-        "unit": "b110-u1",
-        "level": "Unit 1",
-        "objective": "Interpret Attribute Vector Angles, Cosine Similarities, and Brand Clustering on 2D Biplots.",
-        "presentation": {
-            "explanation": "In a 2D PCA Perceptual Map (Biplot):\n\n1. **Attribute Vector Angles & Correlation ($r_{jk}$)**:\nThe cosine of the angle $\\theta$ between two attribute loading vectors $\\mathbf{v}_j$ and $\\mathbf{v}_k$ directly approximates their correlation coefficient in the raw customer survey data:\n$$\\cos(\\theta_{jk}) \\approx r_{jk}$$\n- $\\theta \\approx 0^\\circ (\\cos = +1.0)$: Highly positive correlation (e.g., \"Luxury\" and \"High Price\").\n- $\\theta \\approx 90^\\circ (\\cos = 0.0)$: Uncorrelated, orthogonal attributes (e.g., \"Sporty Handling\" and \"Spacious Trunk\").\n- $\\theta \\approx 180^\\circ (\\cos = -1.0)$: Strong inverse correlation (e.g., \"Budget Economy\" and \"Prestigious Status\").\n\n2. **Vector Length (Salience)**:\nThe length of an attribute vector from the origin reflects how well that attribute is explained by the 2D map ($R^2$ in reduced dimensional space). Long vectors represent dominant market differentiators.\n\n3. **Brand Projections**:\nDropping a perpendicular line from Brand $B$ onto Attribute Vector $\\mathbf{v}_j$ shows where that brand ranks on that attribute relative to competitors.",
-            "examples": [
-                {
-                    "target": "If the angle between \"Innovative\" and \"Reliable\" vectors is 30 degrees (cos 30 = 0.866), consumers perceive brands with high innovation as strongly reliable.",
-                    "reading": "Perceptual Map Cosine Correlation",
-                    "translation": "If the angle between \"Innovative\" and \"Reliable\" vectors is 30 degrees (cos 30 = 0.866), consumers perceive brands with high innovation as strongly reliable."
-                }
-            ],
-            "mnemonics": [
-                "Biplot Vector Angles: cos(0 deg) = +1 (Strong Positive correlation); cos(90 deg) = 0 (Uncorrelated); cos(180 deg) = -1 (Strong Negative correlation)! Vector length = Attribute salience!"
-            ],
-            "culturalNotes": [
-                "Perceptual biplots are used by McKinsey, BCG, and brand consultancies to identify uncontested \"White Space\" opportunities in consumer markets."
-            ]
-        },
-        "guidedPractice": {
-            "items": [
-                {
-                    "prompt": "If two attribute vectors on a perceptual biplot form a 90-degree right angle (cos = 0), what does this indicate about consumer perception?",
-                    "options": [
-                        "The two attributes are completely uncorrelated and perceived independently.",
-                        "The attributes are identical.",
-                        "The attributes are opposites.",
-                        "The data is corrupted."
-                    ],
-                    "answerIndex": 0,
-                    "explanation": "The two attributes are completely uncorrelated."
-                }
-            ]
-        },
-        "independentPractice": {
-            "items": [
-                {
-                    "prompt": "How do you determine a brand's perceived score on a specific attribute in a 2D perceptual map?",
-                    "options": [
-                        "By counting the number of letters in the brand name",
-                        "By projecting a perpendicular line from the brand's point onto the attribute vector line",
-                        "By checking stock price",
-                        "By measuring the distance to the origin only"
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "By projecting a perpendicular line from the brand's point onto the attribute vector line."
-                }
-            ]
-        },
-        "checkpointTest": {
-            "items": [
-                {
-                    "prompt": "What does an attribute vector with a very short length near the center of a PCA biplot indicate?",
-                    "options": [
-                        "The attribute is the most important market driver.",
-                        "The attribute is priced at zero dollars.",
-                        "The attribute has low variance or is poorly represented by the two retained principal components.",
-                        "The attribute has 100% market share."
-                    ],
-                    "answerIndex": 2,
-                    "explanation": "The attribute has low variance or is poorly represented by the two components."
-                },
-                {
-                    "prompt": "If \"Fuel Efficiency\" and \"Horsepower\" vectors point in nearly opposite directions (angle ~ 180 degrees), what is their relationship?",
-                    "options": [
-                        "They are perceived as mutually reinforcing positive traits.",
-                        "They are perceived as strong trade-offs with an inverse negative correlation (r ~ -1.0).",
-                        "They are identical features.",
-                        "They have zero relation."
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "They are perceived as strong trade-offs with an inverse negative correlation."
-                }
-            ],
-            "passThreshold": 0.8
-        }
-    },
-    "b110-u1-l2": {
-        "id": "b110-u1-l2",
-        "unit": "b110-u1",
-        "level": "Unit 1",
-        "objective": "Execute Eigenvalue Decomposition, SVD, and Dimensionality Reduction on Brand Attribute Matrices.",
-        "presentation": {
-            "explanation": "1. **Singular Value Decomposition (SVD) of Brand Data**:\nLet $X$ be an $N \\times P$ standardized data matrix ($N$ respondents/brands, $P$ perception attributes with mean 0 and variance 1):\n$$X = U \\Sigma V^T$$\n- $U$: $N \\times N$ orthogonal matrix of respondent/brand coordinate scores\n- $\\Sigma$: $N \\times P$ diagonal matrix of singular values $\\sigma_1 \\ge \\sigma_2 \\ge \\dots \\ge \\sigma_P \\ge 0$\n- $V$: $P \\times P$ orthogonal matrix of attribute loadings (Principal Directions)\n\n2. **Eigenvalue Decomposition of Sample Covariance Matrix $S$**:\n$$S = \\frac{1}{N-1} X^T X = V \\Lambda V^T$$\n- $\\Lambda = \\text{diag}(\\lambda_1, \\lambda_2, \\dots, \\lambda_P)$ where $\\lambda_j = \\frac{\\sigma_j^2}{N-1}$ is the variance explained by the $j$-th principal component.\n\n3. **Scree Plot & Kaiser Criterion**:\n- **Kaiser Criterion**: Retain all principal components with eigenvalue $\\lambda_j \\ge 1.0$ (explaining more variance than an individual standardized attribute).\n- **Cumulative Variance Explained**: Retain top $K$ components such that $\\frac{\\sum_{j=1}^K \\lambda_j}{\\sum_{m=1}^P \\lambda_m} \\ge 70\\% - 80\\%$.",
-            "examples": [
-                {
-                    "target": "If the first two eigenvalues are lambda_1 = 3.8 and lambda_2 = 2.2 out of total variance 8.0, 2D PCA captures (3.8 + 2.2) / 8.0 = 75.0% of all market perception.",
-                    "reading": "PCA Variance Explained Calculation",
-                    "translation": "If the first two eigenvalues are lambda_1 = 3.8 and lambda_2 = 2.2 out of total variance 8.0, 2D PCA captures (3.8 + 2.2) / 8.0 = 75.0% of all market perception."
-                }
-            ],
-            "mnemonics": [
-                "PCA in Marketing: X = U Sigma V^T! Covariance S = V Lambda V^T! Kaiser rule: Keep eigenvalues >= 1.0! 2D Biplot maps brands and attribute vectors!"
-            ],
-            "culturalNotes": [
-                "Karl Pearson invented Principal Component Analysis in 1901; Harold Hotelling expanded it into random variable statistics in 1933."
-            ]
-        },
-        "guidedPractice": {
-            "items": [
-                {
-                    "prompt": "Under the Kaiser criterion, which principal components should be retained for perceptual mapping?",
-                    "options": [
-                        "Only the single largest component",
-                        "Components with negative eigenvalues",
-                        "All components regardless of size",
-                        "Components with eigenvalues lambda_j >= 1.0"
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "Components with eigenvalues lambda_j >= 1.0."
-                }
-            ]
-        },
-        "independentPractice": {
-            "items": [
-                {
-                    "prompt": "What geometric interpretation is given to the columns of matrix V in PCA perceptual mapping?",
-                    "options": [
-                        "They represent raw dollar prices.",
-                        "They represent factory coordinates.",
-                        "They are random noise.",
-                        "They represent the direction vectors (loadings) of the original perceptual attributes in reduced space."
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "They represent the direction vectors (loadings) of the original perceptual attributes."
-                }
-            ]
-        },
-        "checkpointTest": {
-            "items": [
-                {
-                    "prompt": "If an 8-attribute brand perception survey yields eigenvalues [3.5, 2.1, 0.9, 0.6, 0.4, 0.2, 0.2, 0.1], how many components satisfy the Kaiser criterion?",
-                    "options": [
-                        "4 components",
-                        "2 components (3.5 and 2.1 are >= 1.0)",
-                        "1 component",
-                        "8 components"
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "2 components."
-                },
-                {
-                    "prompt": "What is the sum of all eigenvalues in a PCA decomposition of a standardized correlation matrix with P attributes?",
-                    "options": [
-                        "P (the total number of attributes, since each standardized variable has variance 1.0)",
-                        "100.0",
-                        "0.0",
-                        "1.0"
-                    ],
-                    "answerIndex": 0,
-                    "explanation": "P (the total number of attributes)."
-                }
-            ],
-            "passThreshold": 0.8
-        }
-    },
     "b110-u2-l5": {
         "id": "b110-u2-l5",
         "unit": "b110-u2",
@@ -1724,74 +1877,6 @@
                     ],
                     "answerIndex": 3,
                     "explanation": "Hierarchical Bayes (HB) is the global gold standard for choice-based conjoint estimation."
-                }
-            ],
-            "passThreshold": 0.8
-        }
-    },
-    "b110-u1-l1": {
-        "id": "b110-u1-l1",
-        "unit": "b110-u1",
-        "level": "Elite",
-        "objective": "Apply Principal Component Analysis (PCA) to survey data to construct strategic 2D brand perceptual maps.",
-        "presentation": {
-            "explanation": "In B110, we master quantitative product positioning:\n\n1. The Perceptual Mapping Problem:\n   Consumers evaluate products across dozens of attributes (price, luxury, reliability, speed, eco-friendliness). PCA projects high-dimensional correlation matrices onto the top 2 orthogonal principal components ($PC_1, PC_2$) that capture maximum variance:\n   $$\\mathbf{X}^T \\mathbf{X} \\mathbf{v}_i = \\lambda_i \\mathbf{v}_i$$\n\n2. Strategic White-Space Identification:\n   - Brands close together in PCA vector space are perceived as direct substitutes.\n   - Unoccupied quadrants represent market \"white space\" opportunities for differentiation.",
-            "examples": [
-                {
-                    "target": "PCA of Automotive Market: PC1 (Affordability vs Luxury, 58% variance), PC2 (Sportiness vs Utility, 24% variance).",
-                    "reading": "Perceptual Positioning",
-                    "translation": "2D positioning matrix mapping Porsche vs Toyota vs Volvo."
-                }
-            ],
-            "mnemonics": [
-                "PCA: Maximize variance along orthogonal eigenvectors!"
-            ],
-            "culturalNotes": [
-                "Developed at Stanford GSB and McKinsey & Co. for C-suite market entry strategies."
-            ]
-        },
-        "guidedPractice": {
-            "items": [
-                {
-                    "prompt": "In a perceptual map generated via PCA, what does a large distance between two brands signify?",
-                    "options": [
-                        "Consumers perceive the two brands as strongly differentiated with distinct value propositions",
-                        "No statistical meaning",
-                        "They have the same price",
-                        "They are owned by the same parent company"
-                    ],
-                    "answerIndex": 0,
-                    "explanation": "Distance in PCA factor space reflects perceived psychological difference."
-                }
-            ]
-        },
-        "independentPractice": {
-            "items": [
-                {
-                    "prompt": "What is the mathematical purpose of PCA in consumer research?",
-                    "options": [
-                        "To predict stock prices",
-                        "To calculate tax returns",
-                        "Reduce high-dimensional survey attributes into uncorrelated principal components maximizing variance",
-                        "To replace user interviews completely"
-                    ],
-                    "answerIndex": 2,
-                    "explanation": "PCA reduces dimensionality while retaining maximum variance."
-                }
-            ]
-        },
-        "checkpointTest": {
-            "items": [
-                {
-                    "prompt": "How does strategic marketing utilize perceptual map \"white space\"?",
-                    "options": [
-                        "To reduce advertising budget to zero",
-                        "To close factories",
-                        "To copy the market leader exactly",
-                        "To identify unserved consumer attribute clusters and launch targeted product offerings with minimal direct collision"
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "White spaces identify unserved attribute combinations in consumer demand."
                 }
             ],
             "passThreshold": 0.8

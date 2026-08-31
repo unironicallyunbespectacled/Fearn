@@ -1,5 +1,5 @@
-// French curriculum — full CEFR A1–C2 roadmap (34 units, 170 lessons)
-(function (global) {
+// French curriculum
+(function(global){
   'use strict';
   var UNITS = [
     {
@@ -484,49 +484,31 @@
         "id": "fr-u1-l1",
         "unit": "fr-u1",
         "level": "A1",
-        "objective": "Greet others appropriately at different times of day and choose between formal (vous) and informal (tu) greeting formulas.",
+        "objective": "French Pronunciation Rules (Silent Letters, Nasals, Liaison) & Register Greetings: Master formal (vous) vs informal (tu) greetings (Bonjour, Salut, Enchanté).",
         "prerequisites": [],
         "warmup": {
             "srsPull": true,
             "reviewFocus": []
         },
         "presentation": {
-            "explanation": "In French, greetings establish both the social distance and the time of day. The universal formal and daytime greeting is **Bonjour** [bɔ̃ˈʒuːʁ] (literally 'good day'), used from morning until late afternoon. As dusk falls, **Bonsoir** [bɔ̃ˈswaːʁ] ('good evening') replaces Bonjour. When greeting friends, family, or young peers, the informal **Salut** [saˈly] ('hi' / 'bye') is common, but it should never be used with strangers, shopkeepers, or superiors. When parting, the standard polite farewell is **Au revoir** [o ʁəˈvwaːʁ], while **À bientôt** [a bjɛ̃ˈto] means 'see you soon', **À demain** [a dəˈmɛ̃] means 'see you tomorrow', and **Bonne journée** [bɔn ʒuʁˈne] or **Bonne soirée** [bɔn swaˈʁe] wish someone well upon departing.\n\n### 🔤 French Orthography & Phonetic Essentials:\n1. **Silent Final Consonants & The 'CaReFuL' Rule**:\n   - In French, final consonants **d, t, s, x, p, g, z** are almost ALWAYS silent at the end of a word! E.g. *salut* ends in silent 't' [saˈly], *bonjour* ends in a throaty 'r' [ʁ], *vous* ends in silent 's' [vu].\n   - Consonants typically pronounced at word endings are **C, R, F, L** (the \"CaReFuL\" mnemonic), as in *avec* [aˈvɛk], *soir* [swaːʁ], *neuf* [nœf], *il* [il].\n2. **The Nasal Vowels (Voyelles Nasales)**:\n   - French has 4 iconic nasal vowels where air streams through mouth and nose simultaneously without pronouncing the 'n' or 'm':\n     - **on / om** = [ɔ̃] (rounded back nasal, in *bonjour* [bɔ̃ˈʒuːʁ], *bonsoir* [bɔ̃ˈswaːʁ]).\n     - **an / am / en / em** = [ɑ̃] (open back nasal, in *demain* first syllable, *comment* [kɔˈmɑ̃], *France* [fʁɑ̃s]).\n     - **in / ain / ein** = [ɛ̃] (open-mid front nasal, in *demain* [dəˈmɛ̃], *bientôt* [bjɛ̃ˈto], *bien* [bjɛ̃]).\n     - **un / um** = [œ̃] (open-mid front rounded nasal, in *un* [œ̃], *lundi* [lœ̃ˈdi]).\n3. **Liaison & Enchaînement**:\n   - When a word ending in an otherwise silent consonant is immediately followed by a vowel-initial word, the consonant wakes up and links across the syllable boundary: silent **s/x** links as **[z]** (e.g. *vous êtes* [vu.z‿ɛt]), and silent **d** links as **[t]** (e.g. *grand ami* [ɡʁɑ̃.t‿aˈmi]).",
+            "explanation": "Welcome to French (Français)! French orthography and spoken pronunciation diverge systematically through three core phonetic rules: (1) **Silent Final Consonants**: The final consonants *s, t, d, p, x, z* are usually silent at the end of words (e.g. *salut* = /sa-ly/, *vous* = /vu/), unless followed by the \"CaReFuL\" mnemonic consonants (*c, r, f, l* which are often pronounced); (2) **Nasal Vowels**: Vowel + *n* or *m* produces rich nasal sounds: *an/en* (/ɑ̃/), *in/ain* (/ɛ̃/), *on* (/ɔ̃/), *un* (/œ̃/); (3) **Liaison**: An otherwise silent final consonant is pronounced when the next word starts with a vowel or silent 'h' (e.g. *vous avez* = /vu-za-ve/). Greetings reflect social register: formal «Bonjour» (Good day/Hello) and «Bonsoir» (Good evening) paired with «vous», versus casual «Salut» (Hi/Bye) with «tu». The courteous response when meeting someone is «Enchanté(e)» (*Pleased to meet you*).",
             "examples": [
                 {
-                    "target": "Bonjour, monsieur.",
-                    "reading": "[bɔ̃ˈʒuːʁ, məˈsjø]",
-                    "translation": "Good morning / Hello, sir. (bonjour has nasal on [ɔ̃] and uvular r [ʁ])"
+                    "target": "Bonjour madame, comment allez-vous ? — Très bien, merci.",
+                    "reading": "bon-ZHOOR ma-DAM, ko-mahn ta-lay VOO? — tray BYAN, mair-SEE.",
+                    "translation": "Good day madam, how are you (formal)? — Very well, thank you."
                 },
                 {
-                    "target": "Bonsoir, madame.",
-                    "reading": "[bɔ̃ˈswaːʁ, maˈdam]",
-                    "translation": "Good evening, madam. (bonsoir has nasal on [ɔ̃] and diphthong oi [wa])"
-                },
-                {
-                    "target": "Salut, Thomas !",
-                    "reading": "[saˈly, tɔˈma]",
-                    "translation": "Hi, Thomas! (informal — silent final t in salut)"
-                },
-                {
-                    "target": "Au revoir et bonne journée !",
-                    "reading": "[o ʁəˈvwaːʁ e bɔn ʒuʁˈne]",
-                    "translation": "Goodbye and have a good day! (said when leaving)"
-                },
-                {
-                    "target": "À bientôt et à demain !",
-                    "reading": "[a bjɛ̃ˈto e a dəˈmɛ̃]",
-                    "translation": "See you soon and see you tomorrow! (bientôt and demain feature nasal [ɛ̃])"
+                    "target": "Salut ! Ça va ? — Oui, ça va super bien, et toi ?",
+                    "reading": "sa-LYOO! sa VA? — WEE, sa va soo-pair BYAN, ay TWA?",
+                    "translation": "Hi! How's it going? — Yes, going great, and you?"
                 }
             ],
             "mnemonics": [
-                "The CaReFuL Rule: Letters C, R, F, L are pronounced at word ends (soir, avec); other final consonants (t, s, d, p, x) go to sleep unless a liaison wakes them up!",
-                "Bonjour = bon (good) + jour (day) — say it when arriving. Bonne journée = 'have a good day' — say it when leaving.",
-                "Au revoir literally translates to 'at the re-seeing' (until we see each other again)."
+                "Silent finals: S, T, D, X are quiet! Liaison links words with vowels. Bonjour = Formal Hello, Salut = Casual Hi."
             ],
             "culturalNotes": [
-                "In France, entering a shop, bakery (boulangerie), or taxi without greeting the proprietor with 'Bonjour, monsieur' or 'Bonjour, madame' is perceived as remarkably impolite. Always say 'Bonjour' before asking any question or placing an order.",
-                "The physical greeting often involves 'la bise' (light cheek kissing, typically 2 kisses in Paris) between friends and family, whereas a crisp handshake ('une poignée de main') is standard in professional contexts."
+                "In France, greeting shopkeepers with a clear «Bonjour» upon entering and «Au revoir, bonne journée» upon leaving is an essential social code of respect."
             ]
         },
         "guidedPractice": {

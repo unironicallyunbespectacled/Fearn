@@ -15,7 +15,8 @@
             "b111-u1-l5",
             "b111-u1-l6",
             "b111-u1-l7",
-            "b111-u1-l8"
+            "b111-u1-l8",
+            "b111-u1-l9"
         ]
     },
     {
@@ -55,6 +56,90 @@
   var LESSONS = {
     "b111-u1-l1": {
         "id": "b111-u1-l1",
+        "unit": "b111-u1",
+        "level": "Unit 1",
+        "objective": "Foundations of Financial Markets: Asset Classes, Equities, Bonds, Time Value of Money (PV/FV), Returns & Risk Measurement.",
+        "presentation": {
+            "explanation": "Corporate finance and asset valuation rest upon the fundamental principle of the **Time Value of Money (TVM)**: a dollar received today is worth more than a dollar received in the future due to its earning capacity (interest/investment returns) and the erosive effect of inflation. The relationship between present value ($PV$) and future value ($FV$) across $t$ periods at discount rate $r$ is defined by compounding and discounting: $FV = PV(1+r)^t$ and $PV = \\frac{FV}{(1+r)^t}$. Financial markets facilitate the allocation of capital across two primary asset classes: (1) **Debt / Fixed Income (Bonds)**: Contractual liabilities where the borrower pays periodic interest (coupon) and returns principal at maturity, holding senior claim in liquidation; and (2) **Equities (Stocks)**: Residual ownership shares granting voting rights and rights to residual cash flows (dividends, share repurchases) after all debt obligations are satisfied. An asset's total return over holding period $t$ comprises capital appreciation plus cash yield: $R_t = \\frac{P_t - P_{t-1} + D_t}{P_{t-1}}$. In financial economics, risk is formally modeled as the volatility or dispersion of returns around their expected mean, quantified by the standard deviation ($\\sigma$). Understanding these baseline mechanics is essential before deriving the Capital Asset Pricing Model (CAPM) or computing Weighted Average Cost of Capital (WACC).",
+            "examples": [
+                {
+                    "target": "Present Value formula discounts future cash flows: $PV = \\frac{CF}{(1+r)^t}$, illustrating that higher risk hurdle rates ($r$) lower today's valuation.",
+                    "reading": "Present value discounts future cash flows back to today using the required rate of return.",
+                    "translation": "Present value discounts future cash flows back to today using the required rate of return."
+                },
+                {
+                    "target": "Equity holders represent the residual claimant in corporate capital structure, bearing equity risk after contractual debt holders are paid.",
+                    "reading": "Equity holders receive profits only after operational expenses, interest, and taxes are settled.",
+                    "translation": "Equity holders receive profits only after operational expenses, interest, and taxes are settled."
+                }
+            ],
+            "mnemonics": [
+                "Finance Core Axiom: Cash today > Cash tomorrow (TVM); Higher Expected Return demands Higher Bearing of Risk ($\\sigma$)."
+            ],
+            "culturalNotes": [
+                "The mathematics of compound interest dates back thousands of years to ancient Mesopotamian clay tablets in Babylon (circa 2000 BCE), which recorded compound debt calculations on barley and silver loans."
+            ]
+        },
+        "guidedPractice": {
+            "items": [
+                {
+                    "prompt": "What is the core premise behind the Time Value of Money (TVM)?",
+                    "options": [
+                        "A given sum of money today has greater value than the same sum in the future because it can earn interest and invest in productive assets.",
+                        "Money loses all value if kept in a bank account overnight.",
+                        "Future money is always more valuable because companies print more of it.",
+                        "Stock prices never change over time."
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "TVM reflects opportunity cost, potential investment yields, and inflation over time."
+                }
+            ]
+        },
+        "independentPractice": {
+            "items": [
+                {
+                    "prompt": "How does the claim priority of bondholders (debt) differ from stockholders (equity) if a corporation undergoes bankruptcy liquidation?",
+                    "options": [
+                        "Bondholders hold senior legal claims and must be repaid before common equity holders receive any residual liquidation proceeds.",
+                        "Equity holders are paid first before all debts.",
+                        "Bondholders and equity holders divide all remaining cash equally regardless of debt agreements.",
+                        "The government confiscates all assets without paying anyone."
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Debt holds contractual seniority over residual equity claims in the capital structure hierarchy."
+                }
+            ]
+        },
+        "checkpointTest": {
+            "items": [
+                {
+                    "prompt": "If an investor purchases a stock for $100, receives $5 in dividends during the year, and sells the stock for $110 at year-end, what was their total annual return ($R$)?",
+                    "options": [
+                        "15% ($10 capital gain + $5 dividend / $100 initial price)",
+                        "5%",
+                        "10%",
+                        "20%"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Total return = ($110 - $100 + $5) / $100 = $15 / $100 = 15%."
+                },
+                {
+                    "prompt": "What statistical measure is standardly used in financial modeling to quantify the total volatility (dispersion of returns) of an asset?",
+                    "options": [
+                        "Standard deviation (sigma / $\\sigma$)",
+                        "Price-to-Earnings ratio",
+                        "Gross domestic product",
+                        "Auditor billable hours"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Standard deviation of historical returns quantifies the volatility and dispersion of outcomes around the expected return."
+                }
+            ],
+            "passThreshold": 0.8
+        }
+    },
+    "b111-u1-l2": {
+        "id": "b111-u1-l2",
         "unit": "b111-u1",
         "level": "Introductory",
         "objective": "The Capital Asset Pricing Model (CAPM) & The Security Market Line (Derivation of expected return $E[R_i] = R_f + \\beta_i (E[R_m] - R_f)$; Risk-free rate selection using 10-year sovereign yields; Equity Risk Premium (ERP) estimation; Systematic non-diversifiable risk vs Idiosyncratic risk; The Security Market Line (SML) and Jensen's Alpha $\\alpha_i$).",
@@ -132,8 +217,8 @@
             "passThreshold": 0.8
         }
     },
-    "b111-u1-l2": {
-        "id": "b111-u1-l2",
+    "b111-u1-l3": {
+        "id": "b111-u1-l3",
         "unit": "b111-u1",
         "level": "Introductory",
         "objective": "Beta Estimation, Rolling Regressions & Shrinkage Adjustments (Linear regression of asset returns on market index returns: $R_{i, t} - R_{f, t} = \\alpha_i + \\beta_i (R_{m, t} - R_{f, t}) + \\epsilon_t$; Standard error of beta; Blume's mean-reverting adjustment $\\beta_{\\text{adj}} = \\frac{1}{3}(1.0) + \\frac{2}{3}\\beta_{\\text{raw}}$; Vasicek Bayesian shrinkage estimation).",
@@ -211,8 +296,8 @@
             "passThreshold": 0.8
         }
     },
-    "b111-u1-l3": {
-        "id": "b111-u1-l3",
+    "b111-u1-l4": {
+        "id": "b111-u1-l4",
         "unit": "b111-u1",
         "level": "Intermediate",
         "objective": "Capital Structure & The Hamada Equation: Unlevering & Relevering Beta (Mathematical derivation of asset/unlevered beta $\\beta_U$ from equity/levered beta $\\beta_L$; The Hamada Equation: $\\beta_L = \\beta_U [1 + (1 - T_c)(D/E)]$; Debt beta $\\beta_D$ adjustment for distressed firms; Unlevering peer comparables and relevering to target capital structure).",
@@ -290,8 +375,8 @@
             "passThreshold": 0.8
         }
     },
-    "b111-u1-l4": {
-        "id": "b111-u1-l4",
+    "b111-u1-l5": {
+        "id": "b111-u1-l5",
         "unit": "b111-u1",
         "level": "Intermediate",
         "objective": "Weighted Average Cost of Capital (WACC): Formulation & Market-Value Weights ($\text{WACC} = \frac{E}{V} r_e + \frac{D}{V} r_d (1 - T_c) + \frac{P}{V} r_p$; Market value weights vs book value weights; Circularity in target vs implied weights; Tax shield deductibility and blended hurdle rates).",
@@ -369,8 +454,8 @@
             "passThreshold": 0.8
         }
     },
-    "b111-u1-l5": {
-        "id": "b111-u1-l5",
+    "b111-u1-l6": {
+        "id": "b111-u1-l6",
         "unit": "b111-u1",
         "level": "Intermediate",
         "objective": "The Cost of Debt: Yield-to-Maturity (YTM), Credit Default Spreads & Synthetic Ratings (Yield-to-Maturity on publicly traded bonds; Credit default spread lookup tables based on Interest Coverage Ratio $\\text{ICR} = \\frac{\\text{EBIT}}{\\text{Interest Expense}}$; Damodaran synthetic credit rating framework; Marginal borrowing rate vs historical coupon rate).",
@@ -448,8 +533,8 @@
             "passThreshold": 0.8
         }
     },
-    "b111-u1-l6": {
-        "id": "b111-u1-l6",
+    "b111-u1-l7": {
+        "id": "b111-u1-l7",
         "unit": "b111-u1",
         "level": "Intermediate",
         "objective": "Modigliani-Miller Theorems & The Limits of Leverage (MM Proposition I without taxes: $V_L = V_U$; MM Proposition II without taxes: $r_e = r_0 + (r_0 - r_d)(D/E)$; MM Proposition I with corporate taxes: $V_L = V_U + T_c D$; Trade-off Theory of Capital Structure: balancing tax shields against the present value of Expected Financial Distress Costs).",
@@ -527,8 +612,8 @@
             "passThreshold": 0.8
         }
     },
-    "b111-u1-l7": {
-        "id": "b111-u1-l7",
+    "b111-u1-l8": {
+        "id": "b111-u1-l8",
         "unit": "b111-u1",
         "level": "Advanced",
         "objective": "Adjusted Present Value (APV) Framework for Highly Leveraged Transactions (The APV valuation equation: $\\text{APV} = \\text{Unlevered Base-Case NPV} + \\text{PV}(\\text{Financing Side Effects})$; Unlevered cost of equity $r_0$; Valuing debt tax shields under fixed debt schedules ($r_d$ discount rate, Miles-Ezzell vs Harris-Pringle); Valuing subsidized financing and flotation costs).",
@@ -606,8 +691,8 @@
             "passThreshold": 0.8
         }
     },
-    "b111-u1-l8": {
-        "id": "b111-u1-l8",
+    "b111-u1-l9": {
+        "id": "b111-u1-l9",
         "unit": "b111-u1",
         "level": "Advanced",
         "objective": "Module Capstone: Enterprise Cost of Capital & Capital Structure Synthesis (Comprehensive institutional integration: multi-factor CAPM, Fama-French 3-factor and 5-factor models, synthetic credit rating spreads, Hamada relevering, and WACC vs APV selection matrix).",
