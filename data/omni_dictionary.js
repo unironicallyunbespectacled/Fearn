@@ -1,12 +1,7 @@
-// FEARN Omni-Mastery Global Lexicon & Dictionary Database
-// Provides comprehensive, searchable dictionary and glossary entries across all 20 languages and elite skills.
-
-(function (global) {
+// Fearn Omniscient Lexicon & Master Dictionary Data Store
+(function(global){
   'use strict';
-
-  global.FEARN_DICTIONARY = global.FEARN_DICTIONARY || {};
-
-  const DICT = {
+  var DICTIONARY = {
   "japanese": [
     {
       "term": "こんにちは (Konnichiwa)",
@@ -688,6 +683,30 @@
         "豪奢 (Gousha - luxury)"
       ],
       "register": "Philosophical / Cultural"
+    },
+    {
+      "term": "お疲れ様でした (Otsukaresama deshita)",
+      "definition": "Thank you for your hard work (Universal workplace parting expression)",
+      "category": "Workplace Formula",
+      "level": "A2"
+    },
+    {
+      "term": "よろしくお願いします (Yoroshiku onegaishimasu)",
+      "definition": "Please take care of me / I look forward to working with you",
+      "category": "Social Formula",
+      "level": "A1"
+    },
+    {
+      "term": "侘寂 (Wabi-Sabi)",
+      "definition": "The Japanese aesthetic of finding beauty in imperfection, transience, and natural simplicity",
+      "category": "Philosophy",
+      "level": "B2"
+    },
+    {
+      "term": "森林浴 (Shinrin-yoku)",
+      "definition": "Forest bathing (Immersion in nature for physiological and mental restoration)",
+      "category": "Wellness",
+      "level": "B1"
     }
   ],
   "spanish": [
@@ -1217,6 +1236,24 @@
         "Equilibrio ecológico"
       ],
       "register": "Académico / Formal"
+    },
+    {
+      "term": "Ganas (tener ganas)",
+      "definition": "Deep intrinsic urge, desire, or enthusiasm to do something specific",
+      "category": "Idiomatic Expression",
+      "level": "A1"
+    },
+    {
+      "term": "Empalagar",
+      "definition": "To become overwhelmed by something overly sweet, cloying, or excessively sentimental",
+      "category": "Verb",
+      "level": "B1"
+    },
+    {
+      "term": "Desvelarse",
+      "definition": "To stay awake all night or lose sleep due to study, worry, or celebration",
+      "category": "Verb",
+      "level": "B1"
     }
   ],
   "french": [
@@ -1707,6 +1744,18 @@
         "Aliéner"
       ],
       "register": "Littéraire / Général"
+    },
+    {
+      "term": "L'esprit de l'escalier",
+      "definition": "Staircase wit (Thinking of the perfect witty retort only after leaving the room)",
+      "category": "Idiom",
+      "level": "B2"
+    },
+    {
+      "term": "Joie de vivre",
+      "definition": "Exuberant, cheerful enjoyment of life and its everyday pleasures",
+      "category": "Philosophy / Idiom",
+      "level": "A2"
     }
   ],
   "german": [
@@ -2570,6 +2619,24 @@
         "Муза"
       ],
       "register": "Общий / Поэтический"
+    },
+    {
+      "term": "Авось (Avos')",
+      "definition": "Relying on good fortune, destiny, or serendipity against all rational odds",
+      "category": "Idiom / Psychology",
+      "level": "B2"
+    },
+    {
+      "term": "Подвиг (Podvig)",
+      "definition": "A selfless heroic deed, moral sacrifice, or spiritual triumph over impossible obstacles",
+      "category": "Noun",
+      "level": "B2"
+    },
+    {
+      "term": "Уют (Uyut)",
+      "definition": "Cozy domestic comfort, warmth, and intimate security in home spaces",
+      "category": "Noun",
+      "level": "A2"
     }
   ],
   "vietnamese": [
@@ -2944,6 +3011,36 @@
         "Giả tạo"
       ],
       "register": "Phổ biến / Lịch sự (General / Polite)"
+    },
+    {
+      "term": "Tình nghĩa",
+      "definition": "Deep moral bond of loyalty, gratitude, and mutual affection formed through shared hardship",
+      "category": "Virtue",
+      "level": "B2"
+    },
+    {
+      "term": "Hiếu thảo",
+      "definition": "Devoted filial piety, respectful obedience, and lifelong care shown to parents and ancestors",
+      "category": "Confucian Virtue",
+      "level": "B1"
+    },
+    {
+      "term": "Duyên nợ",
+      "definition": "Karmic affinity and predestined love or debt that connects two souls across lifetimes",
+      "category": "Philosophy",
+      "level": "B2"
+    },
+    {
+      "term": "Nhậu",
+      "definition": "The lively social ritual of drinking beer, eating street snacks (mồi), and bonding with friends",
+      "category": "Social Activity",
+      "level": "A2"
+    },
+    {
+      "term": "Cần cù",
+      "definition": "Diligence, tireless work ethic, and persistent effort overcoming all obstacles",
+      "category": "Adjective",
+      "level": "B1"
     }
   ],
   "turkish": [
@@ -3314,6 +3411,24 @@
         "Cömertlik (generosity)"
       ],
       "register": "Genel / Kültürel (General / Cultural)"
+    },
+    {
+      "term": "Kolay gelsin",
+      "definition": "May it come easy (Traditional wishing of ease spoken to anyone working or studying)",
+      "category": "Social Courtesy",
+      "level": "A1"
+    },
+    {
+      "term": "Geçmiş olsun",
+      "definition": "May it be in the past (Spoken to someone ill, injured, or experiencing hardship)",
+      "category": "Social Courtesy",
+      "level": "A1"
+    },
+    {
+      "term": "Afiyet olsun",
+      "definition": "May it bring good health / Bon appétit (Spoken before or after meals)",
+      "category": "Dining Formula",
+      "level": "A1"
     }
   ],
   "ukrainian": [
@@ -4039,6 +4154,30 @@
         "कठोरता"
       ],
       "register": "औपचारिक / सामान्य (Formal / General)"
+    },
+    {
+      "term": "संस्कार (Sanskaar)",
+      "definition": "Inherent cultural values, noble moral upbringing, and righteous behavioral impressions",
+      "category": "Philosophy / Ethics",
+      "level": "B1"
+    },
+    {
+      "term": "आतिथ्य (Aatithya / Atithi Devo Bhava)",
+      "definition": "The guest is equivalent to God (The supreme Indian duty of hospitality)",
+      "category": "Cultural Doctrine",
+      "level": "B1"
+    },
+    {
+      "term": "मोक्ष (Moksha)",
+      "definition": "Spiritual liberation, ultimate freedom from the cycle of rebirth, and self-realization",
+      "category": "Spiritual Philosophy",
+      "level": "B2"
+    },
+    {
+      "term": "कर्म (Karma)",
+      "definition": "The cosmic law of cause and effect; every intentional action generates reciprocal destiny",
+      "category": "Philosophy",
+      "level": "A2"
     }
   ],
   "urdu": [
@@ -4409,6 +4548,36 @@
         "بے مروتی (callousness / lack of consideration)"
       ],
       "register": "ادبی / روایتی (Literary / Traditional)"
+    },
+    {
+      "term": "تہذیب (Tehzeeb)",
+      "definition": "Refined culture, exquisite etiquette, noble manners, and moral civility",
+      "category": "Cultural Ideal",
+      "level": "B1"
+    },
+    {
+      "term": "نزاکت (Nazakat)",
+      "definition": "Delicacy, elegance, subtlety, and grace in expression and comportment",
+      "category": "Aesthetic",
+      "level": "B2"
+    },
+    {
+      "term": "محبت (Mohabbat)",
+      "definition": "Deep, selfless, and soulful love that transcends the material world",
+      "category": "Emotion / Poetry",
+      "level": "A2"
+    },
+    {
+      "term": "گپ شپ (Gap-shap)",
+      "definition": "Warm, leisurely conversation, friendly chit-chat, and banter over tea",
+      "category": "Social Activity",
+      "level": "A1"
+    },
+    {
+      "term": "خلوص (Khuloos)",
+      "definition": "Pure, unadulterated sincerity and heartfelt intention in human relationships",
+      "category": "Virtue",
+      "level": "B1"
     }
   ],
   "swahili": [
@@ -4767,6 +4936,24 @@
         "Ukatili (cruelty / brutality)"
       ],
       "register": "Kifalsafa / Maadili (Philosophical / Ethical)"
+    },
+    {
+      "term": "Ubuntu / Utu",
+      "definition": "Humanity towards others (I am because we are; human worth is tied to community)",
+      "category": "Philosophy",
+      "level": "B1"
+    },
+    {
+      "term": "Amani",
+      "definition": "Peace, tranquility, and harmony in society and spirit",
+      "category": "Noun",
+      "level": "A1"
+    },
+    {
+      "term": "Umoja",
+      "definition": "Unity and solidarity among people and nations",
+      "category": "Principle",
+      "level": "A2"
     }
   ],
   "amharic": [
@@ -5129,6 +5316,24 @@
         "ስንፍና (laziness)"
       ],
       "register": "መደበኛ (Standard / Formal)"
+    },
+    {
+      "term": "እቁብ (Equb)",
+      "definition": "Rotating savings and credit association where members pool funds for mutual financial growth",
+      "category": "Economic Tradition",
+      "level": "B1"
+    },
+    {
+      "term": "ይሉኝታ (Yiluñta)",
+      "definition": "Deep social empathy, fear of dishonor, and consideration of how one's actions affect others",
+      "category": "Moral Psychology",
+      "level": "B2"
+    },
+    {
+      "term": "ሰላም (Selam)",
+      "definition": "Peace, health, and holistic wellbeing of body, mind, and community",
+      "category": "Noun / Greeting",
+      "level": "A1"
     }
   ],
   "romanian": [
@@ -5853,6 +6058,30 @@
         "Dato útil"
       ],
       "register": "Coloquial / Deportivo"
+    },
+    {
+      "term": "Mina",
+      "definition": "Woman or girl (Classic Lunfardo term widely used across Buenos Aires)",
+      "category": "Lunfardo / Noun",
+      "level": "A2"
+    },
+    {
+      "term": "Fiaca (tener fiaca)",
+      "definition": "Sluggish pleasant laziness or reluctance to move from a comfortable spot",
+      "category": "Idiom",
+      "level": "A2"
+    },
+    {
+      "term": "Pibe / Piba",
+      "definition": "Kid, boy, girl, or young person (Universal Rioplatense marker)",
+      "category": "Noun",
+      "level": "A1"
+    },
+    {
+      "term": "Gaucho (hacer una gauchada)",
+      "definition": "Doing someone a generous favor without expecting anything in return",
+      "category": "Cultural Idiom",
+      "level": "B1"
     }
   ],
   "brazilian-portuguese": [
@@ -6219,6 +6448,30 @@
         "Exclusão"
       ],
       "register": "Formal / Geral (Formal / General)"
+    },
+    {
+      "term": "Jeitinho Brasileiro",
+      "definition": "The creative, flexible Brazilian way of finding ingenious solutions around rigid obstacles",
+      "category": "Social Strategy",
+      "level": "B1"
+    },
+    {
+      "term": "Ginga",
+      "definition": "Fluid, swaying bodily rhythm and agility fundamental to Capoeira, Samba, and football",
+      "category": "Movement / Culture",
+      "level": "B1"
+    },
+    {
+      "term": "Gostoso / Gostosa",
+      "definition": "Delicious, deeply enjoyable, delightful, or physically attractive",
+      "category": "Adjective",
+      "level": "A1"
+    },
+    {
+      "term": "Desabafar",
+      "definition": "To vent, unburden your soul, and pour out pent-up emotions to a trusted friend",
+      "category": "Verb",
+      "level": "B1"
     }
   ],
   "english": [
@@ -7164,6 +7417,42 @@
         "وجد"
       ],
       "register": "أدبي / عام (Literary / General)"
+    },
+    {
+      "term": "إن شاء الله (Insha'Allah)",
+      "definition": "If God wills / God willing (Expresses future intention coupled with humility)",
+      "category": "Religious & Cultural Formula",
+      "level": "A1"
+    },
+    {
+      "term": "ما شاء الله (Masha'Allah)",
+      "definition": "What God has willed (Spoken to express genuine admiration, beauty, and ward off envy)",
+      "category": "Cultural Formula",
+      "level": "A1"
+    },
+    {
+      "term": "صمود (Sumud)",
+      "definition": "Steadfastness, unshakeable perseverance, and rooted resilience in the face of hardship",
+      "category": "Societal Value",
+      "level": "B2"
+    },
+    {
+      "term": "صبر (Sabr)",
+      "definition": "Enduring patience, spiritual fortitude, and emotional composure through difficulty",
+      "category": "Virtue / Philosophy",
+      "level": "A2"
+    },
+    {
+      "term": "نور (Noor)",
+      "definition": "Spiritual and physical radiant light, illumination, and clarity",
+      "category": "Noun",
+      "level": "A1"
+    },
+    {
+      "term": "سلام (Salaam)",
+      "definition": "Peace, wholeness, safety, and harmony (Foundational Semitic root S-L-M)",
+      "category": "Noun / Greeting",
+      "level": "A1"
     }
   ],
   "mandarin": [
@@ -7645,6 +7934,24 @@
         "得过且过 (Dé guò qiě guò)"
       ],
       "register": "成语 / 正式 (General / Formal)"
+    },
+    {
+      "term": "面子 (Miànzi)",
+      "definition": "Social reputation, honor, and prestige (Giving vs losing face in interpersonal interactions)",
+      "category": "Cultural Psychology",
+      "level": "B1"
+    },
+    {
+      "term": "人情 (Rénqíng)",
+      "definition": "Human empathy, emotional debt, and warmth that binds personal relationships together",
+      "category": "Ethics / Sociology",
+      "level": "B2"
+    },
+    {
+      "term": "缘分 (Yuánfèn)",
+      "definition": "Predestined affinity or serendipitous fate that brings two people together",
+      "category": "Philosophy / Idiom",
+      "level": "B1"
     }
   ],
   "cantonese": [
@@ -8360,6 +8667,30 @@
         "불효 (Bulhyo - unfilial conduct)"
       ],
       "register": "공식 / 윤리 (Formal / Ethical)"
+    },
+    {
+      "term": "화이팅 / 파이팅 (Hwaiting / Paiting)",
+      "definition": "Let's go! / Cheer up! / You can do it! (Universal South Korean encouragement cry)",
+      "category": "Colloquial Interjection",
+      "level": "A1"
+    },
+    {
+      "term": "대박 (Daebak)",
+      "definition": "Awesome! / Jackpot! / Incredible! (Widely used exclamation of pleasant surprise)",
+      "category": "Slang / Exclamation",
+      "level": "A1"
+    },
+    {
+      "term": "답답하다 (Dapdaphada)",
+      "definition": "Feeling suffocated, frustrated, or mentally blocked when something isn't moving forward",
+      "category": "Adjective",
+      "level": "A2"
+    },
+    {
+      "term": "설레다 (Seolleda)",
+      "definition": "Heart fluttering with joyful anticipation, excitement, or romantic butterflies",
+      "category": "Verb",
+      "level": "A2"
     }
   ],
   "cs110": [
@@ -8512,6 +8843,42 @@
       "definition": "Class of decision problems verifiable in polynomial time whose hardest instances can model all NP problems (SAT, Clique, TSP)",
       "category": "Complexity Theory",
       "level": "Academic"
+    },
+    {
+      "term": "Algorithmic Complexity (Big-O Notation)",
+      "definition": "Mathematical classification of algorithm efficiency in terms of execution time or memory growth relative to input size N",
+      "category": "Theoretical CS",
+      "level": "Core"
+    },
+    {
+      "term": "Recursion & Call Stack",
+      "definition": "A method where a function solves a problem by calling smaller instances of itself until reaching a base case",
+      "category": "Programming Paradigm",
+      "level": "Core"
+    },
+    {
+      "term": "Dynamic Programming (Memoization & Tabulation)",
+      "definition": "Optimizing recursive algorithms by breaking problems into overlapping subproblems and storing subproblem results",
+      "category": "Algorithm Design",
+      "level": "Advanced"
+    },
+    {
+      "term": "Pointer & Memory Reference Semantics",
+      "definition": "Variables that store the physical or virtual memory addresses of other data structures rather than values",
+      "category": "Systems Programming",
+      "level": "Core"
+    },
+    {
+      "term": "Hash Table & Amortized O(1) Lookup",
+      "definition": "Data structure that maps keys to array indices via a hash function, handling collisions through chaining or open addressing",
+      "category": "Data Structures",
+      "level": "Core"
+    },
+    {
+      "term": "Graph Traversal (BFS vs DFS)",
+      "definition": "Systematic vertex exploration strategies using queues (Breadth-First) vs stacks/recursion (Depth-First)",
+      "category": "Data Structures",
+      "level": "Core"
     }
   ],
   "b110": [
@@ -8664,6 +9031,30 @@
       "definition": "Simon’s cognitive framework recognizing that human decision-making is limited by cognitive bandwidth, imperfect information, and finite time",
       "category": "Behavioral Economics",
       "level": "Academic"
+    },
+    {
+      "term": "Customer Lifetime Value (LTV / CLV)",
+      "definition": "The discounted net profit generated by a customer relationship throughout its entire commercial duration",
+      "category": "Marketing Analytics",
+      "level": "Core"
+    },
+    {
+      "term": "Net Promoter Score (NPS)",
+      "definition": "Index measuring customer brand advocacy and loyalty based on willingness to recommend to others",
+      "category": "Consumer Metrics",
+      "level": "Core"
+    },
+    {
+      "term": "Cohort Analysis & Retention Decay",
+      "definition": "Tracking the behavioral retention and churn of specific customer groups over chronological time intervals",
+      "category": "Data Analytics",
+      "level": "Advanced"
+    },
+    {
+      "term": "Conjoint Analysis",
+      "definition": "Survey-based statistical technique to determine how customers value different product attributes and trade-offs",
+      "category": "Market Research",
+      "level": "Advanced"
     }
   ],
   "b111": [
@@ -8816,6 +9207,24 @@
       "definition": "Operational efficiencies (headcount reductions, shared software) and cross-selling upsides generated through business combinations",
       "category": "M&A Strategy",
       "level": "Academic"
+    },
+    {
+      "term": "Discounted Cash Flow (DCF Valuation)",
+      "definition": "Valuing an investment by projecting future free cash flows and discounting them back to present value using WACC",
+      "category": "Valuation",
+      "level": "Core"
+    },
+    {
+      "term": "Black-Scholes-Merton Option Model",
+      "definition": "Partial differential equation model determining theoretical fair price for European call/put options based on volatility",
+      "category": "Derivatives",
+      "level": "Advanced"
+    },
+    {
+      "term": "Efficient Market Hypothesis (EMH)",
+      "definition": "Theory stating that financial asset prices reflect all available information across weak, semi-strong, and strong forms",
+      "category": "Market Microstructure",
+      "level": "Core"
     }
   ],
   "chess": [
@@ -8968,6 +9377,30 @@
       "definition": "Strict tournament rule stating that a player who intentionally touches a piece must move or capture it, unless announcing \"J’adoube\" (I adjust)",
       "category": "Tournament Rules",
       "level": "Beginner"
+    },
+    {
+      "term": "Outpost Knight",
+      "definition": "A knight established on an advanced hole in opponent's camp (ranks 4-6) protected by a pawn and unassailable by enemy pawns",
+      "category": "Positional Strategy",
+      "level": "Core"
+    },
+    {
+      "term": "Lucena Position",
+      "definition": "The foundational winning endgame technique for rook-and-pawn endings, building a 'bridge' to queen the pawn",
+      "category": "Endgame Mastery",
+      "level": "Advanced"
+    },
+    {
+      "term": "Philidor Position",
+      "definition": "The key defensive drawing technique in rook-and-pawn endings by cutting off the attacking king with a 3rd-rank rook barrier",
+      "category": "Endgame Mastery",
+      "level": "Advanced"
+    },
+    {
+      "term": "Pawn Majority & Passed Pawn Creation",
+      "definition": "Having more pawns on one flank to engineer an unstoppable passed pawn that forces enemy pieces into defense",
+      "category": "Pawn Structure",
+      "level": "Core"
     }
   ],
   "morse": [
@@ -9880,15 +10313,39 @@
       "definition": "Slow-wave sleep and Growth Hormone release driving tissue repair, hormonal balance (testosterone/cortisol), and CNS recovery",
       "category": "Recovery & Longevity",
       "level": "Beginner"
+    },
+    {
+      "term": "Overcoming vs Yielding Isometric Contraction",
+      "definition": "Overcoming isometrics press against an immovable barrier with 100% voluntary effort; yielding isometrics resist gravitational descent",
+      "category": "Muscle Mechanics",
+      "level": "Core"
+    },
+    {
+      "term": "Time Under Tension (TUT) & Tempo Notation",
+      "definition": "Standard 4-digit cadence (e.g. 4-0-1-0 = 4s eccentric descent, 0s pause, 1s concentric drive, 0s top lockout)",
+      "category": "Program Design",
+      "level": "Core"
+    },
+    {
+      "term": "Post-Activation Potentiation (PAP)",
+      "definition": "Enhanced neuromuscular performance in an explosive movement achieved immediately following a maximal isometric pre-load",
+      "category": "Neuro-Muscular Power",
+      "level": "Advanced"
+    },
+    {
+      "term": "Scapulohumeral Rhythm & Centration",
+      "definition": "The synchronized kinematic 2:1 ratio between glenohumeral elevation and scapular upward rotation protecting shoulder joints",
+      "category": "Biomechanics",
+      "level": "Core"
+    },
+    {
+      "term": "Intra-Abdominal Pressure (IAP) & 360° Bracing",
+      "definition": "Deep diaphragmatic expansion and transverse abdominis co-contraction creating rigid hydraulic spinal stability",
+      "category": "Spinal Mechanics",
+      "level": "Core"
     }
   ]
 };
-
-  Object.keys(DICT).forEach(k => {
-    global.FEARN_DICTIONARY[k] = DICT[k];
-  });
-
-  if (typeof module !== 'undefined' && module.exports) {
-    module.exports = DICT;
-  }
+  global.FEARN_DICTIONARY = DICTIONARY;
+  if (typeof module !== 'undefined' && module.exports) module.exports = DICTIONARY;
 })(typeof window !== 'undefined' ? window : global);

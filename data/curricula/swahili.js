@@ -485,57 +485,89 @@
         "subject": "swahili",
         "unit": 1,
         "lessonNumber": 1,
-        "title": "Matamshi ya Kiswahili, Irabu na Silabi (Phonetics, Vowels & Open Syllables)",
+        "title": "Alfabeti ya Kiswahili, Silabi za Mkazo na Salamu za Kimsingi (Swahili Alphabet, Stress & Core Greetings)",
         "level": "A1",
-        "objective": "Swahili Bantu Phonology, Penultimate Stress & Core Greetings: Master pure 5-vowel system (a, e, i, o, u), stress on the second-to-last syllable, and greeting protocols (Hujambo / Sijambo, Habari).",
+        "objective": "Master Swahili phonology, the 5 pure vowels (A, E, I, O, U), the invariable penultimate stress rule, consonant digraphs (dh, gh, ng', ch, sh), and authentic Bantu greetings.",
         "presentation": {
-            "explanation": "Welcome to Kiswahili! Swahili uses the Latin alphabet with a regular, phonetic spelling system rooted in Bantu phonology. (1) **Vowels (Irabu)**: Exactly five pure vowels without diphthongs: *a* [a] (father), *e* [ɛ] (bed), *i* [i] (see), *o* [ɔ] (law), *u* [u] (boot). (2) **Penultimate Stress Rule**: In Swahili, stress almost invariably falls on the **second-to-last (penultimate) syllable** of a word (e.g. hu-JAM-bo, ha-BA-ri, a-SAN-te, ka-RI-bu). (3) **Consonant digraphs**: *ch* (chair), *dh* (this), *th* (think), *gh* (Arabic voiced velar), *ng'* (singer). (4) **Greeting Protocols**: Swahili culture places high social value on greetings: «Hujambo?» (*Are you well?*, to one person) answered with «Sijambo» (*I am well*); «Habari gani?» (*What news?*) answered with «Nzuri» (*Good*); and respectful «Shikamoo» (to an elder) answered with «Marahaba».",
+            "explanation": "Karibu katika lugha ya Kiswahili! Welcome to Swahili (Kiswahili)! Swahili is the lingua franca of East Africa, spoken by over 100 million people across Tanzania, Kenya, Uganda, Rwanda, DRC, and Mozambique. Swahili is completely phonetic with zero irregular vowel shifts.\n\n### 1. Irabu Tano (The 5 Pure Vowels)\nSwahili vowels never change into diphthongs or schwas—they are always crisp, open, and pure:\n- **A** [a] — Open \"ah\" (as in \"father\" — e.g. **asante** = thank you)\n- **E** [ɛ] — Mid \"eh\" (as in \"bed\" — e.g. **ndiyo** = yes)\n- **I** [i] — Close \"ee\" (as in \"see\" — e.g. **jina** = name, **mimi** = I)\n- **O** [ɔ] — Open \"oh\" (as in \"or\" — e.g. **somo** = lesson)\n- **U** [u] — Close \"oo\" (as in \"moon\" — e.g. **mtu** = person, **kuku** = chicken)\n\n### 2. Kanuni Kuu ya Mkazo (The Invariable Penultimate Stress Rule)\nIn Swahili, **the stress (accent) ALWAYS falls on the second-to-last (penultimate) syllable** of every word without exception:\n- **ha-BA-ri** (news / how are you?)\n- **a-SAN-te** (thank you)\n- **ki-SWA-hi-li** (Swahili language)\n- **ka-RI-bu** (welcome)\n\n### 3. Matamshi Maalum (Consonant Digraphs)\n- **ng'** [ŋ] — Velar nasal without hard G (like \"singer\" — e.g. **ng'ombe** = cow)\n- **dh** [ð] — Voiced dental fricative (like \"th\" in \"this\" — e.g. **dhahabu** = gold)\n- **th** [θ] — Voiceless dental fricative (like \"th\" in \"think\" — e.g. **thelathini** = thirty)\n- **gh** [ɣ] — Voiced velar fricative (warm guttural — e.g. **ghali** = expensive)\n- **ny** [ɲ] — Palatal nasal (like Spanish ñ / \"canyon\" — e.g. **nyumba** = house)",
             "examples": [
                 {
-                    "target": "Hujambo! Habari za asubuhi? — Sijambo, nzuri sana.",
-                    "reading": "hu-JAM-bo! ha-BA-ri za a-su-BU-hi? — si-JAM-bo, n-ZU-ri SA-na.",
-                    "translation": "Hello! How is the morning? — I am well, very good."
+                    "target": "jambo",
+                    "reading": "JAHM-boh",
+                    "translation": "matter / hello (penultimate stress on JAHM)"
                 },
                 {
-                    "target": "Asante sana! Karibu tena Tanzania na Kenya.",
-                    "reading": "a-SAN-te SA-na! ka-RI-bu TE-na tan-za-NI-a na KE-nya.",
-                    "translation": "Thank you very much! Welcome again to Tanzania and Kenya."
+                    "target": "asante",
+                    "reading": "ah-SAHN-tay",
+                    "translation": "thank you (stress on SAHN)"
+                },
+                {
+                    "target": "karibu",
+                    "reading": "kah-REE-boo",
+                    "translation": "welcome / near (stress on REE)"
+                },
+                {
+                    "target": "habari",
+                    "reading": "hah-BAH-ree",
+                    "translation": "news / how are you? (stress on BAH)"
                 }
             ],
             "mnemonics": [
-                "Swahili Golden Rule: Stress ALWAYS on the second-to-last syllable! Hujambo -> Sijambo; Asante sana = Thank you very much."
+                "Swahili rhythm: Always bounce the voice on the SECOND-TO-LAST syllable (ha-BA-ri, a-SAN-te, ka-RI-bu)!"
             ],
             "culturalNotes": [
-                "Kiswahili is the official lingua franca of the East African Community and the African Union, spoken by over 100 million people across Tanzania, Kenya, Uganda, Rwanda, DRC, and Mozambique."
+                "In Swahili culture, respectful greetings are paramount. Younger people greet respected elders with «Shikamoo» (lit. \"I hold your feet with respect\"), to which elders reply «Marahaba» (\"I accept with grace\")."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Mtu anapokuuliza \"Hujambo?\", jibu sahihi na sanifu la Kiswahili ni lipi?",
+                    "prompt": "Where does the primary stress (syllable accent) fall in virtually every Swahili word?",
                     "options": [
-                        "Sijambo! (I am fine / I have no problems - Standard first-person singular response)",
-                        "Hatujambo (Majibu ya wingi badala ya umoja)",
-                        "Kwaheri (Kauli ya kuagana)",
-                        "Marahaba (Jibu la salamu ya Shikamoo pekee)"
+                        "Always on the second-to-last (penultimate) syllable (e.g. ha-BA-ri, a-SAN-te)",
+                        "Always on the last syllable",
+                        "Always on the first syllable",
+                        "It is unpredictable"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Salamu ya umoja «Hujambo?» (You have no problem?) hujibiwa kwa «Sijambo!» (I have no problem)."
+                    "explanation": "In Swahili, syllable stress invariably falls on the penultimate (second-to-last) syllable."
+                },
+                {
+                    "prompt": "What does the universal Swahili expression of gratitude «asante» mean?",
+                    "options": [
+                        "thank you",
+                        "welcome",
+                        "goodbye",
+                        "hello"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "«asante» means \"thank you\"."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Katika matamshi ya maneno ya Kiswahili kama 'mwalimu' na 'kitabu', mkazo wa sauti huwekwa wapi?",
+                    "prompt": "Select the Swahili word meaning \"welcome\" (also used as \"you are welcome\" after asante):",
                     "options": [
-                        "Kwenye silabi ya pili kutoka mwisho (Penultimate syllable stress: mwa-LI-mu, ki-TA-bu)",
-                        "Kwenye silabi ya mwisho kabisa kila mara",
-                        "Kwenye herufi ya kwanza bila kujali silabi",
-                        "Hakuna mkazo wowote katika matamshi"
+                        "karibu (welcome)",
+                        "habari (news)",
+                        "jambo (hello)",
+                        "ndiyo (yes)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Kanuni kuu ya kifonolojia ya Kiswahili ni mkazo kuangukia kwenye silabi ya pili kutoka mwisho."
+                    "explanation": "«karibu» means \"welcome\" and responds to \"asante\"."
+                },
+                {
+                    "prompt": "How is the digraph «ng'» pronounced in Swahili words like «ng'ombe» (cow)?",
+                    "options": [
+                        "As a pure velar nasal [ŋ] like \"ng\" in \"singer\" (without a hard \"g\")",
+                        "As hard \"n-g\"",
+                        "As an English \"N\"",
+                        "Silent"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "«ng'» is the pure velar nasal [ŋ]."
                 }
             ]
         },
@@ -543,18 +575,25 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Chagua sentensi sahihi inayoelezea matamshi na salamu ya msingi ya Kiswahili:",
+                    "prompt": "What does the Swahili word «habari» mean in greetings?",
                     "options": [
-                        "Kiswahili kina irabu tano safi na mkazo kwenye silabi ya pili kutoka mwisho, na salamu ya 'Hujambo' hujibiwa kwa 'Sijambo'. (Swahili has five pure vowels with penultimate stress, and Hujambo is answered with Sijambo.)",
-                        "Mkazo wa Kiswahili huwekwa kwenye neno la mwisho la sentensi nzima kila mara.",
-                        "Irabu za Kiswahili hutamkwa kwa mtindo wa kumeza sauti zote za mwisho.",
-                        "Neno 'Hujambo' halina jibu lolote katika mazungumzo sanifu."
+                        "news / how are you?",
+                        "water",
+                        "house",
+                        "food"
                     ],
                     "answerIndex": 0,
-                    "explanation": "«Kiswahili kina irabu tano safi na mkazo kwenye silabi ya pili kutoka mwisho, na salamu ya 'Hujambo' hujibiwa kwa 'Sijambo'.» ndiyo kauli fasaha na sahihi."
+                    "explanation": "«habari» means \"news\" (e.g. *Habari gani?* = What is the news / How are you?)."
+                },
+                {
+                    "type": "typed-recall",
+                    "prompt": "Type the Swahili word for \"Thank you\" (a-s-a-n-t-e):",
+                    "acceptedAnswers": [
+                        "asante"
+                    ],
+                    "explanation": "«asante» = thank you."
                 }
-            ],
-            "passThreshold": 0.8
+            ]
         }
     },
     "sw-u1-l2": {

@@ -482,62 +482,92 @@
   var LESSONS = {
     "fr-u1-l1": {
         "id": "fr-u1-l1",
-        "unit": "fr-u1",
+        "subject": "french",
+        "unit": 1,
+        "lessonNumber": 1,
+        "title": "L'Alphabet Français, les 5 Accents et les Lettres Muettes (The French Alphabet, 5 Accents & Silent Letters)",
         "level": "A1",
-        "objective": "French Pronunciation Rules (Silent Letters, Nasals, Liaison) & Register Greetings: Master formal (vous) vs informal (tu) greetings (Bonjour, Salut, Enchanté).",
-        "prerequisites": [],
-        "warmup": {
-            "srsPull": true,
-            "reviewFocus": []
-        },
+        "objective": "Master the 26-letter French alphabet, the 5 orthographic accents (é, è/à/ù, â/ê/î/ô/û, ë/ï/ü, ç), silent final consonants, and nasal vowel sounds.",
         "presentation": {
-            "explanation": "Welcome to French (Français)! French orthography and spoken pronunciation diverge systematically through three core phonetic rules: (1) **Silent Final Consonants**: The final consonants *s, t, d, p, x, z* are usually silent at the end of words (e.g. *salut* = /sa-ly/, *vous* = /vu/), unless followed by the \"CaReFuL\" mnemonic consonants (*c, r, f, l* which are often pronounced); (2) **Nasal Vowels**: Vowel + *n* or *m* produces rich nasal sounds: *an/en* (/ɑ̃/), *in/ain* (/ɛ̃/), *on* (/ɔ̃/), *un* (/œ̃/); (3) **Liaison**: An otherwise silent final consonant is pronounced when the next word starts with a vowel or silent 'h' (e.g. *vous avez* = /vu-za-ve/). Greetings reflect social register: formal «Bonjour» (Good day/Hello) and «Bonsoir» (Good evening) paired with «vous», versus casual «Salut» (Hi/Bye) with «tu». The courteous response when meeting someone is «Enchanté(e)» (*Pleased to meet you*).",
+            "explanation": "Bienvenue en français! Welcome to French (français)! French orthography carries centuries of etymological elegance. Once you master the 5 accent marks and the rules for silent letters, reading French becomes fluid and predictable.\n\n### 1. Les 5 Accents Français\n1. **Accent Aigu (é)** [e] — Closed \"ay\" (only on the letter E: e.g. **café** = coffee, **été** = summer, **étudiant** = student)\n2. **Accent Grave (è, à, ù)** [ɛ] — Open \"eh\" (e.g. **mère** = mother, **frère** = brother). On *à* and *ù*, it distinguishes homophones (e.g. *a* [has] vs *à* [at/to], *ou* [or] vs *où* [where])\n3. **Accent Circonflexe (â, ê, î, ô, û)** — Indicates a historical 's' dropped from Old French (e.g. **hôpital** from hospital, **forêt** from forest, **château** from castle)\n4. **Tréma (ë, ï, ü)** — Indicates that two consecutive vowels must be pronounced separately in two syllables (e.g. **Noël** = *No-el* / Christmas, **maïs** = *ma-ees* / corn, **naïf**)\n5. **Cédille (ç)** [s] — Always softens the letter \"C\" to an \"S\" sound before the hard vowels a, o, u (e.g. **français** = French, **garçon** = boy, **ça va** = it's going well)\n\n### 2. The Silent Final Letters (Les Lettres Muettes)\nIn French, consonants at the very end of words are usually **SILENT**, especially **-e, -s, -t, -d, -p, -x, -z**:\n- **salut** &rarr; pronounced *[sah-ly]* (the final 't' is silent!)\n- **français** &rarr; pronounced *[frahn-seh]* (the final 's' is silent!)\n- **grand** &rarr; pronounced *[grahn]* (the final 'd' is silent!)\n*(Rule of thumb: The consonants in \"CaReFuL\" (C, R, F, L) are usually pronounced at word ends, e.g. sac, mer, neuf, ciel)*",
             "examples": [
                 {
-                    "target": "Bonjour madame, comment allez-vous ? — Très bien, merci.",
-                    "reading": "bon-ZHOOR ma-DAM, ko-mahn ta-lay VOO? — tray BYAN, mair-SEE.",
-                    "translation": "Good day madam, how are you (formal)? — Very well, thank you."
+                    "target": "français",
+                    "reading": "frahn-seh",
+                    "translation": "French (cédille ç [s] + silent s)"
                 },
                 {
-                    "target": "Salut ! Ça va ? — Oui, ça va super bien, et toi ?",
-                    "reading": "sa-LYOO! sa VA? — WEE, sa va soo-pair BYAN, ay TWA?",
-                    "translation": "Hi! How's it going? — Yes, going great, and you?"
+                    "target": "café",
+                    "reading": "kah-fay",
+                    "translation": "coffee / café (accent aigu é [e])"
+                },
+                {
+                    "target": "garçon",
+                    "reading": "gahr-sohn",
+                    "translation": "boy / waiter (cédille ç [s])"
+                },
+                {
+                    "target": "salut",
+                    "reading": "sah-ly",
+                    "translation": "hi / bye (silent final t)"
                 }
             ],
             "mnemonics": [
-                "Silent finals: S, T, D, X are quiet! Liaison links words with vowels. Bonjour = Formal Hello, Salut = Casual Hi."
+                "Cédille (ç) acts like a little snake turning hard \"C\" into a soft \"S\"! Final -s, -t, -d, -x stay silent unless a vowel follows (liaison)!"
             ],
             "culturalNotes": [
-                "In France, greeting shopkeepers with a clear «Bonjour» upon entering and «Au revoir, bonne journée» upon leaving is an essential social code of respect."
+                "L'Académie française (founded in 1635 by Cardinal Richelieu) officially regulates the official grammar, spelling, and purity of the French language."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "À 19h30, vous entrez dans un restaurant à Paris. Quelle salutation formelle est la plus appropriée ?",
+                    "prompt": "What is the function of the Cédille (ç) diacritic in French words like «français» and «garçon»?",
                     "options": [
-                        "Bonsoir, monsieur.",
-                        "Bonjour, monsieur.",
-                        "Salut, mec !",
-                        "Bonne nuit, monsieur."
+                        "It softens the \"C\" to a voiceless [s] sound before vowels a, o, u",
+                        "It makes the letter \"C\" silent",
+                        "It turns the \"C\" into a \"K\" sound",
+                        "It marks a stressed syllable"
                     ],
                     "answerIndex": 0,
-                    "explanation": "En soirée (après le coucher du soleil ou dès la fin d'après-midi), 'Bonsoir' est la salutation standard polie. 'Bonjour' s'utilise le matin et l'après-midi."
+                    "explanation": "La cédille (ç) softens the \"c\" to an \"s\" sound before the back vowels a, o, u."
+                },
+                {
+                    "prompt": "In the French informal greeting «salut» (hi/bye), how is the final letter «-t» pronounced?",
+                    "options": [
+                        "It is completely silent [sah-ly]",
+                        "It is pronounced as a hard \"T\"",
+                        "It is pronounced as \"S\"",
+                        "It is rolled"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Final consonants like -t in «salut» are silent in standard French."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Vous quittez vos collègues de bureau à la fin de la journée de travail. Que leur dites-vous pour leur souhaiter une bonne fin de journée ?",
+                    "prompt": "Which French accent mark indicates that two adjacent vowels are pronounced separately (as in «Noël»)?",
                     "options": [
-                        "Au revoir et bonne soirée !",
-                        "Bonjour et bon courage !",
-                        "Salut, comment allez-vous ?",
-                        "Enchanté de faire votre connaissance."
+                        "Le Tréma (ë, ï - two dots for separate vowel syllables)",
+                        "L'Accent Aigu (é)",
+                        "L'Accent Grave (è)",
+                        "La Cédille (ç)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "'Au revoir et bonne soirée !' est la formule consacrée pour prendre congé de manière polie en fin de journée."
+                    "explanation": "Le tréma (¨) forces two adjacent vowels to be articulated independently in separate syllables."
+                },
+                {
+                    "prompt": "Select the French word meaning \"boy / waiter\" spelled with a cédille «garçon»:",
+                    "options": [
+                        "garçon (boy / waiter)",
+                        "café (coffee)",
+                        "français (French)",
+                        "salut (hi)"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "«garçon» means \"boy\" or \"waiter\"."
                 }
             ]
         },
@@ -545,27 +575,26 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Quelle formule informelle utilise-t-on exclusivement avec des amis proches ou de la famille pour dire bonjour ?",
+                    "prompt": "What does the French word «café» mean in English?",
                     "options": [
-                        "Salut !",
-                        "Bonjour, madame.",
-                        "Bonsoir, monsieur.",
-                        "Au revoir, monsieur."
+                        "coffee / café",
+                        "boy",
+                        "street",
+                        "bread"
                     ],
                     "answerIndex": 0,
-                    "explanation": "'Salut' est un terme informel réservé aux pairs, amis et membres de la famille."
+                    "explanation": "«café» means \"coffee\" or \"café\"."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez la salutation formelle standard utilisée le matin et l'après-midi (terme attendu : « Bonjour ») :",
+                    "prompt": "Type the French word for \"French\" with a cédille (f-r-a-n-c-a-i-s):",
                     "acceptedAnswers": [
-                        "Bonjour",
-                        "bonjour"
+                        "français",
+                        "francais"
                     ],
-                    "explanation": "Le mot exact est « Bonjour »."
+                    "explanation": "«français» = French."
                 }
-            ],
-            "passThreshold": 0.8
+            ]
         }
     },
     "fr-u1-l2": {

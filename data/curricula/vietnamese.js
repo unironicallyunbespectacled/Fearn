@@ -448,160 +448,92 @@
   var LESSONS = {
     "vi-u1-l1": {
         "id": "vi-u1-l1",
-        "unit": "vi-u1",
+        "subject": "vietnamese",
+        "unit": 1,
+        "lessonNumber": 1,
+        "title": "Chữ Quốc Ngữ: 29 Chữ Cái, 6 Thanh Điệu và Nguyên Âm Đôi (Quốc Ngữ Alphabet, 6 Tones & Vowels)",
         "level": "A1",
-        "objective": "Recognize and produce Vietnamese's six tones using the classic ma/má/mà/mả/mã/mạ example, master the aspirated vs fricative consonant pairs (ph, th, kh), and greet someone with xin chào.",
-        "prerequisites": [],
-        "warmup": {
-            "srsPull": true,
-            "reviewFocus": []
-        },
+        "objective": "Master the Latin-based Chữ Quốc Ngữ alphabet (29 letters), the 12 modified vowels (ă, â, ê, ô, ơ, ư), and the 6 lexical tones of Vietnamese (ngang, huyền, sắc, hỏi, ngã, nặng).",
         "presentation": {
-            "explanation": "Before a single word of vocabulary, Vietnamese asks you to hear something English speakers normally ignore: pitch contour is part of the WORD, not just the mood. Say the exact same consonant-vowel combo with six different pitch shapes and you get six completely unrelated words — no shared meaning, no relation, total accident that they share letters.\n\n### 🔤 The 6 Tones of Vietnamese (Thanh điệu):\n1. **Thanh Ngang** (Level / Flat, no mark): Mid-high level pitch [˧˧ / 44], relaxed vocal cords. *ma* = 'ghost'.\n2. **Thanh Huyền** (Falling, grave accent `\\`): Low-falling pitch [˨˩ / 31], soft and breathy. *mà* = 'but / which'.\n3. **Thanh Sắc** (Rising, acute accent `/`): Mid-high rising pitch [˧˥ / 45], energetic and sharp. *má* = 'mother / cheek'.\n4. **Thanh Hỏi** (Dipping-rising, hook above `?`): Mid-falling then rising pitch [˧˩˧ / 323], smooth curve in throat. *mả* = 'tomb / grave'.\n5. **Thanh Ngã** (Creaky-rising, tilde `~`): High rising pitch with a distinctive glottal stop / creaky break in the middle [˧ˀ˥ / 45]. *mã* = 'horse / code'.\n6. **Thanh Nặng** (Heavy / Dropping, dot below `.`): Low constricted pitch cut off abruptly by vocal cord closure [˨˩ˀ / 21]. *mạ* = 'rice seedling'.\n\n### 🗣️ Core Consonant Trap (ph, th, kh):\n- **ph** = [f] (standard English 'f' sound in *photo*, e.g. *phở* [fəː˧˩˧], *phải* [faːj˧˩˧]).\n- **th** = [tʰ] (strongly ASPIRATED 't', like the puff of air in English *top*, distinct from unaspirated **t** [t] in *tôi*).\n- **kh** = [x] (voiceless velar fricative, like the Scottish 'ch' in *loch* or German *Bach*, e.g. *không* [xəwŋm˧˧] = 'no', *khỏe* [xwɛ˧˩˧] = 'healthy').\n\nXin chào is your first vocabulary payoff: a polite, safe, all-purpose 'hello' that works with virtually anyone, in virtually any context.",
+            "explanation": "Chào mừng bạn đến với tiếng Việt! Welcome to Vietnamese (tiếng Việt)! Vietnamese is written in **Chữ Quốc Ngữ**, a Latin script created in the 17th century by Alexandre de Rhodes using Portuguese and Romance orthography adapted with diacritics.\n\n### 1. The 12 Vowels (Nguyên Âm)\n- **a** [a:] (long \"ah\") vs **ă** [a] (short snappy \"ah\")\n- **â** [ɤ] (short \"uh\" as in \"sun\")\n- **e** [ɛ] (open \"eh\" as in \"bed\") vs **ê** [e] (closed \"ay\" as in \"café\")\n- **i / y** [i] (bright \"ee\" as in \"see\")\n- **o** [ɔ] (open \"aw\" as in \"law\") vs **ô** [o] (closed \"oh\" as in \"boat\")\n- **ơ** [ɤ:] (long unrounded \"uh/er\" as in \"her\")\n- **u** [u] (rounded \"oo\" as in \"moon\") vs **ư** [ɨ] (unrounded \"oo\" — smile and say \"oo\")\n\n### 2. Sáu Thanh Điệu (The 6 Lexical Tones)\nVietnamese is a tonal language where the same syllable spoken with different pitch contours has totally distinct meanings:\n1. **Thanh Ngang (Level / Mid Flat)** — No mark: **ma** = ghost / phantom\n2. **Thanh Huyền (Falling / Low Smooth)** — Grave (`): **mà** = but / which\n3. **Thanh Sắc (Rising / High Sharp)** — Acute (´): **má** = mother / cheek\n4. **Thanh Hỏi (Dipping-Rising / Question)** — Hook ( ̉ ): **mả** = tomb / grave\n5. **Thanh Ngã (High Glottal Broken)** — Tilde (~): **mã** = horse / code\n6. **Thanh Nặng (Low Glottal Drop / Heavy)** — Dot below (.): **mạ** = rice seedling\n\n### 3. Key Initial Consonants\n- **Đ đ** [ɗ] — True hard implosive \"D\" (e.g. **đi** = to go, **đẹp** = beautiful)\n- **D d** — Pronounced as [z] in North (Hanoi) / [j] in South (Saigon) (e.g. **da** = skin)\n- **Ph ph** [f] (e.g. **phở** = noodle soup)\n- **Nh nh** [ɲ] (e.g. **nhà** = house)\n- **Ng / Ngh** [ŋ] (e.g. **ngon** = delicious, **người** = person)",
             "examples": [
                 {
-                    "target": "ma",
-                    "reading": "[maː˧˧] (level tone, no mark)",
-                    "translation": "ghost"
+                    "target": "phở",
+                    "reading": "fuh",
+                    "translation": "noodle soup (ph [f] + ơ [unrounded] + hỏi tone)"
                 },
                 {
-                    "target": "má",
-                    "reading": "[maː˧˥] (sharply rising tone — sắc)",
-                    "translation": "mother / cheek"
+                    "target": "nhà",
+                    "reading": "nyah",
+                    "translation": "house / home (nh [palatal] + a + huyền falling tone)"
                 },
                 {
-                    "target": "mà",
-                    "reading": "[maː˨˩] (low falling tone — huyền)",
-                    "translation": "but / which"
+                    "target": "ngon",
+                    "reading": "ngawn",
+                    "translation": "delicious (ng [velar] + o + n)"
                 },
                 {
-                    "target": "mả",
-                    "reading": "[maː˧˩˧] (dipping-then-rising tone — hỏi)",
-                    "translation": "grave / tomb"
-                },
-                {
-                    "target": "mã",
-                    "reading": "[maː˧ˀ˥] (creaky broken-rising tone — ngã)",
-                    "translation": "code / horse"
-                },
-                {
-                    "target": "mạ",
-                    "reading": "[maː˨˩ˀ] (short, low, heavy cut-off tone — nặng)",
-                    "translation": "rice seedling"
-                },
-                {
-                    "target": "Xin chào!",
-                    "reading": "[sin˧˧ caːw˨˩] (sin chow)",
-                    "translation": "Hello! (polite, safe with anyone — xin is level tone, chào is falling huyền tone)"
-                },
-                {
-                    "target": "Khỏe không?",
-                    "reading": "[xwɛ˧˩˧ xəwŋm˧˧]",
-                    "translation": "Are you healthy/fine? (kh is velar fricative [x], khỏe has hỏi dipping tone)"
+                    "target": "chào",
+                    "reading": "chaow",
+                    "translation": "hello / greetings (ch + a + o + huyền tone)"
                 }
             ],
             "mnemonics": [
-                "Ma-má-mà-mả-mã-mạ is THE canonical drill every Vietnamese textbook uses for a reason: one syllable, six unrelated meanings, purely from pitch. 'ghost, mother, but, grave, horse, rice seedling' from six ways of saying the same two letters.",
-                "Picture the tone MARKS as literal pitch drawings: á tilts up (rising), à tilts down (falling), ả curves down-then-up (dip), ã wobbles with a creak partway (broken-rise), ạ gets stomped flat and short (heavy/cut-off).",
-                "Consonant Triad: 'ph' = f (face), 'th' = t-with-air (top), 'kh' = loch-ch (throat friction)!"
+                "Tone marks match their sound pitch: Huyền drops down (`), Sắc shoots up (´), Hỏi dips like a question mark ( ̉ ), Ngã breaks with a wave (~), Nặng drops heavy like an anchor (.)!"
             ],
             "culturalNotes": [
-                "This course teaches the Hanoi (Northern) six-tone system, the basis of standard broadcast Vietnamese — Southern/Central varieties merge some of these tones together (hỏi and ngã merge into a single dipping tone in the South), so don't be surprised if a speaker from Ho Chi Minh City sounds like they're using five distinct pitches; both are authentic, standard Vietnamese."
+                "Phở (noodle soup) is Vietnam's culinary gift to the world, reflecting the delicate aromatic harmony of star anise, cinnamon, charred ginger, and simmered broth."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "How is the Vietnamese consonant digraph 'kh' (as in khỏe and không) pronounced?",
+                    "prompt": "Which Vietnamese tone is marked by a dot underneath the vowel and drops sharply with a glottal stop (as in «mạ»)?",
                     "options": [
-                        "As a standard English 'k' like in cat",
-                        "As a voiceless velar fricative [x] (like the 'ch' in Scottish loch or German Bach)",
-                        "As a silent letter",
-                        "As 'sh'"
+                        "Thanh Nặng (Heavy drop / low glottal stop with dot below)",
+                        "Thanh Sắc (Rising tone with acute mark)",
+                        "Thanh Huyền (Falling tone with grave mark)",
+                        "Thanh Ngang (Flat tone)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "kh represents the fricative [x], made with gentle friction in the back of the throat."
+                    "answerIndex": 0,
+                    "explanation": "«Thanh Nặng» is written with a dot underneath the vowel."
                 },
                 {
-                    "prompt": "In the ma tone-drill, which word means 'ghost'?",
+                    "prompt": "What is the phonetic difference between «Đ đ» and «D d» in the Vietnamese alphabet?",
                     "options": [
-                        "mạ (heavy/cut-off) (1.1)",
-                        "mà (falling) (1.2)",
-                        "ma (level tone) (1.3)",
-                        "má (rising) (1.4)"
+                        "«Đ đ» is a hard implosive [d] (as in \"đi\"), while «D d» is pronounced [z] (North) or [y] (South)",
+                        "They are pronounced identically",
+                        "«Đ đ» is silent",
+                        "«D d» is an \"R\" sound"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "ma with the plain/level tone (no mark) means 'ghost.'"
-                },
-                {
-                    "prompt": "má means:",
-                    "options": [
-                        "rice seedling",
-                        "but",
-                        "ghost",
-                        "mother / cheek"
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "má, sharply rising tone, means mother/cheek."
-                },
-                {
-                    "prompt": "Why does getting a tone wrong matter so much in Vietnamese?",
-                    "options": [
-                        "Tones only affect formality, not meaning",
-                        "It doesn't really matter, context always fixes it",
-                        "Tones are optional in written Vietnamese",
-                        "The tone is part of the word's identity — wrong tone often means a completely different, unrelated word"
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "The ma/má/mà/mả/mã/mạ set proves tones change meaning entirely, not just nuance."
-                },
-                {
-                    "prompt": "Xin chào is best described as:",
-                    "options": [
-                        "Only used with children",
-                        "A rude word to avoid",
-                        "A goodbye phrase",
-                        "A polite, safe, all-purpose hello for almost any context"
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "Xin chào is the safe default greeting before you've learned pronoun etiquette."
+                    "answerIndex": 0,
+                    "explanation": "«Đ» is the hard implosive stop [ɗ], whereas «D» represents [z] or [j]."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Which tone is marked by a tilde (~) and pronounced with a high creaky break in Northern Vietnamese (as in mã)?",
+                    "prompt": "Select the Vietnamese word meaning \"noodle soup\" spelled «phở»:",
                     "options": [
-                        "Thanh Ngã (broken-rising creaky tone)",
-                        "Thanh Huyền (falling)",
-                        "Thanh Sắc (rising)",
-                        "Thanh Nặng (dot below)"
+                        "phở (noodle soup)",
+                        "nhà (house)",
+                        "ngon (delicious)",
+                        "chào (hello)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Thanh ngã is marked with a tilde and has a distinctive creaky/glottalized break."
+                    "explanation": "«phở» is the iconic Vietnamese national dish."
                 },
                 {
-                    "prompt": "mà means:",
+                    "prompt": "Which vowel letter represents the unrounded back vowel [ɨ] (smile and say \"oo\") in Vietnamese?",
                     "options": [
-                        "grave / tomb (1.1)",
-                        "code / horse (1.2)",
-                        "ghost (1.3)",
-                        "but (1.4)"
+                        "ư (unrounded [ɨ] with hook)",
+                        "u (rounded [u])",
+                        "o (open [ɔ])",
+                        "a (open [a])"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "mà, low falling tone, means 'but.'"
-                },
-                {
-                    "prompt": "Which tone mark is a dot placed BELOW the vowel?",
-                    "options": [
-                        "ngã (creaky-rising)",
-                        "nặng (heavy, short, cut-off)",
-                        "sắc (rising)",
-                        "huyền (falling)"
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "nặng is marked with a dot below and is short/abrupt."
+                    "answerIndex": 0,
+                    "explanation": "«ư» represents the close central/back unrounded vowel [ɨ]."
                 }
             ]
         },
@@ -609,65 +541,26 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "How many tones does standard Northern Vietnamese have, as illustrated by the ma/má/mà/mả/mã/mạ series?",
+                    "prompt": "What does the Vietnamese greeting «chào» mean in English?",
                     "options": [
-                        "Six phonemic tones",
-                        "Two tones (high and low)",
-                        "Four tones only",
-                        "Zero tones"
+                        "hello / greetings",
+                        "delicious",
+                        "house",
+                        "soup"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Standard Vietnamese has 6 distinct tones."
-                },
-                {
-                    "type": "multiple-choice",
-                    "prompt": "ma (level tone, no mark) means:",
-                    "options": [
-                        "ghost",
-                        "but",
-                        "horse",
-                        "mother"
-                    ],
-                    "answerIndex": 0,
-                    "explanation": "Plain/level tone = 'ghost.'"
-                },
-                {
-                    "type": "multiple-choice",
-                    "prompt": "má (rising tone) means:",
-                    "options": [
-                        "rice seedling",
-                        "grave",
-                        "ghost",
-                        "mother / cheek"
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "Rising tone (sắc) = 'mother/cheek.'"
-                },
-                {
-                    "type": "multiple-choice",
-                    "prompt": "mạ (short, heavy, dot-below tone) means:",
-                    "options": [
-                        "but",
-                        "code",
-                        "rice seedling",
-                        "ghost"
-                    ],
-                    "answerIndex": 2,
-                    "explanation": "Heavy/cut-off tone (nặng) = 'rice seedling.'"
+                    "explanation": "«chào» means \"hello / greetings\"."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the polite 2-word Vietnamese greeting for 'Hello' (Xin chào):",
+                    "prompt": "Type the Vietnamese word for \"hello\" (c-h-a-o with falling tone):",
                     "acceptedAnswers": [
-                        "Xin chào",
-                        "xin chào",
-                        "Xin chao",
-                        "xin chao"
+                        "chào",
+                        "chao"
                     ],
-                    "explanation": "Xin chào is the universally respectful greeting."
+                    "explanation": "«chào» = hello."
                 }
-            ],
-            "passThreshold": 0.8
+            ]
         }
     },
     "vi-u1-l2": {

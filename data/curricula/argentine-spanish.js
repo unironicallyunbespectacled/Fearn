@@ -16744,322 +16744,6 @@
         "id": "es-ar-u33-l1",
         "unit": "es-ar-u33",
         "level": "C1",
-        "objective": "The Jesuit Estancias of Córdoba (UNESCO World Heritage: Jesuit Block, Alta Gracia, Santa Catalina): Advanced mastery of cultural, historical, and linguistic dimensions.",
-        "presentation": {
-            "explanation": "The Jesuit Estancias of Córdoba (UNESCO World Heritage: Jesuit Block, Alta Gracia, Santa Catalina) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
-            "examples": [
-                {
-                    "target": "Mastery of The Jesuit Estancias of Córdoba (UNESCO World Heritage: Jesuit Block, Alta Gracia, Santa Catalina) exemplifies the cultural and expressive pinnacle of Argentine Spanish.",
-                    "reading": "Target analysis of The Jesuit Estancias of Córdoba (UNESCO World Heritage: Jesuit Block, Alta Gracia, Santa Catalina)...",
-                    "translation": "Mastery of The Jesuit Estancias of Córdoba (UNESCO World Heritage: Jesuit Block, Alta Gracia, Santa Catalina) exemplifies the cultural and expressive pinnacle of Argentine Spanish."
-                }
-            ],
-            "mnemonics": [
-                "The Jesuit Estancias of Córdoba (UNESCO World Heritage: Jesuit Block, Alta Gracia, Santa Catalina)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
-            ],
-            "culturalNotes": [
-                "The Jesuit Estancias of Córdoba (UNESCO World Heritage: Jesuit Block, Alta Gracia, Santa Catalina) is celebrated worldwide as a defining achievement of Argentine Spanish heritage."
-            ]
-        },
-        "guidedPractice": {
-            "items": [
-                {
-                    "prompt": "Which major figure, institution, or concept is central to the study of The Jesuit Estancias of Córdoba (UNESCO World Heritage: Jesuit Block, Alta Gracia, Santa Catalina)?",
-                    "options": [
-                        "Generic introductory concept (161.1)",
-                        "Irrelevant topic (161.2)",
-                        "Modern fast-food trend (161.3)",
-                        "The Jesuit Estancias of Córdoba (161.4)"
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "The Jesuit Estancias of Córdoba is the central subject."
-                }
-            ]
-        },
-        "independentPractice": {
-            "items": [
-                {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of The Jesuit Estancias of Córdoba?",
-                    "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Argentine Spanish civilization. (161.1)",
-                        "It has no historical significance. (161.2)",
-                        "It was imported from an unrelated continent. (161.3)",
-                        "It was invented yesterday. (161.4)"
-                    ],
-                    "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Argentine Spanish civilization."
-                }
-            ]
-        },
-        "checkpointTest": {
-            "items": [
-                {
-                    "prompt": "Analyze the significance of The Jesuit Estancias of Córdoba in the development of Architecture, Sacred Geometry & Urbanism:",
-                    "options": [
-                        "The Jesuit Estancias of Córdoba established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It was a minor commercial advertising campaign.",
-                        "It only applied to elementary school education.",
-                        "It was completely forgotten within a week."
-                    ],
-                    "answerIndex": 0,
-                    "explanation": "Accurate analysis of The Jesuit Estancias of Córdoba (UNESCO World Heritage: Jesuit Block, Alta Gracia, Santa Catalina)."
-                },
-                {
-                    "prompt": "What mastery level does completing The Jesuit Estancias of Córdoba contribute to in the FEARN curriculum?",
-                    "options": [
-                        "Elementary A2",
-                        "Beginner A1",
-                        "Pre-intermediate B1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery"
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
-                }
-            ],
-            "passThreshold": 0.8
-        }
-    },
-    "es-ar-u33-l2": {
-        "id": "es-ar-u33-l2",
-        "unit": "es-ar-u33",
-        "level": "C1",
-        "objective": "The Belle Époque Architecture of Buenos Aires: Avenida de Mayo, Palacio Barolo & French Eclecticism: Advanced mastery of cultural, historical, and linguistic dimensions.",
-        "presentation": {
-            "explanation": "The Belle Époque Architecture of Buenos Aires: Avenida de Mayo, Palacio Barolo & French Eclecticism represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
-            "examples": [
-                {
-                    "target": "Mastery of The Belle Époque Architecture of Buenos Aires: Avenida de Mayo, Palacio Barolo & French Eclecticism exemplifies the cultural and expressive pinnacle of Argentine Spanish.",
-                    "reading": "Target analysis of The Belle Époque Architecture of Buenos Aires: Avenida de Mayo, Palacio Barolo & French Eclecticism...",
-                    "translation": "Mastery of The Belle Époque Architecture of Buenos Aires: Avenida de Mayo, Palacio Barolo & French Eclecticism exemplifies the cultural and expressive pinnacle of Argentine Spanish."
-                }
-            ],
-            "mnemonics": [
-                "The Belle Époque Architecture of Buenos Aires: Avenida de Mayo, Palacio Barolo & French Eclecticism! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
-            ],
-            "culturalNotes": [
-                "The Belle Époque Architecture of Buenos Aires: Avenida de Mayo, Palacio Barolo & French Eclecticism is celebrated worldwide as a defining achievement of Argentine Spanish heritage."
-            ]
-        },
-        "guidedPractice": {
-            "items": [
-                {
-                    "prompt": "Which major figure, institution, or concept is central to the study of The Belle Époque Architecture of Buenos Aires: Avenida de Mayo, Palacio Barolo & French Eclecticism?",
-                    "options": [
-                        "The Belle Époque Architecture of Buenos Aires: Avenida de Mayo, Palacio Barolo & French Eclecticism (162.1)",
-                        "Irrelevant topic (162.2)",
-                        "Modern fast-food trend (162.3)",
-                        "Generic introductory concept (162.4)"
-                    ],
-                    "answerIndex": 0,
-                    "explanation": "The Belle Époque Architecture of Buenos Aires: Avenida de Mayo, Palacio Barolo & French Eclecticism is the central subject."
-                }
-            ]
-        },
-        "independentPractice": {
-            "items": [
-                {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of The Belle Époque Architecture of Buenos Aires: Avenida de Mayo, Palacio Barolo & French Eclecticism?",
-                    "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Argentine Spanish civilization. (162.1)",
-                        "It has no historical significance. (162.2)",
-                        "It was invented yesterday. (162.3)",
-                        "It was imported from an unrelated continent. (162.4)"
-                    ],
-                    "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Argentine Spanish civilization."
-                }
-            ]
-        },
-        "checkpointTest": {
-            "items": [
-                {
-                    "prompt": "Analyze the significance of The Belle Époque Architecture of Buenos Aires: Avenida de Mayo, Palacio Barolo & French Eclecticism in the development of Architecture, Sacred Geometry & Urbanism:",
-                    "options": [
-                        "It only applied to elementary school education.",
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "The Belle Époque Architecture of Buenos Aires: Avenida de Mayo, Palacio Barolo & French Eclecticism established enduring philosophical, technical, and expressive standards across the tradition."
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "Accurate analysis of The Belle Époque Architecture of Buenos Aires: Avenida de Mayo, Palacio Barolo & French Eclecticism."
-                },
-                {
-                    "prompt": "What mastery level does completing The Belle Époque Architecture of Buenos Aires: Avenida de Mayo, Palacio Barolo & French Eclecticism contribute to in the FEARN curriculum?",
-                    "options": [
-                        "Elementary A2",
-                        "Beginner A1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Pre-intermediate B1"
-                    ],
-                    "answerIndex": 2,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
-                }
-            ],
-            "passThreshold": 0.8
-        }
-    },
-    "es-ar-u33-l3": {
-        "id": "es-ar-u33-l3",
-        "unit": "es-ar-u33",
-        "level": "C2",
-        "objective": "Amancio Williams & The Bridge House in Mar del Plata (Casa sobre el Arroyo 1945, modernism): Advanced mastery of cultural, historical, and linguistic dimensions.",
-        "presentation": {
-            "explanation": "Amancio Williams & The Bridge House in Mar del Plata (Casa sobre el Arroyo 1945, modernism) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
-            "examples": [
-                {
-                    "target": "Mastery of Amancio Williams & The Bridge House in Mar del Plata (Casa sobre el Arroyo 1945, modernism) exemplifies the cultural and expressive pinnacle of Argentine Spanish.",
-                    "reading": "Target analysis of Amancio Williams & The Bridge House in Mar del Plata (Casa sobre el Arroyo 1945, modernism)...",
-                    "translation": "Mastery of Amancio Williams & The Bridge House in Mar del Plata (Casa sobre el Arroyo 1945, modernism) exemplifies the cultural and expressive pinnacle of Argentine Spanish."
-                }
-            ],
-            "mnemonics": [
-                "Amancio Williams & The Bridge House in Mar del Plata (Casa sobre el Arroyo 1945, modernism)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
-            ],
-            "culturalNotes": [
-                "Amancio Williams & The Bridge House in Mar del Plata (Casa sobre el Arroyo 1945, modernism) is celebrated worldwide as a defining achievement of Argentine Spanish heritage."
-            ]
-        },
-        "guidedPractice": {
-            "items": [
-                {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Amancio Williams & The Bridge House in Mar del Plata (Casa sobre el Arroyo 1945, modernism)?",
-                    "options": [
-                        "Amancio Williams & The Bridge House in Mar del Plata (163.1)",
-                        "Generic introductory concept (163.2)",
-                        "Irrelevant topic (163.3)",
-                        "Modern fast-food trend (163.4)"
-                    ],
-                    "answerIndex": 0,
-                    "explanation": "Amancio Williams & The Bridge House in Mar del Plata is the central subject."
-                }
-            ]
-        },
-        "independentPractice": {
-            "items": [
-                {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of Amancio Williams & The Bridge House in Mar del Plata?",
-                    "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Argentine Spanish civilization. (163.1)",
-                        "It was imported from an unrelated continent. (163.2)",
-                        "It was invented yesterday. (163.3)",
-                        "It has no historical significance. (163.4)"
-                    ],
-                    "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Argentine Spanish civilization."
-                }
-            ]
-        },
-        "checkpointTest": {
-            "items": [
-                {
-                    "prompt": "Analyze the significance of Amancio Williams & The Bridge House in Mar del Plata in the development of Architecture, Sacred Geometry & Urbanism:",
-                    "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "Amancio Williams & The Bridge House in Mar del Plata established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education."
-                    ],
-                    "answerIndex": 2,
-                    "explanation": "Accurate analysis of Amancio Williams & The Bridge House in Mar del Plata (Casa sobre el Arroyo 1945, modernism)."
-                },
-                {
-                    "prompt": "What mastery level does completing Amancio Williams & The Bridge House in Mar del Plata contribute to in the FEARN curriculum?",
-                    "options": [
-                        "Beginner A1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Pre-intermediate B1",
-                        "Elementary A2"
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
-                }
-            ],
-            "passThreshold": 0.8
-        }
-    },
-    "es-ar-u33-l4": {
-        "id": "es-ar-u33-l4",
-        "unit": "es-ar-u33",
-        "level": "C2",
-        "objective": "Clorindo Testa & Brutalist Modernism (Biblioteca Nacional de Buenos Aires, Banco de Londres): Advanced mastery of cultural, historical, and linguistic dimensions.",
-        "presentation": {
-            "explanation": "Clorindo Testa & Brutalist Modernism (Biblioteca Nacional de Buenos Aires, Banco de Londres) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
-            "examples": [
-                {
-                    "target": "Mastery of Clorindo Testa & Brutalist Modernism (Biblioteca Nacional de Buenos Aires, Banco de Londres) exemplifies the cultural and expressive pinnacle of Argentine Spanish.",
-                    "reading": "Target analysis of Clorindo Testa & Brutalist Modernism (Biblioteca Nacional de Buenos Aires, Banco de Londres)...",
-                    "translation": "Mastery of Clorindo Testa & Brutalist Modernism (Biblioteca Nacional de Buenos Aires, Banco de Londres) exemplifies the cultural and expressive pinnacle of Argentine Spanish."
-                }
-            ],
-            "mnemonics": [
-                "Clorindo Testa & Brutalist Modernism (Biblioteca Nacional de Buenos Aires, Banco de Londres)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
-            ],
-            "culturalNotes": [
-                "Clorindo Testa & Brutalist Modernism (Biblioteca Nacional de Buenos Aires, Banco de Londres) is celebrated worldwide as a defining achievement of Argentine Spanish heritage."
-            ]
-        },
-        "guidedPractice": {
-            "items": [
-                {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Clorindo Testa & Brutalist Modernism (Biblioteca Nacional de Buenos Aires, Banco de Londres)?",
-                    "options": [
-                        "Generic introductory concept (164.1)",
-                        "Irrelevant topic (164.2)",
-                        "Modern fast-food trend (164.3)",
-                        "Clorindo Testa & Brutalist Modernism (164.4)"
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "Clorindo Testa & Brutalist Modernism is the central subject."
-                }
-            ]
-        },
-        "independentPractice": {
-            "items": [
-                {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of Clorindo Testa & Brutalist Modernism?",
-                    "options": [
-                        "It has no historical significance. (164.1)",
-                        "It was imported from an unrelated continent. (164.2)",
-                        "It was invented yesterday. (164.3)",
-                        "It represents a defining historical and aesthetic breakthrough in Argentine Spanish civilization. (164.4)"
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "It represents a defining breakthrough in Argentine Spanish civilization."
-                }
-            ]
-        },
-        "checkpointTest": {
-            "items": [
-                {
-                    "prompt": "Analyze the significance of Clorindo Testa & Brutalist Modernism in the development of Architecture, Sacred Geometry & Urbanism:",
-                    "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "Clorindo Testa & Brutalist Modernism established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education.",
-                        "It was completely forgotten within a week."
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "Accurate analysis of Clorindo Testa & Brutalist Modernism (Biblioteca Nacional de Buenos Aires, Banco de Londres)."
-                },
-                {
-                    "prompt": "What mastery level does completing Clorindo Testa & Brutalist Modernism contribute to in the FEARN curriculum?",
-                    "options": [
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Elementary A2",
-                        "Pre-intermediate B1",
-                        "Beginner A1"
-                    ],
-                    "answerIndex": 0,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
-                }
-            ],
-            "passThreshold": 0.8
-        }
-    },
-    "es-ar-u33-l1": {
-        "id": "es-ar-u33-l1",
-        "unit": "es-ar-u33",
-        "level": "C1",
         "objective": "Las Estancias Jesuíticas de Córdoba: arquitectura sacra colonial, sistemas hidráulicos y patrimonio UNESCO.",
         "presentation": {
             "explanation": "El conjunto arquitectónico e histórico integrado por la Manzana Jesuítica de la ciudad de Córdoba y las estancias rurales de Alta Gracia, Santa Catalina, Jesús María, Caroya y La Candelaria fue declarado Patrimonio de la Humanidad por la UNESCO en el año 2000. Establecidas por la Compañía de Jesús entre 1616 y 1767, estas estancias conformaron un extraordinario sistema productivo, agropecuario y textil autosuficiente destinado a financiar el Colegio Máximo y la Universidad de Córdoba (fundada en 1613, una de las más antiguas de América). La arquitectura de las estancias sintetiza el barroco colonial hispanoamericano con soluciones constructivas adaptadas al entorno serrano: muros de mampostería de piedra y cal, bóvedas de crucería, carpinterías de algarrobo labradas, claustros de doble arquería y complejos tajamares y acequias de ingeniería hidráulica que aseguraban el riego y la fuerza motriz para molinos harineros y batanes.",
@@ -17897,6 +17581,125 @@
                 }
             ],
             "passThreshold": 0.8
+        }
+    },
+    "ar-es-u1-l1": {
+        "id": "ar-es-u1-l1",
+        "subject": "argentine-spanish",
+        "unit": 1,
+        "lessonNumber": 1,
+        "title": "El Alfabeto Rioplatense, el Yeísmo Rehilado (LL/Y = [ʃ]) y el Voseo (Argentine Alphabet & Sheísmo)",
+        "level": "A1",
+        "objective": "Master Rioplatense Spanish phonetics, the 27-letter Spanish alphabet, Yeísmo rehilado / Sheísmo (LL and Y pronounced as [ʃ]/[ʒ]), and foundational Argentine voseo greetings.",
+        "presentation": {
+            "explanation": "¡Bienvenidos al español rioplatense! Welcome to Argentine Spanish (Español Rioplatense), spoken across Buenos Aires, Rosario, and Uruguay along the Río de la Plata basin. Argentine Spanish is world-famous for its Italian-influenced musical cadence, distinctive phonology, and unique pronoun system (*voseo*).\n\n### 1. El Yeísmo Rehilado / Sheísmo (LL & Y = [ʃ] / [ʒ])\nThe most iconic signature of Argentine pronunciation is that both **LL** and **Y** are pronounced as a soft \"sh\" [ʃ] (or voiced [ʒ] like \"vision\") rather than the standard \"y\" sound:\n- **calle** (street) &rarr; pronounced **\"CAH-sheh\"** (not \"cah-yeh\")\n- **yo** (I) &rarr; pronounced **\"SHO\"** (not \"yo\")\n- **lluvia** (rain) &rarr; pronounced **\"SHOO-vyah\"** (not \"yoo-vyah\")\n- **playa** (beach) &rarr; pronounced **\"PLAH-shah\"** (not \"plah-yah\")\n- **¿Cómo te llamás?** &rarr; pronounced **\"¿Cómo te shah-MAHS?\"**\n\n### 2. El Voseo (Vos vs Tú)\nIn Argentina, the informal second-person pronoun is **VOS** (never *tú*), which takes distinct verb conjugations accented on the final syllable:\n- Standard Spanish: *tú eres* (you are) &rarr; Argentine: **vos sos**\n- Standard Spanish: *tú tienes* (you have) &rarr; Argentine: **vos tenés**\n- Standard Spanish: *tú puedes* (you can) &rarr; Argentine: **vos podés**\n- Standard Spanish: *tú hablas* (you speak) &rarr; Argentine: **vos hablás**\n\n### 3. Argentine Greeting Expressions\n- **¡Che!** &rarr; The universal Argentine interjection (\"Hey! / Pal / Mate!\")\n- **¿Qué hacés, che?** &rarr; \"What's up, mate? / How are you doing?\"\n- **¡Hola! ¿Cómo andás?** &rarr; \"Hello! How's it going?\"\n- **Todo bien** &rarr; \"All good / Everything's great\"",
+            "examples": [
+                {
+                    "target": "calle",
+                    "reading": "CAH-sheh",
+                    "translation": "street (ll = [ʃ] sheísmo)"
+                },
+                {
+                    "target": "yo",
+                    "reading": "sho",
+                    "translation": "I / me (y = [ʃ] sheísmo)"
+                },
+                {
+                    "target": "vos sos",
+                    "reading": "vohs sohs",
+                    "translation": "you are (Argentine voseo pronoun and verb)"
+                },
+                {
+                    "target": "¿Qué hacés?",
+                    "reading": "keh ah-SEHS",
+                    "translation": "What are you doing? / How are you?"
+                }
+            ],
+            "mnemonics": [
+                "In Argentina: LL and Y make the \"SH\" sound (Yo me llamo = Sho me shah-mo), and friends say \"Vos sos\" and \"Che\"!"
+            ],
+            "culturalNotes": [
+                "The melodious lilt of Rioplatense Spanish reflects massive 19th-century Italian immigration to Buenos Aires, shaping the tango culture and the rich urban slang known as Lunfardo."
+            ]
+        },
+        "guidedPractice": {
+            "items": [
+                {
+                    "prompt": "In Argentine Rioplatense Spanish, how are the letters «LL» and «Y» pronounced (e.g. in «calle» and «yo»)?",
+                    "options": [
+                        "As an English \"SH\" [ʃ] or \"ZH\" [ʒ] sound (\"CAH-sheh\", \"SHO\")",
+                        "As an English \"Y\" sound",
+                        "As an English \"L\" sound",
+                        "Silent"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Argentine Yeísmo rehilado / Sheísmo pronounces LL and Y as [ʃ] (like \"shoe\")."
+                },
+                {
+                    "prompt": "What informal second-person pronoun is universally used in Argentina instead of standard «tú»?",
+                    "options": [
+                        "VOS (e.g. vos sos, vos tenés)",
+                        "TÚ",
+                        "USTED",
+                        "VOSOTROS"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Argentine Spanish uses the *voseo* system with the pronoun «VOS»."
+                }
+            ]
+        },
+        "independentPractice": {
+            "items": [
+                {
+                    "prompt": "How do you say \"you are\" informally using Argentine voseo?",
+                    "options": [
+                        "vos sos (Argentine voseo)",
+                        "tú eres",
+                        "usted es",
+                        "vosotros sois"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "«vos sos» is the Argentine voseo form of \"you are\"."
+                },
+                {
+                    "prompt": "What iconic Argentine interjection is used to get someone's attention (\"Hey! / Mate!\")?",
+                    "options": [
+                        "¡Che! (Hey! / Mate!)",
+                        "¡Oye!",
+                        "¡Tío!",
+                        "¡Hombre!"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "«¡Che!» is the quintessential Argentine colloquial marker."
+                }
+            ]
+        },
+        "checkpointTest": {
+            "items": [
+                {
+                    "type": "multiple-choice",
+                    "prompt": "What does the Argentine phrase «¿Cómo andás?» mean?",
+                    "options": [
+                        "How is it going? / How are you?",
+                        "Where are you walking?",
+                        "What is your name?",
+                        "Goodbye"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "«¿Cómo andás?» is the classic Argentine greeting for \"How are you doing?\"."
+                },
+                {
+                    "type": "typed-recall",
+                    "prompt": "Type the 3-letter Argentine interjection for \"Hey! / Mate!\" (c-h-e):",
+                    "acceptedAnswers": [
+                        "che",
+                        "Che",
+                        "¡che!",
+                        "¡Che!"
+                    ],
+                    "explanation": "«che» = Hey! / Mate!"
+                }
+            ]
         }
     }
 };

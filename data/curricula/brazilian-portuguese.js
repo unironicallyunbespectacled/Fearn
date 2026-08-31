@@ -17493,6 +17493,123 @@
                 }
             ]
         }
+    },
+    "pt-u1-l1": {
+        "id": "pt-u1-l1",
+        "subject": "brazilian-portuguese",
+        "unit": 1,
+        "lessonNumber": 1,
+        "title": "O Alfabeto Português, Til Nasal (ã/õ), Cedilha (ç) e Fonética Brasileira (Portuguese Alphabet & Brazilian Phonology)",
+        "level": "A1",
+        "objective": "Master the Portuguese alphabet, nasal vowels with tilde (ã, õ), cedilla (ç), acute/circumflex accents, and core Brazilian phonology (d/t palatalization, vocalic -l, initial R-).",
+        "presentation": {
+            "explanation": "Bem-vindo ao Português do Brasil! Welcome to Brazilian Portuguese (Português Brasileiro)! Brazilian Portuguese is celebrated for its musical, open vowel cadence and distinctive phonetic rules.\n\n### 1. Nasal Vowels with Tilde (Til: ~) & Cedilla (Cedilha: ç)\n- **ã** [ɐ̃] & **õ** [õ] — Air is expelled simultaneously through the mouth and nose (like French *bon* or English \"huh\"): \n  - **pão** (*pah-oon*) = bread\n  - **mão** (*mah-oon*) = hand\n  - **manhã** (*mahn-yahn*) = morning\n  - **não** (*nah-oon*) = no / not\n- **ç (Cedilha)** [s] — Always softens the \"C\" to [s] before a, o, u (e.g. **você** = you, **coração** = heart, **abraço** = hug)\n\n### 2. Brazilian Phonological Signatures\n1. **Palatalization of D and T**:\n   - **D before i / unstressed e** &rarr; pronounced as **\"DJ\" [dʒ]** (e.g. **dia** = *\"JEE-ah\"* / day, **cidade** = *\"see-DAH-jee\"* / city, **de** = *\"jee\"* / of)\n   - **T before i / unstressed e** &rarr; pronounced as **\"TCH\" [tʃ]** (e.g. **noite** = *\"NOY-chee\"* / night, **tio** = *\"TCHEE-oo\"* / uncle)\n2. **Vocalization of Final -L**:\n   - An 'L' at the end of a syllable or word is pronounced as a **\"W\" [w]** (e.g. **Brasil** = *\"Brah-ZEE-oo\"*, **sol** = *\"saw-oo\"* / sun, **futebol** = *\"foo-chee-BAW-oo\"*)\n3. **The Guttural Initial R- / -RR-**:\n   - An 'R' at the start of a word or double '-RR-' is pronounced as a warm breathy English **\"H\" [h / x]** (e.g. **Rio** = *\"HEE-oo\"*, **rua** = *\"HOO-ah\"* / street, **carro** = *\"KAH-hoo\"* / car)\n   - A single '-r-' between vowels is a tapped \"R\" [ɾ] (e.g. **caro** = *\"KAH-roo\"* / expensive)",
+            "examples": [
+                {
+                    "target": "pão",
+                    "reading": "pah-oon",
+                    "translation": "bread (p + ã [nasal] + o)"
+                },
+                {
+                    "target": "dia",
+                    "reading": "JEE-ah",
+                    "translation": "day (d before i = [dʒ] + a)"
+                },
+                {
+                    "target": "noite",
+                    "reading": "NOY-chee",
+                    "translation": "night (n + oi + t before e = [tʃ])"
+                },
+                {
+                    "target": "Brasil",
+                    "reading": "Brah-ZEE-oo",
+                    "translation": "Brazil (final l = [w])"
+                }
+            ],
+            "mnemonics": [
+                "In Brazil: \"D\" is for DJ (dia = Jee-ah), \"T\" is for TCH (noite = Noy-chee), and final \"L\" flows into W (Brasil = Brah-zee-oo)!"
+            ],
+            "culturalNotes": [
+                "Brazilian Portuguese pronunciation diverges beautifully from European Portuguese through vowel opening and rhythmic musicality, influenced by Indigenous Tupi and Afro-Brazilian languages."
+            ]
+        },
+        "guidedPractice": {
+            "items": [
+                {
+                    "prompt": "In Brazilian Portuguese, how is the letter «D» pronounced when followed by the vowel «i» (as in «dia» / day)?",
+                    "options": [
+                        "As an English \"DJ\" affricate [dʒ] (\"JEE-ah\")",
+                        "As a hard dental \"D\"",
+                        "As a \"th\" sound",
+                        "Silent"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "In standard Brazilian Portuguese, «d» palatalizes to [dʒ] before «i» or unstressed «e»."
+                },
+                {
+                    "prompt": "What sound does the final letter «-L» make at the end of words in Brazilian Portuguese (as in «Brasil»)?",
+                    "options": [
+                        "A vocalic \"W\" [w] sound (\"Brah-ZEE-oo\")",
+                        "A hard English \"L\"",
+                        "A rolled R",
+                        "Silent"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Final «-l» vocalizes to [w] in Brazilian Portuguese."
+                }
+            ]
+        },
+        "independentPractice": {
+            "items": [
+                {
+                    "prompt": "How is an initial «R-» at the start of a word (like «Rio» or «rua») pronounced in Brazilian Portuguese?",
+                    "options": [
+                        "As a breathy/guttural English \"H\" [h] (\"HEE-oo\", \"HOO-ah\")",
+                        "As a rolled Spanish \"RR\"",
+                        "As an English \"R\"",
+                        "Silent"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Initial «r-» is pronounced as a voiceless glottal/velar fricative [h/x]."
+                },
+                {
+                    "prompt": "What does the tilde diacritic (~) indicate in words like «pão» (bread) and «não» (no)?",
+                    "options": [
+                        "Nasalization of the vowel sound through mouth and nose",
+                        "A silent vowel",
+                        "A long vowel",
+                        "A high pitch tone"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "The tilde (til) marks nasal vowel articulation."
+                }
+            ]
+        },
+        "checkpointTest": {
+            "items": [
+                {
+                    "type": "multiple-choice",
+                    "prompt": "What does the Portuguese word «pão» mean in English?",
+                    "options": [
+                        "bread",
+                        "water",
+                        "sun",
+                        "day"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "«pão» means \"bread\"."
+                },
+                {
+                    "type": "typed-recall",
+                    "prompt": "Type the Portuguese word for \"bread\" (p-a-o with tilde):",
+                    "acceptedAnswers": [
+                        "pão",
+                        "pao"
+                    ],
+                    "explanation": "«pão» = bread."
+                }
+            ]
+        }
     }
 };
   var CURRICULUM = { id: 'brazilian-portuguese', name: 'Brazilian Portuguese', units: UNITS, lessons: LESSONS };

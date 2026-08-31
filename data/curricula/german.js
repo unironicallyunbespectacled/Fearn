@@ -448,120 +448,92 @@
   var LESSONS = {
     "de-u1-l1": {
         "id": "de-u1-l1",
-        "unit": "de-u1",
+        "subject": "german",
+        "unit": 1,
+        "lessonNumber": 1,
+        "title": "Das deutsche Alphabet, Umlaute (Ä, Ö, Ü), Eszett (ß) und Nomen-Großschreibung (German Alphabet, Umlauts & Orthography)",
         "level": "A1",
-        "objective": "Greet people appropriately at different times of day, master German umlauts (ä, ö, ü), ß vs ss, and core consonant rules (w = [v], v = [f], z = [ts]), and open or close a conversation.",
-        "prerequisites": [],
-        "warmup": {
-            "srsPull": true,
-            "reviewFocus": []
-        },
+        "objective": "Master the 26 German alphabet letters plus 3 Umlauts (Ä, Ö, Ü), the Eszett (ß), consonant clusters (ch, sch, sp, st), diphthongs (ei vs ie), and the universal Capitalization of Nouns rule.",
         "presentation": {
-            "explanation": "German greetings are time-of-day-specific in a way English mostly isn't. Guten Morgen (\"good morning\") covers roughly until 10-11am, after which people switch to Guten Tag (\"good day\") for the entire rest of the working day, and Guten Abend (\"good evening\") takes over once evening starts. Hallo works informally at any hour, and in southern Germany, Austria, and parts of Switzerland you'll hear Servus used as BOTH hello and goodbye interchangeably. For goodbyes: Tschüss is warm and informal, while Auf Wiedersehen is the formal, safe default. Danke (thanks) and Bitte (please / you're welcome) round out the basics.\n\n### 🔤 German Orthography & Phonetic Essentials:\nGerman spelling is remarkably consistent, but English defaults will mislead you if you don't master these core rules:\n1. **The Three Umlauts (ä, ö, ü)**:\n   - **ä** = [ɛ] or [eː] (open-mid front vowel, like 'ai' in *air* or 'e' in *bed*, e.g. *spät* [ʃpɛːt] 'late').\n   - **ö** = [øː] or [œ] (round your lips tightly into an 'o' shape while trying to say 'ay', e.g. *schön* [ʃøːn] 'beautiful / very', *Danke schön*).\n   - **ü** = [yː] or [ʏ] (round your lips tightly into an 'o' shape while trying to say 'ee', e.g. *Tschüss* [tʃʏs] 'bye', *müde* [ˈmyːdə] 'tired').\n2. **The Eszett / Sharp S (ß) vs 'ss'**:\n   - **ß** represents a voiceless sharp 'ss' [s] after a **long vowel or diphthong** (e.g. *heiß* [haɪ̯s] 'hot', *groß* [ɡʁoːs] 'big', *Straße* [ˈʃtʁaːsə]).\n   - **ss** represents the same 'ss' [s] after a **short vowel** (e.g. *Tschüss* [tʃʏs], *Wasser* [ˈvasɐ]).\n3. **Consonant Shifts (w, v, z, initial s-)**:\n   - **w** is ALWAYS pronounced as English **[v]** (e.g. *wie* [viː] 'how', *Wiedersehen* [ˈviːdɐˌzeːən]).\n   - **v** is usually pronounced as English **[f]** in native words (e.g. *von* [fɔn], *viel* [fiːl], *Vater* [ˈfaːtɐ]).\n   - **z** is ALWAYS pronounced as **[ts]** (e.g. *zwei* [tsvaɪ̯], *Zeit* [tsaɪ̯t]).\n   - Initial **s-** before a vowel is voiced like English **'z'** [z] (e.g. *sehen* [ˈzeːən], *Sie* [ziː]). Initial **sp-** and **st-** are pronounced **[ʃp]** and **[ʃt]** (e.g. *spät* [ʃpɛːt], *stimmt* [ʃtɪmt]).",
+            "explanation": "Willkommen zum Deutschlernen! Welcome to German (Deutsch)! German pronunciation is remarkably logical and rule-governed. Once you learn the core orthographic rules, you can pronounce any German word flawlessly.\n\n### 1. Die 3 Umlaute & Das Eszett\n- **Ä ä** [ɛ / e:] — Rounded open \"e\" (like \"bed\" or \"air\" — e.g. **Mädchen** = girl, **Äpfel** = apples)\n- **Ö ö** [ø / œ] — Shape lips for \"O\", say \"E\" (e.g. **schön** = beautiful, **Öl** = oil)\n- **Ü ü** [y / ʏ] — Shape lips for \"U\" (whistle), say \"EE\" (e.g. **über** = over/about, **fünf** = five)\n- **ß (Eszett / Scharfes S)** [s] — Sharp voiceless \"s\" sound used after long vowels and diphthongs (e.g. **Straße** = street, **groß** = big/tall, **heißen** = to be called)\n\n### 2. Critical Consonant Clusters & Letter Combinations\n- **ch**: \n  - *ich-Laut* [ç] (soft hiss after e, i, ä, ö, ü — e.g. **ich** = I, **nicht** = not)\n  - *ach-Laut* [x] (throat rasp after a, o, u, au — e.g. **Buch** = book, **Nacht** = night)\n- **sch** [ʃ] — English \"sh\" (e.g. **Schule** = school, **schreiben** = to write)\n- **sp / st** at start of word &rarr; pronounced **[ʃp] / [ʃt]** (e.g. **Sport** = \"shport\", **Stadt** = \"shtadt\")\n- **w** [v] — English \"v\" (e.g. **Wasser** = water), **v** [f] — English \"f\" (e.g. **Vater** = father, **vier** = four)\n- **z** [ts] — like \"ts\" in \"cats\" (e.g. **Zeit** = time, **Zimmer** = room)\n\n### 3. Key Diphthongs & The Noun Rule\n- **ei** [ai] — \"eye\" (e.g. **mein** = my) vs **ie** [i:] — \"ee\" (e.g. **hier** = here, **sie** = she/they)\n- **eu / äu** [ɔy] — \"oy\" (e.g. **neu** = new, **Häuser** = houses)\n- **CRITICAL GERMAN RULE**: **EVERY NOUN IN GERMAN IS ALWAYS CAPITALIZED** (e.g. *der Tag*, *die Nacht*, *das Haus*, *das Wasser*)!",
             "examples": [
                 {
-                    "target": "Guten Morgen! Wie geht es dir?",
-                    "reading": "[ˈɡuːtn̩ ˈmɔʁɡn̩! viː ɡeːt ʔɛs diːɐ̯?]",
-                    "translation": "Good morning! How are you? (Wie starts with w = [v])"
+                    "target": "schön",
+                    "reading": "shø:n",
+                    "translation": "beautiful / nice (sch [sh] + ö [umlaut] + n)"
                 },
                 {
-                    "target": "Guten Tag, Frau Schmidt.",
-                    "reading": "[ˈɡuːtn̩ taːk, fʁaʊ̯ ʃmɪt]",
-                    "translation": "Good day/Hello, Mrs. Schmidt. (formal, daytime; Tag ends with devoiced [k])"
+                    "target": "Straße",
+                    "reading": "SHTRAH-suh",
+                    "translation": "street (st [sht] + a + ß [sharp s] + e)"
                 },
                 {
-                    "target": "Auf Wiedersehen! Und Tschüss, bis morgen!",
-                    "reading": "[ʔaʊ̯f ˈviːdɐˌzeːən! ʔʊnt tʃʏs, bɪs ˈmɔʁɡn̩!]",
-                    "translation": "Goodbye! And bye, see you tomorrow! (Wiedersehen has w=[v] and s=[z]; Tschüss has ü=[ʏ])"
+                    "target": "Wasser",
+                    "reading": "VAH-ser",
+                    "translation": "water (w [v] + a + ss + er)"
                 },
                 {
-                    "target": "Danke schön! — Bitte schön!",
-                    "reading": "[ˈdaŋkə ʃøːn! — ˈbɪtə ʃøːn!]",
-                    "translation": "Thank you very much! — You're welcome! (schön has rounded umlaut ö [øː])"
+                    "target": "Zeit",
+                    "reading": "tsyt",
+                    "translation": "time (z [ts] + ei [eye] + t)"
                 }
             ],
             "mnemonics": [
-                "German 'W' is English 'V', and German 'V' is English 'F'! Think: Volkswagen = 'Folks-Vagen'.",
-                "Umlaut Mouth Shape: Say 'ee' and pucker your lips into a circle without moving your tongue — boom, you just made the perfect German 'ü' (Tschüss)!",
-                "ß vs ss: ß follows long vowels (Straße, heiß); ss follows short rapid vowels (Tschüss, Wasser).",
-                "Bitte is the Swiss Army knife: 'please', 'you're welcome', and 'here you go'."
+                "Diphthongs: \"When E and I go walking, the LAST one does the talking!\" (EI = Eye, IE = Eeee)! And ALWAYS capitalize every Noun in German!"
             ],
             "culturalNotes": [
-                "Capitalization of All Nouns: In German, EVERY noun is always capitalized (der Morgen, der Tag, der Abend, Frau, Schmidt). This rule is universal across the entire language.",
-                "Servus is a genuine two-way greeting in Bavaria, Austria, and parts of Switzerland (greeting and farewell)."
+                "German noun capitalization dates back to Baroque printing traditions in the 16th-17th centuries, distinguishing substantive concepts clearly on the printed page."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "How is the German letter 'w' (as in wie and Wiedersehen) pronounced?",
+                    "prompt": "What unique grammatical orthography rule applies to ALL German nouns in writing?",
                     "options": [
-                        "As an English 'w' sound like in water",
-                        "As an English 'v' sound [v] (like in voice or victory)",
-                        "As a silent letter",
-                        "As 'sh'"
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "German 'w' is always pronounced like English 'v' [v]."
-                },
-                {
-                    "prompt": "How is the German letter 'v' usually pronounced in native words like von, viel, and Vater?",
-                    "options": [
-                        "As an English 'f' sound [f]",
-                        "As an English 'v' sound",
-                        "As 'b'",
-                        "As 'z'"
+                        "Every single noun is always capitalized (e.g. das Haus, der Tag)",
+                        "Nouns are written in italics",
+                        "Nouns never end in vowels",
+                        "Nouns cannot be pluralized"
                     ],
                     "answerIndex": 0,
-                    "explanation": "German 'v' is pronounced like English 'f' in native words."
+                    "explanation": "In German, all nouns are capitalized regardless of their position in the sentence."
                 },
                 {
-                    "prompt": "When is the German Eszett (ß) used instead of double 'ss'?",
+                    "prompt": "How is the diphthong «ei» pronounced in German words like «mein» (my) and «Zeit» (time)?",
                     "options": [
-                        "After long vowels and diphthongs (like Straße and heiß), while 'ss' follows short vowels",
-                        "Only at the beginning of words",
-                        "Only on Tuesdays",
-                        "They are completely identical with no rules"
+                        "Like English \"eye\" [ai]",
+                        "Like English \"ee\" [i:]",
+                        "Like English \"ay\"",
+                        "Like English \"oo\""
                     ],
                     "answerIndex": 0,
-                    "explanation": "ß follows long vowels and diphthongs; ss follows short vowels."
-                },
-                {
-                    "prompt": "It's 9am. What do you say?",
-                    "options": [
-                        "Tschüss (1.1)",
-                        "Gute Nacht (1.2)",
-                        "Guten Abend (1.3)",
-                        "Guten Morgen (1.4)"
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "Guten Morgen covers roughly until 10-11am."
+                    "explanation": "The diphthong «ei» is pronounced like \"eye\" [ai]."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Which sound does initial 's-' make before a vowel in German (as in sehen and Sie)?",
+                    "prompt": "How is the initial consonant cluster «st» pronounced in German words like «Stadt» (city) and «Straße» (street)?",
                     "options": [
-                        "A voiced English 'z' sound [z]",
-                        "A voiceless 's' like in hiss",
-                        "A silent sound",
-                        "A 'th' sound"
+                        "As \"sht\" [ʃt]",
+                        "As plain English \"st\"",
+                        "As \"sk\"",
+                        "Silent"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Initial s- before vowels is voiced [z] in standard German."
+                    "explanation": "Initial «sp» and «st» are pronounced with an initial \"sh\" sound ([ʃp] and [ʃt])."
                 },
                 {
-                    "prompt": "Translate: 'Good evening! See you tomorrow!' (informal)",
+                    "prompt": "What sound does the German Eszett «ß» represent in words like «Straße» and «groß»?",
                     "options": [
-                        "Gute Nacht! Tschüss! (1.1)",
-                        "Guten Tag! Auf Wiedersehen! (1.2)",
-                        "Guten Abend! Bis morgen! (1.3)",
-                        "Guten Morgen! Bis morgen! (1.4)"
+                        "A sharp voiceless [s] sound after long vowels or diphthongs",
+                        "A \"b\" sound",
+                        "A \"z\" sound",
+                        "A glottal stop"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Guten Abend fits evening; Bis morgen is a natural informal closer."
+                    "answerIndex": 0,
+                    "explanation": "The Eszett (ß) represents a sharp voiceless [s] following long vowels or diphthongs."
                 }
             ]
         },
@@ -569,64 +541,26 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "In German, 'w' sounds like ___ and native 'v' sounds like ___:",
+                    "prompt": "What does the German word «Wasser» mean in English?",
                     "options": [
-                        "'w' sounds like [v] (voice), 'v' sounds like [f] (fox)",
-                        "'w' sounds like [w], 'v' sounds like [v]",
-                        "'w' is silent, 'v' is [b]",
-                        "'w' sounds like [f], 'v' sounds like [w]"
+                        "water",
+                        "street",
+                        "time",
+                        "house"
                     ],
                     "answerIndex": 0,
-                    "explanation": "w = [v], v = [f]."
-                },
-                {
-                    "type": "multiple-choice",
-                    "prompt": "Greeting used at 9am:",
-                    "options": [
-                        "Guten Abend",
-                        "Guten Tag",
-                        "Guten Morgen",
-                        "Gute Nacht"
-                    ],
-                    "answerIndex": 2,
-                    "explanation": "Guten Morgen = morning greeting."
-                },
-                {
-                    "type": "multiple-choice",
-                    "prompt": "Formal goodbye safe with strangers:",
-                    "options": [
-                        "Tschüss",
-                        "Auf Wiedersehen",
-                        "Bis morgen",
-                        "Hallo"
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "Auf Wiedersehen is the safe formal choice."
-                },
-                {
-                    "type": "multiple-choice",
-                    "prompt": "Everyday casual goodbye in German (Tschüss):",
-                    "options": [
-                        "Guten Tag",
-                        "Guten Morgen",
-                        "Auf Wiedersehen",
-                        "Tschüss"
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "Tschüss is informal."
+                    "explanation": "«Wasser» means \"water\"."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the morning greeting in German (Guten Morgen):",
+                    "prompt": "Type the German word for \"street\" (S-t-r-a-s-s-e with Eszett):",
                     "acceptedAnswers": [
-                        "Guten Morgen",
-                        "guten morgen",
-                        "Guten morgen"
+                        "Straße",
+                        "Strasse"
                     ],
-                    "explanation": "Guten Morgen is 'good morning'."
+                    "explanation": "«Straße» = street."
                 }
-            ],
-            "passThreshold": 0.8
+            ]
         }
     },
     "de-u1-l2": {

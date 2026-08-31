@@ -448,164 +448,92 @@
   var LESSONS = {
     "ro-u1-l1": {
         "id": "ro-u1-l1",
-        "unit": "ro-u1",
+        "subject": "romanian",
+        "unit": 1,
+        "lessonNumber": 1,
+        "title": "Alfabetul Român, Cele 5 Diacritice (ă, â, î, ș, ț) și Articolul Hotărât Enclitic (Romanian Alphabet & Diacritics)",
         "level": "A1",
-        "objective": "Greet people appropriately in Romanian using Bună, Salut, and time-of-day greetings, choose correctly between informal and formal register, and master the Romanian diacritic system (ă, ș, ț).",
-        "prerequisites": [],
-        "warmup": {
-            "srsPull": true,
-            "reviewFocus": []
-        },
+        "objective": "Master the 31-letter Romanian alphabet, the 5 special diacritics (ă, â, î, ș, ț), enclitic definite article suffixes (-ul, -a, -le), and core greetings.",
         "presentation": {
-            "explanation": "Bună is Romania's all-purpose 'hi' — short, casual, usable at any hour with people you're on friendly terms with. Salut works the same way and, usefully, covers BOTH 'hi' and 'bye' informally, so you'll hear friends toss it out on the way in and the way out of a conversation. For strangers, shopkeepers, or anyone you'd address formally, reach for the time-specific set instead: Bună dimineața (good morning, until roughly noon), Bună ziua (good day, the safe all-purpose formal greeting for most of the day), and Bună seara (good evening). Noapte bună ('good night') is different from all of these — it's only ever used when PARTING for the night, never as a hello. For goodbye, La revedere is the formal, always-safe choice; Pa or Pa pa is the casual version friends use with each other, similar in energy to salut.\n\n### 🔤 Orthography & Pronunciation Fundamentals (Diacritics System):\nRomanian is an Eastern Romance language written in the Latin alphabet, but standard Romanian possesses five special diacritic letters that transform English defaults:\n1. **ă** (A with breve) = [ə] (mid-central vowel / schwa, like the unstressed 'a' in *about* or the 'u' in *cup*). In *Bună* [ˈbunə] and *dimineața* [dimiˈne̯atsa], that final -ă is never a flat English 'ah', but a relaxed central [ə].\n2. **ș** (S with comma-below) = [ʃ] (the English 'sh' sound in *shoe*). E.g. *și* [ʃi] ('and'), *șase* [ˈʃase] ('six'). Note: Standard Romanian uses a distinct comma-below (ș), not a Turkish cedilla (ş).\n3. **ț** (T with comma-below) = [ts] (the 'ts' affricate in *cats* or *pizza*). E.g. *dimineața* [dimiˈne̯atsa], *mulțumesc* [multsuˈmesk] ('thank you').\n4. Diphthong **ea** = [e̯a] (a rapid glide from 'eh' to 'ah' as a single syllable, as in *seară* [ˈse̯arə] 'evening').\n\nThe core grammar hook to notice already: bună itself is the feminine form of the adjective bun (good) — Romanian adjectives agree in gender, a pattern that will keep showing up.",
+            "explanation": "Bine ați venit în limba română! Welcome to Romanian (română)! Romanian is the sole Eastern Romance language that directly preserves ancient Latin case declensions and enclitic definite articles, surrounded by Slavic linguistic neighbors.\n\n### 1. Cele 5 Diacritice Românești (The 5 Romanian Diacritic Letters)\n- **Ă ă** [ə] — Mid-central schwa vowel (like \"a\" in \"about\" or \"sofa\" — e.g. **apă** = water, **măr** = apple, **bună** = good)\n- **Â â** and **Î î** [ɨ] — Close central unrounded vowel (make an \"ee\" in the back of your throat with relaxed lips — e.g. **România** = Romania, **câine** = dog, **înțeleg** = I understand). *Spelling rule: «Î» appears at the start and end of words (în, a urî); «Â» appears strictly inside words (român, pâine).*\n- **Ș ș** [ʃ] — Voiceless postalveolar fricative (like \"sh\" in \"shoe\" — e.g. **și** = and, **școală** = school, **mulțumesc** = thank you)\n- **Ț ț** [ts] — Voiceless alveolar affricate (like \"ts\" in \"cats\" — e.g. **țară** = country, **băiat** = boy, **viață** = life)\n*(Note: Romanian diacritics officially use a comma below (ș, ț), NOT a cedilla!)*\n\n### 2. Enclitic Definite Articles (Articolul Hotărât)\nUnlike English (\"the book\") or Spanish (\"el libro\"), Romanian attaches the definite article **to the end of the noun**:\n- Masculine: **băiat** (boy) &rarr; **băiatul** (the boy), **om** (man) &rarr; **omul** (the man)\n- Feminine: **fată** (girl) &rarr; **fata** (the girl), **carte** (book) &rarr; **cartea** (the book)\n- Plural: **băieți** (boys) &rarr; **băieții** (the boys), **fete** (girls) &rarr; **fetele** (the girls)",
             "examples": [
                 {
-                    "target": "Ana: Bună! Ce mai faci?",
-                    "reading": "Ana: [ˈbunə! tʃe maj fatʃʲ?]",
-                    "translation": "Ana: Hi! How are you? (informal — notice the final -ă is a schwa [ə], and ce/ci make a soft 'ch' [tʃ] sound)"
+                    "target": "apă",
+                    "reading": "AH-puh",
+                    "translation": "water (a + p + ă [schwa])"
                 },
                 {
-                    "target": "Mihai: Salut, Ana! Bine, mersi.",
-                    "reading": "Mihai: [saˈlut, ˈana! ˈbine, merˈsi.]",
-                    "translation": "Mihai: Hey, Ana! Good, thanks. (mersi is a casual French-borrowed 'thanks')"
+                    "target": "mulțumesc",
+                    "reading": "mool-tsoo-MESK",
+                    "translation": "thank you (ț [ts] + u + m + e + s + c)"
                 },
                 {
-                    "target": "Ana: Bună dimineața! Bună ziua, domnule Popescu.",
-                    "reading": "Ana: [ˈbunə dimiˈne̯atsa! ˈbunə ˈziwa, ˈdomnule poˈpesku.]",
-                    "translation": "Ana: Good morning! Good day, Mr. Popescu. (formal — notice ț in dimineața pronounced [ts])"
+                    "target": "bună",
+                    "reading": "BOO-nuh",
+                    "translation": "good / hello (b + u + n + ă)"
                 },
                 {
-                    "target": "Mihai: Bună seara și noapte bună! La revedere!",
-                    "reading": "Mihai: [ˈbunə ˈse̯arə ʃi ˈne̯apte ˈbunə! la reveˈdere!]",
-                    "translation": "Mihai: Good evening and good night! Goodbye! (ș in și is pronounced 'sh' [ʃ], ea/oa are diphthongs)"
+                    "target": "România",
+                    "reading": "roh-mɨ-NEE-ah",
+                    "translation": "Romania (â [central ɨ])"
                 }
             ],
             "mnemonics": [
-                "Salut is a two-way word, like a revolving door: it says hello walking in AND goodbye walking out, always informal. If you only learn one casual greeting, make it this one.",
-                "Diacritic Decoders: 'ă' wears a bowl/smile (breve) and says 'uh' [ə]; 'ș' wears a comma shoe and says 'sh' [ʃ]; 'ț' wears a comma shoe and says 'ts' [ts]!",
-                "Noapte bună is parting-only — never a hello. Think of it as tucked in with 'goodnight' in English: you'd never open a conversation with it, only close one."
+                "Ș has a comma for Shoe [sh]. Ț has a comma for caTs [ts]. Ă is a relaxed \"uh\" (apă = water)!"
             ],
             "culturalNotes": [
-                "Romanian Orthography & Comma-below: In 1860, Romania officially adopted the Latin alphabet after centuries of Cyrillic use. The Romanian Academy specifies comma-below characters (ș, ț) rather than cedillas (ş, ç); seeing ș and ț with neat comma tails is the mark of authentic modern Romanian typography.",
-                "Mersi is a casual, French-borrowed 'thanks' heard constantly in speech — mulțumesc (pronounced [multsuˈmesk] with ț = [ts]) is the fuller, more neutral/formal word for 'thank you' you'll see in writing and more careful speech.",
-                "Two-cheek kisses (usually starting on the right) are a common greeting between friends and family in Romania, more so than a handshake — handshakes are reserved for more formal or first-time professional contexts."
+                "Romanian preserves over 70% of core Latin lexicon while incorporating ancient Dacian roots and medieval Slavic vocabulary, creating a unique Romance harmony in Eastern Europe."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "How is the Romanian diacritic letter 'ă' (as in Bună) pronounced?",
+                    "prompt": "What sound does the Romanian diacritic letter «Ț ț» (with comma below) make in words like «țară» (country) and «mulțumesc» (thank you)?",
                     "options": [
-                        "Like a long Italian 'ah'",
-                        "As a mid-central unrounded schwa sound [ə] (like the 'a' in about or 'u' in cup)",
-                        "As a silent letter",
-                        "As the vowel sound 'ee'"
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "ă represents the schwa vowel [ə], found in words like bună, dimineața, apă."
-                },
-                {
-                    "prompt": "What sound does the Romanian letter 'ș' (S with comma-below) represent?",
-                    "options": [
-                        "The 'sh' [ʃ] sound in shoe",
-                        "A hard 'k' sound",
-                        "The 'ts' sound in pizza",
-                        "A standard English 's' sound"
+                        "Like \"ts\" in \"cats\" [ts]",
+                        "Like \"sh\" in \"shoe\" [ʃ]",
+                        "Like \"ch\" in \"chair\"",
+                        "Like \"th\" in \"this\""
                     ],
                     "answerIndex": 0,
-                    "explanation": "ș represents [ʃ], the 'sh' sound."
+                    "explanation": "«Ț ț» represents the voiceless alveolar affricate [ts]."
                 },
                 {
-                    "prompt": "What sound does the Romanian letter 'ț' (T with comma-below) represent in dimineața and mulțumesc?",
+                    "prompt": "How does Romanian uniquely attach the definite article \"the\" to nouns (e.g. băiat &rarr; băiatul)?",
                     "options": [
-                        "The 'th' sound in think",
-                        "The 'ch' sound in chair",
-                        "The 'ts' [ts] affricate in cats or pizza",
-                        "A hard 't' sound"
+                        "As an enclitic suffix attached directly to the end of the noun",
+                        "As a separate word placed before the noun",
+                        "By capitalizing the noun",
+                        "By changing the vowel"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "ț represents the voiceless alveolar affricate [ts]."
-                },
-                {
-                    "prompt": "You're greeting a close friend at any time of day. Best choice?",
-                    "options": [
-                        "La revedere (1.1)",
-                        "Noapte bună (1.2)",
-                        "Bună (1.3)",
-                        "Bună ziua, domnule (1.4)"
-                    ],
-                    "answerIndex": 2,
-                    "explanation": "Bună is the all-purpose informal greeting."
-                },
-                {
-                    "prompt": "What's unusual about salut compared to most greeting words?",
-                    "options": [
-                        "It only works in the morning",
-                        "It's only used with strangers",
-                        "It's only used in writing",
-                        "It means both 'hi' and 'bye', informally"
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "Salut covers both directions of a casual greeting/farewell."
-                },
-                {
-                    "prompt": "When is Noapte bună used?",
-                    "options": [
-                        "Interchangeably with Bună ziua",
-                        "Only when parting for the night, never as a hello",
-                        "Only in writing",
-                        "As a morning greeting"
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "It's exclusively a parting phrase, like English 'goodnight.'"
+                    "answerIndex": 0,
+                    "explanation": "Romanian attaches definite articles as enclitic suffixes to the end of nouns (e.g. *omul*, *fata*)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Which greeting contains both the [ts] sound of 'ț' and the [ə] sound of 'ă'?",
+                    "prompt": "What sound does the letter «Ă ă» represent in Romanian words like «apă» (water)?",
                     "options": [
-                        "Bună dimineața",
-                        "Salut",
-                        "La revedere",
-                        "Pa pa"
+                        "A mid-central schwa vowel [ə] (like \"a\" in \"sofa\")",
+                        "A long \"aa\" sound",
+                        "A short \"ee\" sound",
+                        "Silent"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Bună dimineața contains both ă [ə] and ț [ts]."
+                    "explanation": "«Ă ă» is the mid-central schwa vowel [ə]."
                 },
                 {
-                    "prompt": "Translate casually: 'Hey! Good, thanks.'",
+                    "prompt": "Select the Romanian word meaning \"thank you\" spelled with the letter «ț» «mulțumesc»:",
                     "options": [
-                        "Noapte bună! Bine. (1.1)",
-                        "La revedere! Bine. (1.2)",
-                        "Salut! Bine, mersi. (1.3)",
-                        "Bună ziua! Mulțumesc foarte mult. (1.4)"
+                        "mulțumesc (thank you)",
+                        "apă (water)",
+                        "bună (good/hello)",
+                        "țară (country)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Salut (casual hi) + Bine, mersi (informal 'good, thanks')."
-                },
-                {
-                    "prompt": "What's the difference between mersi and mulțumesc?",
-                    "options": [
-                        "Mersi is only written, never spoken",
-                        "Mulțumesc is rude",
-                        "No difference at all",
-                        "Mersi is casual/French-borrowed; mulțumesc is the fuller, more neutral/formal 'thank you'"
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "This is the register distinction given in the cultural note."
-                },
-                {
-                    "prompt": "Why does bună end in -ă rather than matching bun exactly?",
-                    "options": [
-                        "Bună is a completely different, unrelated word",
-                        "It's a spelling mistake",
-                        "There's no reason, it's random",
-                        "Romanian adjectives agree in gender, and bună is the feminine form of bun (good)"
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "This is the grammar hook flagged in the explanation."
+                    "answerIndex": 0,
+                    "explanation": "«mulțumesc» is the universal Romanian expression of gratitude."
                 }
             ]
         },
@@ -613,65 +541,26 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Which phonetic breakdown accurately reflects the Romanian letters 'ă', 'ș', and 'ț'?",
+                    "prompt": "What does the Romanian word «apă» mean in English?",
                     "options": [
-                        "ă = [ə] (schwa), ș = [ʃ] ('sh'), ț = [ts] ('ts')",
-                        "ă = [a:], ș = [s], ț = [t]",
-                        "ă = silent, ș = [z], ț = [θ]",
-                        "ă = [e], ș = [tʃ], ț = [dʒ]"
+                        "water",
+                        "bread",
+                        "house",
+                        "street"
                     ],
                     "answerIndex": 0,
-                    "explanation": "ă is schwa [ə], ș is 'sh' [ʃ], and ț is 'ts' [ts]."
-                },
-                {
-                    "type": "multiple-choice",
-                    "prompt": "Casual greeting/goodbye usable both ways:",
-                    "options": [
-                        "Salut",
-                        "Noapte bună",
-                        "Domnule",
-                        "Bună ziua"
-                    ],
-                    "answerIndex": 0,
-                    "explanation": "Salut works as both hi and bye, informally."
-                },
-                {
-                    "type": "multiple-choice",
-                    "prompt": "Formal greeting for most of the daytime:",
-                    "options": [
-                        "Pa pa",
-                        "Noapte bună",
-                        "Bună dimineața",
-                        "Bună ziua"
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "Bună ziua is the safe formal default for the day."
-                },
-                {
-                    "type": "multiple-choice",
-                    "prompt": "Noapte bună is used:",
-                    "options": [
-                        "Only in the morning",
-                        "Interchangeably with bună",
-                        "Only when parting for the night",
-                        "As a hello at any time"
-                    ],
-                    "answerIndex": 2,
-                    "explanation": "It's exclusively a nighttime farewell."
+                    "explanation": "«apă» means \"water\"."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the Romanian word for 'Hello / Hi' featuring the schwa diacritic 'ă' (Bună):",
+                    "prompt": "Type the Romanian word for \"water\" (a-p-a with schwa):",
                     "acceptedAnswers": [
-                        "Bună",
-                        "buna",
-                        "Buna",
-                        "bună"
+                        "apă",
+                        "apa"
                     ],
-                    "explanation": "Bună is the ubiquitous Romanian greeting."
+                    "explanation": "«apă» = water."
                 }
-            ],
-            "passThreshold": 0.8
+            ]
         }
     },
     "ro-u1-l2": {
