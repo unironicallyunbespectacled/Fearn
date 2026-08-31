@@ -3487,15 +3487,50 @@
     },
     {
       "term": "अतिथि देवो भव (Atithi Devo Bhava)",
-      "definition": "Sacred cultural philosophy: The guest is equivalent to God",
-      "category": "Cultural Philosophy",
-      "level": "A2"
+      "definition": "The guest is truly equivalent to God; sacred Vedic Sanskrit/Hindi principle of unconditional hospitality and reverence toward guests and travelers.",
+      "category": "पारंपरिक आतिथ्य और संस्कृति (Traditional Hospitality)",
+      "level": "A2 / प्रारंभिक",
+      "pronunciation": "अ-ति-थि दे-वो भ-व [ə.t̪ɪ.t̪ʰɪ d̪eː.ʋoː bʱə.ʋə]",
+      "partOfSpeech": "सूक्ति / सांस्कृतिक आदर्श (Maxim / Cultural Ideal)",
+      "examples": [
+        {
+          "target": "भारतीय संस्कृति में \"अतिथि देवो भव\" की भावना से मेहमानों का आदर-सत्कार किया जाता है।",
+          "translation": "In Indian culture, guests are honored and welcomed with the spirit of \"The guest is God\"."
+        },
+        {
+          "target": "गृहस्थ जीवन में अतिथियों का सत्कार करना परम धर्म माना गया है।",
+          "translation": "In householder life, hospitable reception of guests is regarded as a supreme duty."
+        }
+      ],
+      "synonyms": [
+        "आतिथ्य सत्कार",
+        "मेहमाननवाज़ी"
+      ],
+      "register": "पारंपरिक / धार्मिक (Traditional / Cultural)"
     },
     {
       "term": "जुगाड़ (Jugaad)",
-      "definition": "Frugal innovation, creative problem-solving, and resourceful improvisation with limited resources",
-      "category": "Cultural Philosophy",
-      "level": "B1"
+      "definition": "Frugal innovation, ingenious improvisation, problem-solving using whatever limited resources are immediately available; cultural concept of inventive resilience.",
+      "category": "संस्कृति और व्यावहारिक बुद्धिमत्ता (Culture & Practical Ingenuity)",
+      "level": "B1 / मध्यम",
+      "pronunciation": "जु-गाड़ [d͡ʒʊ.ɡaːɽ]",
+      "partOfSpeech": "संज्ञा (Noun - Masculine)",
+      "examples": [
+        {
+          "target": "भारतीय इंजीनियरों ने कम लागत में देसी जुगाड़ से उपयोगी उपकरण तैयार कर लिया।",
+          "translation": "Indian engineers prepared a useful device at low cost through local frugal innovation (jugaad)."
+        },
+        {
+          "target": "कठिन परिस्थितियों में जुगाड़ की सोच नई संभावनाओं के द्वार खोलती है।",
+          "translation": "In difficult circumstances, the mindset of resourceful improvisation opens doors to new possibilities."
+        }
+      ],
+      "synonyms": [
+        "सुलभ नवाचार",
+        "सूझबूझ",
+        "तरकीब"
+      ],
+      "register": "अनौपचारिक / व्यावहारिक (Informal / Practical)"
     },
     {
       "term": "यूपीआई (UPI - Unified Payments Interface)",
@@ -3658,6 +3693,61 @@
       "definition": "Government initiative fostering tech entrepreneurship, venture capital, and patent subsidies",
       "category": "Economics & Innovation",
       "level": "B2 / C1"
+    },
+    {
+      "term": "अहिंसा (Ahimsa)",
+      "pronunciation": "अ-हिं-सा [ə.ɦɪ̃m.saː]",
+      "partOfSpeech": "संज्ञा (Noun - Feminine)",
+      "definition": "Non-violence, reverence for all living beings, and absolute harmlessness in thought, speech, and deed (cardinal virtue in Indian philosophical traditions and Gandhi's Satyagraha).",
+      "category": "दर्शन और नैतिकता (Philosophy & Ethics)",
+      "level": "B2 / उच्च-मध्यम",
+      "examples": [
+        {
+          "target": "महात्मा गांधी ने अहिंसा और सत्याग्रह के मार्ग पर चलकर भारत को स्वतंत्रता दिलाई।",
+          "translation": "Mahatma Gandhi led India to independence by walking the path of non-violence (ahimsa) and truth-force (satyagraha)."
+        },
+        {
+          "target": "अहिंसा केवल शारीरिक हिंसा का त्याग नहीं, बल्कि मन में किसी के प्रति दुर्भावना न रखना भी है।",
+          "translation": "Ahimsa is not merely renouncing physical violence, but also harboring no ill will toward anyone in one's mind."
+        }
+      ],
+      "synonyms": [
+        "शांति (peace)",
+        "अहिंसक आचरण",
+        "जीव दया"
+      ],
+      "antonyms": [
+        "हिंसा (violence / himsa)"
+      ],
+      "register": "दार्शनिक / औपचारिक (Philosophical / Formal)"
+    },
+    {
+      "term": "सहानुभूति (Sahanubhuti)",
+      "pronunciation": "स-हा-नु-भू-ति [sə.ɦaː.nʊ.bʱuː.t̪i]",
+      "partOfSpeech": "संज्ञा (Noun - Feminine)",
+      "definition": "Sympathy, active compassion, shared feeling, and empathy with another person's joy or suffering.",
+      "category": "मनोविज्ञान और मानवीय मूल्य (Psychology & Human Values)",
+      "level": "B1 / मध्यम",
+      "examples": [
+        {
+          "target": "विपत्ति के समय जरूरतमंदों के प्रति सच्ची सहानुभूति और सहायता प्रकट करनी चाहिए।",
+          "translation": "In times of calamity, one should demonstrate genuine sympathy and assistance toward those in need."
+        },
+        {
+          "target": "सहानुभूतिपूर्ण व्यवहार से समाज में आपसी विश्वास और प्रेम बढ़ता है।",
+          "translation": "Through sympathetic conduct, mutual trust and love increase in society."
+        }
+      ],
+      "synonyms": [
+        "सहानुभाव",
+        "संवेदना (compassion)",
+        "हमदर्दी"
+      ],
+      "antonyms": [
+        "उदासीनता (indifference)",
+        "कठोरता"
+      ],
+      "register": "औपचारिक / सामान्य (Formal / General)"
     }
   ],
   "urdu": [
