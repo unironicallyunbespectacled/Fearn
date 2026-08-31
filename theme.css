@@ -724,6 +724,49 @@ body[data-env="cabin"] .fearn-progress-card {
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.95) !important;
 }
 
+body.env-dark .fearn-modal,
+body.env-dark .fearn-card,
+body.env-dark .fearn-srs-container,
+body.env-dark .fearn-library-panel,
+body.env-dark .fearn-dossier-panel,
+body.env-dark .fearn-entry-modal,
+body.env-dark .fearn-progress-card,
+body:not([data-env]) .fearn-modal,
+body:not([data-env]) .fearn-card,
+body:not([data-env]) .fearn-srs-container,
+body:not([data-env]) .fearn-library-panel,
+body:not([data-env]) .fearn-dossier-panel,
+body:not([data-env]) .fearn-entry-modal,
+body:not([data-env]) .fearn-progress-card {
+  background: #0b1120 !important;
+  color: #f8fafc !important;
+  border: 1px solid rgba(56, 189, 248, 0.25) !important;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.85) !important;
+}
+
+body.env-dark .fearn-srs-card-box,
+body:not([data-env]) .fearn-srs-card-box {
+  background: #111a33 !important;
+  border: 1.5px solid rgba(56, 189, 248, 0.3) !important;
+}
+
+body.env-dark .fearn-srs-header,
+body.env-dark .fearn-srs-footer,
+body.env-dark .fearn-srs-tabs,
+body:not([data-env]) .fearn-srs-header,
+body:not([data-env]) .fearn-srs-footer,
+body:not([data-env]) .fearn-srs-tabs {
+  background: #0e172c !important;
+  border-color: rgba(255, 255, 255, 0.08) !important;
+}
+
+body.env-dark .fearn-srs-trans-box,
+body:not([data-env]) .fearn-srs-trans-box {
+  background: #16223f !important;
+  border-color: rgba(56, 189, 248, 0.25) !important;
+  color: #f8fafc !important;
+}
+
 body.env-colorblind .fearn-modal,
 body.env-colorblind .fearn-card,
 body.env-colorblind .fearn-srs-container,
@@ -744,6 +787,48 @@ body[data-env="colorblind"] .fearn-progress-card {
   box-shadow: 0 10px 30px rgba(255, 255, 255, 0.18) !important;
 }
 
+/* Universal anti-overflow and anti-bleeding protections */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+.fearn-srs-overlay {
+  background: rgba(3, 7, 18, 0.94) !important;
+  backdrop-filter: blur(28px) !important;
+  -webkit-backdrop-filter: blur(28px) !important;
+}
+
+body.env-solar .fearn-srs-overlay {
+  background: rgba(15, 23, 42, 0.75) !important;
+}
+
+body.env-sepia .fearn-srs-overlay {
+  background: rgba(40, 30, 20, 0.85) !important;
+}
+
+body.env-cabin .fearn-srs-overlay {
+  background: rgba(0, 0, 0, 0.98) !important;
+}
+
+.fearn-srs-container,
+.fearn-srs-card-box,
+.fearn-srs-target,
+.fearn-srs-reading,
+.fearn-srs-trans-box,
+.fearn-srs-mnemonic-box,
+.fearn-card,
+.fearn-modal,
+.fearn-entry-modal,
+.fearn-library-panel,
+.fearn-dossier-panel,
+.fearn-progress-card,
+.fearn-btn,
+.fearn-choice-btn {
+  max-width: 100% !important;
+  overflow-wrap: break-word !important;
+  word-wrap: break-word !important;
+  word-break: break-word !important;
+}
 
 /* ==========================================================================
    FEARN — Deep Typography, Math Formula, Table & Number Wrap Protections

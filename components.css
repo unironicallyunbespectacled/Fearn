@@ -4265,7 +4265,7 @@ button.fearn-lang-btn-primary:hover:not(:disabled) {
 
 .fearn-srs-card-box {
   min-height: 230px;
-  background: var(--glass-bg, rgba(255,255,255,0.05));
+  background: #111a33;
   border: 1.5px solid var(--glass-border-strong, rgba(255,255,255,0.2));
   border-radius: 16px;
   padding: 26px 22px;
@@ -4275,8 +4275,10 @@ button.fearn-lang-btn-primary:hover:not(:disabled) {
   justify-content: center;
   text-align: center;
   cursor: pointer;
+  box-sizing: border-box;
+  width: 100%;
   transition: all 0.2s ease;
-  box-shadow: var(--glass-shadow, 0 8px 30px rgba(0,0,0,0.3));
+  box-shadow: var(--glass-shadow, 0 8px 30px rgba(0,0,0,0.4));
 }
 
 .fearn-srs-card-box:hover {
