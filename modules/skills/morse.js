@@ -260,7 +260,7 @@
     lesson.checkpointTest.items.forEach((item) => {
       const row = document.createElement('div');
       row.className = 'fearn-checkpoint-item';
-      row.innerHTML = `<p>${escapeHtml(item.prompt)}</p>`;
+      row.innerHTML = `<p>${(global.FEARN && global.FEARN.formatText) ? global.FEARN.formatText(item.prompt) : escapeHtml(item.prompt)}</p>`;
       const input = document.createElement('input');
       input.placeholder = 'Your answer';
       const submit = document.createElement('button');
@@ -297,7 +297,7 @@
       return;
     }
     const drillBox = document.createElement('div');
-    drillBox.innerHTML = `<p>${escapeHtml(item.prompt)}</p><p class="fearn-item-difficulty">Difficulty: ${item.difficulty}</p>`;
+    drillBox.innerHTML = `<p>${(global.FEARN && global.FEARN.formatText) ? global.FEARN.formatText(item.prompt) : escapeHtml(item.prompt)}</p><p class="fearn-item-difficulty">Difficulty: ${item.difficulty}</p>`;
     const input = document.createElement('input');
     input.placeholder = 'Type the decoded answer';
     const submit = document.createElement('button');

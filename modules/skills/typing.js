@@ -202,8 +202,8 @@
       const row = document.createElement('div');
       row.className = 'fearn-checkpoint-item';
       row.innerHTML = `
-        <p>${escapeHtml(item.prompt)}</p>
-        ${item.options ? `<ul>${item.options.map((o) => `<li>${escapeHtml(o)}</li>`).join('')}</ul>` : ''}
+        <p>${(global.FEARN && global.FEARN.formatText) ? global.FEARN.formatText(item.prompt) : escapeHtml(item.prompt)}</p>
+        ${item.options ? `<ul>${item.options.map((o) => `<li>${(global.FEARN && global.FEARN.formatText) ? global.FEARN.formatText(o) : escapeHtml(o)}</li>`).join('')}</ul>` : ''}
       `;
       const input = document.createElement('input');
       input.placeholder = 'Your answer';

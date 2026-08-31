@@ -205,7 +205,7 @@
           <p style="margin:0; flex:1;">${escapeHtml(item.prompt)}</p>
           <button type="button" class="fearn-speak-btn" onclick="FEARN.audio && FEARN.audio.speak('${escapeHtml(item.prompt).replace(/'/g, "\\'")}', 'english')" title="Listen" style="background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.18); border-radius:6px; padding:3px 8px; cursor:pointer; font-size:0.95rem; color:#fff;">🔊</button>
         </div>
-        ${item.options ? `<ul>${item.options.map((o) => `<li>${escapeHtml(o)}</li>`).join('')}</ul>` : ''}
+        ${item.options ? `<ul>${item.options.map((o) => `<li>${(global.FEARN && global.FEARN.formatText) ? global.FEARN.formatText(o) : escapeHtml(o)}</li>`).join('')}</ul>` : ''}
       `;
       const input = document.createElement('input');
       input.placeholder = 'Your answer';

@@ -328,7 +328,7 @@
         promptRow.style.cssText = 'display:flex; align-items:center; justify-content:space-between; gap:10px; margin-bottom:8px;';
         var prompt = document.createElement('p');
         prompt.style.cssText = 'flex:1; margin:0; font-weight:600;';
-        prompt.textContent = (idx + 1) + '. ' + (item.prompt || item.q || '');
+        prompt.innerHTML = (idx + 1) + '. ' + ((window.FEARN && window.FEARN.formatText) ? window.FEARN.formatText(item.prompt || item.q || '') : escapeHtml(item.prompt || item.q || ''));
         promptRow.appendChild(prompt);
         if (window.FEARN && window.FEARN.audio && window.FEARN.audio.createSpeakButton) {
           var pAudio = window.FEARN.audio.createSpeakButton(item.prompt || item.q || '', MODULE_ID);
@@ -350,14 +350,14 @@
             var b = document.createElement('button');
             b.className = 'fearn-lang-option-btn';
             b.style.cssText = 'flex:1; text-align:left;';
-            b.textContent = opt;
+            b.innerHTML = (window.FEARN && window.FEARN.formatText) ? window.FEARN.formatText(opt) : escapeHtml(opt);
             b.onclick = function () {
               var correct = origIdx === item.answerIndex;
               b.classList.add(correct ? 'correct' : 'incorrect');
               if (item.explanation) {
                 var expl = document.createElement('p');
                 expl.className = 'fearn-lang-feedback';
-                expl.textContent = item.explanation;
+                expl.innerHTML = (window.FEARN && window.FEARN.formatText) ? window.FEARN.formatText(item.explanation) : escapeHtml(item.explanation);
                 q.appendChild(expl);
               }
             };
@@ -422,7 +422,7 @@
         promptRow.style.cssText = 'display:flex; align-items:center; justify-content:space-between; gap:10px;';
         var promptP = document.createElement('div');
         promptP.style.cssText = 'flex:1; font-size:1.05rem; font-weight:700; color:var(--text-main);';
-        promptP.textContent = (currentQ + 1) + '. ' + (item.prompt || item.q || '');
+        promptP.innerHTML = (currentQ + 1) + '. ' + ((window.FEARN && window.FEARN.formatText) ? window.FEARN.formatText(item.prompt || item.q || '') : escapeHtml(item.prompt || item.q || ''));
         promptRow.appendChild(promptP);
         if (window.FEARN && window.FEARN.audio && window.FEARN.audio.createSpeakButton) {
           var qAudio = window.FEARN.audio.createSpeakButton(item.prompt || item.q || '', MODULE_ID);
@@ -476,7 +476,7 @@
             var opt = item.options[origIdx];
             var b = document.createElement('button');
             b.className = 'fearn-lang-option-btn' + (checkpointAnswers[currentQ] === origIdx ? ' selected' : '');
-            b.textContent = opt;
+            b.innerHTML = (window.FEARN && window.FEARN.formatText) ? window.FEARN.formatText(opt) : escapeHtml(opt);
             b.onclick = function () {
               checkpointAnswers[currentQ] = origIdx;
               Array.prototype.forEach.call(optsWrap.querySelectorAll('.fearn-lang-option-btn'), function (bb) { bb.classList.remove('selected'); });
