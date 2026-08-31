@@ -3409,21 +3409,85 @@
     },
     {
       "term": "Воля (Volya)",
-      "definition": "Deep cultural concept of freedom, self-determination, sovereignty, and unbending human spirit",
-      "category": "Cultural Philosophy",
-      "level": "B1"
+      "definition": "Freedom, liberty, indomitable free will, unchained sovereignty, and spiritual independence; the core existential value of Ukrainian identity and Cossack history.",
+      "category": "Культура, Історія та Філософія (Culture, History & Philosophy)",
+      "level": "B1 / Середній",
+      "pronunciation": "ВО-ля [ˈwɔ.lʲɐ]",
+      "partOfSpeech": "Іменник жіночого роду (Noun - Feminine)",
+      "examples": [
+        {
+          "target": "«Борітеся — поборете, вам Бог помагає! За вас правда, за вас слава і воля святая!» (Тарас Шевченко).",
+          "translation": "\"Struggle on — and be triumphant, God Himself will aid you! On your side is truth, on your side is glory and holy freedom/volya!\" (Taras Shevchenko)."
+        },
+        {
+          "target": "Прагнення до волі та незалежності споконвіку об'єднує український народ.",
+          "translation": "The yearning for freedom (volya) and independence has united the Ukrainian people since time immemorial."
+        }
+      ],
+      "synonyms": [
+        "Свобода (freedom / liberty)",
+        "Незалежність (independence)"
+      ],
+      "antonyms": [
+        "Неволя (captivity / bondage)",
+        "Рабство (slavery)"
+      ],
+      "register": "Урочистий / Поетичний (Solemn / Poetic)"
     },
     {
       "term": "Гідність (Hidnist)",
-      "definition": "Human dignity and moral integrity at the core of civil society",
-      "category": "Cultural Philosophy",
-      "level": "B1"
+      "definition": "Dignity, moral self-worth, inviolable personal honor and human rights (embodied in the historic Revolution of Dignity).",
+      "category": "Етика та Суспільство (Ethics & Society)",
+      "level": "B2 / Вище середнього",
+      "pronunciation": "ГІД-ність [ˈɦʲid.n⁽ʲ⁾isʲtʲ]",
+      "partOfSpeech": "Іменник жіночого роду (Noun - Feminine)",
+      "examples": [
+        {
+          "target": "Людська гідність є найвищою цінністю правової та демократичної держави.",
+          "translation": "Human dignity (hidnist) is the supreme value of a lawful and democratic state."
+        },
+        {
+          "target": "Зберегти власну гідність у найскладніших випробуваннях — це ознака сильного духу.",
+          "translation": "Preserving one's own dignity in the most arduous trials is a hallmark of a strong spirit."
+        }
+      ],
+      "synonyms": [
+        "Самоповага (self-respect)",
+        "Честь (honor)",
+        "Шляхетність"
+      ],
+      "antonyms": [
+        "Приниження (humiliation / degradation)"
+      ],
+      "register": "Офіційний / Етичний (Formal / Ethical)"
     },
     {
       "term": "Незламність (Nezlamnist)",
-      "definition": "Indomitability, resilience, perseverance, and steadfast courage against adversity",
-      "category": "Cultural Values",
-      "level": "B1"
+      "definition": "Invincibility, steadfastness, unbreakable fortitude, and tenacity in the face of overwhelming hardship and existential threats.",
+      "category": "Характер та Стійкість (Character & Resilience)",
+      "level": "B2 / Вище середнього",
+      "pronunciation": "не-злам-НІСТЬ [nez.lɐmˈn⁽ʲ⁾isʲtʲ]",
+      "partOfSpeech": "Іменник жіночого роду (Noun - Feminine)",
+      "examples": [
+        {
+          "target": "Мужність та незламність захисників викликають щире захоплення в усьому світі.",
+          "translation": "The courage and unbreakability (nezlamnist) of the defenders evoke sincere admiration across the entire world."
+        },
+        {
+          "target": "Пункти незламності забезпечували людей теплом, світлом і зв'язком у часи блекаутів.",
+          "translation": "Points of Invincibility provided people with warmth, light, and connectivity during blackouts."
+        }
+      ],
+      "synonyms": [
+        "Стійкість (resilience)",
+        "Непохитність (steadfastness)",
+        "Мужність"
+      ],
+      "antonyms": [
+        "Слабкість (weakness)",
+        "Капітуляція"
+      ],
+      "register": "Суспільно-політичний / Патріотичний (General / Civic)"
     },
     {
       "term": "Вишиванка (Vyshyvanka)",
@@ -3586,6 +3650,33 @@
       "definition": "Specialized digital economic zone providing tax incentives, gig-contracts, and English law elements for IT companies",
       "category": "Tech Ecosystem & Law",
       "level": "C1"
+    },
+    {
+      "term": "Щедрість (Schedrist)",
+      "pronunciation": "ЩЕД-рість [ˈʃtʃɛd.r⁽ʲ⁾isʲtʲ]",
+      "partOfSpeech": "Іменник жіночого роду (Noun - Feminine)",
+      "definition": "Generosity, bountiful hospitality, open-hearted magnanimity and sharing of resources (celebrated in Ukrainian winter Shchedryk carols).",
+      "category": "Традиції та Гостинність (Traditions & Hospitality)",
+      "level": "A2 / Базовий",
+      "examples": [
+        {
+          "target": "Українська щедрість та гостинність славляться на весь світ смачними стравами і теплим прийомом.",
+          "translation": "Ukrainian generosity (schedrist) and hospitality are celebrated worldwide with delicious dishes and warm reception."
+        },
+        {
+          "target": "На Щедрий вечір господарі щедро обдаровують щедрувальників смаколиками.",
+          "translation": "On Generous Eve (Shchedryi Vechir), hosts generously shower carolers with festive treats."
+        }
+      ],
+      "synonyms": [
+        "Гостинність (hospitality)",
+        "Великодушність (magnanimity)",
+        "Доброта"
+      ],
+      "antonyms": [
+        "Скупість (stinginess)"
+      ],
+      "register": "Загальновживаний / Фольклорний (General / Folklore)"
     }
   ],
   "hindi": [
